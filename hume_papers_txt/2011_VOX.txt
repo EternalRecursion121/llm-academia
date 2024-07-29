@@ -1,0 +1,352 @@
+VOX | T he STudenT  JOurnal  Of POliTicS , ecOnOmicS  and PhilOSOPhy                                                                                                                                     i SSue XV - S ummer  2011 
+9“Is Hume a sceptic about induction?”  
+This may seem to be a fairly straight -
+forward question, but its appearance 
+is misleading, and the proper response 
+is not to give a direct answer, but           
+instead to move to a more fundamen -
+tal question which is suggested by 
+Hume himself at the beginning of his 
+definitive discussion of scepticism in 
+Enquiry  Section 12: “What is meant 
+by a sceptic?” ( E  12.2).  His point 
+here is that “sceptic” can mean many 
+things, and what counts as “sceptical” 
+will often depend on the relevant con -
+trast.  Someone who is sceptical about 
+morality or the existence of God, for 
+example, need not be sceptical about 
+the external world.  And someone who 
+is sceptical about the rational basis of 
+inductive inference need not be scepti -
+cal at all – in the sense of dismissive or 
+critical – about the practice itself.
+This crucial point about the varie -
+ties of scepticism is often overlooked 
+in discussions of Hume on induction, 
+generating a great deal of misunder -
+standing.  Commonly the debate will 
+be framed in terms of a simple contest 
+between “sceptical” and “non-scepti -
+cal” interpretations.  Then on the one 
+side, a case is made drawing on Hume’s 
+famous negative argument which ap -
+parently denies induction any basis in “reason”.1  Meanwhile, on the other 
+side, appeal is made to the wealth of 
+evidence from Hume’s writings as a 
+whole (including the Treatise , Essays , 
+Enquiries , Dissertations , History , and 
+Dialogues ) that evince a clear commit -
+ment to induction, and even reveal 
+their author to be a fervent advocate 
+of inductive science.  The evidence on 
+each side is then judiciously weighed, 
+and an appropriate conclusion drawn 
+depending on which way the balance 
+falls.  But this whole procedure is mis -
+directed, because once we recognise 
+the varieties of scepticism, it becomes 
+clear that these two bodies of evidence 
+are not in conflict .
+Hume’s argument concerning 
+induction is indeed a sceptical argu -
+ment – in the sense of showing that 
+inductive extrapolation from observed 
+to unobserved lacks any independent 
+rational warrant – but this is entirely 
+compatible with his wholehearted en -
+dorsement of such extrapolation as the 
+only legitimate method for reaching 
+conclusions about “any matter of fact, 
+which lies beyond the testimony of 
+sense or memory” ( E 12.22).  The two 
+may initially seem incompatible, but 
+if so, this is because we are taking for 
+granted that a method of inference is
+ 1 The argument appears in Treatise  1.3.6, Ab-
+stract  8-16, and Enquiry  4.Is Hume an InductIve  sceptIc ?
+By Dr Peter MillicanVOX | T he STudenT  JOurnal  Of POliTicS , ecOnOmicS  and PhilOSOPhy                                                                                                                                     i SSue XV - S ummer  2011 
+10to be relied upon only if it can be given 
+an independent rational warrant.  And 
+one of the central messages of Hume’s 
+philosophy is that this assumption 
+is itself a rationalist prejudice that 
+we should discard, even though it is 
+shared by both the Cartesian dog -
+matist and the extreme “Pyrrhonian” 
+sceptic.  In the contest between those 
+two extremes, the Pyrrhonist “seems to 
+have ample matter of triumph” while 
+he “justly” urges Hume’s own “scepti -
+cal doubts” of Enquiry  4 (the famous 
+argument which is then summarised 
+at E 12.22).  However the appropriate 
+response, as Hume himself explains, is 
+not to follow the dogmatist in vainly 
+attempting to challenge the argument 
+that yields these doubts, but rather to 
+ask the Pyrrhonist: “ What his meaning 
+is?  And what he proposes by all these cu -
+rious researches? ”  What, after all, does 
+he really expect us to do in response to 
+this sceptical argument, even if we ful -
+ly accept it?  Is he seriously proposing 
+that we should stop drawing inferences 
+about the unobserved?  That would be 
+obviously absurd:
+“a Pyrrhonian  … must acknowledge, 
+if he will acknowledge any thing, that all human life must perish, were his 
+principles universally and steadily to 
+prevail.  All discourse, all action would 
+immediately cease; and men remain in 
+a total lethargy, till the necessities of 
+nature, unsatisfied, put an end to their 
+miserable existence.”  ( E 12.23)
+Theoretically the Pyrrhonist might 
+try to deny any such disastrous conse -
+quences, on the ground that if induc -
+tion is unwarranted, then we have no 
+good reason for supposing that hu -
+man life will indeed perish in these 
+circumstances.  But Hume suggests 
+that even the Pyrrhonist – whatever 
+his theoretical commitments – will be 
+quite unable to insulate himself from 
+such common-sense beliefs: “Nature is 
+always too strong for principle.  … the 
+first and most trivial event in life will 
+put to flight all his doubts and scru -
+ples, and leave him the same, in every 
+point of action and speculation” with 
+the rest of us.
+ Hume cannot, of course, prove  
+that putting total scepticism into prac -
+tice will lead inevitably to disaster, 
+at least not to the satisfaction of the 
+Pyrrhonist who consistently refrains 
+from induction.  Nor can he prove  that 
+common life will always trump scep -
+tical principle.  But if in fact  Hume’s 
+inductive conclusions about human 
+psychology are correct, then he does 
+not need to prove these points to any 
+such opponent:
+“Nature, by an absolute and uncon -
+troulable necessity has determin’d us to 
+judge as well as to breathe and feel; nor 
+VOX | T he STudenT  JOurnal  Of POliTicS , ecOnOmicS  and PhilOSOPhy                                                                                                                                     i SSue XV - S ummer  2011 
+11can we any more forbear [making in -
+ductive inferences], than we can hinder 
+ourselves from thinking, as long as we 
+are awake, or seeing the surrounding 
+bodies, when we turn our eyes towards 
+them in broad sunshine.  Whoever has 
+taken the pains to refute the cavils of 
+this total scepticism, has really disputed 
+without an antagonist, and endeavour’d 
+by arguments to establish a faculty, 
+which nature has antecedently implant -
+ed in the mind, and render’d unavoid -
+able.”  ( T 1.4.1.7)
+So if in fact the sceptic’s doubts will 
+be spontaneously “put to flight” as 
+soon as common life intrudes, then 
+Hume’s point is practically successful 
+even if theoretically unproved.  And 
+recall again that Hume himself need not 
+be committed to accepting only what is 
+theoretically provable  – that is the very 
+prejudice which he is aiming to under -
+mine.
+ Hume’s subtle approach to scepti -
+cism is made harder to appreciate by 
+the vigour and rhetoric of some of his 
+negative arguments and conclusions 
+(especially in the Treatise , where his ul -
+timate position on scepticism remains 
+relatively obscure), but also, I suspect, 
+by the widespread tradition of ap -
+proaching scepticism initially through 
+Descartes’ Meditations .  Descartes 
+sees the sceptic as an opponent to be 
+refuted outright, through rational ar -
+gument of such overwhelming force as 
+to be immune to any possible doubt.  
+He thus takes on the onus of provid -
+ing an ultimate justification of human 
+reason, with any ineradicable doubt telling in favour of his sceptical oppo -
+nent.  Hume succinctly points out the 
+fundamental flaw in this approach im -
+mediately after having raised the ques -
+tion “What is meant by a sceptic?” at 
+the beginning of Enquiry  Section 12:
+“There is a species of scepticism, anteced -
+ent to all study and philosophy, which is 
+much inculcated by Des Cartes  …  It 
+recommends an universal doubt … of 
+our very faculties; of whose veracity … 
+we must assure ourselves, by a chain of 
+reasoning, deduced from some original 
+principle, which cannot possibly be fal -
+lacious or deceitful.  But neither is there 
+any such original principle, which has a 
+prerogative above others, that are self-
+evident and convincing:  Or if there 
+were, could we advance a step beyond 
+it, but by the use of those very faculties, 
+of which we are supposed to be already 
+diffident.  The Cartesian  doubt, there -
+fore, were it ever possible to be attained 
+by any human creature (as it plainly is 
+not) would be entirely incurable; and 
+no reasoning could ever bring us to a 
+state of assurance and conviction upon 
+any subject.”  ( E 12.3)
+Such antecedent scepticism  is utterly un -
+workable, because in refusing to trust 
+VOX | T he STudenT  JOurnal  Of POliTicS , ecOnOmicS  and PhilOSOPhy                                                                                                                                     i SSue XV - S ummer  2011 
+12our faculties from the start, we are 
+denying ourselves the only tools that 
+could possibly provide any solution.  
+The proper alternative, Hume seems 
+to be saying, is to accord our faculties 
+some initial default authority, and to 
+resort to practical scepticism about 
+them only “ consequent  to science and 
+enquiry”, in the event that those inves -
+tigations reveal their “fallaciousness” or 
+“unfitness” ( E 12.5).  Thus the onus is 
+shifted onto the sceptic to give reasons 
+for mistrusting our faculties, and in the 
+case of induction, that onus is at best 
+only partially fulfilled.  Admittedly,
+“The sceptic … seems to have ample 
+matter of triumph; while he justly in -
+sists, that all our evidence for any mat -
+ter of fact, which lies beyond the tes -
+timony of sense or memory, is derived 
+entirely from the relation of cause and 
+effect; that we have no other idea of 
+this relation than that of two objects, 
+which have been frequently conjoined  
+together;2 that we have no argument to 
+convince us, that objects, which have, 
+in our experience, been frequently con -
+joined, will likewise, in other instances, 
+be conjoined in the same manner; and 
+that nothing leads us to this inference 
+but custom or a certain instinct of our 
+nature; which it is indeed difficult to re -
+sist, but which, like other instincts, may 
+be fallacious and deceitful.”  ( E 12.22)
+But this result gives no practical ba -
+2 This is the summary of the Section 4 argu -
+ment alluded to earlier.  Note, however, that 
+the previous clause brings in a point from the 
+Section 7 discussion of the idea of necessary 
+connexion, which does not feature in Section 
+4 itself.sis for scepticism.  Certainly it raises 
+a ground for theoretical concern, and 
+highlights “the whimsical condition 
+of mankind, who must act and reason 
+and believe; though they are not able, 
+by their most diligent enquiry, to sat -
+isfy themselves concerning the foun -
+dation of these operations” ( E 12.23).  
+But unless we are in the grip of the 
+rationalist prejudice that Hume re -
+jects, we should not see this lack of 
+theoretical satisfaction as sufficient 
+reason to abandon our only respect -
+able method of inference about the 
+unobserved.  That would be – as we 
+have seen – to take the sceptical con -
+siderations to a ridiculous (and anyway 
+unachievable) extreme.  Instead, the 
+appropriate response is less dramatic 
+but far more valuable: to recognise our 
+“whimsical condition” as a ground for 
+modesty about the depth and extent of 
+our powers, and to adopt a “mitigated 
+scepticism” which is correspondingly 
+diffident and cautious ( E 12.24), and 
+which confines our attention to the 
+subjects of common life, “avoiding 
+distant and high enquiries”:
+“While we cannot give a satisfactory 
+reason, why we believe, after a thousand 
+experiments, that a stone will fall, or 
+fire burn; can we ever satisfy ourselves 
+concerning any determination, which 
+we may form, with regard to the origin 
+of worlds, and the situation of nature, 
+from, and to eternity?”  ( E 12.25)
+This sentence is Hume’s last word on 
+the question of inductive scepticism, 
+and as we have seen, it represents VOX | T he STudenT  JOurnal  Of POliTicS , ecOnOmicS  and PhilOSOPhy                                                                                                                                     i SSue XV - S ummer  2011 
+13the conclusion of a coherent line of 
+thought which can be traced from the 
+beginning of Enquiry  Section 12, his 
+most clear and explicit – and repeat -
+edly refined – treatment of scepticism.
+Bibliography
+Hume, David (1739-40), A Treatise of Human 
+Nature: A Critical Edition , vol. 1, eds David 
+Fate Norton and Mary J. Norton (Oxford, 
+Clarendon Press, 2007) (“ Treatise ”, references 
+indicated by “ T”)Hume, David (1740), Abstract  of the Treatise , 
+included with both the Treatise  and Enquiry  
+editions listed here (“ Abstract ”, references indi -
+cated by “ A”)
+Hume, David (1748), An Enquiry concern -
+ing Human Understanding,  ed. Peter Millican 
+(Oxford, Oxford University Press, 2007) (“ En-
+quiry ”, references indicated by “ E”)
+____________________________________
+Dr Peter Millican is the Gilbert Ryle  
+Fellow and Tutor in Philosophy at    
+Hertford College, University of Oxford.
+The evolution of human societies can 
+be seen as analogous to biological 
+evolution. However, human societies 
+consist of rational individuals who 
+influence social evolution and evolu -
+tionary game theory assumes agents 
+of limited rationality. This is the main 
+problem with incorporating evolution -
+ary game theory into a rational choice 
+theory. Also, the traditional rational 
+choice paradigm applies to individuals 
+and evolutionary game theory studies 
+populations. Nevertheless, rational -
+ity is seen as utility maximisation and 
+individuals can maximise their utility 
+through interaction within a popula -
+tion in the following ways: 1) learning 
+through a trial and error process and 
+imitating more successful strategies, 2) 
+reflecting on the outcomes of different 
+evolutionary processes and selecting 
+the best based on rational calculations, and 3) selecting to participate in an 
+evolutionary process should it seem 
+to maximise their long-term utility. 
+Therefore, it seems possible to use the 
+evolutionary paradigm without abol -
+ishing rationality. The rational animal 
+is an individual and a member of a 
+population at the same time. A realis -
+tic account of human behaviour has to 
+examine both a holistic and an indi -
+vidualistic perspective to create a more 
+powerful tool for analysing human 
+behaviour. The rational choice para -
+digm could be used in an evolutionary 
+context to achieve this.
+A rational individual is one who 
+has a consistent order of preferences 
+over a set of alternatives. In addition, 
+the rational individual will always look 
+to maximise her utility. “We do not 
+know what [the rational man] wants...
+but we know his indifference curves RatIonalIty  and evolutIon
+By Vangelis Chiotis

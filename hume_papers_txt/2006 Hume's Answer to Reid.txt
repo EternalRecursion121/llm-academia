@@ -1,0 +1,660 @@
+ 1Hume’s ‘Compleat Answer to Dr Reid’ 
+Peter Millican 
+1.  The Puzzle of Hume’s ‘Advertisement’ 
+In October 1775, David Hume wrote to his printer William Strahan, requesting that an ‘Advertisement’ 
+should be attached to remaining copies of the second volume of his Essays and Treatis es on Several 
+Subjects .  This volume contained his two Enquiries , the Dissertation on the Passions , and The Natural 
+History of Religion , and the Advertisement states that these works should ‘alone be regarded as containing 
+his philosophical sentiments and principles’ ( E 2).  In the covering letter, Hume comments that this ‘is a 
+compleat Answer to Dr Reid and to that bigotted silly Fellow, Beattie.’ ( HL ii. 301).  My aim here is to try to 
+throw light on what Hume might have meant by this comment, and to assess to what extent it might have 
+been justified. 
+ Hume’s claim to have ‘answered’ Thomas Reid in particular (leaving James Beattie aside) has not been 
+well received by Hume scholars.  Reid’s criticisms of Hume were contained in his Inquiry into the Human 
+Mind on the Principles of Common Sense  of 1764, by which time Hume’s First Enquiry  – the ‘recasting’ of 
+the part of the Treatise  on which Reid focused his attack – had already been in print for over fifteen years.  
+But the First Enquiry  apparently does very little to address Reid’s specific objections, which is hardly 
+surprising in the circumstances. 
+ In a 400-page volume devoted to the question of Hume’s Advertisement, appropriately entitled The 
+Enigmatic Parting Shot ,1 James Somerville suggests that it was originally composed in 1771 or early 1772 in 
+response to the success of Beattie’s Essay on the Nature and Immutability of Truth , which had been 
+published in 1770.  The Advertisement would at that time have been intended as a rebuke to Beattie for his 
+unfair and unbalanced attack which focused overwhelmingly on the Treatise , though in keeping with 
+Hume’s long-standing resolution not to enter into debate with his opponents, he did not single out Beattie in 
+particular, but instead couched his rebuke in general terms against ‘several writers who … have taken care to 
+direct all their batteries against that juvenile work’.  In the event, Hume withheld the Advertisement when 
+the 1772 edition of his Essays and Treatises on Several Subjects  went to press, but by October 1775 he had 
+changed his mind, perhaps partly prompted by an awareness of his own deteriorating health and his 
+consequent wish to leave a statement to posterity.  Meanwhile, in 1774, Joseph Priestley had published his 
+Examination (‘of Dr. Reid’s Inquiry into the Human Mind on the Principles of Common Sense , Dr. Beattie’s 
+Essay on  the Nature and Immutability of Truth , and Dr. Oswald’s Appeal to Common Sense in Behalf of 
+Religion ’).  And Somerville argues that this fortuitous intervention by Priestley, which invented the fiction of 
+a unified Scottish school of common sense philosophy, was what led Hume mistakenly to bracket Reid with 
+Beattie.  Unlike Beattie, however, Reid was not deserving of rebuke for an unfair attack: Hume and Reid 
+were mutually respectful in their brief correspondence, and although Reid’s criticisms had been directed 
+exclusively at the Treatise , with no mention whatever of the First Enquiry ,2 he had been scrupulous in 
+addressing his objections to the anonymous ‘author of the Treatise ’, and anyway had no particular reason for 
+supposing that Hume now dismissed it as ‘a juvenile work’.  Hence it would be a mistake to view the 
+                                                   
+1 James Somerville, The Enigmatic Parting Shot  (Aldershot: Avebury, 1995), especially chapters 4, 9 and 13. 
+2 In a letter of 19th May 1778 to the bookseller William Creech of Edinburgh, Reid ordered a copy of Hume’s Essays and Treatises , 
+which might suggest that until this date he did not even possess them.  See Paul Wood (ed.) The Correspondence of Thomas Reid  
+(Pennsylvania: Pennsylvania State University Press, 2002), p. 103.  2Advertisement as a rebuke to Reid, leaving the only reasonable alternative that in so far as it was intended to 
+provide an answer to Reid, this can only be by reference to the philosophical principles of the Enquiry .  But 
+since on Hume’s own admission these principles are essentially unchanged from those of the Treatise , 
+Somerville concludes that Hume’s ‘compleat Answer’ to Reid can be simply ‘nothing other than his 
+philosophy and his determination to continue to stand by that philosophy’ (p. 181).  The explanation of 
+Hume’s comment to Strahan is accordingly that ‘Hume came to view his philosophy as opposed to the type 
+of philosophical position which the names of Reid and Beattie had come to represent to him through reading 
+Priestley’s Examination  – that is, a position of a bare and dogmatic appeal to common sense.’ (p. 364).  
+Since he sees the Enquiry  as adding nothing of substance in this context, Somerville concludes that we 
+should not comply with Hume’s request that we should favour it over the more substantial Book I of the 
+Treatise as the authoritative statement of his ‘philosophical principles and sentiments’. 
+ Somerville’s reaction to Hume’s Advertisement would probably be shared by most Hume scholars, but 
+though based on thorough scholarship, I’d like to suggest that it leaves something to be desired.  Moreover his novel but plausible suggestion, that the Advertisement had existed in some form for at least three years 
+before it was published, magnifies the problem rather than reducing it.  For it emphasises that Hume’s wish 
+to displace the Treatise  as the generally presumed definitive statement of his views was enduring rather than 
+transient; the Advertisement was not merely an off-the-cuff petulant reaction to Bea ttie or Priestley, but a 
+document which Hume apparently drafted, pondered, and preserved, and sent to be printed only after a long 
+interval of thought on the matter.  Could Hume really have been so mistaken about his Advertisement, to 
+describe it as an ‘answer’ when it so palpably fell short of being one?  And can he really have so misjudged 
+the relative merits of his own philosophical works as to think that the Enquiries  were superior to the Treatise  
+when the general judgement of posterity (leaving aside a few mavericks such as myself) seems to have been 
+in the opposite direction? 
+ An oft-repeated refrain in explaining away Hume’s supposed misjudgement of the relative merits of his 
+works has been the initial poor reception of the Treatise , its having fallen ‘dead-born from the press’ , in the 
+phrase which his autobiographical ‘My Own Life’ made famous but was in fact quoted from Alexander Pope 
+(who thus described the fate of falsehood).
+3  This old chestnut no doubt contains an element of truth, but the 
+idea that such concerns motivated his Advertisement seems very hard to square with the circumstances in 
+which it was composed and published.  By the 1770s Hume had already achieved great fame as a historian 
+and essayist, a respected man of letters rather than a struggling author desperate for recognition, so however 
+disappointing the initial reception of the Treatise  had been, Hume’s endorsement of it now would surely 
+have had some effect in rehabilitating the work had he wished to do so.  Moreover by the time he sent the 
+Advertisement to Strahan in 1775, he was already experiencing chronic symptoms from the cancer that 
+would shortly kill him (‘Life’, para. 20), and it passes belief that in this condition he should have been more concerned about the short-term relative popularity of his works than his legacy to posterity.  We also have 
+plenty of independent evidence that Hume took this legacy extremely seriously, correcting new editions even 
+on his deathbed,
+4 anxiously taking precautions to ensure that the Dialogues  would be published, and – if 
+Siebert’s insightful analysis is correct – very carefully composing ‘My Own Life’ with a view to how he 
+                                                   
+3 Hume pointedly italicises the phrase in ‘My Own Life’ (para. 6), thus drawing attention to the quotation.  Pope in his Epilogue on 
+the Satires , Dialogue ii (line 226) had said ‘All, all but truth, drops dead-born from the press’. 
+4 Cf. note 20 below.  Hume suggested the correction of his editions as another excuse why Charon should lend him more time befor e 
+ferrying him across the river Styx into Hades.  3would be remembered.5  Focused on these matters, Hume was now in the ideal position to promote the 
+Treatise  to posterity had he wished to do so, but he clearly did not. 
+ Hume’s negative attitude to the Treatise  seems to have been founded, from the beginning, on his own 
+judgement of its contents rather than its reception in the world of letters.  On June 1st 1739, barely four 
+months after its publication, he was already writing to Henry Home (later Lord Kames) expressing his 
+doubts about the wisdom of publication: ‘My fondness for what I imagined new discoveries, made me 
+overlook all common rules of prudence’ ( HL i. 31).  By March of the following year, he had written and 
+despatched his Abstract  in the hope of making his reasonings more palatable; he refers to this in a letter to 
+Francis Hutcheson of 4th March 1740 ( HL i. 37-8), and then less than two weeks later writes to him again, 
+expressing clear dissatisfaction with the Treatise : ‘I wait with some Impatience for a second Edition 
+principally on Account of Alterations I intend to make in my Performance.  … I am apt, in a cool hour, to 
+suspect, in general, that most of my Reasonings will be more useful by furnishing Hints & exciting People’s 
+Curiosity than as containing any Principles that will augment the Stock of Knowledge that must pass to 
+f u t u r e  A g e s . ’   ( HL i. 38-9).  So, little more than a year after publication, Hume was already expressing 
+doubts about the reasonings of the first part of the Treatise , and seriously contemplating a rewrite, 
+presumably along the lines sketched in the Abstract .  That rewrite turned out – of course – to be the First 
+Enquiry !6 
+ This second letter of 16th March 1740 also mentions a philosophical issue concerning the similarity of 
+simple ideas, evidently prompted by an earlier query from Hutcheson.  Hume’s brief discussion of this issue, 
+in the form of an inserted note ( T 637, 1.1.7.7 n.), was shortly to find its way into the Appendix to the 
+Treatise , which accompanied Book III to the press.  This Appendix was mainly an attempt to remedy, or at 
+least to confess, various errors and infelicities in Book I, most notably in respect of his theories of belief and 
+personal identity.  Five years later, Hume continues to express regret at his haste in publishing the Treatise , 
+this time in A Letter from a Gentleman to his Friend in Edinburgh : 
+ I am indeed of Opinion, that the Author had better delayed the publishing of that Book; not on account 
+of any dangerous Principles contained in it, but because on more mature Consideration he might have 
+rendered it much less imperfect by further Corrections and Revisals.  ( L 33) 
+The appearance in 1748 of the Enquiry  – which originally appeared under the title Philosophical Essays 
+concerning Human Understanding  – seems to have come as something of a relief.  In spring 1751, three 
+years after its publication, he wrote to Gilbert Elliot of Minto accordingly: 
+ I believe the philosophical Essays contain every thing of consequence relating to the Understanding, 
+which you would meet with in the Treatise; & I give you my Advice against reading the latter.  By 
+shortening & simplifying the Questions, I really render them much more complete.  Addo dum minuo.   
+[‘I add by subtracting.’]  The Philosophical Principles are the same in both:  But I was carry’d away by the Heat of Youth & Invention to publish too precipitately.  So vast an Undertaking, plan’d before I was 
+one and twenty, & compos’d before twenty five, must necessarily be very defective.  I have repented 
+my Haste a hundred, & a hundred times.  ( HL i. 158) 
+With the Enquiry  in print, moreover, any thoughts about revising the Treatise  seem to have evaporated.  In a 
+letter to John Stewart of 1754, Hume describes as ‘a very great Mistake’ his ‘publishing at all  the Treatise of 
+                                                   
+5 D. T. Siebert, The Moral Animus of David Hume  (London: Associated University Presses, 1990), chapter 5. 
+6 I spell out the parallels between the Abstract  and the Enquiry  in the final section of ‘The Context, Aims, and Structure of Hume’s 
+First Enquiry ’, Chapter 1 of Peter Millican (ed.), Reading Hume on Human Understanding  (Oxford: Clarendon Press, 2002).  4human Nature’, regretting in particular ‘the positive Air which prevails in the Book, [which] so much 
+displeases me, that I have not the Patience to review it’ ( HL i. 187). 
+These quotations, however, create a further puzzle regarding Hume’s main reasons for preferring the 
+Enquiry  over the Treatise .  Based on what he says himself, these reasons might seem primarily expositional 
+rather than philosophical.  For example the letter to Stewart continues by speculating ‘what Success the same 
+Doctrines, better illustrated & exprest, may meet with’, echoing Hume’s statement to Elliot that ‘The 
+Philosophical Principles are the same in both’.  ‘My Own Life’ gives a similar impression: 
+ I had always entertained a notion, that my want of success in publishing the Treatise of Human Nature, 
+had proceeded more from the manner than the matter, and that I had been guilty of a very usual 
+indiscretion, in going to the press too early.  I, therefore, cast the first part of that work anew in the Enquiry concerning Human Understanding …  (‘Life’, para. 8) 
+But I’d like to suggest that these comments cannot properly be taken as settling the issue, as Somerville, for 
+example, appears to do (p. 68).  For although the subject-matter of the Enquiry  has a considerable overlap 
+with Book I of the Treatise  (under which I include for convenience the sections on ‘Liberty and Necessity’ 
+from Book II), this overlap is very far from complete.  So when Hume says that ‘the Philosophical Principles 
+are the same in both’, what he calls ‘the Philosophical Principles’ cannot possibly embrace everything in 
+Book I of the Treatise , nor indeed everything in the Enquiry .  Before we know what conclusions to draw 
+from such statements, therefore, we must make at least some examination of their intended scope and force. 
+2.  ‘Philosophical Principles’ 
+Perhaps the most straightforward interpretation of ‘the Philosophical Principles are the same in both’ would be something like this: 
+(a) Where the Treatise  and Enquiry  cover the same topics, they say the same about those topics. 
+But there are three problems with using this interpretation as a justification for giving the Treatise  
+precedence over the Enquiry .  First, it is simply false, because the views expressed on some topics are 
+significantly different between the two works, for example on the theory of belief, the two definitions of 
+causation, liberty and necessity, and infinite divisibility, but arguably also others such as scepticism.  
+Secondly, even if it were true, it could not justify transferring Hume’s endorsement of the doctrines of the 
+Enquiry  to those of the Treatise , except  where they are the same; hence where the Treatise  moves on to 
+different topics, it would lose this endorsement.  Thirdly, even on the topics where the two works do 
+coincide, this interpretation could not anyway justify ascribing the Treatise priority  over the Enquiry , given 
+Hume’s acknowledgements that in the earlier work his doctrines had sometimes been so poorly expressed as 
+to be misleading (e.g. L 33, HL i 187, MOL  para. 8).  The Enquiry  would remain the primary authority on 
+Hume’s intentions, with the Treatise  a supplementary source providing further detail or background on the 
+common topics. 
+However given that the Treatise  and the Enquiry  do differ significantly both in the topics they cover and 
+their specific conclusions about some common topics, a more plausible interpretation of the claim would be: 
+(b) The fundamental  philosophical principles of the Treatise  and Enquiry  are the same. 
+This stands far more chance than (a) of being defensible, and also of providing a justification for favouring 
+the Treatise  on the grounds of its deeper investigation of some arguably fundamental principles, but of 
+course it raises a further serious question: exactly which  ‘philosophical principles’ are to be counted as 
+‘fundamental’?  Those who approach this question from the direction of the Treatise  are likely to seek such  5principles early in Book I, and may thus concur with Don Garrett, who starts his book Cognition and 
+Commitment in Hume’s Philosophy  with three chapters devoted to Hume’s faculty psychology, his Copy 
+Principle, and his Separability Principle.7  In a similar vein, the introduction to Harold Noonan’s recent book 
+Hume on Knowledge  enumerates what he takes to be the four ‘fundamental elements of Hume’s philosophy’, 
+namely the Copy Principle, the Separability Principle, the Conceivability Principle, and the three principles 
+of association of ideas.8  Viewed from the perspective of Book I of the Treatise , these choices of 
+‘fundamental principles’ may seem reasonable enough.  Viewed from the perspective of the Enquiry , 
+however, they look bizarre.  The Copy Principle is used only once in the Enquiry , though admittedly this use 
+in important, as it concerns the idea of necessary connexion and thus paves the way for Hume’s treatment of 
+the vexed topic of liberty and necessity.  The Conceivability Principle plays an important role in Sections IV 
+(E 25-6, 4.2, E 35, 4.18) and XII ( E 164, 12.28-9), and therefore also has a reasonable claim to being 
+‘fundamental’ in some sense, but its cousin the Separability Principle is never even mentioned, let alone 
+used.  Finally the principles of association of ideas might give the appearance of being destined for great 
+things when presented as early as Section III, but in fact they play virtually no further role in the Enquiry  
+except in Section V Part ii, where Hume’s modest aim is to argue that the operation of custom is analogous 
+to the transfer of vivacity via association ( E 54, 5.20).9  Moreover since he explicitly states that this entire 
+part is inessential for understanding the remainder of the Enquiry  (E 47, 5.9), the principles it appeals to can 
+hardly on that account be described as ‘fundamental’. 
+In attempting to reach a more plausible identification of what Hume might have meant when referring to 
+the common ‘principles’ or ‘doctrines’ of the two works, another significant issue is whether we should 
+interpret this term as primarily referring to his premises  or to his conclusions  (or perhaps indifferently to 
+both).  The approach in modern expositions of Hume’s philosophy typified by Garrett and Noonan suggests 
+the former, as does to some extent the etymology of the word ‘principles’,10 but Hume himself is very 
+unlikely to have meant this in the context we are discussing.  Focusing for the moment on the Copy Principle 
+and the Conceivability Principle, which at least have some  claim to playing a fundamental role in the 
+Enquiry , it is clear that Hume himself would not have thought of either of these as particularly distinctive of 
+his philosophy.  The Copy Principle is presented in both the Treatise  and the Enquiry  as a clarification of 
+Locke’s denial of innate ideas ( T 7, 1.1.1.12; E 22 n., 2.9 n. 1); Reid in rejecting it describes it as a 
+‘commonly received’ principle ( Inquiry  33), and Hume in responding concurs ( HL i. 376).  The 
+Conceivability Principle is introduced in the Treatise  as ‘an establish’d maxim in metaphysics’ ( T 32, 
+                                                   
+7 Don Garrett, Cognition and Commitment in Hume’s Philosophy , New York: Oxford University Press, 1997. 
+8 Harold W. Noonan, Hume on Knowledge , London: Routledge, 1999, pp. 8-9. 
+9 The difference between the Treatise  and the Enquiry  in respect of the associative status of custom is subtle and almost universally 
+overlooked, though it is arguably significant.  In the Treatise , Hume refers directly to ‘custom, or a principle of association’ ( T 97, 
+1.3.7.6).  In the Enquiry  (E 53-4, 5.20), he avoids this simple identification, arguing not that custom is itself a principle of 
+association, but that the belief arising from custom ‘is of a similar nature, and arises from similar causes, with the transiti on of 
+thought and vivacity of conception’ that the associative relations produce.  The associative relations thus provide ‘some analo gies, by 
+which [the operation of custom] may be explained’.  A fundamental difference remains, however, in that when the associative relations operate ‘the belief of the correlative object is always presupposed’, whereas custom is capable of generating such a belief 
+(and also generates the idea of necessary connexion, rather than merely relying on it as does the associative relation of causa tion). 
+10 The first three senses of ‘principle’ given in the Oxford English Dictionary  make reference to something’s origin or source, but 
+Hume’s own usage in Book I of the Treatise  and the Enquiry  is dominated by the fourth and fifth senses, respectively: 
+‘a fundamental quality which constitutes the source of action’, and ‘a general statement or tenet forming the (or a) gro und of, or held 
+to be essential to, a system of thought or belief’.  There are accordingly a large number of cases where a conclusion, rather t han a 
+premise, is referred to as a ‘principle’, for example:  T 105, 1.3.8.14; T 106-7, 1.3.9.1; T 139, 1.3.12.20; T 160, 1.3.14.10; T 161, 
+1.3.14.13; T 173, 1.3.15.6; T 366, 2.2.6.2; T 394, 2.2.11.1; E 72-3, 7.25; E 142, 11.23; E 157, 12.18; E 165, 12.34; E 43 n., 5.5 n. 8.  61.2.2.8), presumably on the basis of its use by such as Descartes and Berkeley,11 but in the Enquiry  Hume 
+just seems to take it for granted, not even giving it the honour of a distinct pronouncement ( E 25-6, 4.2).  
+That the Treatise  and the Enquiry  share the same fundamental principles in this sense would not have been 
+worth remarking on, so when Hume declared to Elliot that ‘the Philosophical Principles are the same in 
+both’, it seems far more likely that he was thinking mainly of his conclusions  and distinctive doctrines  rather 
+than his relatively standard premises . 
+Putting these points together, I would suggest that we cannot hope to identify the fundamental 
+‘principles’ that Hume saw as providing the doctrinal unity between the Treatise  and the Enquiry  until we 
+are in a position to understand how he himself viewed the significance of his various philosophical 
+conclusions , and  from his mature perspective  – the perspective from which he was judging when he asserted 
+a similarity of ‘principles’ between the two works.  In order to achieve this, we must first establish some 
+overall interpretation of the Enquiry  that makes sense of it on its own terms, and in the context of Hume’s 
+other mature writings, rather than treating it as a mere appendage to the Treatise  whose orientation and 
+significant elements can be presumed to echo those of the earlier work.  If we start from the Enquiry  rather 
+than from the Treatise , and calibrate our measures accordingly, then which similarities we find to be 
+significant may turn out to be profoundly different. 
+3.  An Enlightenment Tract? 
+Having recently published a fairly long article on the first Enquiry ,12 I shall shortly be repeating some of the 
+main conclusions that I draw there, rather than spelling out all the reasoning behind them.  But before proceeding with this, I should like to say a few words on a rival interpretation of the Enquiry  which appeared 
+while my own was in the press, has been enthusiastically welcomed by at least two reviewers of the ‘New 
+Hume’ persuasion,
+13 and is notable for giving a strikingly unconventional view of the work. 
+Stephen Buckle’s recent book Hume’s Enlightenment Tract  (Oxford: Clarendon Press, 2001) presents a 
+reading of the First Enquiry  according to which its main target is not so much modern rationalism or even 
+Locke and Berkeley – as traditionally taken for granted – but rather ancient  empiricism, Hume’s primary aim 
+being to attack scholastic Aristotelianism and the Roman Catholic religion for which it provides a 
+philosophical shelter.  So Buckle’s Hume is not in radical opposition to Descartes and his followers, but 
+instead views them as ‘fellow-travellers’ on the Enlightenment road ‘who had gone astray, in part by having 
+wandered up a few blind alleys, but especially by having failed fully to extricate themselves from … 
+scholastic philosophy’ (p. 59).  Still less is Hume in opposition to Locke; indeed the message of the famous 
+argument concerning induction in Enquiry  IV – which some of us have thought precisely to be directed 
+against Locke and his theory of Reason – is, according to Buckle, essentially Lockean in spirit.  
+Enthusiastically embracing the ‘New Hume’ causal realist interpretation of John Wright and Galen Strawson, 
+Buckle interprets Hume as taking forward the modern, mechanical philosophy bequeathed by Descartes and 
+Locke into an associationist account of the mind, facing up more consistently than they did to the failure of 
+                                                   
+11 The Conceivability Principle seems to be implicit in Descartes’ Ontological Argument in Meditation  V.  It later makes a relatively 
+muted appearance in Locke’s Essay  (e.g. II xiii 21), though he denies the inverse principle that whatever is inconceivable is 
+impossible ( Essay  VI x 19).  Berkeley is more explicit and makes far more use of the Principle (e.g. Principles  I 5), even gesturing at 
+an acceptance of its inverse ( Principles  I 112). 
+12 See note 6 above. 
+13 John Wright in the Australasian Journal of Philosophy  81 (2003), pp. 434-6 describes the book as ‘excellent’ and ‘a masterpiece in 
+the history of philosophy’, its third chapter in particular ‘brilliant’.  Peter Kail in the European Journal of Philosophy  11 (2003), 
+pp. 439-43 describes it as ‘excellent’, ‘fascinating and stylish’.  7our senses to give access to intelligible essences, but pursuing this only as far as a very mitigated sceptical 
+realism.  Buckle’s Hume accordingly accepts the coherence and indeed genuine reality of both underlying 
+objective necessities and the external world, and is sceptical about induction only to the extent of 
+acknowledging fallibilism: that our factual inferences cannot be guaranteed with certainty by rational insight. 
+Buckle deserves credit for having tried to work out an interpretation of the Enquiry  which presents it as 
+an integrated whole with a coherent purpose, and much of what he has to say on specific topics is interesting 
+and thought provoking, but nevertheless I find his overall anti-Aristotelian reading eccentric and almost 
+perverse.  The specific positive evidence he gives for it (pp. 31-5) amounts to little more than three main 
+points.  First, that when Hume announces his intention in Section I to attack ‘an abstruse philosophy, which 
+seems to have hitherto served only as a shelter to superstition’, the word ‘superstition’ can be taken as a 
+coded reference to Roman Catholicism.  Secondly, that in the famous concluding paragraph of the Enquiry , 
+Hume explicitly denounces ‘divinity and school metaphysics’ as worthy of consigning to the flames.  
+Thirdly, that in Section X on miracles, Hume starts his attack with an appeal to Tillotson’s anti-Catholic 
+argument against the real presence.  Apart from these three points, most of Buckle’s accompanying 
+discussion (pp. 31-43) is devoted not to providing more positive evidence, but rather, to contesting the idea 
+that Hume’s targets could instead have been the modern rationalists as traditionally supposed. 
+As I have argued at length elsewhere,14 I am not convinced that there is any great difficulty in seeing 
+modern rationalists (such as Descartes, Malebranche, and arguably Locke) as amongst Hume’s principal targets, in which case Buckle’s negative case must fail.  Against the positive evidence that he presents for his 
+interpretation I would here make the following brief points.  First, that Hume’s use of ‘superstition’ is by no 
+means specific to Roman Catholicism ( T 271, 1.4.7.13; E 122, 10.25; E 126, 10.30; E 133, 11.3), nor always 
+opposed to ‘enthusiasm’ which Buckle takes as code for dissenting Protestantism ( M 270, 9.3).  It need not, 
+indeed, even be associated with religion, as for example when the Treatise  describes allegiance to noble 
+families as often involving ‘bigotry and superstition’ ( T 562, 3.2.10.15), or when the Second  Enquiry  
+suggests that the laws of property can appear ‘whimsical, unnatural, and even superstitious’, on account of 
+their similarity in some respects to the ‘vulgar superstitions’ of Syria and Egypt ( M 198-9, 3.35-37).  
+Secondly, Hume’s attack on miracles, though admittedly anti-Catholic, is nearly as evidently anti-Protestant, 
+given its strong focus on resurrection stories which pointedly puts all Christians together in the line of fire 
+(E 115, 10.12; E 128, 10.37).  Thirdly, one would have expected Buckle at least to trawl the Enquiry  for 
+explicit scholastical references, but the most obviously relevant passage in the entire work is conspicuously 
+absent from his account, where Hume says in passing that ‘The fame … of A
+RISTOTLE  is utterly decayed.’ 
+(E 7, 1.4).  Buckle labours hard (pp. 53-6) to argue that in 1748 scholastic Aristotelianism was not yet a 
+‘dead duck’, but none of the primary works that he refers to here goes beyond 1697 (fully 50 years before the 
+Enquiry ’s first appearance as the Philosophical Essays ), and his omission of Hume’s own explicit statement 
+on the matter is startling.  Nor would the Enquiry ’s only other explicit mention of Aristotle change this 
+picture, for it merely remarks on the contrast between contemporary science and his primitive theory of 
+‘earth, water, and other elements’ ( E 84, 8.7).  Hume was not alone in his dismissive view of Aristotelianism, 
+and two of the Enquiry ’s early reviewers record it without any demur (indeed one of them even emphasises 
+his agreement by suggesting a possible reason for Aristotle’s decayed fame, namely the increasing rarity of 
+Greek linguistic competence).15 
+                                                   
+14 See for example Chapters 1 and 4 of Reading Hume on Human Understanding  (Oxford: Clarendon Press, 2002). 
+15 See James Fieser (ed.), Early Responses to Hume’s Metaphysical and Epistemological Writings, vol. I: Eighteenth-Century 
+Reponses , pp. 112, 114  84.  Abstruse Metaphysics, Science, and Critical Thinking 
+Putting both the Treatise  and Aristotelianism (or any other supposed prior philosophical influences) to one 
+side, let us try to establish a plausible aim for the Enquiry  as a whole, on its own terms.  The natural place to 
+start is with Section I, which discusses the ‘different species of philosophy’.  In this section, Hume begins by 
+distinguishing ‘easy’ from ‘abstruse’ philosophy, the former being typified by the work of Cicero, La 
+Bruyere, and Addison, the latter by Aristotle, Malebranche, and Locke ( E 7, 1.4).  Initially Hume gives the 
+appearance of preferring the easy philosophy, because it is engaging, paints its themes in attractive poetical 
+colours, gives mental exercise and interest without being too demanding, and is less likely than the abstruse 
+species of philosophy to wander off into speculative fantasies remote from common sense.  ‘Be a 
+philosopher’, he puts into the mouth of nature, ‘but, amidst all your philosophy, be still a man’ ( E 9, 1.6).16 
+ The eloquence of this maxim has unfortunately misled some commentators to identify the sentiments 
+expressed as those of Hume himself; indeed Mossner even gives the quotation pride of place as motto on the 
+front page of his well-known biography.17  But any examination of the context in Section 1 reveals very 
+quickly that the majority of the section’s text is actually devoted to opposing  the maxim; thus in the very 
+next paragraph, Hume argues that we cannot properly comply with its spirit and condemn all abstruse 
+metaphysics, without first proceeding ‘to consider what can reasonably be pleaded in [metaphysics’] behalf’ 
+(E 9, 1.7).  The entire remainder of the section is given over to this consideration, with the sole exception of 
+the final short paragraph, in which Hume gestures towards a reconciliation of his two species of philosophy. 
+ Hume’s defence of abstruse metaphysics combines two main themes which might be described as the 
+scientific and the critical.  The former highlights the necessity and value of careful, precise thinking in establishing general truths about man and the moral world; thus the abstruse philosophy can help the easy, in 
+much the same way as an anatomist can help a painter,
+18 as well as fostering the innocent pleasure of 
+discovery.  The main objection to this optimistic scientific picture is that such potential discovery of truth is 
+an illusion, and it is in response to this objection that the critical theme comes to the fore: 
+ Here indeed lies the justest and most plausible objection against a considerable part of metaphysics, that 
+they are not properly a science; but arise either from the fruitless efforts of human vanity, which would 
+penetrate into subjects utterly inaccessible to the understanding, or from the craft of popular 
+superstitions, which, being unable to defend themselves on fair ground, raise these intangling brambles 
+to cover and protect their weakness.  . . .  But is this a sufficient reason, why philosophers should desist from such researches, and leave superstition still in possession of her retreat?  Is it not proper to draw an 
+opposite conclusion, and perceive the n ecessity of carrying the war into the most secret recesses of the 
+enemy?  . . .  The only method of freeing learning, at once, from these abstruse questions, is to enquire seriously into the nature of human understanding, and show, from an exact analysis of its powers and capacity, that it is by no means fitted for such remote and abstruse subjects.  We . . . must cultivate true 
+metaphysics with some care, in order to destroy the false and adulterate. . . . Accurate and just reasoning 
+is the only catholic remedy . . . and is alone able to subvert that abstruse philosophy and metaphysical jargon, which, being mixed up with popular superstition . . . gives it the air of science and wisdom.  
+(E 11-12, 1.11-12) 
+His critical salvo delivered, Hume soon turns back to his scientific theme, emphasising ‘the many positive 
+advantages, which result from an accurate scrutiny into the powers and faculties of human nature’ ( E 13, 
+                                                   
+16 This seems to be another echo from Pope, this time from his ‘Epistle to James Craggs’: ‘Proceed, a minister but still a man.’ 
+17 Mossner, Ernest Campbell, The Life of David Hume , 2nd edn. (Oxford: Clarendon Press, 1980). 
+18 A theme explored by M.A. Stewart, ‘Two Species of Philosophy: The Historical Significance of the First Enquiry ’, in Peter 
+Millican (ed.), Reading Hume on Human Understanding  (Oxford: Clarendon Press, 2002), pp. 67-95.  91.13).  It might be suggested that any such supposed ‘science is uncertain and chimerical’ ( E 13, 1.14), but 
+Hume responds to this suggestion by insisting that at least some kind of ‘mental geography, or delineation of 
+the distinct parts and powers of the mind’ ( E 13, 1.13) is well within our grasp: 
+ It cannot be doubted that the mind is endowed with several powers and faculties, that these powers are 
+distinct from each other, that what is really distinct to the immediate perception may be distinguished 
+by reflection; and consequently, that there is a truth and falsehood in all propositions on this subject, 
+and a truth and falsehood, which lie not beyond the compass of human understanding.  ( E 13-14, 1.14) 
+But our scientific ambitions can legitimately extend deeper than this mere ‘ordering and distinguishing [of] 
+the operations of the mind’ ( E 13, 1.13): 
+ May we not hope, that philosophy, if cultivated with care … may carry its researches still farther, and 
+discover, at least in some degree, the secret springs and principles, by which the human mind is actuated 
+in its operations?  ( E 14, 1.15) 
+Just as Brahe, Kepler and others, by ‘ordering and distinguishing’ the apparent motions of the planets, had 
+prepared the way for Newton to build on their work and reveal the hidden laws underlying such motion, so 
+philosophers – having established a reliable mental geography – can then aspire to uncover the secret springs 
+and principles that generate the observable behaviour of the mind.  It is reasonable to expect ‘to find some 
+general principles’ underlying human thought and action, though we should be realistic about the likely 
+difficulties, and avoid the false simplicity of moralists who ‘have sometimes carried the matter too far, by 
+their passion for some one general principle’ ( E 15, 1.15).  Hume draws the section to a close by suggesting 
+that abstractness and some obscurity are inevitable concomitants of the rigorous search for deep truths, 
+though we can still aspire to make our metaphysics as approachable as possible.  His final two sentences 
+elegantly combine the stylistic, scientific and critical themes that have together dominated the section: 
+ Happy, if we can [reconcile] profound enquiry with clearness, and truth with novelty!  And still more 
+happy, if, reasoning in this easy manner, we can undermine the foundations of an abstruse philosophy, 
+which seems to have hitherto served only as a shelter to superstition, and a cover to absurdity and error!  (E 16, 1.17) 
+So much, then, for Hume’s own introduction to the Enquiry .  We are apparently to expect abstruse 
+philosophy engagingly presented, combining ‘mental geography’ which delineates the powers and faculties 
+of the human mind, with a critical edge that explores the capacity and limits of these powers and faculties, 
+and by doing so helps to subvert the false metaphysics that sustains superstition.  We might also expect some 
+discussion of the prospects of further work in the same spirit, developing the framework on which it should 
+proceed, and even perhaps venturing towards the ‘secret springs and principles’ that actuate the mind’s 
+operations.  All this is what we might expect; surprisingly enough, it is exactly  what the Enquiry  delivers! 
+ It is perhaps worth pausing at this point to reflect on how comfortably this overall orientation of the 
+Enquiry  fits with what else we know of Hume’s concerns and purposes.  On the one hand, his Essays  
+manifest a strong interest in the possibility of moral science, and the potential of the science of man to inform and discipline moral, social, political, and economic thought.  On the other hand, Hume’s critical 
+interest in religion figures hugely in his later writings, from the Essays , to the Enquiries  and Natural History 
+of Religion , to the History of England  and ultimately the Dialogues .  It used to be suggested – most 
+notoriously by Selby-Bigge in the introduction to his edition – that the religious theme in the Enquiry  was 
+scurrilous rather than philosophically serious, inserted to provoke the ‘zealots’ and therefore indicative of the 
+popular and lightweight nature of the work as a whole.  But it cannot now be seriously disputed that Hume’s  10interest in religion was deep, abiding, and strongly motivated.  Having expanded on this theme elsewhere,19 I 
+shall not pursue it further here, except to highlight a story in Adam Smith’s famous letter to William Strahan 
+of November 1776.  On his deathbed, joking with Smith about the excuses he might offer to Charon to 
+postpone his voyage across the river Styx, Hume gives pride of place to his efforts ‘to open the eyes of the 
+Public’ and thus hasten ‘the downfall of some of the prevailing systems of superstition’.20  Hume’s antipathy 
+towards religion continued unabated until his death, and this letter confirms that he saw opposition to 
+‘superstition’ as a major part of his life’s work.  Selby-Bigge’s judgement, therefore, which has influenced 
+generations of scholars in underrating the Enquiry , has to be reversed 180 degrees.  It is the absence  of the 
+critical religious theme from the Treatise , due to Hume’s well-known ‘castration’ of it to avoid giving 
+offence to Joseph Butler ( HL i. 25), that counts against the philosophical seriousness of the earlier  work. 
+5.  A Manifesto for Inductive Science 
+I have claimed, but so far without argument, that the introduction to the Enquiry  in Section I faithfully 
+reflects the work’s later contents.  With regard to the critical religious theme this is obvious enough:  from 
+the end of Section VIII (where Hume highlights the problem of evil in the light of his compatibilist treatment 
+of liberty and necessity) until the final flourish of Section XII (where he commits volumes of divinity to the 
+flames having convicted their aprioristic metaphysics of sophistry), the Enquiry  is largely dominated by 
+religious or related topics, notably the similarity between humans and animals, the evidential worthlessness 
+of miracle reports, and the impotence of the Design Argument.  What is not so clear is the extent to which 
+the Enquiry  fulfils the promise of Section I to promote a science of man that can illuminate and assist us, 
+whilst at the same time providing a foundation for the critical enterprise.  I suggest, however, that the 
+Enquiry  can indeed be read in this way, as an eloquent and powerful manifesto for inductive science. 
+ For present purposes it will be sufficient merely to sketch this perspective on the Enquiry  and thus 
+emphasise its overall plausibility, though I have argued for it at length elsewhere.21  W i t h  t h i s  i n  m i n d ,  
+Table 1 (at the end of the paper) gives an outline of the Enquiry ’s main themes and ‘principles’, with the 
+most relevant ones italicised.  Focusing here on the highlights, Sections IV and VII – always recognised as 
+the Enquiry ’s doctrinal heart – establish that causes are discoverable by experience alone rather than by 
+rational understanding.  An important passage ( E 30-1, 4.12) emphasises the scientific moral: the only 
+appropriate ambition for ‘philosophers’ is to resolve the observed phenomena into simple, quantifiable laws 
+that describe them, rather than aspiring in vain to the sort of rational insight that claims to comprehend why 
+nature behaves as it does.  All this is very familiar, but far less well recognised is the extent to which the later 
+sections of the Enquiry  have been designed to develop this view of science, systematically spelling out its 
+most important implications under the guise of discussing specific issues such as free-will, the reason of 
+animals, miracles and the Design Argument.  So far from being merely an arbitrary sequence of topics 
+selected to interest the general reader and provoke the zealots, the subject-matter of Sections VIII to XI has, I 
+suggest, been carefully chosen to illustrate and expand on Hume’s vision for a purely inductive science.  
+Thus Section VIII emphasises both the applicability of inductive reasoning to the moral sciences, and the 
+appropriate method for pursuing it, through a probing search for uniform hidden causes rather than resting content with inconstant superficial phenomena.  Section IX starts by stressing the role of analogical 
+reasoning as a weaker form of induction, and then firmly places man in the natural world alongside the 
+animals, taking further an important message of Sections VII and VIII, that only induction can reveal the 
+                                                  
+ 
+19 See, for example, §3 of the article mentioned in note 6 above. 
+20 Adam Smith’s letter to Strahan is reprinted in Norman Kemp Smith’s edition of the Dialogues , at D 243-8.  See also D 2. 
+21 See the article mentioned in note 6 above.  11workings of our minds.  Section X proceeds to explain how we should reason when faced with conflicting or 
+statistical evidence, ‘proportioning our belief’ accordingly, and carefully scrutinising testimony with an 
+inductively-informed critical eye.  Section XI establishes constraints on inductive inference, in particular a 
+requirement of proportionality and a prohibition on speculation about unique phenomena.  Of course 
+Sections VIII to XI also constitute important parts of Hume’s attack on religion, but it is vital to recognise 
+that he engages in this fight positively as well as negatively, on behalf of science: his aim is not just to play 
+the sceptic, but to depose superstitious metaphysics in favour of inductive investigation of both the natural 
+and moral worlds.  In this context Section XII rounds off the Enquiry  very appropriately, by clarifying the 
+relation between Hume’s scepticism and his scientific world-view.  Scepticism is a valuable critical tool for 
+exposing the bogus claims of false aprioristic metaphysics, typified by the early modern attempt to draw 
+support for theological conclusions from an alleged insight into matter’s intrinsic inertness.  Hume here 
+wields sceptical arguments drawn from the Treatise  but refined, no longer leading to Pyrrhonian instability 
+and confusion, but instead to a firm conclusion, that metaphysical insight into matter is a dead end, and that 
+for the discovery of matters of fact, beyond the limited realms of mathematics and ‘relations of ideas’, there 
+is no viable alternative to the sort of purely inductive science that the Enquiry  so consistently advocates. 
+6.  Hume’s Enduring ‘Principles’, and  Reid’s Irrelevance 
+Apart from the specifically religious topics that Hume uses to illustrate his inductive principles in Sections X 
+and XI (and which had themselves been artificially torn out of the Treatise  when Hume ‘castrated’ it), there 
+is virtually nothing in the main principles of the Enquiry , as outlined above, which is not to be found also in 
+the Treatise , in at least an embryonic form.  Hence it is quite understandable why the Hume of the Enquiry  
+should be inclined to explain to his friends that ‘the Philosophical Principles are the same in both’ and that 
+the Enquiry  contains ‘the same Doctrines, better illustrated & exprest’.  Whether the Hume of the Treatise  
+could have said the same is far more doubtful, because even Book I of the Treatise  contains a very great deal 
+– particularly in respect of the metaphysics of space and time and Hume’s early associationist psychology – 
+that the Enquiry  does not.  So these famous passages from Hume’s letters provide evidence that he himself, 
+at least from his mature perspective, saw these aspects of the Treatise  as lying outside the range of his 
+significant ‘Philosophical Principles’ and ‘Doctrines’.  Far from supporting the conventional view that the 
+Treatise  is to be taken as Hume’s primary work, therefore, they strongly suggest the reverse. 
+ With all this in mind, let us finally turn back to Reid’s Inquiry  and the puzzle of Hume’s Advertisement.  
+Table 2 (at the end of the paper) gives a summary of Reid’s criticisms of ‘the Author of the Treatise of 
+Human Nature ’, focusing very largely on ‘the doctrine of ideas’ which Reid sees as unwarranted, 
+implausibly simplistic, taxonomically misleading, and dangerously conducive to excessive scepticism.  All 
+of these criticisms hit home on the Treatise , with potentially significant problems pointed out against large 
+sections of Book I, including specifically Sections i 1, i 3, i 4, i 5, i 7, ii 2, iii 7-8, iv 2, iv 4, iv 5, iv 6, and 
+iv 7 but also potentially much else besides (and this is not even to mention Books II and III). 
+Now if the Enquiry  is founded on the same ‘Philosophical Principles’ as the Treatise , one would 
+naturally expect that such comprehensive criticism of the earlier work would at least make a significant 
+impact on the later work also.  Hence it is very striking indeed that only one of Reid’s main criticisms carries 
+over to the Enquiry !  Moreover this one criticism – of the basis for the ‘doctrine of ideas’ incorporating 
+Hume’s Copy Principle – hits only the relatively insignificant Section II, with admittedly some potential 
+knock-on effect on Sections VII and VIII (in so far as it undermines the application of the Copy Principle to 
+the idea of necessary connexion), but a negligible impact on Hume’s agenda for inductive science as outlined 
+above.  The force of Reid’s criticism of the basis of the Copy Principle is of course arguable, and it is 
+interesting to note that Hume explicitly defended himself on this point in a short letter of 4th July 1762, to  12Hugh Blair who had sent him an early draft of part of Reid’s Inquiry .22  This letter simply repeats the two 
+supporting arguments presented in Section II of the Enquiry  (E 19-20, 2.6-7), suggesting that on this point at 
+least, the Enquiry  already gives what Hume took to be an adequate ‘Answer’ to Reid. 
+To go quickly through Reid’s other criticisms in turn, the psychology of the Treatise  can indeed appear 
+naïvely simplistic both in its classification of ideas, and in attempting to explain so much with three crude associative principles, but the Enquiry  evinces no such extreme simplifying ambition, and even hints at a 
+mature awareness that the association of ideas may be too narrow a theoretical base.
+23  The Treatise ’s 
+attempt to define belief and other propositional attitudes in terms of force and vivacity is also withdrawn: the 
+Enquiry  makes no such attempt; nor does it conflate the operation of custom with that of the associative 
+relations, indeed it specifically distinguishes the two (cf. note 9 above) and claims only that they are 
+analogous.  Reid is particularly scathing about Hume’s views on personal identity and the ontological 
+independence of perceptions, but neither features at all in the Enquiry ; nor do the arguments concerning the 
+immateriality of the soul to which Reid specifically objects.  Finally, and perhaps most significantly, the 
+Enquiry  pointedly distances itself from the apparently excessive scepticism of the Treatise  with regard to the 
+external world, overtly advocating a mitigated  scepticism and making clear from the outset that the existence 
+of the external world is not in doubt.  It is debatable whether this represents a real change in Hume’s 
+sceptical outlook, because the Treatise  position as developed in I iv 2, I iv 4 and I iv 7 is notoriously obscure.  
+But in the Enquiry , at least, the limits of Hume’s scepticism are greatly clarified, and his presentation is 
+completely purged of the apparent Pyrrhonian excesses that Reid so enthusiastically mocks. 
+All this can hardly be coincidence, and the most natural explanation is that Hume himself had already 
+come to see, within a short time of publishing the Treatise , many of the problems that Reid would later fix 
+on.  This explanation is corroborated by plenty of textual evidence for Hume’s philosophical  dissatisfaction 
+with the Treatise , ranging over a fifteen year period from the 1739 letter to Kames, the Abstract , the 
+Hutcheson letter of 16th March 1740, the Appendix from the end of 1740, at least one essay from 1742, the 
+Enquiry  of 1748, and the letters to Elliot in 1751 and to Stewart in 1754.  On this account, Hume wrote the 
+Enquiry  not as a mere “recasting” of Book I of the Treatise , but as a new work which took over from the 
+Treatise  the central ‘Philosophical Principles’ that Hume wanted to retain, refocused them onto his principal 
+target while steering away from the irrelevances of detailed associationist psychology, and greatly 
+strengthened the central core of his message, which was to be a clear manifesto for inductive empirical 
+science and against superstitious metaphysics.  Scholars may mourn the loss of those ‘classic’ discussions, 
+especially in Treatise  I iv, whose complexity and obscurity seem sufficient to spawn a new interpretation 
+from almost every scholar who approaches them.  But for exactly this reason Hume himself could not mourn 
+them, for so far from helping him in his critical task, they simply hung like an albatross round the neck of his 
+attempt to present a coherent and plausible naturalistic programme. 
+How then to react when Reid’s Inquiry  appeared in 1764, focusing all its guns on the juvenile Treatise , 
+and hitting almost exclusively – albeit very effectively – positions that Hume himself had long since abandoned?  Some of these positions, indeed, including some of those most devastatingly ridiculed by Reid, 
+Hume had apparently abandoned even before the Treatise  was complete, as in the case of belief and personal 
+identity which are discussed in the Appendix of 1740.  Even if we ignore the Appendix and lesser writings, 
+                                                  
+ 
+22 The letter is reprinted in Derek R. Brookes’s edition of Thomas Reid, An Inquiry into the Human Mind on the Principles of 
+Common Sense  (Edinburgh University Press, 1997), pp. 256-7. 
+23 ‘Moralists … have sometimes carried the matter too far, by their passion for some one general principle’ ( E 15, 1.15), and compare 
+also the first paragraph of the essay ‘The Sceptic’ (first published in 1742, just two years after Book III of the Treatise ).  13by 1764 Hume’s Enquiry  had already been out for 16 years; Reid was criticising a 53-year-old on the basis 
+of work written more than 25 years previously, in respect of philosophical claims that he hadn’t repeated 
+since.  Beattie likewise, six years later, attacked a 59-year-old for work written more than 30 years 
+previously.  If Hume’s attitude to the Treatise  is faithfully portrayed in his letters and the other textual 
+evidence examined earlier, then it’s not surprising that he wanted to end this flogging of an ancient horse 
+once and for all.  So he wrote the Advertisement and published it accordingly. 
+7.  Conclusion 
+In asking how far Hume’s Advertisement provides any sort of ‘compleat Answer’ to Reid, we must 
+distinguish two very different questions: 
+ ‘Does the Enquiry  – the work mainly referred to by the Advertisement – successfully answer Reid’s 
+criticisms of the author of the Treatise ?’ 
+ ‘Does Hume’s mature philosophy, interpreted in the light of the Advertisement, successfully evade 
+Reid’s criticisms?’ 
+On the agenda set by Reid and the Treatise , Hume didn’t answer him.  But in the circumstances, it’s 
+reasonable for Hume to insist that his agenda’s been changed. 
+   The traditional view of the relationship between Hume’s Treatise  and First Enquiry  has recently been 
+wittily epitomised by Peter Ka il: 
+ Is An Enquiry Concerning Human Understanding  a stylish, but slight and potted version of some 
+materials drawn from Book I of A Treatise of Human Nature  authored by a Hume who had lost interest 
+in philosophy?  Posterity seems to have judged it as such, a useful text to set first-year philosophy students on the road, but the destination, as far as understanding Hume is concerned, is the Treatise .  
+The Treatise  is the Beatles, Puccini, Château Lafite; the Enquiry  is the Monkees, Gilbert and Sullivan 
+and house plonk. 
+But this is the reverse of the truth.  It is the Treatise  which is relatively crude, disjointed and unpolished, not 
+the Enquiry .  How frustrating it must be to a producer of good wines, to spend years carefully improving his 
+vineyard, filtering his prize vintage to remove undesirable impurities, only to find that his guests prefer the 
+same old barrels of hastily produced and unfiltered plonk, apparently precisely because these battered and long-since discarded vessels hold more intoxicating poisons to confuse their wits! 
+ 
+ 
+  14 
+Table 1:  An Outline of the Enquiry’s Main Themes and ‘Principles’ 
+Section I General aims are to advocate: 
+• Undermining of spurious metaphysics that sustains superstition 
+• ‘Mental geography’ – delineation of mind’s powers and operations 
+• Aspiration to discover ‘secret springs and principles’ of the mind  
+E 11-13; 1.11-12 
+E 13-14; 1.13-14 
+E 14; 1.15 
+Section II Copy Principle can be used to clarify or reject dubious ideas E 19-22; 2.5-9 
+Section III Connexion of ideas in the imagination appears to occur only through the 
+relations of resemblance, contiguity in time or place, and cause or effect. E 24; 3.2-3 
+Section IV, 
+  Part i ‘Hume’s Fork’ – relations of ideas and matters of fact 
+All factual inferences are founded on causation, and causes are discoverable 
+   by experience alone.  Hence the only appropriate scientific ambition is to 
+   resolve phenomena into simple, quantifiable laws that describe phenomena  E 25-6; 4.1-2 
+E 26-7; 4.4-5 
+E 27-30; 4.6-11 
+E 31-2; 4.12-13 
+  Part ii Factual inference is founded on experience, hence on principle of uniformity 
+Uniformity, and hence factual inferences, cannot be founded on reason E 32-3; 4.14-16 
+E 33-9; 4.16-23 
+Section V, 
+  Part i Factual inference is based on custom  or habit  rather than reasoning 
+Belief arises irresistibly by custom, starting from the memory or senses E 43; 5.5 
+E 45-7; 5.7-8 
+  Part ii Belief is characterised by an indefinable but familiar sentiment 
+Associative relations increase vivacity when based on the memory or senses 
+Operation of custom in causing belief is analogous to associative relations E 47-50; 5.10-13 
+E 50-3; 5.14-19 
+E 54; 5.20 
+Section VI Custom generates degrees of probability where connexion is not constant E 56-9; 6.1-4 
+Section VII, 
+  Part i Complex ideas can be definable; simplest ideas require Copy Principle 
+We do not understand natural powers, even of our bodies and minds 
+Occasionalism is an unfounded extension of vulgar animistic superstition E 62; 7.5 
+E 63-9; 7.6-20 
+E 69-73; 7.21-5 
+  Part ii Idea of necessity or power comes from the customary transition of the mind 
+Cause may be defined in two ways, by constant conjunction or inference E 74-6; 7.27-8 
+E 76; 7.29 
+Section VIII, 
+  Part i There are uniform patterns in human behaviour, as in the natural world 
+When uniformity fails, we should look for hidden causes (in either sphere) 
+We naturally draw inferences based on these observed uniform patterns 
+Common reluctance to accept necessity is based on illusion of insight into 
+   matter, but definitions of cause show that this reluctance is misplaced 
+Liberty means a power of acting or not acting according to the will E 83-6; 8.7-11 
+E 86-8; 8.12-15 
+E 88-91; 8.16-20 
+E 92-3; 8.21-2 
+E 95-7; 8.25, 27 
+E 95; 8.23-4 
+  Part ii Moral responsibility presupposes the doctrine of necessity 
+Necessity doesn’t undermine moral sentiments, but raises the problem of evil E 97-9; 8.28-31 
+E 100-3, 8.32-6 
+Section IX Analogical inference is legitimate,  though weaker than perfect custom  
+Animals reason by custom, so analogy supports the theory of human custom E 104, 9.1 
+E 105-8, 9.2-6 
+Section X, 
+  Part i A wise man proportions his belief to the evidence 
+Testimony can establish a miracle only if its falsehood would be miraculous E 110-12, 10.3-6 
+E 112-16, 10.7-13 
+  Part ii Testimony for miracles has always fallen well short of such reliability E 116-31, 10.14-41 
+Section XI When we infer a cause, we must proportion it to the observed effects 
+Hence the Design Argument is impotent as a proof of providence etc. 
+The analogy from human works to the universe is very distant Where a cause is unique, no law can be established and so no inference E 136-7, 11.11-13 
+E 137-42, 11.14-23 
+E 143-4, 11.25 
+E 148, 11.30  
+Section XII, 
+  Part i Scepticism can be ‘antecedent’ or ‘consequent’, extreme or moderate 
+We naturally believe in the external world, though it cannot be proved Our concept of matter is very imperfect, so cannot be a basis for science E 149-51, 12.2-5 
+E 151-4, 12.6-14 
+E 154-5, 12.15-16  
+  Part ii Philosophical scepticism about our reasoning faculty is irrefutable, but 
+   excessive scepticism is not sustainable and would anyway be futile E 156-60, 12.17-23 
+  Part iii Mitigated scepticism advocates modesty, limiting enquiries to subjects for 
+   which our faculties are adapted, and ‘methodizing and correcting’ 
+The proper subjects of enquiry are mathematics and empirical science E 161-2, 12.24-5 
+ 
+E 163-5, 12.26-34  15Table 2:  Reid’s Criticisms of ‘the Author of the Treatise of Human Nature’ 
+ 
+Position of ‘the author of the Treatise’ to 
+which Reid objects, and in what way Reid’s Inquiry 
+(page numbers bracketed)  Hume’s 
+Treatise Hume’s 
+Enquiry 
+Unwarranted Doctrine of Ideas    
+The doctrine of ideas (incorporating the Copy 
+Principle) is taken for granted rather than 
+founded on any good argument Ch. 2 Sect. 6 (33) 
+Ch. 5 Sect. 7 (69, 71) I i 1 Sect. II 
+Implausible Oversimplification    
+The ideal system is simplistic in attempting to 
+build on only one fundamental principle (i.e. the doctrine of ideas) Ch. 7 (210) I i 1 and 
+passim  (Copy Principle 
+used only once, 
+in Sect. VII) 
+The three laws of association are far too crude to provide a plausible basis for a complete science of the human mind Ch. 1 Sect. 6 (22) I i 4 and 
+passim  (Sects III & V ii 
+make no such 
+ambitious claim) 
+Incorrect Taxonomy of Mental Operations    
+The differences between various propositional 
+attitudes cannot properly be captured in terms of force and vivacity Ch. 2 Sect. 5 (30) 
+Ch. 6 Sect. 24 (197-8) I i 3 
+I iii 5, 7 (Sect. V ii makes 
+no attempt to define belief) 
+The inductive principle cannot be resolved into the association of ideas, because ideas and beliefs are not one and the same Ch. 6 Sect. 24 (199) I iii 7-8 (Sect. V ii claims 
+only an analogy) 
+The classification of all ideas into those of sensation and those of reflection is inaccurate and incomplete Ch. 7 (213-4) I ii 2 - 
+Excessive Scepticism    
+The Humean theories of personal identity and 
+the ontological independence of perceptions are ridiculous Ch. 1 Sect. 5 (20) 
+Ch. 2 Sect. 6 (32, 35) I iv 5-6 - 
+Scepticism about both the material and the 
+mental worlds is latent in the doctrine of ideas (incorporating the Copy Principle), leaving 
+perceptions as the only existents Ch. 1 Sects 7-8 (23) 
+Ch. 2 Sect. 6 (33-4) 
+Ch. 6 Sect. 6 (94) 
+Ch. 7 (213-5) I iv 2, 4, 6, 7 (Sect. XII i does 
+not imply the 
+non-existence of 
+mind or body) 
+Unsound Argument against Immateriality    
+It is unsound to argue that the mind is not an 
+immaterial substance based on its having 
+extended ideas Ch. 7 (217) I iv 5 - 
+ 

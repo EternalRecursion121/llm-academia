@@ -1,0 +1,1339 @@
+THE COMMON-CORE/DIVERSITY DILEMMA:
+REVISIONS OF HUMEAN THOUGHT,  
+NEW EMPIRICAL RESEARCH, AND THE LIMITS  
+OF RATIONAL RELIGIOUS BELIEF
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+Hertford College, University of Oxford
+Abstract. This paper is the product of an  interdisciplinary, interreligious 
+dialogue aiming to outline some of the possibilities and rational limits of supernatural religious belief, in the light of a critique of David Hume’s familiar sceptical arguments – including a rejection of his famous Maxim on miracles – combined with a  range of striking recent empirical research. The Humean nexus leads us to the formulation of a new ‘Common-Core/Diversity Dilemma’ (CCDD), which suggests that the contradictions between different religious belief systems, in conjunction with new understandings of the cognitive forces that shape their common features, persuasively challenge the rationality of most kinds of supernatural belief. In support of this conclusion, we survey empirical research concerning intercessory prayer, religious experience, near-death experience, and various cognitive biases (e.g. agency detection, theory of mind, egocentric and confirmation bias). But we then go on to consider evidence that supernaturalism – even when rationally unwarranted – has significant beneficial individual and social effects, despite others (such as tribalism) that are far less desirable. This prompts the formulation of a  ‘Normal/Objective Dilemma’ (NOD), identifying important trade-offs to be found in the choice between our humanly evolved ‘normal’ outlook on the world, and one that is more rational and ‘objective’ . Can we retain the pragmatic benefits of supernatural belief while avoiding irrationality and intergroup conflict? It may well seem that rationality is incompatible with any wilful sacrifice of objectivity (and we appreciate the force of this austere view). But in a situation of uncertainty, an attractive compromise may be available by moving from the competing factions and mutual contradictions of ‘first-order’ supernaturalism to a more abstract and tolerant ‘second-order’ view, which itself can be given some distinctive (albeit controversial) intellectual support through the increasingly popular Fine Tuning Argument.  We end by proposing a  ‘Maxim of the Moon’ to express the undogmatic spirit of this second-order religiosity, providing a cautionary 
+EUROPEAN JOURNAL FOR PHILOSOPHY OF RELIGION 7/1 (SPRING 2015), PP. 1-492
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+metaphor to counter the pervasive bias endemic to the human condition, 
+and offering a  more cooperation- and humility-enhancing understanding of religious diversity in a tense and precarious globalised age.
+This paper is the product of a dialogue between two contrasting points 
+of view: on the one hand, a  psychologist, sympathetic to spiritual perspectives as informed by contemporary empirical research; on the other hand, an  analytic philosopher, with a  sceptical and naturalistic 
+attitude to religion very much in the spirit of David Hume. Our aim has 
+been to outline some of the possibilities and rational limits of supernatural belief, in the light of both important recent empirical research and a new critique of Hume’s familiar sceptical arguments. Our larger hope is that, through this dialogue and by facing up to some of the serious challenges to reasoning about religious beliefs from any human perspective, we 
+might encourage more progress in interreligious dialogue and in the 
+naturalism/supernaturalism debate.
+I. INTRODUCTION AND OVERVIEW
+Our topic is the epistemology of religious belief: specifically, belief in supernatural agents such as gods, angels, and spirits. And we are 
+concerned with the evidence for (or against) such invisible powers 
+derived from reported miracles, religious experiences, and other instances of perceived supernatural agency, which we consider to be the predominant evidential  influence on religious belief.
+1 Scepticism about 
+such proposed instances of supernatural agency has tended to focus 
+on either their intrinsic improbability or the contradictions between 
+different supernatural accounts. Both of these objections have roots in the work of Hume, whose influence is clear in the writing of more recent sceptics such as Bertrand Russell and J. L. Mackie. In §II and §III of this paper, we shall highlight errors in Hume’s famous arguments, indicating that the sceptical case is not nearly as straightforward as its advocates 
+often assume. Nevertheless, by combining the lessons to be learned 
+from these discussions, we shall formulate a  dilemma that represents a significant new challenge to the evidential value of such phenomena:
+1 That is, amongst those who self-consciously assess their beliefs and respond to 
+evidence. No doubt most people adopt their religious (or anti-religious) views from their 
+family and society without much systematic evidential reflection.3
+THE COMMON-CORE/DIVERSITY DILEMMA
+The Common-Core/Diversity Dilemma
+That in so far as religious phenomena (e.g. miracle reports, religious experiences, or other apparent perceptions of supernatural agency) point towards specific aspects of particular religions, their diversity and mutual opposition undermines their evidential force; while in so far as such phenomena involve a ‘common core’ of similarity, they point towards a proximate common cause for these phenomena that is natural rather than supernatural.
+2
+The latter part of this dilemma depends on recent empirical discoveries 
+which suggest that the general characteristics of religious phenomena 
+are broadly  – and increasingly  – explicable in naturalistic terms. In §§IV -VI we shall flesh out this claim, drawing on a wide range of recent 
+empirical research.
+3
+The Common-Core/Diversity Dilemma (CCDD) is, we believe, 
+a serious threat to any form of first-order supernaturalism : supernaturalist 
+beliefs that claim unique authority for some particular religious tradition in preference to all others.
+4 But it does not so obviously undermine what 
+we call second-order supernaturalism , which maintains that the universe 
+in general, and the religious sensitivities of humanity in particular, have been formed by supernatural powers working through natural processes . 
+Indeed the same natural mechanisms that predispose us towards religious belief can be appealed to not only by the atheist – who takes them to ‘explain away’ supernaturalist beliefs – but also by the second-
+order theist  – who takes them to be tendencies ‘designed in’ to our 
+human nature, or at least ‘evolved in’ within a universe designed to foster such evolution. Second-order theism is thus likely to be particularly attractive to adherents of the Fine-Tuning Argument for the existence 
+of God, a  recent and popular variant of the Design Argument which 
+2 As we shall see, however, a natural (proximate) common cause is consistent with 
+a supernatural ultimate  cause.
+3 For obvious reasons of space, however, our coverage of the many empirical studies 
+has had to be representative and highly selective rather than exhaustive, just as we have 
+made no attempt to survey the rich literature spanning the philosophies of science and religion.
+4 First-order supernaturalism , thus understood, ranges from the very simple (e.g. 
+unreflective and literalistic endorsement of one particular religious tradition while entirely dismissing all others) to the highly sophisticated (e.g. maintenance of tradition-specific beliefs, interpreted through reflective theological principles that allow for metaphorical understanding and acknowledge some degree of truth in other traditions).4
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+builds on the apparent discovery of certain ‘anthropic coincidences’ in 
+the laws of physics. If the universe has in fact been finely tuned to be especially conducive to the evolution of higher life forms with moral and religious sensitivities, then it is only to be expected that such life forms will proliferate across the multitude of galaxies we observe, and that religion will evolve in many different ways, yielding a wide variety of specific religious systems. This possibility therefore casts doubt on the 
+unique authority of any particular religious orthodoxy, while at the same 
+time potentially supporting the theory of a cosmic Designer in a manner 
+that is potentially friendly to more general religious attitudes.
+The considerations raised in this paper thus leave open the rational 
+possibility of second-order theism – or deism – based on philosophical argument and on observations abstracted from across the religious traditions of humanity. But such a position will fail to satisfy the vast majority of believers, including even those philosophers who (like F. R. Tennant, Basil Mitchell, and Richard Swinburne) aim to establish their theism on the basis of a  ‘cumulative case’ that supplements the 
+theistic arguments with an appeal to historical records and contemporary 
+experience as providing evidence of specific  supernatural intervention in 
+human history. Indeed, if the distinctive claims of all religious traditions 
+are mutually defeating  – as the Common-Core/Diversity Dilemma suggests – then it might seem that the evidential basis even for second-order supernaturalism is crucially undermined, leaving naturalism as the default winner between the remaining rational options (e.g. on grounds of ontological parsimony).
+At this point, however, the theist has available an unexpected response 
+that deserves more attention than it has hitherto been given, fighting 
+back using the atheist’s own empirical weapons. For given the recent 
+psychological evidence that we are naturally prone to religious thinking, 
+some might conclude that such natural tendencies should be embraced , 
+especially where they are empirically associated – as sometimes proves 
+to be the case – with various aspects of healthy mental functioning and personal benefits. In §VII we thus introduce a second dilemma, which is more practical than epistemological, and can potentially play a role (as we shall further see in §VIII) in the case for second-order supernaturalism:
+The Normal/Objective Dilemma
+If the psychological causes of religious belief are associated with normal, healthy, mental functioning and various positive (individual and social) 5
+THE COMMON-CORE/DIVERSITY DILEMMA
+outcomes, should these rationally weigh with us more heavily than 
+objective epistemological considerations would allow?
+This quandary bears interesting – and somewhat ironic – comparison 
+with the ‘very dangerous dilemma’ famously raised by Hume’s own 
+philosophical thinking at the end of Book 1 of his Treatise of Human 
+Nature .5 Having concluded that purely rational, objective thinking 
+leads to total scepticism, from which we are saved only by the irrational 
+intrusions of the human imagination, Hume balances the follies to 
+which we are led if we allow the imagination to dominate against the 
+crippling scepticism that reason, unaided by the imagination, delivers: 
+‘We have, therefore, no choice left but betwixt a false reason and none 
+at all’ (T  1.4.7.7). Hume’s own answer to this dilemma is unclear  – 
+and its interpretation is controversial  – but it involves at least some 
+subordination of pure reason to more practical considerations, and even 
+perhaps to the emotions. One of the authors of the current paper6 inclines 
+towards an answer to these dilemmas suggested by Hume’s later thought 
+in the Enquiry Concerning Human Understanding ,7 an answer that may 
+vindicate objective reason so as to enable it to provide a dispassionate critique of religion. The other author is more sympathetic to our need, as 
+psychological beings, to accommodate our natural religious tendencies 
+within our intellectual lives. But both of us are agreed that there is plenty 
+of scope for reasonable debate here, and the verdict is less clear cut than is commonly supposed by enthusiasts on either side.
+II. REJECTING HUME’S MAXIM ON MIRACLES
+Although Humean themes will feature strongly here, we explicitly reject two of Hume’s most familiar claims about belief in miracles. The first of 
+these is the famous Maxim which concludes his theoretical discussion of 
+testimony for miracles in Part 1 of Enquiry  Section 10:
+5 David Hume, A Treatise of Human Nature: A Critical Edition, Vol. 1, ed. by David Fate 
+Norton and Mary J. Norton (Oxford: Clarendon Press, [1739/40] 2007); subsequently 
+cited in text as ‘T’ followed by location in the standard format of book.part.section.paragraph.
+6 See Peter Millican, ‘Hume’s Chief Argument’ , in The Oxford Handbook of Hume, ed. 
+by Paul Russell (Oxford; New Y ork: Oxford University Press, forthcoming).
+7 David Hume, An Enquiry Concerning Human Understanding , ed. by Peter Millican 
+(Oxford, New Y ork: Oxford University Press, [1748] 2007); subsequently cited in text as ‘E’ followed by location in the standard format of section.paragraph.6
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+‘That no testimony is sufficient to establish a miracle, unless the testimony 
+be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish: ... ’ (E 10.13, quotation marks in original)
+This Maxim can be interpreted in a number of ways, some of which are 
+more plausibly true than others (but then correspondingly unexciting). John Earman,
+8 for example, takes Hume to be saying that a miracle report 
+should be ascribed a probability of more than 0.5 only if its evidential force is such as to render the miracle more probably true than false – a plain tautology that is of little use. Another common way of reading the Maxim is as asserting that ‘extraordinary claims require extraordinary evidence’ – a plausible claim, but too non-specific and ambiguous to be directly applied or refuted.
+9 Slightly more pointedly, the Maxim may be 
+understood as encapsulating a dilemma: that the more extraordinary the event reported, the less probable the report, so that the religious advocate who wishes to render probable the report of a  miracle cannot have it both ways. Again this sounds quite plausible, but nothing that Hume says provides a solid basis either for this interpretation or for the correctness of such a claim.
+10 We believe that Hume’s intended conclusion was far 
+more specific than any of these, and would – if accepted – undermine almost any miracle report. As we shall now explain, however, his argument for it is faulty.
+Hume starts from the very reasonable principle that the evidential 
+force of testimony can be known only through induction from experience, by which we learn which factors – such as ‘the opposition of contrary testimony; ... the character or number of the witnesses; ... the manner of their delivering their testimony’ (E 10.7) – are best (or least) correlated with true reports. But having explained this, Hume then immediately 
+8 John Earman, Hume’s Abject Failure: The Argument Against Miracles (Oxford: Oxford 
+University Press, 2000), p. 41.
+9 This precise formulation was used by Carl Sagan (in Cosmos  Episode 12), though 
+various antecedents can be found dating back to the 18th century. Note that an atheist and a theist are likely to disagree regarding the ‘extraordinariness’ of supernatural claims; hence deployment of this maxim against such claims is apt to seem question-begging.
+10 It is easy to provide a Bayesian argument to the effect that a report’s overall plausibility 
+(with the relevant conditional probabilities held constant) must diminish in proportion to the prior probability of what is reported. But without some specific argument regarding the actual magnitude of the relevant prior and conditional probabilities, it is impossible to show that the conditional probability of the miracle, given the testimony, can never reach 0.5 or more.7
+THE COMMON-CORE/DIVERSITY DILEMMA
+introduces a further factor to put into this equation:
+Suppose, for instance, that the fact, which the testimony endeavours 
+to establish, partakes of the extraordinary and the marvellous; in that case, the evidence, resulting from the testimony, admits of a diminution, greater or less, in proportion as the fact is more or less unusual. (E 10.8)
+The unusualness of a reported event, Hume argues, should be balanced 
+on the other side of the scale against the characteristics of the testimony that incline us to believe it, potentially resulting in ‘a counterpoize, and mutual destruction of belief and authority’ (E 10.8). The most extreme possible case of such ‘counterpoize’ is where the reported fact
+instead of being only marvellous, is really miraculous; and  ... the 
+testimony, considered apart and in itself, amounts to an  entire proof; in that case, there is proof against proof, of which the strongest must prevail, but still with a diminution of its force, in proportion to that of its antagonist. (E 10.11; emphasis added)
+Notice here how Hume understands the strength of the testimony  – 
+‘considered apart and in itself ’ – as yielding a single overall measure of proof  which can then appropriately be weighed against the strength of 
+the counter-proof that arises from the miraculousness (i.e. the extreme lack of conformity to our uniform experience) of the alleged event.
+11 The 
+stronger of these two proofs ‘must prevail, but still with a diminution of its force, in proportion to that of its antagonist’ . So the confidence we place in the testimony (or – depending on which way the scales point – in the inductive evidence against the supposed event) will depend on the extent to which the testimonial proof (or alternatively the proof from experience) over-balances its antagonist (see diagram overpage).
+Thus the overall  credibility depends on this contest between the proof 
+constituted by the inductive evidence in favour of the testimony ‘considered apart and in itself’ (weighing down on the left-hand tray) and the proof 
+constituted by the uniform evidence of nature against the reported event (weighing down on the right-hand tray). We have ‘proof against proof ’ , with the overall credibility given not by either ‘proof ’ individually, but by 
+11 Millican (‘Twenty Questions about Hume’s “Of Miracles”’ , in Philosophy and 
+Religion: Royal Institute of Philosophy Supplement, 68, ed. Anthony O’Hear, 2011, pp. 
+152–92) refers to this as Hume’s ‘Independence Assumption’ , explaining both its key role in Hume’s argument (§8) and its failure in cases where testimony can be false in many ways (§19), as briefly discussed below. For explication of Hume’s notion of ‘proof ’ , see §2 and §6 of the same paper.8
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+the result of weighing them against each other.12 In the setup illustrated 
+below, this will be indicated by the direction of the pointer at the top of 
+the scales once they have settled.
+ 
+Credibility  In favour of the testimony  
+Consistency of the testimony  
+Good character of the witnesses  
+Number of the witnesses  
+Convincing manner of delivery  Against the testimony  
+Unusualness of the event  
+Just two paragraphs later,13 Hume reaches the famous Maxim which is 
+the culmination of Section 10 Part 1:
+Hume’s Maxim on Miracles
+The plain consequence is (and it is a  general maxim worthy of our attention), ‘That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, 
+12 This refutes Earman’s interpretation (Earman, Hume’s Abject Failure: The Argument 
+Against Miracles, p. 41; ‘Bayes, Hume, Price, and Miracles’ , Proceedings of the British 
+Academy , 113 (2002), 91–109 (p. 97)), which would instead involve a calculation, prior to 
+the weighing operation, of two overall judgements – namely the conditional probability 
+(given the testimony) of the event, and of its absence – which are then put in the balance against each other.
+13 The intervening paragraph 12 makes the point that any alleged miracle is ipso facto  
+an event that would be maximally out of line with past experience, and hence will have a minimal inductive probability. Hume’s reference to ‘laws of nature’ in that paragraph has led some to misunderstand him as treating miracles as a special case, but in fact his 
+argument is clearly intended to be a straightforward application of the general principles 
+he has already expounded. For discussion of the controversial interpretative issues raised by this paragraph, see Millican, ‘Twenty Questions about Hume’s “Of Miracles”’ , §§10-12.9
+THE COMMON-CORE/DIVERSITY DILEMMA
+than the fact, which it endeavours to establish  ... ’ (E  10.13, emphasis 
+added)
+The rest of the paragraph makes clear that here testimony ‘sufficient to 
+establish ’ some event means testimony sufficient to render the event 
+more probable than not; while ‘more miraculous’ here is to be read simply as ‘less [initially] probable’ .
+14 The language of the Maxim again indicates 
+that Hume understands any ‘kind’ of testimony as having a  typical 
+probability of falsehood ‘considered apart and in itself ’ , independently  of 
+the particular event reported – let us call this probability f. And it is this 
+general probability of falsehood (inductively derived from our experience of that kind of testimony) which is to be weighed in the balance against m, the initial probability of the event reported (inductively derived from our experience of that kind of event), to discover which is the more likely.
+All this might seem fairly straightforward, but there is a  serious 
+fallacy in Hume’s reasoning which was indirectly pointed out by some contemporary critics but has been generally overlooked more recently. To put the point crudely, his Maxim can work well if there is only one 
+way of the testimony’s being false (e.g. with a yes/no medical diagnostic test), but fails if it is possible for testimony of the relevant kind to be false in 
+many different ways. For in the latter case, when testimony is presented 
+in favour of some alleged event M, and we assess the relative probability of the following two alternatives:
+True positive report: testimony is true – M did in fact occur,
+False positive report: testimony is false – M did not in fact occur,
+the latter probability cannot appropriately be calculated in terms of the 
+simple ‘probability of falsehood’ f.
+15 If testimony can be false in many 
+different ways, then the specific probability of a false positive report of M 
+in particular is likely to be much lower than the non-specific probability 
+of falsehood in general, and the testimony correspondingly becomes 
+14 See Millican, ‘Twenty Questions about Hume’s “Of Miracles”’ , §7 for the textual 
+detail.
+15 This therefore undermines the derivation of Hume’s Maxim, which follows if one 
+is permitted to calculate the initial probability of a true positive report as (1 –  f)×m and 
+the probability of a false positive report as f×(1 – m). The former dominates the latter 
+if and only if m is greater than f, yielding something like a straight contest between the 
+miracle testimony and the ‘testimony of nature’ , which seems to be the thought behind 
+Hume’s reasoning. For more discussion, see Millican, ‘Twenty Questions about Hume’s “Of Miracles”’ , §§7-8.10
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+more credible as the probability of a false positive M-report decreases. 
+The relevant question, when faced with a  report of M, becomes not 
+‘how likely is it that this person would report some falsehood or other?’ , but rather, ‘how likely is it that this person would falsely report M in particular ? ’.
+Some nice examples that can be used to illustrate this point were given 
+by both George Campbell (1762) and Richard Price (1768), the most philosophically acute of Hume’s early critics. But such cases had already been anticipated in 1736 by Joseph Butler, in a  discussion explicitly quoted by both Campbell and Price:
+16
+There is a very strong presumption against ... the most ordinary facts, 
+before the proof of them; which yet is overcome by almost any proof. There is a presumption of millions to one, against the story of Caesar, or of any other man. For suppose a number of common facts so and so circumstanced, of which one had no kind of proof, should happen to come into one’s thoughts; every one would, without any possible doubt, conclude them to be false. And the like may be said of a single common fact.
+17
+After quoting Butler, Campbell continues:
+What then, I may subjoin, shall be said of an uncommon fact? In order to illustrate the observation above cited, suppose, first, one at random mentions, that at such an  hour, of such a  day, in such a  part of the heavens, a comet will  appear; the conclusion from experience would be 
+not as millions, but as infinite to one, that the proposition is false. Instead of this, suppose you have the testimony of but one man of integrity, who is skill’ d in astronomy, that at such an hour, of such a day, in such a part of the heavens, a comet did  appear; you will not hesitate one moment to 
+give him credit.
+18
+Thus Hume’s Maxim  – despite its evidently widespread seductive 
+appeal – gives absurd results if applied to everyday and non-miraculous 
+16 For Campbell, see below. Richard Price, On the Importance of Christianity and the 
+Nature of Historical Evidence, and Miracles: Dissertation IV of Four Dissertations, second 
+edition (London: A. Millar and T. Cadell, 1768) provides a lottery example at §2, pp. 407-
+9, and acknowledges Butler on pp. 440-2.
+17 Joseph Butler, Analogy of Religion, Natural and Revealed, to the Constitution and 
+Course of Nature , ed. by W . E. Gladstone (Oxford: Clarendon Press, [1736] 1896), II ii 3 
+[§11].
+18 George Campbell, A  Dissertation on Miracles  (Edinburgh: A. Kincaid & J. Bell, 
+1762), I §1, p. 31.11
+THE COMMON-CORE/DIVERSITY DILEMMA
+cases. To take Campbell’s example of a comet, it was surely antecedently 
+vanishingly improbable that a comet should, on the night after which the first version of this paper was presented, be visible in a  clear sky between the stars δ- and ω-Piscium. Y et having seen this reported in the newspapers,
+19 we rightly  believed it. The general probability of an error in 
+such a newspaper report – let us suppose this to be 1% – is vastly greater than the tiny initial probability of the event reported. So according to Hume’s Maxim the report should not be credible. But we are right  to 
+believe it because the crucial probability that has to be compared with that of the event reported is not the general probability of error in such reports , but rather, the specific probability that the newspaper would 
+erroneously report a comet in just that position. This specific probability is even tinier than the probability that a comet would actually appear there – indeed presumably around 100 times less (given a 1% general frequency of errors).
+Hume certainly knew of Campbell’s objections (and probably Price’s 
+also),
+20 but he did not revise his argument, perhaps because he failed 
+to remember, or misunderstood, the Maxim for which he himself had argued. We noted above that it is often interpreted in ways that seem obviously true – even vacuous – and it might be that Hume had such an interpretation in mind when considering Campbell’s objections, and hence failed to appreciate their force. More charitably, we suspect that he may have had in mind a different Maxim, one that is non-vacuous 
+yet far more defensible than his own, while remaining very much in the 
+same spirit:
+Revised Humean Maxim on Miracles
+That no testimony is sufficient to establish a  miracle M (i.e. render it more probable than not), unless the testimony is of such a kind, that the occurrence of a false M report of that kind (given that M does not in fact 
+occur ) would be even less probable than M itself.
+19 The comet C/2011 L4 Pan-STARRS was at that point in the sky when this talk was 
+given on 15th March 2013. See, for example: http://www.universetoday.com/100169/
+comet-panstarrs-how-to-see-it-in-march-2013/ [accessed 09/03/2013].
+20 Hume wrote to Hugh Blair in 1761 discussing the manuscript of Campbell’s 
+Dissertation , and then to Campbell himself in 1762 (David Hume, The Letters of David 
+Hume , ed. by John Y oung Thomson Greig (Oxford: Clarendon Press, 1932), Vol. I, 
+pp.  348-51, 360-1). He knew Richard Price personally, but we have no record of his making any response to Price’s dissertation on miracles. Neither Campbell nor Price spelled out exactly how his argument had gone wrong, so it would be unsurprising if Hume failed to appreciate the full significance of their objections.12
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+This Maxim can be derived mathematically as follows. We begin from the 
+observation that the threshold of credibility of an  M report (of a given 
+kind) comes at the point when such a report is more likely to have been generated truly than falsely (i.e. a ‘true positive’ is more likely than a ‘false positive’). The probability of occurrence of a true M report is equal to 
+the initial probability of M (call this m) multiplied by the probability 
+that M, given that it occurs, will be truly reported (for simplicity, call 
+this T). The probability of occurrence of a false M report is equal to the 
+initial probability of M’ s non-occurrence, namely (1–m), multiplied by 
+the overall probability that M would be reported given that it does not occur (call this F).
+21 So we now have that testimony for M is credible (if 
+and) only if:
+(1–m)×F < m×T.
+But M is supposedly miraculous, so the initial probability m is tiny. And 
+as long as it is not even less probable  that M should go unreported if true 
+(which it surely isn’t), we have T ≤ (1–m) and hence, multiplying both sides by F:
+T×F ≤ (1–m)×F.
+Stringing our two inequalities together, we get:
+T×F ≤ (1–m)×F < m×T
+and now taking out the middle term, this yields T×F<m×T, which on cancelling Ts leaves:
+F<m
+Therefore testimony for M is credible in accordance the Revised Maxim above. Notice that this Maxim, unlike Hume’s, focuses not on an  inverse 
+epistemic  probability – that a report of M, having been given, is true or 
+false – but rather, on a  direct causal  probability – that a report of M will 
+be given  in circumstances where M has not, in fact, occurred. And this 
+has the virtue of making crystal clear that we have now moved into the realm of empirical psychology  rather than pure philosophy: the most 
+crucial question here is how prone people are to generating reports 
+21 F is an average value, and false reporting could be more likely in some circumstances 
+than others without undermining this reasoning. But note that both T and F are specific to M, and are likely to vary depending on the particular miracle reported – unlike Hume’s 
+original Maxim, this revised version does not  make the implausible assumption that all 
+items of testimony of a given ‘kind’ should have the same typical probability of truth.13
+THE COMMON-CORE/DIVERSITY DILEMMA
+of miracles and religious experiences naturally  (i.e. in the absence of 
+special supernatural intervention). If it then turns out that this is entirely 
+common, the claim that such reports give significant evidence of the 
+supernatural is substantially undermined.22
+III. CONTRARY RELIGIONS AND A DILEMMA FOR THE BELIEVER
+Having erected a high threshold of credibility by means of his Maxim, 
+Hume moves on in Part 2 of Enquiry  10 to argue that no actual testimony 
+for a  miracle has ever got close to reaching that threshold. He gives a  battery of arguments, focusing mainly on the dubious provenance 
+of miracle stories, which are quickly propagated through our love of 
+‘surprize  and wonder ’ , and the enthusiasm of religionists for ‘promoting 
+so holy a cause’ (E 10.17). Hume might also usefully have added here some discussion from his Natural History of Religion ,
+23 concerning 
+humans’ tendency to ascribe events to gods and spirits, a  disposition which also helps to explain both why supernatural miracle stories seem 
+so plausible in some cultural settings and why, by contrast, the progress 
+of science tends to undermine them:
+... We hang in perpetual suspence between life and death, health and 
+sickness, plenty and want; which are distributed amongst the human species by secret and unknown causes, whose operation is oft unexpected, and always unaccountable. These unknown causes , then, become the 
+22 Note that both Hume’s original Maxim and our Revised Maxim require some 
+judgement regarding the initial probability of the miracle M itself (i.e. m in our formal 
+discussion). Moreover, the naturalist and supernaturalist are quite likely to disagree here (cf. note 9 above), even if they fully accept the same Maxim. Unfortunately there is no systematic way to remove the element of judgement regarding the overall plausibility of a supernaturalist world-view: to the atheist, the supposition of a divine realm may be a metaphysical extravagance that could only be justified by overwhelming evidence, while to the theist, it might seem to be a relatively modest addition of another level of immaterial intelligent agents in a world that already contains such agents. These judgements can, however, be swayed by empirical evidence, for example of Darwinian evolution and the physical basis of consciousness, which have persuaded most contemporary philosophers that our own intelligent agency is firmly grounded in the physical world rather than any immaterial realm.
+23 David Hume, A Dissertation on the Passions; The Natural History of Religion, ed. 
+by Tom L. Beauchamp (Oxford: Oxford University Press, [1757] 2007); Natural History  
+subsequently cited in text as ‘N’ followed by location in the standard format of section.paragraph.14
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+constant object of our hope and fear ... Could men anatomize nature, ... 
+they would find, that these causes are nothing but the particular fabric and structure of the minute parts of their own bodies and of external objects; and that, by a regular and constant machinery, all the events are produced, about which they are so much concerned. But ... the ignorant multitude  ... can only conceive the unknown causes  in a  general and 
+confused manner ...
+There is an universal tendency among mankind to conceive all beings like 
+themselves ... We find human faces in the moon, armies in the clouds; and by a natural propensity, if not corrected by experience and reflection, ascribe malice or good-will to every thing, that hurts or pleases us. ... No 
+wonder, then, that mankind, being placed in such an absolute ignorance of causes, and  ... at the same time so anxious concerning their future fortune, should immediately acknowledge a  dependence on invisible powers, possessed of sentiment and intelligence. ...
+In proportion as any man’s course of life is governed by accident, we 
+always find, that he encreases in superstition ... All human life, especially before the institution of order and good government, being subject to fortuitous accidents; it is natural, that superstition should prevail every where in barbarous ages ... (N 3.1-3)
+Obviously any such explanation of the origin of religion is to some extent 
+speculative, but Hume’s account certainly contains plausible elements.24 
+And that humanity has a love of ‘surprize and wonder’ is evident enough: 
+the propagation of ‘urban myths’ , conspiracy theories, paranormal and 
+miracle cures, monster and alien sightings etc. over the web and the 
+more sensational media demonstrates sufficiently that this passion is still 
+widespread today.
+Moving back now to his discussion of miracles, Hume’s next argument 
+is more distinctive and philosophically interesting, though also rather 
+dubious:
+24 Indeed in this passage Hume unites and presages two important modern theories 
+of religion: (a) religion as shaped by projection of self and anthropomorphism (Stewart 
+Guthrie, ‘ A Cognitive Theory of Religion’ , Current Anthropology, 1980, 181–203); and (b) 
+religion and magic as originating from a need for control in an unpredictable world (e.g. Bronislaw Malinowski, Magic, Science and Religion and Other Essays (Garden City, New Y ork: Doubleday, 1945)). Hume also hints at the hypersensitive agency detection device (HADD) and theory of mind  (ToM) cognitive mechanisms discussed later. But as we 
+shall see in §V , his account of the origin of religion could usefully be supplemented by consideration of religious and ‘near death’ experiences.15
+THE COMMON-CORE/DIVERSITY DILEMMA
+I may add as a  fourth  reason ... that, in matters of religion, whatever is 
+different is contrary; and that it is impossible the religions of ancient Rome, 
+of Turkey , of Siam , and of China should, all of them, be established on 
+any solid foundation. Every miracle, therefore, pretended to have been wrought in any of these religions (and all of them abound in miracles), as its direct scope is to establish the particular system to which it is attributed; so has it the same force, though more indirectly, to overthrow every other system. In destroying a rival system, it likewise destroys the credit of those miracles, on which that system was established; so that all the prodigies of different religions are to be regarded as contrary facts, and the evidences of these prodigies, whether weak or strong, as opposite to each other. (E 10.24)
+This argument, unlike the earlier ones, depends crucially on the idea that 
+each miracle claim is being used to support a specific religious belief, from which Hume takes it to follow that where those beliefs conflict, the miracle 
+claims are in turn rendered indirectly contrary to each other. Putting this 
+semi-formally, suppose we receive two reports of extraordinary events M
+1 and M2 which – understood as supernatural miracles – are invoked in 
+favour of religious beliefs R1 and R2 respectively.25 Supposing that they do 
+indeed provide convincing support for their corresponding religions, we have that M
+1 → R1 and M2 → R2. The contrapositive equivalent of the latter 
+is that ¬ R2 → ¬ M2, while if the two religions conflict (i.e. some essential 
+doctrine of R1 is logically incompatible with some essential doctrine of 
+R2) then we also have that R1 → ¬R2. Putting all this together, we now have 
+M1 → R1, R1 → ¬ R2, and ¬R2 → ¬ M2, which by transitivity of implication 
+yield M1 → ¬M2. This seems, in essence, to be Hume’s argument.
+The biggest problem with this line of reasoning is that it works only 
+if the implications (symbolised by ‘→’) are all taken to be certain: Hume, 
+uncharacteristically, is here failing to notice how differently things fall 
+out if the evidential relationships are merely probabilistic . To illustrate 
+this, suppose we are faced with just three competing theories: R1, R2 and 
+N, where the last is a scientific naturalism that denies any supernatural intervention. Suppose also that we are initially inclined to discount the supernaturalist theories, so that if our state of belief were to be represented 
+25 This wording is intended to make clear that M1 and M2 are here understood as 
+specific events (e.g. the reviving of a  man from the dead, or the raising of a  building 
+into the air), and do not involve any interpretation of how those events might have been caused (e.g. through God’s or other supernatural agency).16
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+probabilistically, the appropriate figures would be roughly 5% for each of 
+R1 and R2, and 90% for N. We then witness an apparently supernatural 
+event M1, associated with (and claimed in support of) R1, while the 
+believers in R2 either deny its occurrence, ascribe it to a lesser spirit, or 
+claim it as performed by their own deity for some reason. If our personal experience of the event – and its apparently supernatural character – is sufficiently compelling,
+26 then it might force us to give up our belief in N, 
+most likely in favour of R1. But notice that in this situation, our acceptance of the miracle could well increase the probability that we assign to R1 and to R2, by favouring both supernaturalist theories over naturalism 
+(we might, for example, end up assigning probabilities of 60% to R1, 30% to R2, and 10% to N).This revised position would in turn increase the credibility of any report of a  supernatural miracle M2 associated with (and claimed in support of) R2, thus generating an overall positive  
+evidential relationship between M1 and M2. If a sufficiently strong report in favour of M2 were then forthcoming, that would only further confirm 
+our rejection of N, while presumably levelling up the contest between R1 and R2. (We might also, of course, begin to speculate that neither R1 nor R2 has the whole truth, and consider other options accordingly, but 
+the crucial point here is that the antipathy between R1 and R2 need not 
+imply any such antipathy between M1 and M2.)
+So Hume goes much too far when arguing that miracles ‘pretended to 
+have been wrought’ in contrary religions are ‘to be regarded as contrary 
+facts’ . This would be true only on the supposition that each miracle’s occurrence is intimately tied to the truth of the corresponding religion (and specifically to those crucial doctrines that make the religions logically contrary). Such claims have, no doubt, been advanced by apologists – 
+for example, in arguing that Jesus’ miracles prove him beyond doubt 
+to have been the Son of God – but they are highly implausible. M
+1 and 
+M2 are not ‘contrary facts’ in themselves, but only through the doctrinal 
+implications that have been drawn from them, and it would be entirely possible for an adherent of either religion to accept both M
+1 and M2 while 
+denying (at least one of) these doctrinal implications. Indeed, as we have seen, M
+1 and M2 need not be ‘contrary’ even in the weak sense of merely 
+making each other less probable , despite the strict contrariety of their 
+associated religions, R1 and R2.
+26 For the sake of the example we here take for granted that personal witnessing of 
+a miraculous event can be sufficiently convincing to compel belief.17
+THE COMMON-CORE/DIVERSITY DILEMMA
+The example just discussed might seem artificial, but it is of 
+obvious application to our contemporary situation, in which the key 
+contest  – especially given the recent trend towards multi-culturalism 
+and acceptance of religious diversity – is arguably not so much among 
+different religions, as between supernaturalism as a whole and scientific naturalism. From this perspective, some modern believers might be entirely happy to appeal relatively indiscriminately to the huge cloud of miracle stories available within the combined religious traditions of the 
+world, as demonstrating the widespread activity of supernatural powers. 
+This would mean, however, giving up the idea that miracles can provide any specific vindication of particular theological doctrines, including the central doctrine of monotheism. And such a  strategy is therefore unlikely to appeal to any conventional Jew, Christian, or Muslim, since the abundance of supernatural manifestations reported in diverse 
+religious traditions would most naturally point towards polytheism 
+instead.
+27 But there is also another very significant cost to this strategy, 
+especially in the context of Hume’s earlier arguments, because the widespread proliferation of miracle reports does not necessarily increase 
+the likelihood of genuine supernatural activity. The problem here for 
+the supernaturalist position is that there are two quite different ways of accounting for this proliferation:
+(S) Supernatural activity is commonplace throughout the world and 
+across the centuries, and is accordingly reported widely.
+(N) There is no genuine supernatural activity, but humans are naturally drawn towards belief in the supernatural, with a vivid imagination driven by hopes and fears, cognitive biases, lack of critical judgement, and a delight in miracle stories etc.
+27 This is not to deny that a Christian could explain away non-Christian supernatural 
+manifestations  – for example, by attributing them to evil spirits or other forces. But this very move undercuts any appeal to miracles as a basis for specific religious beliefs, because once intermediate supernatural agents (whose veracity cannot be guaranteed) are brought into the picture, it becomes obvious that mere humans will be unable to tell with any reliability what source any miracle has. Who is to say that an  evil spirit could not raise a man from the dead and generate prophecies (etc.) sufficient to convince gullible mortals that God is communicating His will to them? Such a spirit might do this deliberately in order to inspire the development of incompatible monotheistic religious beliefs that are held so fervently as to lead to millennia of bloody conflicts – for more on this sort of concern, see Peter Millican, ‘The Devil’s Advocate’ , Cogito , 3 (1989), 193–207 
+(or <http://www.millican.org/papers/1989DevAdv.pdf> for a corrected version).18
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+Hume has already proffered a  number of considerations in favour of 
+(N), but notice in particular the relevance of his observation at E 10.20 
+that widely accepted religious miracles (such as those in the Gospels) tend to date from ancient times. The point here is that both  (S) and 
+(N) imply a broad equivalence between supernatural reports from the 
+ancient and the modern world, thus undermining the conventional 
+eighteenth-century Protestants’ belief ‘that miracles had long ago c e a s e d ’.
+28 This conveniently insulated their supernaturalism from 
+contemporary testing, whereas parity between ancient and modern removes this insulation, making the supernaturalist hypothesis testable through critical examination of some of the profusion of contemporary  
+reports of miracles. And if it then turns out – as Hume would expect and practical experience seems to show – that most such reports that can be carefully and independently investigated are disconfirmed (e.g. as due to 
+misinterpretation or illusion, exaggeration or deceit, various cognitive 
+biases or simply ‘healings’ that fail to last),
+29 then this will significantly 
+favour (N) over (S). The strategy of appealing to a multitude of witnesses 
+can thus seriously backfire, if some of this profusion of testimony – when 
+critically investigated – turns out to be due to widespread behaviour or 
+psychological phenomena that undermine, rather than confirm, the 
+credibility of such reports.30
+Although Hume himself does not argue in quite this way, the course of 
+his discussion after presenting his ‘contrary religions’ argument strongly 
+suggests that he is thinking along broadly similar lines. This would 
+explain why he goes on to cite several miracle stories that are relatively 
+well attested (and therefore might otherwise seem to weaken, rather 
+28 Lorraine Daston, ‘Marvelous Facts and Miraculous Evidence in Early Modern 
+Europe’ , Critical Inquiry , 18 (1991), 93–124. Hume echoes this general belief at T 3.1.2.7.
+29 Relevant cognitive biases and other processes will be surveyed later. Reports of 
+systematic scientific investigations into specific instances of paranormal phenomena may 
+be found in a variety of ‘skeptical’ publications. See <http://www.csicop.org/resources> for links, including to <http://www.skeptic.com/> and <http://www.randi.org/site/> [accessed 12/02/2015].
+30 A parallel case might be where a plausible salesman is promoting some supposedly 
+wonderful product – for example a ‘miracle cure’ or a ‘dead cert’ investment – with lots of apparently strong arguments, endorsements from satisfied customers, and so forth. At first one might be fairly easily persuaded that the claims, though surprising, are genuine. But the discovery that there is a huge profusion of such salesmen, each with their own favoured products and plausible patter, will lead one to conclude that there is a quite different explanation for all  of this activity.19
+THE COMMON-CORE/DIVERSITY DILEMMA
+than strengthen, his overall case). The point here is not that Christian 
+believers are logically compelled to deny  the miracles of rival religions 
+(as the contrary religions argument would suggest), but rather, that these believers will in fact want to deny them. Such denial will no doubt 
+largely be motivated by simple scepticism towards rival religious beliefs, 
+but it might also reflect an awareness that insufficiently discriminating 
+acceptance of the miraculous, by putting Christian miracles on a  par 
+with others, both undermines any special claims for Christianity and 
+also casts doubt on the entire collection. To echo structurally similar 
+thoughts expressed by Hume in a quite different context (T 1.4.7.6), ‘if 
+we assent to every’ supposedly well-attested miracle story associated 
+with any religion, ‘beside that’ these religions ‘are often contrary to each other’ , such stories will ‘lead us into such errors, absurdities, and 
+obscurities, that we must at last become asham’ d of our credulity’ .
+31
+In practice, we suspect that few sophisticated Christians exhibit such 
+excessive credulity, since they are more likely to deny the existence of contemporary Christian miracles (even those endorsed by the Roman 
+Catholic Church in canonisation proceedings) than to accept the miracle 
+stories of other religions. Wholesale rejection of religious experience, 
+however, would be far more problematic, given the major and ongoing 
+role that it has played in religious understanding and practice. So in 
+this case, a more plausible response to the considerations above may be 
+to embrace the universality of these experiences, interpreting them as 
+pointing toward the divine in a way that is accessible to those of all faiths. 
+This response can be supported by the observation that such experiences 
+seem to manifest a  ‘common core’ of characteristics, across different times, cultures, and religions. So here, it might seem, Hume’s ‘contrary 
+religions’ argument finally loses its bite. But again we encounter a parallel 
+problem to the case of miracles, since the very commonality which 
+enables the various religious experiences to be mutually supporting  – 
+and suggests a common cause – again invites the further suggestion that 
+this common cause is natural  rather than supernatural . Admittedly, the 
+threat to supernaturalism is somewhat different in this case, since the naturalist explanation is far less likely to deny the reality of ‘internal’ 
+religious experiences than of ‘external’ miracles. But the same internality 
+that makes religious experiences relatively secure from objective 
+refutation, at the same time stands in the way of any convincing proof 
+31 The context is his Treatise  quandary mentioned in §I above.20
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+that they are due to the intervention of supernatural agents rather than 
+our own bodies and brains. Meanwhile, their plausibility as evidence of such external supernatural agency remains hostage to the fortunes of physiological and psychological research, which, as we shall see, increasingly threatens to account for them in naturalistic terms.
+Putting these points together, the believer in supernatural agency is 
+faced with a dilemma in claiming evidence for such agency from either 
+miracle reports or religious experiences:
+The Common-Core/Diversity Dilemma
+That in so far as religious phenomena (e.g. miracle reports, religious experiences, or other apparent perceptions of supernatural agency) point towards specific aspects of particular religions, their diversity and mutual opposition undermines their evidential force; while in so far as such phenomena involve a ‘common core’ of similarity, they point towards a proximate common cause for these phenomena that is natural rather than supernatural.
+32
+We have already seen some philosophical arguments that support this 
+dilemma, ranging from our reinterpretation of Hume’s Maxim, which stresses the centrality of the causal explanation of (false) miracle reports, to our discussion of his ‘contrary religions’ argument, which highlights the difficulty of supporting any particular supernaturalist explanatory framework when so many conflict. Now it is time to add further substance to these points, by turning to recent empirical studies of 
+religious phenomena.
+IV . EMPIRICAL RESEARCH SUPPORTING  
+THE SCEPTICAL HORN OF THE CCDD
+The first horn of our Dilemma might be called oppositional or sceptical , 
+and the second common-core  or naturalistic . Empirical research can 
+32 As noted in §I above, this last claim is not a priori , but depends on the nature of 
+the ‘common core’ . If, for example, it turned out to be common  – over a  wide range 
+of religions  – that evil people were miraculously struck dead when cursed by a  holy 
+person, or if ‘common core’ religious experiences involved revelation of previously unknown facts that afterwards turned out to be true, then these things might be most easily explicable in terms of a suitably motivated supernatural agent. The problem is that the ‘common core’ revealed by systematic investigation seems to contain nothing that demands, or corroborates, such supernatural explanation. But recall also from §I that a proximate  natural cause is compatible with a  deeper  supernatural cause, so this does not 
+rule out what we have called second-order supernaturalism .21
+THE COMMON-CORE/DIVERSITY DILEMMA
+accordingly support the Dilemma in either of two ways: either by pointing 
+to opposing claims from different religions that tend to undermine each other, or by revealing a ‘common core’ of phenomena that turn out to 
+be explicable in naturalistic terms. We shall take the latter, naturalistic, 
+approach towards religious experiences in §V below. Miracle reports, on the other hand, we view more sceptically. Of course, alleged miracles are generally hard to assess objectively, owing to their sporadic and unpredictable nature.
+33 But one particularly important and prevalent 
+variety of would-be miracles has been studied extensively, with results 
+that confirm sceptical expectations.
+‘Medical Miracles’ and Intercessory Prayer
+One of the most universal forms of miracle popularly claimed as 
+evidence for the veracity of supernatural beliefs is the answering of prayers, often for the healing of ourselves or others. But a meta-analysis of the fourteen most rigorously conducted investigations concluded 
+‘There is no scientifically discernible effect for intercessory prayer as 
+assessed in controlled studies’ .
+34 While a minority of studies have shown 
+some small (but overall equivocal) effects,35 others, including the most 
+carefully structured, large-scale, double-blind, randomised study, 
+actually showed a substantial, significant negative  impact on the health 
+outcomes of prayed-for patients36 – findings that critical observers might 
+find particularly striking given that the majority of intercessory prayer 
+studies have been carried out by researchers of sympathetic Christian orientation.
+37 Those wishing to defend the positive evidential value of 
+prayer may respond that experimental methodologies are not, for various 
+33 Competing doctrinal claims would be another target of the sceptical approach, 
+though these are perhaps even more difficult to assess empirically.
+34 Kevin S. Masters, Glen I. Spielmans and Jason T. Goodson, ‘ Are There Demonstrable 
+Effects of Distant Intercessory Prayer? A Meta-Analytic Review’ , Annals of Behavioral 
+Medicine , 32 (2006), 21–26 (p. 21).
+35 Leanne Roberts and others, ‘Intercessory Prayer for the Alleviation of Ill Health’ , 
+in Cochrane Database of Systematic Reviews, 2009 <http://onlinelibrary.wiley.com/
+doi/10.1002/14651858.CD000368.pub3/abstract> [accessed 18/05/2014].
+36 Herbert Benson and others, ‘Study of the Therapeutic Effects of Intercessory Prayer 
+(STEP) in Cardiac Bypass Patients: A Multicenter Randomized Trial of Uncertainty and Certainty of Receiving Intercessory Prayer’ , American Heart Journal , 151 (2006), 934–42.
+37 Masters, Spielmans and Goodson, ‘ Are There Demonstrable Effects of Distant 
+Intercessory Prayer? A Meta-Analytic Review’ .22
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+reasons, well suited to the evaluation of divine intervention.38 Such 
+a response, however, risks being overly deferential to religion and fails to 
+appreciate the rational burden of proof suggested by the sceptical horn of 
+our Dilemma. For prayer is popularly attributed with the power to effect 
+medical cures in many different religions, and is commonly understood within them as evidence of specific religious truth. Y et religions conflict 
+on the various specifics, so such evidential claims cannot reasonably be accepted unless they have solid empirical backing to distinguish them 
+from the claims that they implicitly contradict. Without such differential 
+support, the best that could be hoped for is evidence of prayer’s efficacy in general, which then might perhaps buttress claims for second-order supernaturalism. But since empirical studies appear to yield no significant positive evidence, we must currently reject such ‘medical miracles’ as providing evidence for any form of supernaturalism, even while leaving 
+open the theoretical possibility that God (or gods) might act in this way 
+‘secretly’ when not being tested.
+Despite lack of evidence for the medical efficacy of intercessory prayer, 
+high regard for the power of prayer as a general personal practice may be more justified, based upon its substantial positive effects on subjective 
+well-being
+39 and interpersonal relations,40 its association with healthy 
+behaviour,41 and the genuinely dramatic health improvements that it can 
+facilitate through the placebo effect.42 These benefits foreshadow aspects 
+38 Ralph W  Hood, Peter C Hill and Bernard Spilka, The Psychology of Religion: 
+An Empirical Approach (New Y ork: Guilford Press, 2009), p. 468.
+39 John Maltby, Christopher Alan Lewis and Liza Day, ‘Prayer and Subjective Well-
+Being: The Application of a Cognitive-Behavioural Framework’ , Mental Health, Religion 
+& Culture , 11 (2008), 119–29 <http://dx.doi.org/10.1080/13674670701485722> [accessed 
+12/02/2015].
+40 Ryan H. Bremner, Sander L. Koole and Brad J. Bushman, ‘“Pray for Those Who 
+Mistreat Y ou”: Effects of Prayer on Anger and Aggression’ , Personality and Social Psychology Bulletin , 37 (2011), 830–37 <http://dx.doi.org/10.1177/0146167211402215> 
+[accessed 12/02/2015]; Nathaniel M. Lambert, Frank D. Fincham, Dana C. LaVallee, and others, ‘Praying Together and Staying Together: Couple Prayer and Trust’ , Psychology of 
+Religion and Spirituality , 4 (2012), 1–9 <http://dx.doi.org/10.1037/a0023060> [accessed 
+12/02/2015].
+41 See for example, Nathaniel M. Lambert, Frank D. Fincham, Loren D. Marks, and 
+others, ‘Invocations and Intoxication: Does Prayer Decrease Alcohol Consumption?’ , Psychology of Addictive Behaviors , 24 (2010), 209–19 <http://dx.doi.org/10.1037/
+a0018746> [accessed 12/02/2015].
+42 Anne Harrington, ‘The Placebo Effect: What’s Interesting for Scholars of Religion?’ , 
+Zygon , 46 (2011), 265–80 <http://dx.doi.org/10.1111/j.1467-9744.2010.01188.x> 23
+THE COMMON-CORE/DIVERSITY DILEMMA
+of the ‘Normal/Objective Dilemma’ which will be discussed later. Even 
+more directly, however, they point forward to the second ‘naturalistic’ horn of our primary Dilemma.
+V . EMPIRICAL RESEARCH SUPPORTING  
+THE NATURALISTIC HORN OF THE CCDD
+The naturalistic  horn of our Dilemma – for obvious reasons – has far 
+more scope for support from empirical research. Indeed, as we shall see, important new research from the psychology of religion, religious studies, and the cognitive science of religion now offers the prospect of 
+persuasive naturalistic explanation for what appears to be a  ‘common 
+core’ of key religious phenomena such as religious experiences, afterlife beliefs, and the apparent perception of supernatural agency.
+Meditative and Introvertive Religious Experience
+According to the ‘perennial philosophy’ , a position espoused by scholars 
+such as William James,
+43 Walter Stace,44 and Ninian Smart,45 there 
+exists a  common core to religious experiences across human cultures and religious traditions. Opposing this, ‘constructivists’ or diversity theorists, such as Steven Katz
+46 and Wayne Proudfoot,47 have argued that 
+religious experiences are constructed by – or at least are not separable from  – language, culture, tradition, and context.
+48 More recently, we 
+have seen a resurgence of the common core position, riding a wave of new empirical evidence. It has also been recognised that a  common core position need not deny the role of language, culture, and context, 
+[accessed 12/02/2015].
+43 William James, The Varieties Of Religious Experience: A Study In Human Nature 
+(New Y ork: Longmans Green and Co., 1902).
+44 W . T. Stace, Mysticism and Philosophy (Philadelphia: Lippincott, 1960).
+45 Ninian Smart, ‘Interpretation and Mystical Experience’ , Religious Studies , 1 (1965), 
+75–87 <http://dx.doi.org/10.1017/S0034412500002341> [accessed 12/02/2015].
+46 Steven T. Katz, Mysticism and Philosophical Analysis (New Y ork: Oxford University 
+Press, 1978).
+47 Wayne Proudfoot, Religious Experience (Berkeley: University of California Press, 
+1985).
+48 For a  detailed critique, from a  humanistic perspective, of the philosophical 
+assumptions underpinning this position, see Gregory Shushan, ‘Extraordinary 
+Experiences and Religious Beliefs: Deconstructing Some Contemporary Philosophical Axioms’ , Method and Theory in the Study of Religion, in press.24
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+nor the role that cognitive appraisal and interpretative processes play in 
+shaping underlying experiences. Thus different cultural characteristics or objectives can be ‘mixed in’ , modulating the individual religious 
+experiences that are still, in fundamental ways, similar.
+49
+Further investigations into the biological basis of these experiences 
+has revealed that appropriately identified religious experiences appear to activate a family of neurobiological systems that are also involved in 
+non-religious functions.
+50 Ingesting entheogens like psilocybin under 
+appropriate conditions can also produce experiences qualitatively 
+indistinguishable from spontaneously occurring religious experiences,51 
+or from those induced by meditation and prayer.52 And psychometric 
+studies, making extensive use of the standard measurement of religious 
+or mystical experience,53 have shown factor structures supporting 
+the existence of a  common core to religious experience in samples of 
+Christian, Muslim, Hindu, and Buddhist populations, from different 
+continents and with varying understandings of the origin and nature of their experiences, from within their different cultural, religious, and linguistic traditions.
+54
+49 See the following for detailed review and discussion: Ralph W . Hood Jr, Peter C. Hill 
+and Bernard Spilka, The Psychology of Religion, Fourth Edition: An Empirical Approach 
+(New Y ork: Guilford Press, 2009); Ann Taves, Religious Experience Reconsidered: A Building-Block Approach to the Study of Religion and Other Special Things (Princeton: Princeton University Press, 2009).
+50 Alexander A. Fingelkurts and Andrew A. Fingelkurts, ‘Is Our Brain Hardwired to 
+Produce God, or Is Our Brain Hardwired to Perceive God? A Systematic Review on the Role of the Brain in Mediating Religious Experience’ , Cognitive Processing , 10 (2009), 
+293–326 <http://dx.doi.org/10.1007/s10339-009-0261-3> [accessed 12/02/2015].
+51 R. R. Griffiths and others, ‘Psilocybin Can Occasion Mystical-Type Experiences 
+Having Substantial and Sustained Personal Meaning and Spiritual Significance’ , Psychopharmacology , 187 (2006), 268–83 <http://dx.doi.org/10.1007/s00213-006-0457-
+5> [accessed 12/02/2015]; Walter N. Pahnke, ‘Drugs and Mysticism’ , International Journal of Parapsychology , 8 (1966), 295–313.
+52 David E. Nichols and Benjamin R. Chemel, ‘The Neuropharmacology of Religious 
+Experience: Hallucinogens and the Experience of the Divine’ , in Where God and Science Meet: How Brain and Evolutionary Studies Alter Our Understanding of Religion (Westport, CT: Praeger, 2006), iii, pp. 1–33.
+53 Ralph W . Hood, ‘The Construction and Preliminary Validation of a  Measure of 
+Reported Mystical Experience’ , Journal for the Scientific Study of Religion, 14 (1975), 29–41.
+54 Francis-Vincent Anthony, Chris A. M. Hermans and Carl Sterkens, ‘ A Comparative 
+Study of Mystical Experience among Christian, Muslim, and Hindu Students in Tamil Nadu, India’ , Journal for the Scientific Study of Religion, 49 (2010), 264–77 <http://dx.doi.25
+THE COMMON-CORE/DIVERSITY DILEMMA
+It now appears that much past confusion surrounding religious 
+experience derived partly from a  poor taxonomic understanding of 
+the phenomena. More recently, both religious55 and neuroscientific56 
+studies have converged towards a consensus that ‘religious experience’ represents a  heterogeneous group of phenomena that must be 
+disaggregated in order to be systematically investigated. By focusing on specific features that identify different parts and types of experience, it seems that stronger evidence might emerge for a common, biologically 
+based, core within these types. One example is that of ‘introvertive 
+mystical experience’ . Identified as unity devoid of content, or as ‘pure consciousness’ , it arguably must represent a  tradition-transcending ‘common core’ since it is an  emptying  experience – wordless, thoughtless, 
+and not constructed by language.
+57 Although more work needs to be 
+done on this topic, when Andrew Newberg and colleagues conducted 
+a  comparative neuroimaging study on Franciscan nuns praying and 
+Tibetan monks meditating to achieve this state, both groups showed decreased activity in the orientation association area of the parietal lobe.
+58 This part of the brain’s right hemisphere provides the sense of 
+body and spatial orientation, so when it shuts down, the body seems 
+no longer aware of its boundaries or of space and time, making the self 
+appear to merge with all things. This work illustrates how taxonomically informed and specifically targeted neuroscientific research into various types of ‘religious experience’ offers promising prospects for further 
+confirmation of the common core thesis. But as we shall see, there is 
+org/10.1111/j.1468-5906.2010.01508.x> [accessed 12/02/2015]. Zhuo Chen, Ralph W . 
+Hood, Jr, Lijun Y ang, and P . J. Watson, ‘Mystical Experience Among Tibetan Buddhists: The Common Core Thesis Revisited’ , Journal for the Scientific Study of Religion, 50 (2011), 328–38 <http://dx.doi.org/10.1111/j.1468-5906.2011.01570.x> [accessed 08/03/2015].
+55 Ann Taves, Religious Experience Reconsidered: A  Building-Block Approach to the 
+Study of Religion and Other Special Things (Princeton: Princeton University Press, 2009).
+56 Fingelkurts and Fingelkurts, ‘Is Our Brain Hardwired to Produce God, or Is Our 
+Brain Hardwired to Perceive God? A  Systematic Review on the Role of the Brain in Mediating Religious Experience’ .
+57 Robert K. C. Forman, The Problem of Pure Consciousness : Mysticism and Philosophy 
+(New Y ork ; Oxford: Oxford University Press, 1990); Robert K. C. Forman, The Innate 
+Capacity: Mysticism, Psychology, and Philosophy (New Y ork: Oxford University Press, 1998).
+58 Andrew Newberg and others, ‘Cerebral Blood Flow during Meditative Prayer: 
+Preliminary Findings and Methodological Issues’ , Perceptual and Motor Skills, 97 (2003), 625–30 <http://dx.doi.org/10.2466/pms.2003.97.2.625> [accessed 12/02/2015].26
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+already persuasive new evidence both within and outside the lab that 
+some other types of religious experience have a tradition-transcending cause that is likely of natural origin.
+Near-Death Experiences and the Universal Origin of Afterlife Beliefs
+As the name of the category suggests, near-death experiences (NDEs) involve a  recognised core of phenomena, and they are interpreted as religious within many different traditions. Gregory Shushan has recently 
+produced an  important survey of five major, geographically distant, 
+linguistically isolated, early world traditions with little or no known cultural influence on each other.
+59 Analyzing diverse written accounts 
+of afterlife beliefs from Old and Middle Kingdom Egypt, Sumeria and Old Babylonian Mesopotamia, India, Pre-Buddhist China, and Pre-Columbian Mesoamerica, he demonstrates that the same nine features 
+of NDEs are found with striking consistency.
+60 Shushan has also, with 
+similar results, extended these findings to anthropological data on 
+extremely isolated indigenous groups from several parts of the world in 
+modern history.61
+Making this material even more threatening to first-order super -
+naturalism is Shushan’s documentation that a  substantial number of these more modern groups (that have ethnographic records or can be 
+queried) directly state that NDEs are the origin of their beliefs concerning the afterlife  – the same causal chain of NDEs leading to new-found belief 
+in the afterlife that is commonly witnessed in modern medical settings.
+62 
+Contemporary clinical experience independently corroborates the 
+existence of a cross-culturally consistent common core to NDEs which, 
+59 Gregory Shushan, Conceptions of the Afterlife in Early Civilizations: Universalism, 
+Constructivism and Near-Death Experience (London; New Y ork: Continuum International 
+Publishing Group, 2009), vi.
+60 Namely: Out-of-body experience (OBE), viewing of one’s body, entering/emerging 
+from darkness, encounters with ancestors or dead relatives, presence of beings of light, judgement/evaluation (or life review), reaching obstacles/barriers or limits, journeys to other realms (home or origin), and experience of ‘oneness’ and association of self with ultimate reality or the divine.
+61 Gregory Shushan, ‘Near-Death Experience and the Origins of Afterlife Beliefs’ 
+(presented at the Ian Ramsey Centre Seminar Series on Science and Religion, University of Oxford, 2012).
+62 Pirn van Lommel and others, ‘Near-Death Experience in Survivors of Cardiac 
+Arrest: A Prospective Study in the Netherlands’ , The Lancet , 358 (2001), 2039–45 <http://
+dx.doi.org/10.1016/S0140-6736(01)07100-8> [accessed 12/02/2015].27
+THE COMMON-CORE/DIVERSITY DILEMMA
+being observed in both children and adults,63 including atheists and even 
+the congenitally blind,64 seems universal and unconditioned by partic-
+ular beliefs or past experience. Further demonstrating the fallibility of 
+the supernaturalist conclusions that people are likely to draw from such 
+an  experience, Thomas Metzinger’s research suggests that people who have a similar experience – no matter how it happens or may be falsely induced – will, for example, feel as though they genuinely left their body.
+65
+Many researchers have turned their attention to NDEs over the 
+last decade or so, with a  wide range of competing physiological and 
+psychological hypotheses vying to account for them.66 Since these 
+experiences are associated with extreme physical trauma (involving sense organs, blood flow, breathing, neurotransmitters and brain 
+chemistry etc.), often combined with mental stress (including pain, fear, panic, thoughts of mortality etc.) and then followed by physiological and psychological relief as the patient recovers,
+67 it is not surprising that 
+there are plenty of potential explanatory candidates. So although there 
+is as yet no comprehensive and generally agreed explanation of near-
+death experiences, it seems likely that some such naturalistic explanation (or combination of explanations) will eventually be forthcoming.
+68 
+The alternative supposition – that they involve genuine perceptions of 
+supernatural encounters with God, ancestors, or other spirits – seems 
+by contrast metaphysically extravagant, and is hard to square with the range of interpretation to which they are subject, depending on the religious tradition. Admittedly the interpretation given often fits well 
+63 Enrico Facco and Christian Agrillo, ‘Near-Death Experiences between Science 
+and Prejudice’ , Frontiers in Human Neuroscience, 6 (2012) <http://dx.doi.org/10.3389/
+fnhum.2012.00209> [accessed 12/02/2015].
+64 Mark Fox, Religion, Spirituality, and the Near-Death Experience (London; New 
+Y ork: Routledge, 2003).
+65 Thomas Metzinger, ‘Out-of-Body Experiences as the Origin of the Concept of 
+a Soul’ , Mind and Matter, 3 (2005), 57–84.
+66 Facco and Agrillo, ‘Near-Death Experiences between Science and Prejudice’ .
+67 NDEs are reported, of course, only by those who recover sufficiently to tell about 
+the experience, and temporal memory cannot be relied upon in these circumstances; hence some symptoms of NDEs may have their source in the period of recovery, even if they are self-ascribed to ‘the moment of death’ .
+68 Lack of agreement concerning naturalistic explanations is perfectly normal early 
+in scientific investigations, and consensus might be particularly difficult to achieve in regard to NDEs, given that they involve such a complex variety of interrelated and poorly understood medical, physiological and psychological factors.28
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+with the religious tradition in question, so it is not surprising that these 
+experiences are commonly interpreted as evidence for supernaturalism. But any such evidence is further undermined if Shushan’s conclusion is 
+correct, that religious conceptions of the afterlife have themselves been 
+fashioned to fit with NDEs. The upshot is that one of the major features of supernatural belief systems – the belief in spirits and life after death – harmonises well with the perspective informing the Common-Core/Diversity Dilemma. Here the diversity in detail of afterlife beliefs tends 
+to undermine them all as revelatory of metaphysical truth, while their 
+similarities point, not towards a genuinely supernatural basis, but rather, towards a common natural cause: the human experience of NDEs across all cultures and epochs.
+Attribution of Events to Supernatural Agents
+Recent research in the cognitive science of religion also provides 
+a  persuasive naturalistic explanation for the near-universal tendency to attribute events to supernatural agents. Previous studies had often explored these phenomena in the same manner as paranormal beliefs 
+(e.g. déjà vu, telepathy, clairvoyance, extrasensory perception) and in 
+relation to things like personality extremes and psychosis-proneness.
+69 
+Such research indicated, for example, that belief in miraculous events 
+and/or paranormal phenomena is associated with tendencies towards magical thinking and the finding of meaning in coincidences or randomly generated patterns.
+70 In particular, such beliefs appear to 
+be independently associated, in some populations, with a  measurably 
+69 Andrew M. Greeley, The Sociology of the Paranormal: A Reconnaissance, Studies in 
+Religion and Ethnicity (Beverly Hills, California: Sage Publications, 1975); Michael A. Thalbourne, ‘ An Attempt to Predict Precognition Scores using Transliminality-Relevant Variables’ , Journal of the Society for Psychical Research, 61 (1996), 129–40.
+70 Paola Bressan, ‘The Connection between Random Sequences, Everyday 
+Coincidences, and Belief in the Paranormal’ , Applied Cognitive Psychology , 16 (2002), 
+17–34 <http://dx.doi.org/10.1002/acp.754> [accessed 12/02/2015]. For a review of recent studies considering how this and other biases (e.g. transliminality, suggestibility, and false memory) foster paranormal belief, see Christopher C. French and Krissy Wilson, ‘Cognitive Factors Underlying Paranormal Beliefs and Experiences’ , in Tall Tales about the Mind and Brain: Separating Fact from Fiction, ed. by Sergio Della Sala (New Y ork: Oxford University Press, 2007), pp. 3–22; and Peter Brugger and Christine Mohr, ‘The Paranormal Mind: How the Study of Anomalous Experiences and Beliefs May Inform Cognitive Neuroscience’ , Cortex , 44 (2008), 1291–98 <http://dx.doi.org/10.1016/j.
+cortex.2008.05.008> [accessed 12/02/2015].29
+THE COMMON-CORE/DIVERSITY DILEMMA
+biased representation of randomness and chance, and the tendency 
+to perceive coincidences disproportionately within one’s own life.71 At 
+best, however, these studies explain some of the variation we observe in 
+supernatural beliefs due to extremes in individual differences. Only with 
+the arrival of the cognitive science of religion have we come closer to 
+a persuasively comprehensive set of cognitive explanations for why such supernatural beliefs have been the norm  across cultures and throughout 
+human history. Several proposed psychological mechanisms are relevant, but the two most important – both of them entirely normal rather than pathological  – are the hypersensitive  (or hyperactive ) agency detection 
+device  and theory of mind .
+Our hypersensitive agency detection device (HADD)
+72 is the human 
+cognitive operator that has been postulated to explain why it is normal for us to see agency rather than randomness everywhere in the world around us: why we see faces in clouds, attribute illness and bad weather to witchcraft, and perceive the hand of fate in our lives rather than the action of abstract and impersonal forces. The evolutionary advantage of 
+its hyperactivity is commonly explained with the observation that the 
+cost of perceiving more agents than actually exist (e.g. mistaking wind in the tall grass for a predator) is low, while perceiving too few agents (e.g. mistaking a predator for wind) would, at some point, be fatal. Given that humans evolved in a  world where a  very high proportion of the preventable threats were indeed from perceivable agents – either animal or human – this theory seems entirely plausible.
+Theory of mind  (ToM) refers to the capacity to attribute mental 
+states  – such as beliefs, desires, and intentions  – to oneself and to others.
+73 Although the existence of fully-developed ToM in non-human 
+animals is controversial,74 in humans it is clearly a  normal, pervasive 
+71 Paola Bressan, Peter Kramer and Mara Germani, ‘Visual Attentional Capture 
+Predicts Belief in a  Meaningful World’ , Cortex , 44 (2008), 1299–1306; Jochen Musch 
+and Katja Ehrenberg, ‘Probability Misjudgment, Cognitive Ability, and Belief in 
+the Paranormal’ , British Journal of Psychology, 93 (2002), 169–77 <http://dx.doi.
+org/10.1348/000712602162517> [accessed 12/02/2015].
+72 Justin L. Barrett, Why Would Anyone Believe in God? (Walnut Creek, CA: AltaMira 
+Press, 2004).
+73 David Premack and Guy Woodruff, ‘Does the Chimpanzee Have a  Theory of 
+Mind?’ , Behavioral and Brain Sciences, 1 (1978), 515–26 <http://dx.doi.org/10.1017/
+S0140525X00076512> [accessed 12/02/2015].
+74 Josep Call and Michael Tomasello, ‘Does the Chimpanzee Have a  Theory of 
+Mind? 30 Y ears Later’ , Trends in Cognitive Sciences, 12 (2008), 187–92 <http://dx.doi.30
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+influence on the interpretation of events and behaviour. Like the HADD, 
+ToM also has a  very plausible evolutionary explanation, drawing on 
+the ‘social brain hypothesis’ that humanity’s success as a species results 
+from the evolution of mental capacities that allow us to navigate the complex social and cooperative problems that arise through co-existing in larger – numerically safer and more powerful – communities.
+75 But as 
+with the hyperactivity evident in our HADD, we consistently overextend 
+ToM, projecting humanlike qualities of consciousness even to inanimate 
+objects and abstract forces, and are thus predisposed to see gods, spirits, witches and other agents – whether visible or invisible – acting in the world. Along with near-death and out-of-body experiences, and other 
+disembodied experiences such as dreams, the naturalness with which 
+ToM impels us to continue extending consciousness to the dead provides another clear foundation for humanity’s common predilection for belief in the afterlife.
+76 When we naturally speak of things like a car that did not 
+‘want to run’ or an ‘angry storm’ , we are witnessing the excessive (albeit 
+entirely normal) anthropomorphizing operation of ToM, a  process 
+which makes it perfectly understandable that we should also worry about offending unseen beings or appeasing the invisible dead.
+To summarize, HADD and ToM together lead us to find specific 
+kinds of meaning and design in randomness, to see the action of invisible agents even in unplanned, non-intentional processes, and to attempt to relate to such agents as we would to other intentional beings. Working together, these two processes  – all by themselves  – seem to 
+provide a reasonably persuasive naturalistic explanation for the belief in 
+invisible, intelligent supernatural agents like the gods and spirits found universally across human cultures. And a growing number of studies are 
+adding further support to these theories. For instance, young children 
+exhibit ‘promiscuously teleological thinking’ ,
+77 taking the existence of 
+mountains to be explained by the purpose of giving animals something 
+org/10.1016/j.tics.2008.02.010> [accessed 12/02/2015].
+75 Robin I. M. Dunbar, ‘The Social Brain Hypothesis’ , Brain , 9 (1998), 10; Michael 
+Tomasello, The Cultural Origins of Human Cognition (Cambridge, MA: Harvard 
+University Press, 1999).
+76 Jesse Bering, The Belief Instinct: The Psychology of Souls, Destiny, and the Meaning of 
+Life (New Y ork: W .W . Norton, 2012).
+77 Deborah Kelemen, ‘ Are Children “Intuitive Theists”? Reasoning About Purpose 
+and Design in Nature’ , Psychological Science , 15 (2004), 295–301 <http://dx.doi.org/10.11
+11/j.0956-7976.2004.00672.x> [accessed 12/02/2015].31
+THE COMMON-CORE/DIVERSITY DILEMMA
+to climb. And the naturalness of such thinking has also been confirmed 
+by other studies, such as those showing how Alzheimer’s patients revert 
+to it when their disease strips away the more sophisticated thinking 
+that they have previously learned through their education,78 while even 
+professional scientists tend to default to teleological thinking when 
+placed under time pressure.79
+Of further relevance to religion is a close relationship between agency 
+detection and social emotions, as seen in studies showing that inducing loneliness increases belief in the supernatural and in the tendency to 
+anthropomorphise objects.
+80 One recent brain-imaging study has also 
+shown how ToM relates directly to theistic belief: neural activation 
+patterns confirm that devout Christians actually do think of God 
+as a  person rather than an  abstract entity, recruiting the same social-
+cognition brain areas during prayer that they do when talking to a good 
+friend.81 And still other studies have revealed our increased tendency 
+to see illusory patterns, including non-existent agents, when we are 
+made to feel that we lack control of our lives or immediate situation.82 
+This mounting tally of empirical evidence has clearly demonstrated the naturalness and instinctiveness of our agent-oriented, anthropomorphic 
+bias, and also its shaping influence both on supernatural belief and on 
+other aspects of our thoughts and feelings. As we shall soon see, other 
+pervasive cognitive biases also have an  important role to play in the 
+understanding of religious phenomena, and of the relationship between 
+rationality and human religious beliefs.
+78 Tania Lombrozo, Deborah Kelemen, and Deborah Zaitchik, ‘Inferring Design 
+Evidence of a  Preference for Teleological Explanations in Patients with Alzheimer’s 
+Disease’ , Psychological Science , 18 (2007), 999–1006 <http://dx.doi.org/10.1111
+/j.1467-9280.2007.02015.x> [accessed 12/02/2015].
+79 Deborah Kelemen, Joshua Rottman, and Rebecca Seston, ‘Professional Physical 
+Scientists Display Tenacious Teleological Tendencies: Purpose-Based Reasoning as a Cognitive Default’ , Journal of Experimental Psychology: General, 142:4 (2013), 1074-1083.
+80 Nicholas Epley, Adam Waytz, and John T. Cacioppo, ‘On Seeing Human: A Three-
+Factor Theory of Anthropomorphism’ , Psychological Review , 114 (2007), 864–86 <http://
+dx.doi.org/doi: DOI: 10.1037/0033-295X.114.4.864> [accessed 12/02/2015].
+81 U. Schjoedt and others, ‘Highly Religious Participants Recruit Areas of Social 
+Cognition in Personal Prayer’ , Social Cognitive and Affective Neuroscience, 4:2 (2009), 
+199-207 <http://dx.doi.org/10.1093/scan/nsn050> [accessed 12/02/2015].
+82 Jennifer A. Whitson and Adam D. Galinsky, ‘Lacking Control Increases 
+Illusory Pattern Perception’ , Science , 322 (2008), 115–17 <http://dx.doi.org/10.1126/
+science.1159845> [accessed 12/02/2015].32
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+VI. THE COMMON CLAIM OF UNCOMMON AUTHORITY
+The two horns of our Common-Core/Diversity Dilemma focus 
+respectively on the opposition between the distinctive features of various 
+religions, and the commonality that can be found in their ‘core’ features. 
+Y et these contrasting aspects come together in the common tendency of religions to claim special or even unique authority for their distinctive doctrines. Here we can appeal to the naturalistic strand of our discussion to explain why religions are so assertive and persistent in their claims to special authority, even in the face of obvious disagreement from countless competing faiths. We shall find that aspects of their very commonality explain this phenomenon of enduring opposition.
+Egocentric and Confirmation Bias
+Among the most powerful and pervasive biases generally distorting human perceptions, interpretations, and judgements are the various manifestations of human egocentric need and perspective. As a general term, ‘egocentric bias’ can refer to a variety of processes related to the ‘self ’ and its needs that help shape our experience, understanding, interpretations, and basic motivations. Such bias helps to explain, for example, the typical judgement that one has done more than one’s fair share of work on a project, and the common – but often false – perception that one’s beliefs or actions are the most natural and appropriate.
+83
+Another set of related and overlapping processes, referred to as 
+‘selective perception’ , involves the general tendency to view situations from one particular frame of reference or to attend to some details and not others. One classic study of selective perception, involving a particularly violent football game between Dartmouth and Princeton, anatomised how partisan observers seemed to have witnessed two entirely different games.
+84 Selective exposure and attention to only 
+certain sources of information  – namely, those that are unlikely to conflict with our pre-existing beliefs – compounds this problem further and shapes our choices of friends and news sources as well as social, religious, and political affiliations.
+85 These examples are closely related to 
+83 Michael Ross and Fiore Sicoly, ‘Egocentric Biases in Availability and Attribution’ , 
+Journal of Personality and Social Psychology, 37:3 (1979), 322-36.
+84 Albert H. Hastorf and Hadley Cantril, ‘They Saw a Game: A Case Study’ , The Journal 
+of Abnormal and Social Psychology, 49 (1954), 129-34.
+85 Kate Sweeny et al., ‘Information Avoidance: Who, What, When, and Why’ , Review of 
+General Psychology, 14 (2010), 340–53 <http://dx.doi.org/10.1037/a0021288> [accessed 33
+THE COMMON-CORE/DIVERSITY DILEMMA
+confirmation bias , an extraordinarily potent and pervasive phenomenon 
+that involves  – whether consciously or unconsciously  – the selective 
+gathering of information or its interpretation in ways that confirm rather than challenge our preconceived beliefs (thus linking selective perception to the drive to minimise cognitive dissonance).
+Numerous studies since Wason’s seminal work
+86 have demonstrated 
+that we pay vastly disproportionate attention to information that confirms our beliefs, and neglect the crucial truth-seeking act of attempting to disconfirm currently held views. More recently, however, brain-imaging studies have shown that when we have a strong emotional state motivating our reasoning (as commonly observed in political, religious, or other partisan thinking), our reasoning is qualitatively different from that seen in ‘cool’ reasoning tasks where emotion is being consciously regulated. Indeed, activation patterns in the aroused state suggest that we are being chemically rewarded for finding confirming evidence and for ignoring disconfirming information, regardless of its veracity.
+87 This 
+supports Nickerson’s striking assessment:
+If one were to attempt to identify a single problematic aspect of human 
+reasoning that deserves attention above all others, the confirmation bias would have to be among the candidates for consideration. Many have written about this bias, and it appears to be sufficiently strong and pervasive that one is led to wonder whether the bias, by itself, might account for a  significant fraction of the disputes, altercations, and misunderstandings that occur among individuals, groups, and nations.
+88
+Confirmation bias  – even without any other distorting effects  – casts 
+great doubt on our ability to reason reliably, especially when emotionally invested (as all sides typically are when addressing religious questions). But it also primes us to overlook other biases (such as the HADD and ToM discussed above) and to prefer their irrational results, thus compounding 
+other errors and prejudices, and helping to produce a  potent cocktail 
+12/02/2015].
+86 Peter C. Wason, ‘On the Failure to Eliminate Hypotheses in a Conceptual Task’ , 
+Quarterly Journal of Experimental Psychology: Comparative and Physiological Psychology, 12 (1960), 129–40.
+87 Drew Westen and others, ‘Neural Bases of Motivated Reasoning: An fMRI Study 
+of Emotional Constraints on Partisan Political Judgment in the 2004 US Presidential Election’ , Journal of Cognitive Neuroscience, 18 (2006), 1947–58.
+88 Raymond S. Nickerson, ‘Confirmation Bias: A Ubiquitous Phenomenon in Many 
+Guises. ’ , Review of General Psychology, 2 (1998), 175-220.34
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+of reason-contaminating effects. Even people applying the scientific 
+method,89 the best means yet devised to detect and correct such errors, 
+must be monitored carefully to reduce the effects and incidences of these biases,
+90 a fact acknowledged in the recognition that many kinds of trials 
+must be double -blind to be considered valid.
+The Need for Significance and Social Cohesion
+The interrelated biases mentioned so far also interact strongly with a  number of other processes and pressures that motivate individuals, cultures, and religious traditions to righteously assert their distinctiveness and importance in comparison to rivals. For example, the normal egocentric need for every individual to feel significant or special can be seen in the satisfaction of leader and proselyte in the perception that they are the ones that are right, chosen, or share special knowledge. We can add to this mix such familiar factors as childhood acceptance of authority, the social pressures of tradition and conformity, and processes of identity construction, not to mention the drive that most social organizations have to retain their identity and social influence.
+From an  evolutionary point of view, it is not at all surprising that 
+children naturally defer to the authority of adults and the traditions of their society. Indeed, humanity’s ability to copy effective behaviour (e.g. hunting, fishing, weaving, using astronomy to navigate or to schedule crop-planting) is a distinctive characteristic that has allowed us to succeed so extraordinarily as a  species.
+91 But beside these examples that have 
+instrumentally clear goals, there is a vast array of other cultural elements that every individual must also learn but which have no instrumental explanation beyond being simply the ‘way things are done’ in a  given 
+cultural context.
+92 Children have to learn the arbitrary meaning of 
+89 See Robert N. McCauley, Why Religion Is Natural and Science Is Not (New Y ork: 
+Oxford University Press, 2011), for a discussion of this issue relative to our topic.
+90 See, for example, Joseph P . Simmons, Leif D. Nelson and Uri Simonsohn, False-
+Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant  (Rochester, NY: Social Science Research Network, 23 
+May 2011) <http://papers.ssrn.com/abstract=1850704> [accessed 21/02/2014].
+91 Victoria Horner and Andrew Whiten, ‘Causal Knowledge and Imitation/Emulation 
+Switching in Chimpanzees (Pan troglodytes) and Children (Homo sapiens)’ , Animal Cognition , 8 (2005), 164–81 http://doi.org/10.1007/s10071-004-0239-6 [accessed 
+8/3/2015].
+92 Horner and Whiten, ‘Causal Knowledge and Imitation/Emulation Switching in 
+Chimpanzees (Pan troglodytes) and Children (Homo sapiens)’ , p.164.35
+THE COMMON-CORE/DIVERSITY DILEMMA
+numerous symbols – both linguistic and otherwise – as well as customs, 
+social etiquette, religious rituals, and fashion; thus they are faced with a world of unexplained or inexplicable cultural norms that for the most part must simply be accepted and learned by rote or through imitation.
+Learning all these arbitrary cultural elements is difficult and 
+extraordinarily costly in time and effort  – what purpose could justify such investment in the absence of direct instrumental or pragmatic value? Anthropology’s increasingly persuasive answer is social cohesion ,
+93 and 
+evolutionary theory concurs, particularly with regard to the central role of religion. Evolutionary theories of the origin of religion have ranged from viewing it as a  directly biologically-based adaptation promoting cooperation
+94 to seeing it as a  fuzzy category with no distinctive 
+biological basis, which merely incorporates the haphazard by-products of nonreligious cognitive processes.
+95 Between these two extremes is the 
+view that religion may have started as a by-product of other cognitive processes but then, once it emerged, became culturally selected and further developed due to its strong survival value.
+96 Some important 
+research has also recently suggested how religious beliefs might be related to the dual-processing model of normal human cognition,
+97 
+a  promising framework to integrate with some of the religion-related biases and evidential claims surveyed earlier.
+93 Harvey Whitehouse, ‘The Coexistence Problem in Psychology, Anthropology, 
+and Evolutionary Theory’ , Human Development , 54 (2011), 191–99 <http://dx.doi.
+org/10.1159/000329149> [accessed 12/02/2015].
+94 David Sloan Wilson, Darwin’s Cathedral: Evolution, Religion, and the Nature of 
+Society  (Chicago: University of Chicago Press, 2010).
+95 Pascal Boyer, Religion Explained: The Human Instincts That Fashion God, Spirits and 
+Ancestors  (London: Vintage, 2002); Harvey Whitehouse, Modes of Religiosity: A Cognitive 
+Theory of Religious Transmission  (Walnut Creek, CA: Rowman Altamira, 2004).
+96 Scott Atran and Joseph Henrich, ‘The Evolution of Religion: How Cognitive By-
+Products, Adaptive Learning Heuristics, Ritual Displays, and Group Competition Generate Deep Commitments to Prosocial Religions’ , Biological Theory , 5 (2010), 18–30. 
+For a useful survey of explanatory approaches to religion ‘as a solution to the challenge of cooperation’ , see Graham Wood, ‘Cognitive Science and Religious Belief ’ , Philosophy Compass , 6/10 (2011), 734-45.
+97 Nicolas Baumard and Pascal Boyer, ‘Religious Beliefs as Reflective Elaborations 
+on Intuitions: A  Modified Dual-Process Model’ , Current Directions in Psychological Science , 22 (2013), 295–300 <http://dx.doi.org/10.1177/0963721413478610> [accessed 
+26/02/2015].36
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+Various other perspectives also suggest that social cohesion is 
+a central function, and perhaps the primary raison d’être , of religion.98 
+The word ‘religion’ itself has a long etymological history tracing back to 
+the Latin root re-ligare meaning to bind  or connect . And it is common 
+for the religious to distrust atheists, fearing that society and its moral 
+values would fall apart without supernatural belief.99 There may, indeed, 
+be some degree of truth to this perception: reason-based social contracts 
+that constrain individual interests to promote cooperation are more 
+likely to fail than those with a  religious dimension, because in some 
+circumstances defection can become selfishly rational, with relatively limited and calculable egoistic consequences (at least if supernatural retribution is discounted).
+100
+Now it seems that we may not only have good naturalistic explanations 
+for central features that religious traditions hold in common, but also 
+common-core explanations for the processes that distinguish them and 
+impede their dialogue with other worldviews. Ultimately what much of this literature suggests is that while we might outwardly acknowledge that we  – whether as individuals, ‘tribe’ , or culture  – are not uniquely right  in what we think or do, inwardly we almost irresistibly tend to 
+think that we are.
+101 And this can apply just as much to naturalists as 
+supernaturalists. So if we are serious about pursuing self-understanding, interreligious dialogue, or rational evaluation of disagreement, we must systematically compensate for a potent set of cognitive biases every step 
+of the way, remaining constantly alert to our profound and pervasive 
+ability to deceive ourselves as well as others. As Benjamin Franklin once 
+98 Jesse Graham and Jonathan Haidt, ‘Beyond Beliefs: Religions Bind Individuals 
+Into Moral Communities’ , Personality and Social Psychology Review, 14 (2010), 140–50 
+<http://dx.doi.org/10.1177/1088868309353415> [accessed 12/02/2015].
+99 Penny Edgell, Joseph Gerteis and Douglas Hartmann, ‘ Atheists As “Other”: Moral 
+Boundaries and Cultural Membership in American Society’ , American Sociological 
+Review , 71 (2006), 211–34 <http://dx.doi.org/10.1177/000312240607100203> [accessed 
+12/02/2015].
+100 Scott Atran and Jeremy Ginges, ‘Religious and Sacred Imperatives in Human 
+Conflict’ , Science , 336 (2012), 855–57 <http://dx.doi.org/10.1126/science.1216902> 
+[accessed 12/02/2015]; Richard Sosis and Eric R. Bressler, ‘Cooperation and Commune Longevity: A Test of the Costly Signaling Theory of Religion’ , Cross-Cultural Research , 
+37 (2003), 211–39 <http://dx.doi.org/10.1177/1069397103037002003> [accessed 12/02/2015].
+101 Jonathan Haidt, The Righteous Mind: Why Good People Are Divided by Politics and 
+Religion  (New Y ork: Pantheon Books, 2012).37
+THE COMMON-CORE/DIVERSITY DILEMMA
+observed, ‘so convenient a thing it is to be a  reasonable creature , since it 
+enables one to find or make a reason for everything one has a mind to 
+d o’.102
+VII. NORMALITY , OBJECTIVITY , AND GROUP IDENTITY
+We have seen that there are many natural factors conducive to religious belief, and although some of these generate relevant sensory evidence (e.g. religious and near-death experiences), most act by biasing the subject’s judgement or interpretation of experience, particularly in the direction of attributing events to invisible intelligent powers, and generally in cultural conformity with their society and religious upbringing. Hence it is not surprising that supernaturalists have often been accused of being ‘cognitively challenged’ , a dismissive attitude that has sometimes drawn sustenance from studies showing a negative correlation between religiosity and intelligence.
+103 This effect, however, is small: a  meta-
+analysis of 63 studies suggests a  modest negative correlation between intelligence and religious beliefs of -0.24, with an even weaker negative correlation between intelligence and religious practices.
+104 Moreover, 
+large-scale studies controlling for relevant personality and demographic variables, like the US Christian sample analysed by G. J. Lewis et al., will likely continue to show that only about 1% of the variance even in fundamentalism is explained by intelligence; the percentage for less extreme religiosity  is a  fraction of that, and the relationship may 
+disappear entirely for spirituality .
+105 More importantly, even if religious 
+102 Benjamin Franklin, The Autobiography of Benjamin Franklin: With Related 
+Documents, ed. by Louis Masur, 2nd edn (New Y ork: Macmillan, 2003), p. 56.
+103 E.g. Sharon Bertsch and Bryan J. Pesta, ‘The Wonderlic Personnel Test and 
+Elementary Cognitive Tasks as Predictors of Religious Sectarianism, Scriptural Acceptance and Religious Questioning’ , Intelligence , 37 (2009), 231–37; Richard Lynn, 
+John Harvey and Helmuth Nyborg, ‘ Average Intelligence Predicts Atheism Rates across 137 Nations’ , Intelligence , 37 (2009), 11–15; C.L. Reeve, ‘Expanding the G-Nexus: 
+Further Evidence Regarding the Relations among National IQ, Religiosity and National Health Outcomes’ , Intelligence , 37 (2009), 495–505 <http://dx.doi.org/10.1016/j.
+intell.2009.06.003> [accessed 12/02/2015].
+104 Miron Zuckerman, Jordan Silberman and Judith A. Hall, ‘The Relation Between 
+Intelligence and Religiosity: A  Meta-Analysis and Some Proposed Explanations’ , Personality and Social Psychology Review, 17 (2013), 325–54 <http://dx.doi.org/10.1177/1088868313497266> [accessed 12/02/2015].
+105 G.J. Lewis, S.J. Ritchie and T.C. Bates, ‘The Relationship between Intelligence 
+and Multiple Domains of Religious Belief: Evidence from a  Large Adult US Sample’ , 38
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+believers were on average several IQ points lower than non-believers, the 
+obvious existence of so many extremely intelligent believers and equally 
+unintelligent atheists makes clear the weakness of any general statistical 
+argument for the irrationality of belief.
+In fact, a  similarly disparaging counter-argument may now be 
+attempted on the other side, suggesting that it is the disbeliever’s mind – 
+rather than that of the believer  – which is abnormal and somehow 
+deficient.106 In a  series of four studies on different populations, Ara 
+Norenzayan et al. have shown that deficits related to empathising and 
+theory of mind, as seen in persons with autism and those tending towards autism, were associated with significantly less belief in a personal God.
+107 In one such study, for instance, the participants with 
+autism were only 11% as likely as matched normal controls to strongly 
+endorse belief in God. But again, it is far too crude to assume that such 
+a correlation demonstrates a determining general tendency, or implies some significant deficit on the part of all non-believers.
+Other recent research might reframe this debate more helpfully. 
+Gordon Pennycook et al., for example, have shown that both religious 
+and paranormal belief can be partially explained by a  preference for 
+an  intuitive, as opposed to analytical, cognitive style  (rather than 
+a  difference in ability).
+108 Moreover, a  series of carefully constructed 
+studies on various samples has shown that levels of religious belief can 
+be reduced by triggering people to use their already-existing analytic 
+thinking abilities to solve unrelated problems.109 Thus it is vitally 
+important to distinguish those who selectively choose  not to think 
+Intelligence , 39 (2011), 468–72 <http://dx.doi.org/10.1016/j.intell.2011.08.002> [accessed 
+12/02/2015].
+106 E.g. Kelly Clark, ‘Is Atheism “Normal”? Reflections from the Cognitive Science 
+of Religion’ (Ian Ramsey Centre for Science and Religion, University of Oxford, 
+2013) <http://www.ianramseycentre.info/videos/atheism-normal-csr.html> [accessed 2/11/2013].
+107 Ara Norenzayan, Will M. Gervais and Kali H. Trzesniewski, ‘Mentalizing Deficits 
+Constrain Belief in a  Personal God’ , PLoS ONE, 7 (2012), e36880 <http://dx.doi.org/10.1371/journal.pone.0036880> [accessed 12/02/2015].
+108 Gordon Pennycook and others, ‘ Analytic Cognitive Style Predicts Religious 
+and Paranormal Belief ’ , Cognition , 123 (2012), 335–46 <http://dx.doi.org/10.1016/j.
+cognition.2012.03.003> [accessed 12/02/2015].
+109 Will M. Gervais and Ara Norenzayan, ‘ Analytic Thinking Promotes Religious 
+Disbelief ’ , Science , 336 (2012), 493–96 <http://dx.doi.org/10.1126/science.1215647> 
+[accessed 12/02/2015].39
+THE COMMON-CORE/DIVERSITY DILEMMA
+systematically or scientifically about religious matters , from those who 
+are simply incapable of doing so in general. Religiosity does not imply 
+intellectual weakness, but it can involve motivated cognition and/or changes in cognitive style that, from the outside, can easily be mistaken for weakness.
+110
+The suggestion that there is any place for choice  in this matter might 
+at first seem cognitively irresponsible, since it is commonly presupposed that epistemological duty requires us to ‘do our best’ to scout out the truth wherever it may lie. Against this presupposition, we have already remarked in §V how our hypersensitive agency detection device (HADD) 
+and theory of mind (ToM) – sources of major cognitive biases associated 
+with supernaturalist ‘irrationality’  – can be seen as evolutionarily 
+useful.
+111 Another nearly universal human irrationality, the optimistic 
+bias, likewise seems often to contribute to our individual and collective 
+achievement and well-being,112 precisely by systematically distorting our 
+judgements and perceptions in a positive direction. By contrast, studies 
+of the phenomenon of ‘depressive realism’ indicate that the clinically depressed commonly have a more accurate perception of reality, as seen for example when estimating odds of success in an undertaking.
+113 But 
+if depression is the price to pay for objectivity, then most of us would probably prefer to cling to our illusions, just as we might rationally prefer to be deceived if it would allow us to take full advantage of the healing powers of the placebo effect. Likewise, even if the considerations in §IV 
+110 See the following articles for discussion of motivated cognition and how individuals, 
+directed by their religious beliefs (and ideology more generally), change their cognitive 
+style or limit their thinking in some domains in order to help insulate cultural elements or aspects of their worldview from change: Branden Miller, ‘Recovering the Full Wealth of Conviction and Cognition: Psychology’s Modernist Critique of Fundamentalism in Postmodern Perspective’ , Journal of Faith and Science Exchange, 2 (1998), 91–103; John T. Jost and others, ‘Political Conservatism as Motivated Social Cognition. ’ , Psychological 
+Bulletin , 129 (2003), 339–75 <http://dx.doi.org/doi:10.1037/0033-2909.129.3.339> 
+[accessed 12/02/2015].
+111 Though it is important not to take for granted that traits which are adaptations  
+(arising from their usefulness in evolutionary history) will necessarily continue to be adaptive  (i.e. useful for us) in the modern context.
+112 E.g. Joelle C. Ruthig and others, ‘ Academic Optimistic Bias: Implications for 
+College Student Performance and Well-Being’ , Social Psychology of Education , 10 (2007), 
+115–37 <http://dx.doi.org/10.1007/s11218-006-9002-y> [accessed 12/02/2015].
+113 Michael T. Moore and David M. Fresco, ‘Depressive Realism: A  Meta-Analytic 
+Review’ , Clinical Psychology Review , 32 (2012), 496–509 <http://dx.doi.org/10.1016/j.
+cpr.2012.05.004> [accessed 12/02/2015].40
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+and §V above intellectually persuade us that prayer and meditation 
+give no access to the divine, we might well decide not only to continue 
+with these practices but even to retain the refuted beliefs that underlie 
+them, if we consider that supernatural belief and religious observance can enhance happiness,
+114 increase longevity,115 and facilitate desirable 
+behavioural change such as recovery from addiction.116 Why should we 
+heed the calls to epistemological duty, when harsh scientific objectivity 
+is not only difficult and unnatural  – requiring years of education to 
+develop – but also apparently leads to mental anguish rather than health? To put this in terms of a second dilemma:
+117
+The Normal/Objective Dilemma
+If the psychological causes of religious belief are associated with normal, healthy, mental functioning and various positive (individual and social) outcomes, should these rationally weigh with us more heavily than objective epistemological considerations would allow?
+The social perspective introduced in §VI above is also particularly relevant 
+here, especially given recent evidence that it is the very irrationality  
+of religious beliefs that can make them so effective as means of social cohesion and community building. As Atran and Ginges suggest, ‘... costly and seemingly arbitrary ritual commitment to apparently absurd beliefs 
+deepens trust, galvanizing group solidarity for common defense and 
+blinding members to exit strategies’ .
+118 This would help to explain extreme 
+ritual practices (e.g. scarification, human sacrifice, genital mutilation, 
+and traumatising initiations) as well as exclusivist, fundamentalist-style 
+beliefs that seem oblivious to rational considerations. Groups holding 
+114 Ellen Childs, ‘Religious Attendance and Happiness: Examining Gaps in the Current 
+Literature – A Research Note’ , Journal for the Scientific Study of Religion, 49 (2010), 550–
+60 <http://dx.doi.org/10.1111/j.1468-5906.2010.01528.x> [accessed 12/02/2015].
+115 Michael E. McCullough and others, ‘Religious Involvement and Mortality: A Meta-
+Analytic Review’ , Health Psychology , 19 (2000), 211–22 <http://dx.doi.org/10.1037/0278-
+6133.19.3.211> [accessed 12/02/2015].
+116 Lambert, Fincham, Marks, and others, ‘Invocations and Intoxication: Does Prayer 
+Decrease Alcohol Consumption?’ .
+117 In the light of our earlier discussions, the Normal/Objective Dilemma can also be 
+expressed more generally as involving a choice between being more humanly ‘normal’ (by being irrational or biased in some respect), and being more ‘objective’ , ‘rational’ , or ‘unbiased’ (and thus more humanly ‘abnormal’ in this same respect), in contexts where each choice is likely to entail some unrecognised costs and/or benefits.
+118 Atran and Ginges, ‘Religious and Sacred Imperatives in Human Conflict’ , p. 855.41
+THE COMMON-CORE/DIVERSITY DILEMMA
+beliefs in fundamentalist ways tend to have a stronger sense of in-group 
+trust, belonging, order, and identity. They also, however, tend to be more 
+insular and xenophobic, and spend considerable time reaffirming and 
+reiterating beliefs that often seem quite unreasonable to others, precisely because those beliefs – which form the all-important basis of their in-group identity and community – are so vital to maintain.
+119
+Religion, Intergroup Conflict and Globalisation
+The dark side of the exclusivity and certainty that produces in-group cohesion is the conflict with out-groups and the common tendency to vilify the ‘other’ that it also creates. For most of human history, it has 
+been entirely typical to consider some of these ‘others’ as wholly ‘evil’ 
+people, often associated with a duty for the rest of ‘us’ to separate and then destroy them.
+120 Pluralist supernatural beliefs, as well as orthodox 
+religious teachings of tolerance, may neutralise or limit some of this 
+aggression and discrimination,121 but overall – as one meta-analysis of 
+race in the US has recently confirmed – it appears that the large majority of religious humanitarianism is still expressed towards our particular 
+in-group.
+122 And cross-cultural research is making it increasingly 
+clear that prejudice and religiosity tend to correlate with each another 
+across the globe,123 whether measured by self-report or more implicit 
+methods.124 The relationship is not, however, uncomplicated, and 
+119 Thornhill-Miller, ‘Recovering the Full Wealth of Conviction and Cognition: 
+Psychology’s Modernist Critique of Fundamentalism in Postmodern Perspective’ .
+120 Jordan B. Peterson, Maps of Meaning: The Architecture of Belief (New Y ork: 
+Routledge, 1999).
+121 Bruce Hunsberger, ‘Religion and Prejudice: The Role of Religious Fundamentalism, 
+Quest, and Right-Wing Authoritarianism’ , Journal of Social Issues, 51 (1995), 113–29 
+<http://dx.doi.org/10.1111/j.1540-4560.1995.tb01326.x> [accessed 12/02/2015].
+122 Deborah L. Hall, David C. Matz and Wendy Wood, ‘Why Don’t We Practice 
+What We Preach? A Meta-Analytic Review of Religious Racism’ , Personality and Social 
+Psychology Review , 14 (2010), 126–39 <http://dx.doi.org/10.1177/1088868309352179> 
+[accessed 12/02/2015].
+123 Peer Scheepers, Mèrove Gijsberts and Evelyn Hello, ‘Religiosity and Prejudice 
+against Ethnic Minorities in Europe: Cross-National Tests on a Controversial Relationship’ , Review of Religious Research , 43 (2002), 242–65 <http://dx.doi.org/10.2307/3512331> 
+[accessed 12/02/2015].
+124 Megan K. Johnson, Wade C. Rowatt and Jordan LaBouff, ‘Priming Christian 
+Religious Concepts Increases Racial Prejudice’ , Social Psychological and Personality Science , 1 (2010), 119–26 <http://dx.doi.org/10.1177/1948550609357246> [accessed 
+12/02/2015]; Jonathan E. Ramsay and others, ‘Rethinking Value Violation: Priming 42
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+a more fine-grained approach would seem to suggest that prejudice, in 
+general, is most strongly associated with the authoritarian aspects of 
+fundamentalism.  Nonetheless, some kinds of prejudice and conflict (e.g. 
+concerning homosexuals, women, or members of other religious groups) 
+often still seem directly associated with mere orthodoxy of religious 
+belief.125 All these trends are complicated by individual differences 
+in personality, context, and religious doctrine, but the overall picture 
+appears consistent: for some strong believers – often those most likely 
+to be strident and influential within a  devout community  – the very existence of other people living happily and well according to an entirely 
+different symbolic belief system can constitute a threat and a potential 
+source of aggression.
+126
+The wars, pogroms, and discrimination that result from in-group/
+out-group processes, are, of course, not the exclusive product of religion 
+or supernatural beliefs, since ideologies and tribalism of all kinds can 
+produce such divides. A war survey carried out by the BBC even suggests that non-religious absolutist ideologies and forms of tribalism have been 
+responsible for more war, death, and destruction in recorded history than purely religious motivations.
+127 But clearly supernatural belief 
+systems – and those that involve certainty and exclusivity in particular – 
+constitute a  significant part of the problem, especially when (beyond 
+the examples already cited) the mere implicit contextual presence of 
+religious symbols is shown to increase intergroup bias even among the 
+non-religious.128
+Religion Increases Prejudice in Singaporean Christians and Buddhists’ , International 
+Journal for the Psychology of Religion , 24 (2014), 1–15 <http://dx.doi.org/10.1080/105086
+19.2012.761525> [accessed 12/02/2015].
+125 Bruce Hunsberger and Lynne M. Jackson, ‘Religion, Meaning, and Prejudice’ , Journal 
+of Social Issues , 61 (2005), 807–26 <http://dx.doi.org/10.1111/j.1540-4560.2005.00433.x> 
+[accessed 12/02/2015].
+126 Jordan B Peterson and Metanexus Cogito, ‘Neuropsychology and Mythology of 
+Motivation for Group Aggression’ , Encyclopedia of violence, peace and conflict , 1999, 
+529–45.
+127 Greg Austin, Todd Kranock and Thom Oommen, ‘God and War: An  Audit 
+and an  Exploration’ , BBC, 2003. Available at: <http://news.bbc.co.uk/1/shared/spl/hi/
+world/04/war_audit_pdf/pdf/war_audit.pdf> [accessed 12/02/2015].
+128 Jordan P . LaBouff and others, ‘Differences in Attitudes Toward Outgroups in 
+Religious and Nonreligious Contexts in a Multinational Sample: A Situational Context Priming Study’ , International Journal for the Psychology of Religion , 22 (2012), 1–9 <http://
+dx.doi.org/10.1080/10508619.2012.634778> [accessed 12/02/2015].43
+THE COMMON-CORE/DIVERSITY DILEMMA
+The rise over the past century of various forms of fundamentalist-style 
+religious belief in response to globalisation has recently crescendoed, 
+arguably becoming a  defining characteristic and source of conflict in 
+our age.129 Some progress has been made in understanding both the 
+conflicts between these extremist groups, and the collision course they 
+have set with the rest of the world. For example, various triggers of 
+uncertainty,130 meaning, or worldview threats, and reminders of death131 
+have all been shown to increase both religious zealotry and intergroup 
+prejudice. In the context of our vastly expanded destructive power, there 
+is particular danger in the current cocktail of clashing cultures, with a modern crisis of identity and meaning-making at its core.
+132 Overall, 
+then, if consideration of the practical benefit of holding religious beliefs 
+is admissible in the naturalism/supernaturalism debate, we would 
+argue that again there is much greater reason to discourage rather than encourage first-order supernaturalist beliefs. The in-group benefits to be 
+gained are outweighed by the actual and potential out-group damage. 
+And with such massive destructive power increasingly wielded around 
+the world, there is perhaps today no greater threat to humanity than intergroup conflict motivated by exclusivist and other-worldly religious thinking.
+133
+129 Branden Thornhill-Miller, ‘The Modern Missionary Position: The Psychology 
+of Fundamentalist Sects in Global Context’ (65th Annual Minns Lecture series, ‘The 
+Experience of Religious Varieties: Psychology of Religion for the 21st Century’ , Harvard University, Boston, MA, 2007), available at: <http://www.minnslectures.org/archive/
+thornhillmiller/thornhillmiller.html> [accessed 12/02/2015]; Michael B. Salzman, 
+‘Globalization, Religious Fundamentalism and the Need for Meaning’ , International Journal of Intercultural Relations, 32 (2008), 318–27 <http://dx.doi.org/10.1016/j.ijintrel.2008.04.006> [accessed 12/02/2015].
+130 Ian McGregor, Kyle Nash and Mike Prentice, ‘Reactive Approach Motivation 
+(RAM) for Religion’ , Journal of Personality and Social Psychology, 99 (2010), 148–61 
+<http://dx.doi.org/10.1037/a0019702> [accessed 12/02/2015].
+131 Zachary K. Rothschild, Abdolhossein Abdollahi and Tom Pyszczynski, ‘Does 
+Peace Have a  Prayer? The Effect of Mortality Salience, Compassionate Values, and Religious Fundamentalism on Hostility toward out-Groups’ , Journal of Experimental Social Psychology , 45 (2009), 816–27 <http://dx.doi.org/10.1016/j.jesp.2009.05.016> 
+[accessed 12/02/2015].
+132 Branden Thornhill-Miller, ‘The Modern Missionary Position: The Psychology of 
+Fundamentalist Sects in Global Context’ .
+133 Branden Thornhill-Miller, ‘Critical Factors for the Long-Term Survival of 
+Humanity’ , in Humanity 3000 Seminar Proceedings, 3, 1 vols. (Seattle, Washington: Foundation For the Future, 2001), pp. 49–50.44
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+VIII. RECONCILIATION, SECOND-ORDER RELIGION,  
+AND THE MAXIM OF THE MOON
+Since the Enlightenment, many Western intellectuals  – and social 
+scientists in particular  – have anticipated the death of religion as a  leftover relic of our primitive past and a  form of institutionalised ignorance.
+134 Recent experience, however, might suggest instead the 
+death of this ‘secularization hypothesis’ , as religious influence reasserts itself around the world and psychological research (some of which we have discussed) discovers why supernatural thinking is so ‘intuitive’ and so hard to eliminate even when the effort is made. Science and technology, once seen as religion’s executioners, continue their relentless advance into every corner of modern life. But supernaturalism, instead 
+of being displaced by scientific thinking, seems to find increasingly 
+sophisticated ways of coexisting with it in the various domains of everyday life, the two either accepted simultaneously, or hybridised, or used alternately (typically without conflict and often even without awareness).
+135 Such ‘explanatory coexistence’ , whereby humans appear to 
+understand the world in both  naturalistic and supernaturalistic terms, 
+can be conceptualised in various ways,136 but would seem irrational from 
+typical philosophical and scientific points of view. Harvey Whitehouse has argued, however, that instead of viewing supernaturalist thinking primarily in ‘intellectualist’ terms, as a rival attempt to make sense of the world, anthropological perspectives suggest that we should consider equally its ‘psychological’ impact (e.g. feelings of comfort and control in the face of uncertainty) and its ‘functionalist’ role (e.g. how it functions 
+to maintain and reproduce social institutions that meet individuals’ 
+134 Jeffrey K. Hadden, ‘Toward Desacralizing Secularization Theory’ , Social Forces , 65 
+(1987), 587-611 <http://dx.doi.org/10.2307/2578520> [accessed 12/02/2015]. However 
+David Hume, by far the most important philosophical source of religious scepticism over the period concerned, seems to have considered that ‘superstitious delusion’ will continue ‘as long as the world endures’ (E 10.2).
+135 E. Margaret Evans and Jonathan D. Lane, ‘Contradictory or Complementary? 
+Creationist and Evolutionist Explanations of the Origin(s) of Species’ , Human Development , 54 (2011), 144–59 <http://dx.doi.org/10.1159/000329130> [accessed 
+12/02/2015]; Paul L. Harris, ‘Conflicting Thoughts about Death’ , Human Development , 
+54 (2011), 160–68 <http://dx.doi.org/10.1159/000329133> [accessed 12/02/2015].
+136 Cristine H. Legare and Aku Visala, ‘Between Religion and Science: Integrating 
+Psychological and Philosophical Accounts of Explanatory Coexistence’ , Human Development , 54 (2011), 169–84 <http://dx.doi.org/10.1159/000329135> [accessed 
+12/02/2015].45
+THE COMMON-CORE/DIVERSITY DILEMMA
+biological needs).137 Functionally, naturalistic and supernaturalistic 
+thinking can be seen as outcomes of two different human learning 
+systems, the one oriented towards ‘understanding and managing physical-causal  relationships in a mechanistic fashion’ , and the other ‘concerned 
+with understanding and managing social relationships  in a  normative 
+and deferential fashion’ .
+138 So even though supernaturalist beliefs serve 
+poorly as explanations of how the world works, they might be seen as well-motivated – even ‘rational’ in a sense – if they function effectively to improve individual well-being and to supply the norms and customs that hold communities together.
+139
+Perhaps the various practical benefits of religion to the individual – 
+social support, sense of meaning and security, comfort in times of grief, prayer-placebo  – could equally well be delivered by non-supernatural means (e.g. non-religious group membership and forms of meditation, psychotherapy, etc.). However, as David Wulff summarises B.F. Skinner’s view expressed near his retirement, ‘Religion may be necessary for ordinary people ... [because some aspects of it] could be replaced only 
+through an extraordinary management effort’ .
+140 That is to say, the very 
+naturalness of religion gives some reason to doubt its easy replaceability, historically immersed as we are in well-established religious traditions whose rituals have evolved to fit human needs.
+141
+Faced with this situation, the idea of ‘coexistence’  – allowing both 
+science and religion to play an  important part in one’s life, without either threatening the other – may seem pragmatically attractive, even if of doubtful intellectual coherence. One problem here is that some of the desired effects of religious belief (e.g. in-group trust, reduction of existential uncertainty, prayer-placebo) appear to depend significantly 
+137 Harvey Whitehouse, ‘The Coexistence Problem in Psychology, Anthropology, and 
+Evolutionary Theory’ , p. 191.
+138 Whitehouse, ‘The Coexistence Problem in Psychology, Anthropology, and 
+Evolutionary Theory’ , p. 191.
+139 Scott Atran, In Gods We Trust: The Evolutionary Landscape of Religion (Oxford; 
+New Y ork: Oxford University Press, 2002).
+140 David M. Wulff, Psychology of Religion: Classic and Contemporary, 2nd edn 
+(Oxford, England: John Wiley and Sons, 1997), p. 135.
+141 But who can say how things might look and feel after another hundred or thousand 
+years of objective scientific enquiry and secular cultural development? For another 
+helpful review of the adaptive functions of religious traditions, and the challenges faced by sciences that would replace them, see Wulff, Psychology of Religion: Classic and Contemporary , pp. 156–8.46
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+on a firm, exclusivist-style certainty in one’s convictions. And particularly 
+in the light of our Common-Core/Diversity Dilemma, such certainty is extremely hard to reconcile with taking science and critical thinking at all seriously. It also, as we have seen, almost inevitably fosters  – at least amongst some individuals  – the out-group hostility which is so dangerous as even to represent a challenge to our collective survival in the modern context.
+Thus, from a rational, empirically-informed point of view, there seem 
+to be two plausible ways forward: walking a path either of scepticism or of reconciliation. The austere intellectual response to the considerations in this paper (more likely to appeal to the sceptical Humean) may be to ‘bite the bullet’ of cool, parsimonious reason and learn to live with a godless world, something that many unbelievers have apparently managed well and which might – with sustained effort and perhaps sensitive reshaping of social structures  – turn out to be possible for nearly all of us. The more subtle (and less intellectually straightforward) response is to abandon the competing dogmatisms of first-order supernaturalism and instead fall back onto an undogmatic version of its second-order cousin, 
+finding intimations of divinity in the general structures of the world and in our own religious instincts, while remaining fully committed to the enterprise of natural science. On this understanding of things, although creation is seen as ultimately  deriving from a supernatural source, that 
+source is distant and unknowable, and the role of science is to reveal the proximate foundation of our existence: the empirical universe through 
+whose causal processes we have been made. Thus even while believing that the world itself is ultimately created and sustained by a  guiding supernatural power, our scientific and historical enquiry can proceed in the same way as for the atheist, without resort to magical or supernatural intervention in the causal order.
+142
+142 Unless, of course, such first-order supernatural intervention turns out to be well 
+evidenced even in the teeth of sceptical considerations such as the Common-Core/Diversity Dilemma. Recall again that the Dilemma is empirically  based, and does not 
+rule out the possibility of future good evidence for first-order supernatural intrusions into nature. For a  more optimistic approach somewhat along these lines, see Kelly James Clark and Justin L. Barrett, ‘Reidian Religious Epistemology and the Cognitive Science of Religion’ , Journal of the American Academy of Religion, 79 (2011), 639-75, who suggest that our evolved tendencies to see purpose in the world constitute a non-specific ‘god-faculty’ (pp. 652-4) that can properly be ascribed default authority (on the principles of Thomas Reid), but can also be supported by personal religious experience (pp. 667-70).47
+THE COMMON-CORE/DIVERSITY DILEMMA
+As explained in the introduction to this paper, such second-order 
+supernaturalism has become increasingly attractive in recent years, 
+owing to developments not only in the psychology  of religion but also 
+in the philosophy  of religion, where the Fine Tuning Argument points in 
+precisely this direction. Unsurprisingly, the assessment of the argument is disputed, but we doubt that it is decisively refutable given the current state of knowledge,
+143 as long as its conclusion is suitably restricted.144 
+Moreover, some popular attempts to rebut it appeal to the idea of selection effects operating over a multitude of universes, a controversial view which goes radically beyond any experienced reality and could perhaps reasonably be considered metaphysically extravagant.
+145 This 
+position might well change, however, and in the future – possibly a distant future  – the development of physics will probably either strengthen or weaken the argument, for example by either corroborating the naturalistic inexplicability of the ‘anthropic coincidences’ , by explaining them away, or by vindicating the notion of an evolutionary or selective multiverse. But in the meantime, it is not obviously unreasonable  to base 
+one’s religious commitments on this optimistic second-order theistic view, as long as it remains unrefuted and seems to bring substantial psychological and social benefits. Perhaps by the time human physics has settled this issue, we shall also be in a better situation to judge how well different aspects of human society can cope without religion (for better or worse).
+Those who pursue this second-order path will be faced with the 
+question of how to reap the desirable benefits of religion while remaining 
+143 A contrast with other traditional theistic arguments, since we view Ontological 
+Arguments as logically refutable (Peter Millican, ‘The One Fatal Flaw in Anselm’s 
+Argument’ , Mind , 113 (2004), 437–76), Cosmological Arguments as vitiated by their 
+reliance on general principles that seem initially plausible but go hugely beyond the scope 
+of our experience, and Moral Arguments as founded on meta-ethical views that are both 
+dubious in themselves and hostage to naturalistic accounts of morality. But these topics are obviously too big to discuss further here.
+144 For example, we doubt whether the Argument can legitimately be taken to point 
+towards a  morally perfect  creator, given that a morally defective (or indifferent) creator 
+might equally be motivated to create a finely-tuned universe. For more brief remarks on its strengths and weaknesses, see Peter Millican, ‘Critical Survey of the Literature on Hume and the First Enquiry ’ , in Reading Hume on Human Understanding , ed. by Peter 
+Millican (Oxford: Clarendon Press, 2002), pp. 413–74 (pp. 460–1).
+145 Hence dismissal of the Fine Tuning Argument on this basis cannot so easily claim 
+the traditional atheistic virtue of ontological parsimony.48
+BRANDEN THORNHILL-MILLER & PETER MILLICAN
+above the first-order fray of disagreement, irrationality, and dogmatism. 
+But in seeking a means of religious expression – both in thought and 
+action  – they will inevitably be drawn towards religious language 
+and practices that differentiate them from others pursuing a  similar 
+path elsewhere in the world, often without being able to provide any 
+convincing rationale for these differences (for reasons explained in this paper).
+146 The obvious prescription is for an undogmatic and non-
+prejudicial acceptance of these differences as cultural preferences rather 
+than matters of existential conflict. And crucially, such acceptance is far 
+easier to achieve at the second-order level, for here the divine is taken to provide the source and sustenance of nature in general, rather than 
+a causal agent influencing human history directly through specific (and 
+cross-culturally disputed) actions, commandments, and sacred texts.
+One way of conceptualising this undogmatic approach to cultural 
+religious practices is based on the oral teachings attributed to the Buddha in the Surangama Sutra . Formulated as a general principle that 
+has been dubbed the ‘Maxim of the Moon’ ,
+147 it cautions us against the 
+blinding force of human cognitive bias by suggesting that all our pursuits 
+of knowledge – including all our religions – are like ‘fingers pointing at 
+the moon’ . The problem is that too often we mistake our own finger for the moon and allow it to eclipse our view. The moon, like the Truth, is 
+a distant, intangible beauty that we cannot bring fully into our presence, 
+and as the psychological literature now so richly illustrates, when we try to apprehend it, rather than sharing a pure vision of what is really there, 
+much of what we find is instead a shadowy reflection of our own, limited 
+self. It is, however, both a fundamental scientific objective and a basic 
+religious teaching that we should strive to see beyond our own ‘pointing 
+fingers’ , in order to reach more truth in what they so emphatically attempt to indicate.
+146 This is not to say that religious language and practice will be taken uncritically 
+from the prevailing culture, making second-order religion outwardly indistinguishable 
+from its first-order source. For example, this undogmatic second-order approach is likely 
+to put considerably more emphasis on inclusive religious ritual – in which people can participate whatever their belief – than on the recitation of creeds designed to exclude the unorthodox.
+147 Branden Thornhill-Miller, ‘We Sing the Body Eclectic’ , First and Second Church in 
+Boston  (Boston, Massachusetts: WERS 88.9 FM, 1996); Thornhill-Miller, ‘The Modern 
+Missionary Position: The Psychology of Fundamentalist Sects in Global Context’ .49
+THE COMMON-CORE/DIVERSITY DILEMMA
+How much of the moon is genuinely revealed by our cultural 
+religious pointers, and how much eclipsed by them, is very unclear. In 
+respect of first-order supernaturalism , however, the Common-Core/
+Diversity Dilemma suggests that once we have rationally removed all the overlapping fingers associated with our different religions, there may 
+be no distinguishing traits left to view. From this perspective, first-order supernaturalism would now appear to be more a trick of the light than 
+any solid reality, a tapestry of seductive visions perhaps, but considerably 
+less helpful, necessary, or convincing today than in our human past. But there may be another vision of the moon, as a luminous, second-order 
+ultimate reality of some kind that yet lies beyond the comprehension of all our individual efforts to point to it. We have seen how first-order religions, as inspired and inspiring human products, collectively reveal 
+a great deal about us. In thus helping us to understand ourselves, they 
+may also be thought to offer a reflection of second-order mysteries and wonders that yet still lie beyond our grasp.
+148 
+148 The authors would like to thank Prof. Winfried Löffler, Dr Mark Sheskin, Dr 
+Gregory Shushan, Rev. Dr Michael Spath, and Prof. David Wulff, for their very helpful 
+comments on earlier drafts of this paper.

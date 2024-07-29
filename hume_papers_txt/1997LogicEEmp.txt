@@ -1,0 +1,90 @@
+LOGIC 
+The word ‘logic’ as used today is commonly taken to refer to a formal  discipline, as 
+indeed it was almost universally from the time of ARISTOTLE until at least the sixteenth 
+century. But the writings of Descartes and his followers (notably Malebranche and the authors of the Port Royal Logic
+, Arnauld and Nicole) undermined this understanding of 
+the word, preparing the ground for LOCKE to reinterpret it most influentially in his Essay 
+Concerning Human Understanding . Locke adopted from the Cartesians a contempt for the 
+alleged barrenness of Aristotelian syllogistic theory, and aspired to replace it with a 
+discipline focused not on the formal relations of words, but instead on the powers of the 
+human mind and the improvement of our cognitive faculties. It is this kind of informal discipline, therefore, which is most commonly referred to as “logic” by the empiricist 
+authors from Locke to MILL, and indeed their understanding of the logical enterprise 
+persisted until the turn of the twentieth century, when FREGE and RUSSELL firmly reestablished the discipline of formal logic in a new, more powerful, and non-Aristotelian 
+guise. 
+ Locke’s own understanding of Aristotelian logic seems to have been drawn not 
+primarily from Aristotle himself or from the medieval schoolmen, but instead from modern 
+scholastic authors such as Robert Sanderson and Philippe du Trieu (see Milton 1984). And 
+this helps to explain both his low regard for its admittedly second-rate supporters, and also the manner of his criticism. For later scholastic thought had stressed the supposed role of 
+formal logic not only in the presentation of argument but also in “invention” or 
+“discovery,” and this is the aspect of syllogistic theory of which Locke is most critical: 
+The Rules of Syllogism
+ serve not to furnish the Mind with those intermediate Ideas , 
+that may shew the connexion of remote ones. This way of reasoning discovers no 
+new Proofs, but is the Art of marshalling, and ranging the old ones we have already.... A Man knows first, and then he is able to prove syllogistically. So that Syllogism  comes after Knowledge, and then a Man has little or no need of it. (Essay 
+Concerning Human Understanding  IV.xvii.6) 
+ By contrast Locke does allow some value to syllogism as a means of presenting and 
+showing the validity of arguments, and he is careful to express his considerable respect for Aristotle himself, 
+whom I look on as one of the greatest Men amongst the Antients ... And who in this 
+very invention of Forms of Argumentation ... did great service against those, who were not ashamed to deny any thing. And I readily own, that all right reasoning may 
+be reduced to his Forms of Syllogism.” (Essay
+ IV.xvii.4) 
+But Locke sees syllogisms as far from ideal even for the purpose of presenting arguments, 
+and suggests instead (Essay  IV.xvii.4) that reasoning can better be presented as a chain of 
+connected ideas with the “middle term” appearing explicitly as such (e.g. “man-animal-
+living”) rather than in syllogistic form (e.g. “animals are living; man is an animal; therefore man is living”) in which the premises force the ideas involved into an unnatural sequence 
+(“animal-living-man-living”). 
+ In place of a syllogistic understanding of reasoning, Locke sees it as founded on “a 
+native Faculty to perceive the Coherence, or Incoherence of its Ideas
+” (Essay  IV.xvii.4; 
+see DEMONSTRATION), a Faculty whose objects, IDEAS, are one and all particular, so 
+that the universality which is a fundamental characteristic of formal reasoning becomes merely “accidental” on Locke’s informal conception (Essay
+ IV.xvii.8). Hence “logic” 
+ceases to be a study of formal patterns of inference, and becomes instead the study of the 
+cognitive faculties of the mind, a “facultative logic” (Buickerood 1985) whose aim is to yield principles for the correct employment of those faculties. Since ideas are the material 
+with which they work, the study of ideas is at the heart of this discipline, and Locke’s 
+Essay
+ (together with his posthumous On the Conduct of the Understanding ) thus itself 
+appears to be a work of “logic” so conceived, which he also calls the “Doctrine of Signs ” or semiotics--this name being appropriate on the grounds that an idea is “a Sign or 
+Representation of the thing [the Understanding] considers” (Essay  I.xxi.4). 
+ HUME very explicitly followed the Lockean interpretation of “logic”, and evidently 
+saw the first book of his Treatise of Human Nature  as a contribution to it: 
+The sole end of  logic is to explain the principles and operations of our reasoning 
+faculty, and the nature of our ideas .... This treatise therefore of human nature seems 
+intended for a system of the sciences. The author has finished what regards logic ...” (Abstract of a Treatise of Human Nature
+:646, quoting A Treatise of Human Nature : 
+xv) 
+Hume likewise follows Descartes and Locke in viewing the traditional logic as barren, on 
+the grounds that any “pretended syllogistical reasoning” which purports to extend our 
+knowledge is in reality “nothing but a more imperfect definition” (An Enquiry Concerning 
+Human Understanding : 163). 
+ Given the scholastic authors with which they were acquainted, it is perhaps not 
+surprising that the classical empiricists were so dismissive of formal logic. But after a 
+century that has seen a rigorous and fertile discipline rise from the ashes, while the alternative informal search for natural principles of reasoning has little of substance to 
+show, one can only conclude that their dismissal of formal logic as a worthwhile subject of 
+study was certainly, if understandably, premature. 
+ 
+PRIMARY WORKS Hume, David. A Treatise of Human Nature
+ [1739], second edition, edited with an 
+analytical index by L. A. Selby-Bigge, revised with notes by P. H. Nidditch. Oxford: 
+Clarendon Press, 1978. Hume, David. Abstract of a book lately published, entituled, A Treatise of Human Nature, 
+etc. (1740), reprinted as pp. 641-62 of Hume [1739]. 
+Hume, David. An Enquiry concerning Human Understanding . In Enquiries concerning 
+Human Understanding and concerning the Principles of Morals  [1777], edited with an 
+analytical index by L. A. Selby-Bigge, revised with notes by P. H. Nidditch. Oxford: 
+Clarendon Press, 1975; first publication by Hume 1748 and 1751 respectively--1777 was 
+the last edition to incorporate new authorial corrections. 
+Locke, John. An Essay concerning Human Understanding  [1690], edited with an 
+introduction by P. H. Nidditch. Oxford: Clarendon Press, 1975. 
+BIBLIOGRAPHY Book: 
+Howell, Wilbur Samuel. Eighteenth-Century British Logic and Rhetoric
+. Princeton NJ: 
+Princeton University Press, 1971. 
+Articles: 
+Buickerood, James G. “Locke and the Rise of Facultative Logic.” History and Philosophy 
+of Logic  6 (1985): 157-90. 
+Milton, J.R. “The Scholastic Background to Locke’s Thought.” Locke Newsletter  15 
+(1984): 25-34. 
+Passmore, J.A. “Descartes, the British Empiricists, and Formal Logic.” Philosophical 
+Review  62 (1953): 545-53. 
+Peter Millican 
+ 

@@ -1,0 +1,212 @@
+  1 
+ INDUCTION  
+The word ‘induction’ is derived from Cicero’s ‘inductio’, itself a translation of 
+Aristotle’s ‘epagôgê’. In its traditional sense this denotes the inference of general laws from particular instances, but within modern philosophy it has usually been understood in a related but broader sense, covering any non-demonstrative reasoning that is founded on experience. As such it encompasses reasoning from observed to unobserved, both inference of general laws and of further particular instances, but it excludes those cases of reasoning in which the conclusion is logically implied by the premises, such as induction by complete enumeration. 
+ The question of the foundation of inductive inference so defined came to center 
+stage with HUME, though earlier philosophers such as GASSENDI, Arnauld, Nicole, and LOCKE had also been aware that “inductions” other than by complete enumeration were inherently fallible. But Hume was the first to raise “sceptical doubts” about inductive reasoning, leaving a puzzle as to why the concerns he highlighted had earlier been so completely overlooked (by contrast, the main skeptical arguments of Descartes and Bayle, for example, had various ancient antecedents). Hacking (1975) attributes this to the unavailability before the late seventeenth century of the concept of “internal evidence” (i.e. evidence other than testimony), combined with the lingering influence until then of a traditional assumption that fundamental causal connections must be demonstrable (see CAUSATION). Milton (1987) instead attributes Hume’s novelty to his philosophical courage, his freedom from theological constraint, and his willingness to follow through the logical implications of the conceptual NOMINALISM characteristic of the empiricist tradition--if “everything which exists, is particular”, as BERKELEY had echoed Locke in insisting (Three Dialogues between 
+Hylas and Philonous , p. 192, cf. Locke, Essay , p. 414), then unobserved entities 
+cannot straightforwardly be known about in virtue of knowing the universals that they   2 
+ instantiate, and Hume’s new problem of how we can learn about such unobserved 
+entities comes into focus. 
+The Context and Topic of Hume’s Argument  
+Hume’s argument concerning induction is perhaps the single best-known and most 
+influential argument in the entire corpus of empiricist writings, and occupies a central place within his philosophical system. He presents it three times, in the Treatise of 
+Human Nature  (1739; pp. 86-92), the anonymously published Abstract  of the Treatise  
+(1740; pp. 649-52), and finally in the Enquiry Concerning Human Understanding  
+(1748; pp. 25-39). Each of these presentations differs in important respects from the others, as the argument is progressively clarified and refined. In the Treatise
+ it appears 
+as a detour in Hume’s search for the impression of necessary connexion--as a result its emphasis is psychologistic and it is closely entangled with the working out of his analysis of causation (though its force turns out, at pp. 90-91, to be quite independent of Hume’s new understanding of necessary connexion). The Abstract
+ version of the 
+argument loosens this entanglement, with the argument’s primary impetus now coming from questions not about the origin of our ideas, but instead about the foundation of our inferences concerning hitherto unobserved “matter of fact” (Abstract
+, p. 649). In 
+the Enquiry  this development is completed--the argument is detached entirely from the 
+analysis of causation, substantially expanded and clarified, and centered exclusively around the one central epistemological issue: “what is the nature of that evidence, which assures us of any real existence and matter of fact, beyond the present testimony of our senses, or the records of our memory” (Enquiry
+, p. 26). 
+ Hume does not use the word ‘induction’ to characterize the topic of his famous 
+argument; indeed his few uses of that word (Treatise  p. 27, Treatise , p. 628, Enquiry , 
+p. 170) indicate that he sees it as merely a synonym for “inference” in general. For the specific form of inference from observed to unobserved he employs three different   3 
+ terms, all interpreted equivalently: ‘probable reasoning’, ‘moral reasoning’, and 
+‘reasoning concerning matter of fact and existence’. Regrettably, all three are to some extent infelicitous to modern ears, especially the last--deductive
+ reasoning that 
+concerns matters of fact, such as “That is a large book; therefore that is a book,” is certainly not what Hume had in mind here (and such reasoning would presumably fall on the “demonstrative” rather than the “probable” side of his official dichotomy, despite differing from most of his own examples of “DEMONSTRATION” in having a posteriori
+ premises). Such infelicities give ample justification for preferring the 
+modern term ‘induction’ except when discussing Hume’s writings themselves, for which purpose it seems more appropriate to adopt his own most consistent choice, namely “probable” inference. However again it should be noted that this does not mean “probable” in the technical sense (involving the mathematical calculation of odds and so forth): Hume’s “probable reasoning” is simply everyday factual inference, taking us from premises about observed things to conclusions about unobserved things, and universally founded, according to him, upon the supposition that the two w ill resemble. 
+The Structure of Hume’s Argument
+ 
+Although the interpretation of Hume’s argument concerning induction is a 
+controversial matter, with major implications for the understanding of his philosophy, nevertheless the argument’s general structure can be established with reasonable confidence. The Enquiry
+ version can be spelled out as follows. (For details and a 
+diagrammatic representation, together with extensive interpretative discussion, see Millican 1995 or 1996.) 
+(1) Only the relation of cause and effect can take us beyond the evidence of our 
+memory and senses ˙– Enquiry
+, p. 26. 
+(2) All probable arguments are founded on the relation of cause and effect — 
+Enquiry , p. 26, p. 35. (from 1)   4 
+ (3) The sensible qualities of objects do not reveal their causes or effects, and there is 
+no known connexion between an object’s sensible qualities and its “secret powers” — Enquiry
+, p. 27, p. 33. 
+(4) Any effect is quite distinct from its cause, and for any given cause, many 
+alternative effects are from an a priori  point of view just as conceivable and 
+natural as the actual effect — E30. 
+(5) Causal relations cannot be known a priori , but can only be discovered by 
+experience (of constant conjunctions) — Enquiry , p. 27, p. 28, p. 30. (from 3 
+and 4) 
+(6) All probable arguments are founded on experience — Enquiry , p. 27, p. 30. 
+(from 2 and 5) 
+(7) All arguments from experience proceed upon the supposition that the future w ill 
+be conformable to the past — Enquiry , p. 33, p. 35, p. 37. 
+(8) All probable arguments proceed upon the supposition that nature is uniform, and 
+in particular, that similar causes will in the future have similar effects to those which they have had in the past (henceforth: the “Uniformity Principle”) — Enquiry
+, p. 35. (from 6 and 7) 
+(9) The Uniformity Principle cannot be rationally founded on anything that we learn 
+through the senses about objects’ “secret powers” — Enquiry , p. 33. (from 3) 
+(10) The Uniformity Principle is not intuitively certain — Enquiry , p. 34. 
+(11) The Uniformity Principle can only be rationally founded on the basis of a good 
+argument (hence if it is to be founded on reason, there must be a medium  for 
+proving it) — Enquiry , p. 34. (from 9 and 10) 
+(12) All (good) reasonings are either demonstrative or probable — Enquiry , p. 35.   5 
+ (13) The contrary of the Uniformity Principle can be distinctly conceived, and is 
+therefore possible – Enquiry , p. 35. 
+(14) There can be no demonstrative argument for the Uniformity Principle — 
+Enquiry , p. 35. (from 13) 
+(15) If there is a good argument for the Uniformity Principle, it must be a probable 
+argument — Enquiry , p. 35. (from 12 and 14) 
+(16) Any probable argument for the Uniformity Principle would be circular — 
+Enquiry , p. 35–6. (from 8) 
+(17) There is no good argument of any kind for the Uniformity Principle — Enquiry , 
+p. 35. (from 15 and 16) 
+(18) The Uniformity Principle cannot be founded on reason — Enquiry , p. 39. (from 
+11 and 17) 
+(19) No probable argument is rationally founded, and hence it is not reason (but 
+custom or habit, an instinct) which engages us to make probable inferences — Enquiry
+, p. 32, p. 43. (from 8 and 18) 
+The argument falls into five main stages. First (1 to 6), Hume proves that inferences 
+about the unobserved cannot legitimately be a priori  (see A PRIORI/A POSTERIORI 
+DISTINCTION). Secondly (7 to 8), he uses this result to conclude that probable reasoning must presuppose, in some sense, a “Uniformity Principle”. Thirdly (9 to 11), he eliminates what he sees as the possible non-inferential sources of this principle, namely sensation and intuition. Fourthly (12 to 17), he shows that inference too is powerless to provide a rational ground for it. Finally (18 to 19), he puts together the results of the previous stages to conclude that the Uniformity Principle, and hence also the probable reasoning of which it is a presupposition, cannot be founded on REASON.   6 
+ The Interpretation of Hume’s Argument  
+The interpretation of Hume’s argument has been particularly contentious because its 
+logic has been widely seen as revealing fundamental presuppositions of his thought in general. Stove, for example, presents his well-known analysis of the argument as a basis for claiming that Hume is a “deductivist”--if true, this would s uggest that Hume’s 
+celebrated sceptical doubts are just a fairly direct consequence of an underlying crude assumption that only deductive evidence has any weight, and thus make those doubts easy to dismiss for philosophers (such as Stove himself) who see no reason to start from such an extreme and manifestly skeptical premise. It is philosophically significant, therefore, that Stove’s analysis can be decisively rejected. 
+ The most significant interpretative issue in the first stage of Hume’s argument 
+concerns his grounds for denying the possibility of a priori
+ causal knowledge (5). 
+Stove (1965, p. 194; 1973, p. 31) sees that denial as based on the mere logical 
+conceivability  of causes and effects being differently combined, and accordingly 
+adduces this as powerful evidence that Hume is a deductivist. But in fact the premises here (3 and 4) are far stronger than Stove realizes: Hume says that a priori
+ there is 
+nothing at all  to link cause with effect--not only can the one not be deductively inferred 
+from the other, but a priori  their combination seems “entirely arbitrary” (Enquiry , p. 
+30). Premises as strong as this, if granted, are clearly sufficient to license Hume’s denial of a priori
+ causal knowledge without the slightest hint of deductivism. 
+ The second stage of Hume’s argument raises another important issue: what does 
+he mean when he states that probable arguments “proceed upon the supposition” that nature is uniform? Flew (1961, pp. 70-89) has been followed by many, including Stove, in viewing the Uniformity Principle here as a middle premise in a would-be deductive syllogism, but this deductivist interpretation is not warranted, as Flew appears to believe, by Hume’s talk of a “medium”, for on the Lockean LOGIC that   7 
+ Hume inherited, probable arguments as well as demonstrative standardly contain such 
+“middle terms” or “proofs” (An Essay concerning Human Understanding  IV.xv.1, 
+IV.xvii.15-16). Nevertheless a deductivist understanding of Humean presupposition can seem tempting, because it renders Hume’s (8) as stating a manifest truth: that any argument which passes from observed to unobserved will be deductively invalid unless it is supplemented by a “principle of uniformity” that asserts a s imilarity between them. 
+However a second manifest truth, and one likewise evident to Hume, should give us pause: Namely, that no “principle of uniformity” can possibly be sufficiently specific to transform inductions into valid deductions, without at the same time being far too strong to be at all plausible. Or conversely, even if nature is indeed uniform, this in no way implies that any particular induction, even one that is well corroborated, will turn out to have a true conclusion, because there w ill always remain the possibility of 
+unknown causal factors that have not been taken into account (cf. Treatise
+, p. 175, 
+Enquiry , p. 86-7). 
+ If Hume does not see his Uniformity Principle as a means of transforming 
+inductions into valid deductions, then how does he see it? The answer suggested by its role as a presupposition of probable inference turns out to be quite straightforward. For what is evidently being presupposed by anyone who relies on a probable inference is that the premise (concerning observed entities) is evidentially relevant
+ to the 
+conclusion (concerning unobserved entities) and is, moreover, evidentially relevant in a positive
+ manner--the unobserved are expected to be s imilar  to the observed rather 
+than, say, contrasting with them. Hume’s Uniformity Principle, therefore, can most simply be understood as a statement of positive evidential relevance
+, asserting that 
+unobserved instances can indeed properly be expected to resemble observed instances. Such an interpretation does not give the principle deductive force, but is quite sufficient to account for its role within Hume’s argument.   8 
+  Thus the first two stages of Hume’s argument do not after all provide support 
+for the once-dominant deductivist skeptical interpretations by Stove and others. These have indeed lost favor in recent years, but the reasons for this have had less to do with the logic of Hume’s reasoning than with the overall tenor of his philosophy. His famous argument may purport to prove that induction “is not founded on reason,” but if this conclusion is interpreted in an extreme skeptical manner, it seems very hard to reconcile with Hume’s positive attitude to inductive reasoning elsewhere in his writings. How could a radical inductive skeptic subtitle his Treatise
+ “An attempt to 
+introduce the experimental method of reasoning into moral subjects” (Treatise , p. xi), 
+or present “Rules by which to judge of causes and effects” (Treatise , p. 173), or 
+criticize natural theologians and believers in miracles for failing to “proportion their belief” to the empirical
+ evidence (Enquiry , p. 110)? And how could a deductivist, who 
+rejects all but deductive evidence, overtly propose arguments (most notably on “scepticism with regard to reason” and on miracles) that seem to depend quite crucially on the idea (stated very explicitly at Treatise
+, p. 31 and Enquiry , p. 113) that such 
+evidence can have intermediate degrees? 
+ Two main responses have emerged. The first, and more popular, interprets 
+Hume as employing two (or more) quite different conceptions of ‘reason’, one of which features within his famous argument while another provides his own norm of empirical reasonableness. The second response is more radical, and involves denying that Hume’s conception of reason is essentially normative at all. 
+ A number of writers, from Beauchamp and Mappes (1975) to Baier (1991), have 
+claimed that Hume’s argument is in effect a reductio ad absurdum
+, intended to 
+demonstrate only the empirical impotence of the non-Humean “rationalist” conception of reason that it employs, and thus devoid of serious sceptical consequences for Hume himself. Most of these accounts have followed Stove in identifying a deductivist notion of “reason” within the argument, but differ from him in seeing this as a rationalist straw   9 
+ man rather than Hume’s own notion. However the structure of the argument is hard to 
+reconcile with any  kind of deductivist interpretation, because it seems highly unlikely 
+that Hume would employ such a complicated argument to prove the evident truth that no inductive inference has deductive force, when he could prove this immediately with precisely the sort of “argument from distinct conceivability” that he himself uses in the fourth stage, to infer (14) from (13). 
+ A more promising interpretation of the notion of “reason” within the argument 
+takes inspiration from Locke, who considers our faculty of reason to be capable of “perceiving” both demonstrative and probable relations (Essay
+ IV.xvii.2, IV.xx.16). 
+Interpreting reason in this way, as a faculty of intellectual perception , appears to be 
+entirely compatible with the structure of Hume’s argument, and moreover explains why he would consider its skeptical conclusion to be radical and “extraordinary” (Treatise
+, p. 139) even in a context in which Lockean inductive fa llibilism was 
+perfectly familiar (Essay  IV.xv.2). The claim that no form of intellectual perception can 
+give us any understanding whatever about the unobserved, either a priori  or a 
+posteriori , is far more potentially unsettling than the trivial observation that inductive 
+inference is less than deductively certain. Of course this still leaves the task of giving a plausible account of Hume’s own main sense of ‘reason’ outside the context of his famous argument, inevitably on this interpretation a different sense because it treats induction as entirely respectable (e.g. Treatise
+, p. 96n, p. 225, p. 459; Enquiry , p. 110). 
+And although there is some evidence to support the claim that Hume’s notion of “reason” is ambiguous in just this way (e.g. Treatise
+, p. 117n), nevertheless it is 
+obviously the case that an interpretation which had no need to postulate such an ambiguity would be, to that extent, preferable. 
+ Garrett (1997, chapter 4) has recently proposed such an interpretation, in which 
+he reconciles Hume’s argument with his advocacy of induction by taking the conclusion of that argument to be descriptive rather than normative: “it is not a direct   10 
+ denial of the evidential value of inductive inferences on any  conception of them, but is 
+instead a straightforward negative conclusion, within cognitive psychology, about the causes of the mechanism of inductive inference.” From this perspective there is no conflict between Hume’s argument and his endorsement of the inductive method: in proving that induction is not grounded in reason. Hume is just showing that it cannot be accounted for by reference to “our inferential/argumentative faculty”--that there is, literally, “no argument
+, which determines me to suppose” (Abstract , p. 652) that the 
+future will be conformable to the past. This is perfectly compatible with the claim that induction is warranted, albeit based on custom or habit rather than on inference. 
+ Garrett’s interpretation is elegant, but not without difficulties. First, it is in 
+tension both with the structure of Hume’s argument (notably its third stage, which seems to be denying more than just that induction is founded on inference
+), and also 
+with some of Hume’s apparently skeptical paraphrases of its conclusion (e.g., Treatise , 
+p. 139, Enquiry , p. 162). More fundamentally, it is not clear how Garrett can explain 
+away Hume’s often apparently normative view of reason, manifested both in explicit claims about its reliability (e.g. Treatise
+, p. 193, p. 209), but especially in implicit 
+assumptions about its scope--if “reason” is just our actual inferential faculty, interpreted non-normatively, then what right has Hume to be confident that only certain specific kinds of reasoning can have that faculty as their source? (One notable example is his assertion of (12), which takes for granted that a priori
+ probabilistic 
+reasoning is impossible. Millican ( 1996, Part II) provides a survey and critique of 
+modern attempts to circumvent Hume’s argument by means of such reasoning--see PROBABILITY for some relevant background). 
+ This is not the place to attempt to adjudicate these debates, for only careful 
+analysis of Hume’s texts and arguments can ultimately show whether Garrett’s radical hypothesis is tenable, or whether instead it is necessary, in order to render Hume consistent, to attribute to him an ambiguity in his notion of “reason” (as the present   11 
+ author has maintained). What is clear, however, is that the interpretation of Hume’s 
+argument concerning induction is far from resolved, but is crucial for the interpretation of his entire philosophical project. 
+ 
+PRIMARY SOURCES 
+Berkeley, George. Three Dialogues between Hylas and Philonous
+ (1713). In The 
+Philosophical Works of George Berkeley , edited by A. A. Luce and T. E. Jessop, vol. 
+II, Nelson, 1949. 
+Hume, David. A Treatise of Human Nature  (1739), edited by. L.A. Selby-Bigge, 
+second edition revised by P.H. Nidditch, Oxford 1978. 
+Hume, David. Abstract of a book lately published, entituled, A Treatise of Human 
+Nature, etc.  (1740), reprinted as pp. 641-62 of Hume (1739). 
+Hume, David  Enquiries concerning Human Understanding and concerning the 
+Principles of Morals  (1777), ed. L.A. Selby-Bigge, third edition revised by P.H. 
+Nidditch, Oxford 1975 (first publication by Hume 1748 and 1751 respectively--1777 was the last edition to incorporate new authorial corrections). 
+Locke, John. An Essay Concerning Human Understanding
+ (1690), edited by P. H. 
+Nidditch, Oxford 1975. 
+BIBLIOGRAPHY Books: Baier, Annette C.  A Progress of Sentiments: Reflections on Hume’s Treatise
+, 
+Cambridge MA: Harvard University Press, 1991.   12 
+ Flew, Antony. Hume’s Philosophy of Belief , London: Routledge and Kegan Paul, 
+1961. 
+Garrett, Don. Cognition and Commitment in Hume’s Philosophy . New York: Oxford 
+University Press, 1997. 
+Hacking, Ian. The Emergence of Probability , Cambridge: Cambridge University Press, 
+1975. 
+Millican, P. J. R. Hume, Induction, and Probability , Ph.D. thesis, University of Leeds, 
+and in preparation as a monograph under the same title, 1996. 
+Stove, D. C.  Probability and Hume’s Inductive Scepticism , Oxford: Oxford University 
+Press, 1973. 
+Articles: Beauchamp, Tom and Mappes, Thomas. “Is Hume Really a Sceptic about Induction?,” 
+American Philosophical Quarterly
+ 12 (1975): 119-29. 
+Millican, P. J. R. “Hume’s Argument Concerning Induction: Structure and 
+Interpretation.” In Stanley Tweyman, editor, David Hume: Critical Assessments , 
+London: Routledge, 1995, volume 2, pp. 91-144. 
+Milton, J. R. “Induction before Hume,” British Journal for the Philosophy of Science  
+38 (1987): 49-74. 
+Stove, D. C. “Hume, Probability, and Induction”, Philosophical Review  74 
+(1965): 160-77. Reprinted in V. C. Chappell editor, Hume , New York: Macmillan, 
+1968, pp. 187-212. 
+Peter Millican 

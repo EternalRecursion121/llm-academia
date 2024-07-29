@@ -1,0 +1,479 @@
+CHAPTER 19
+Bayes, Hume, Price, and Miracles
+JOHN EARMAN
+My topic is the Bayesian analysis of miracles. To make the discussion concrete, 
+I will set it in the context of eighteenth-century debate on miracles, and I will 
+focus on the response to David Hume’s celebrated argument against miracles 
+that Thomas Bayes would have made and did in part make, albeit from beyond 
+the grave, through his colleague Richard Price.
+1. My trinity: Bayes, Price, and Hume
+It is irresistible to think that Thomas Bayes had read Hume and that Bayes’ 
+“Essay Towards Solving a Problem in the Doctrine of Chances” was at least 
+in part a reaction to Hume’s skeptical attack on induction.1 But while the 
+Appendix of the published paper is surely making reference to Hume, that 
+Appendix was penned not by Bayes but by Richard Price. It is also nice to think 
+that Hume read Bayes’ essay and then to speculate about what Hume’s reac-
+tion would have been. But while there is a reference to Bayes’ essay in Price’s  
+Four Dissertations , a copy of which was sent to Hume who duly acknowledged 
+receiving and reading it (see below), there is no evidence that Hume followed 
+up the reference. And even if he had, it is unlikely that he would have under-
+stood Bayes’ essay since he was largely innocent of the technical developments 
+that were taking place in the probability calculus.
+While there is no evidence of a direct connection between Bayes and Hume, 
+the indirect connection that goes through Price is solid. Although we know 
+little of the relationship between Bayes and Price, it must have been reasonably 
+close since Bayes’ will left £200 to be divided between Price and one John Boyl 
+258Bayes, Hume, Price, and Miracles   259
+(see Barnard 1958) and since it was Price who arranged for the posthumous 
+publication of Bayes’ essay. In the other direction, Price was a persistent critic 
+of Hume—not just on induction but on matters of religion and ethics as well. 
+Despite the sharp differences in opinion the two men remained on remarkably 
+cordial terms, dining together in London and in Price’s home in Newington 
+Green (see Thomas, 1924). In the second edition of Four Dissertations Hume 
+is lauded by Price as “a writer whose genius and abilities are so distinguished as 
+to be above any of my commendations” (Price 1768, 382). And Hume in turn 
+praised Price for the “civility which you have treated me” (Hume 1954, 233–
+4). More intriguingly, Hume goes on to say that “I own to you, that the Light 
+in which you have put this Controversy [about miracles] is new and plausible 
+and ingenious, and perhaps solid”. Unfortunately, Hume left the matter hang-
+ing by adding that “I must have some more time to weigh it, before I can pro-
+nounce this Judgment with satisfaction to myself” (Ibid.).
+I will finish Hume’s unfinished task. I will claim that Price’s criticisms of 
+Hume’s argument against miracles were largely solid. More generally, I claim 
+that when Hume’s “Of miracles” is examined through the lens of Bayesianism, 
+it is seen to be a shambles.2
+2. The context
+The debate on miracles which took place in eighteenth-century Britain is rich 
+and endlessly fascinating. One of the key philosophical problems underly-
+ing the debate was posed before the beginning of the century in Locke’s  Essay 
+Concerning Human Understanding ; namely, how should one apportion belief 
+when the two main sources of credibility, “common observation in like cases” 
+and “particular testimonies”, are at odds? The case of eyewitness testimony 
+to miraculous events—the central focus of Hume’s “Of miracles”—presents 
+the extreme form of this problem. The miraculous event around which the 
+eighteenth-century debate swirled was, of course, the Resurrection of Jesus 
+of Nazareth, though the more prudent naysayers took care to make oblique 
+reference to this matter—Hume, for example, couches his discussion in terms 
+of the hypothetical case of the resurrection of Queen Elizabeth.
+To convey a bit of the flavor of the debate I will trace one of the many 
+threads—the one that starts with Thomas Woolston, one of the incautious 
+naysayers. His Six Discourses on the Miracles of Our Saviour (1727–29) was an 
+undisguised and broadsided attack on the New Testament miracles. As attested 
+by Swift, it created a minor sensation:3
+Here is Woolston’s tract, the twelfth edition
+’Tis read by every politician:
+The country members when in town
+To all their boroughs send them down:260  John Earman
+You never met a thing so smart;
+The courtiers have them all by heart.
+What the courtiers learned from reading Woolston was that the New Testa-
+ment accounts of miracles were filled with “absurdities, improbabilities, and 
+incredibilities”. While Woolston’s charges and his sarcasm and obvious con-
+tempt for the Church authorities won him a large readership—reportedly, 
+30,000 copies of Six Discourses were printed—they also earned him a fine and 
+a stay in prison, where he died.
+Six Discourses received a number of replies, the most influential being 
+Thomas Sherlock’s Tryal of the Witnesses (1728), which itself went through 
+fourteen editions. Sherlock was answered by Peter Annet (I744a, 1744b), and 
+Annet in turn was answered by Chandler (1744), Jackson (1744), and West 
+(1747). And so it went.
+Set in this context, Hume’s essay on miracles seems both tame and deriva-
+tive. It is also something of a muddle. What appears on first reading to be a 
+powerful and seamless argument turns on closer examination to be a series 
+of considerations that don’t comfortably mesh. And worse, Hume’s thesis 
+remains obscure—the possibilities range from the banal to the absurd:
+(T1) One should be cautious in accepting testimony to marvelous and 
+miraculous events, and doubly so when religious themes arise.
+(T2)  The testimonies of the Disciples do not establish the credibility of 
+the resurrection of Jesus.
+(T3) In no recorded case does the testimony of eyewitnesses establish the 
+credibility of a miracle deemed to have religious significance.
+(T4) Eyewitness testimony is incapable of establishing the credibility of a 
+miracle deemed to have religious significance.
+(T5) Eyewitness testimony is incapable of establishing the credibility of 
+any miraculous event.
+Hume deserves no credit—save for pompous solemnity—for uttering various 
+forms of the banality (T1), since even the pro-miracle proponents in the eight-
+eenth-century debate were at pains to acknowledge the pitfalls of eyewitness 
+testimony and the need to carefully sift the evidence, especially in the case of 
+religious miracles. Hume believed (T2), but refused to join Annet, Sherlock, 
+Woolston, et al. in arguing the specifics. He surely also believed something in 
+the neighbourhood of (T3), but his cursory recitation and rejection in Part 
+II of his essay of a number of sacred and profane miracles hardly counts as 
+much of an argument for this sweeping thesis. What Hume manages beauti-
+fully is the creation of an illusion that he was in possession of principles for 
+evaluating evidence that allowed him to remain above the nastiness of the fray. 
+This would have been the case if he had been in possession of principles that Bayes, Hume, Price, and Miracles   261
+entailed (T4) or (T5). But there are no such principles since (T4) and (T5) are 
+absurd. A skilful oscillation among these various theses is what helps to create 
+the illusion of a worthy argument against miracles.
+Stripped of the theology, the key issue addressed in Hume’s essay is how to 
+evaluate the evidential force of fallible witnesses. The obvious tool to apply was 
+the probability calculus, and one of the first published applications in English 
+was the anonymous (George Hooper?) essay “A Calculation of the Credibility 
+of Human Testimony”, which appeared in the 1699  Transactions of the Royal 
+Society . Some advances were made in the eighteenth century—for example, by 
+Price—but it was not until the work of Laplace (1812, 1814) and Charles Bab-
+bage (1838) that definitive results were obtained. Hume’s pronouncements 
+on the key issue have that combination of vagueness, obscurity, and aphorism 
+that philosophers find irresistible, and, consequently, have led to an endless 
+and largely unfruitful debate in the philosophical literature, the contributors 
+to which are willing to go to extraordinary lengths in an attempt to show that 
+Hume had something interesting to say on the matter.
+To state what should be obvious, but still manages to elude some commen-
+tators, the core issues in Hume’s essay are independent of the theological sub-
+tleties of that vexed term ‘miracle’. For what an eyewitness testifies to in the 
+first instance is the occurrence of an event which can be characterized in purely 
+naturalistic terms, e.g., the return to life of a dead man. How such an event, 
+if its credibility is established by eyewitness testimony, can serve theological 
+purposes is a matter I will take up in due course. But first I have to substanti-
+ate my negative evaluation of Hume’s treatment of eyewitness testimony. At 
+the same time I hope to show how the issues can be advanced with the help of 
+Bayes’ apparatus.
+3. Hume’s ‘proof’ against miracles
+Here is Hume’s ‘proof’, such as it is:
+A miracle is a violation of the laws of nature; and as a firm and unalterable 
+experience has established these laws, the proof against a miracle, from 
+the very nature of the fact, is as entire as any argument from experience 
+can possibly be imagined.
+(E 10.12)
+For Hume ‘proofs’ are “such arguments from experience as leave no room for 
+doubt or opposition” (E 6, note to title). He thought his proof against miracles 
+fitted this bill since it is ‘full and certain when taken alone, because it implies 
+no doubt, as in the case of all probabilities’ (Hume 1932, 1.350). In probability 
+language, Hume seems to be saying that if L is a lawlike generalization, such as 
+‘No dead man returns to life’, and E records uniform past experience in favor 262  John Earman
+of L, then P (L | E) = 1; hence, if M asserts a violation of  L, then it follows from 
+the rules of probability that P (M | E) = O.
+Price opposed Hume’s wildly incautious and inaccurate account of induc-
+tive practice: “It must be remembered, that the greatest uniformity and fre-
+quency of experience will not offer a proper proof, that an event will happen in 
+a future trial” (Price 1768, 393) . . . The relevant thing to note for present pur-
+poses is that Hume’s account of inductive practice is descriptively inaccurate: 
+scientists don’t think that uniform experience in favor of a lawlike generaliza-
+tion leaves no room for doubt—if they did it would be hard to explain their 
+continued efforts to search for exceptions.
+But the crucial point is that Hume recognized that his ‘proof’ only applies 
+when the evidence consists of uniform experience (recall the qualifier ‘when 
+taken alone’). The real issue is joined when that proof is opposed by a coun-
+terproof from eyewitness testimony. Many commentators from Hume’s 
+day to the present have read Hume as saying that this contest has a preor-
+dained outcome. The idea is that the probative force of eyewitness testimony 
+derives from the observation of the conformity between the testimony and 
+reality; but whereas our experience in favor of the relevant lawlike generali-
+zation and, thus, against an exception that constitutes a miracle, is uniform, 
+our experience as to the trustworthiness of witnesses is anything but uni-
+form. Thus, Price took Hume to be arguing that to believe a miracle on the 
+basis of testimony is to “prefer a weaker proof to a stronger” (Price 1768, 
+385).4 Such a reading makes Hume’s essay into a puzzle: if this was Hume’s 
+argument, why did the essay have to be more than one page long? And apart 
+from the puzzle, the position being attributed to Hume implies the absurd 
+thesis (T5).
+The anti-miracle forces in the eighteenth-century debate sometimes asserted 
+that uniform experience always trumps testimony. Such assertions were met 
+with variations of Locke’s example of the king of Siam who had never seen 
+water and refused to believe the Dutch ambassador’s report that, during the 
+winter in Holland, water became so hard as to support the weight of an ele-
+phant. Thus, in the Tryal of the Witnesses (1728), published almost a decade 
+before Hume got the idea for his miracle essay,5 Sherlock puts the rhetorical 
+question: “[W]hen the Thing testify’d is contrary to the Order of Nature, and, 
+at first sight at least, impossible, what Evidence can be sufficient to overturn 
+the constant Evidence of Nature, which she gives us in the constant and regular 
+Method of her Operation?” (Sherlock 1728, 58). Sherlock answers his rhetori-
+cal question with a version of Locke’s example: what do the naysayers against 
+the Resurrection have to say “more than any man who never saw Ice might say 
+against an hundred honest witnesses, who assert that Water turns into Ice in 
+cold Climates?” (Sherlock 1728, 60). That Hume’s contemporaries were not 
+impressed by his miracles essay is partly explained by the fact that he seemed 
+to be offering a warmed-up version of the past debate, and a defective version Bayes, Hume, Price, and Miracles   263
+at that, since the 1748 edition of the Enquiry is silent on the issues raised by 
+Locke’s example.6
+Let’s be charitable to Hume by not subscribing to the reading that takes 
+him to be saying that uniform experience always trumps eyewitness testimony. 
+The issue then becomes how to tell when the balance tips in favor of one or 
+the other. Hume’s famous ‘maxim’ might be thought to provide just such a 
+prescription.
+4. Hume’s maxim
+Hume announces the ‘general maxim’
+That no testimony is sufficient to establish a miracle, unless the testimony 
+be of such a kind, that its falsehood would be more miraculous, than the 
+fact, which it endeavours to establish. 
+(E 10.13)
+Most commentators have seen profound wisdom here. I see only triviality. 
+Suppose that we are in a situation where witnesses have offered testimony t 
+(M) to the occurrence of the miraculous event  M. Let E be the record of our 
+past experience in favour of the lawlike generalization to which M is an excep-
+tion. Then, as good Bayesians, our current degree of belief function should 
+be the conditionalization on t (M)& E of the function P (·) we had before 
+obtaining this evidence. Thus, the relevant probability of the event which the 
+testimony endeavors to establish is P (M | t (M)& E), while the relevant prob-
+ability of the falsehood of the testimony is P (¬ M | t (M)& E). To say that 
+the falsehood of the testimony is more miraculous than the event which it 
+endeavors to establish is just to say that the latter probability is smaller than 
+the former, i.e.
+P(M|t (M)&E) > P (¬M|t (M)&E) (1)
+which is equivalent to
+P(M|t (M)&E) > 0.5. (2)
+On this reading, Hume’s maxim is the correct but unhelpful principle that no 
+testimony is sufficient to establish the credibility of a miracle unless the testi-
+mony makes the miracle more likely than not.
+A number of other renderings of Hume’s maxim have been offered, but 
+either they fail to do justice to the text of Hume’s essay or else they turn Hume’s 
+maxim into a false principle (see Earman 2000 for details) . . .264  John Earman
+5. Hume’s diminution principle
+This principle is enunciated by Hume in the following passage:
+[T]he evidence, resulting from the testimony, admits of a diminution, 
+greater or less, in proportion as the fact is more or less unusual.
+(E 10.8)
+In citing the proverbial Roman saying, “I should not believe such a story were 
+it told me by Cato”, Hume intimates that in the case of a miracle the diminu-
+tion of the evidential force of testimony is total.
+Price responded that “improbabilities as such do not lessen the capacity of 
+testimony to report the truth” (Price 1768, 413). This is surely right, as was 
+Price’s further claim that the diminution effect operates through the factors 
+of the intent to deceive and the danger of being deceived, either by others 
+or by oneself. Unfortunately Price overstepped himself in claiming that when 
+the first factor is absent, testimony “communicates its own probability” to the 
+event (Price 1768, 414). It was left to Laplace (1814) to give a correct and thor-
+ough Bayesian analysis of when and how the intent to deceive and the danger 
+of being deceived give rise to a diminution effect. Two cases suffice to illustrate 
+the results that can emerge from the analysis.
+The first case—one considered by Price—concerns a witness who testifies t 
+(W79) that the winning ticket in a fair lottery with N tickets is #79. Assuming 
+that when the witness misreports, she has no tendency to report one wrong 
+number over another, then
+P(W79|t (W79) & E) = P (t (W79)|(W79) & E) (3)
+where E records the background knowledge of the lottery. And this is so 
+regardless of how large N is and, thus, regardless of how small the prior 
+probability P (W79 | E) = 1/  N. In such a case the testimony does, in Price’s 
+words, communicate its own probability to the event. But, as Price was well 
+aware, (3) does not hold if the witness has some ulterior interest in reporting 
+#79 as the winner.
+The second case concerns the testimony t (W) that a ball drawn at random 
+from an urn containing one white ball and  N–1 black balls is white. As long as 
+there is a non-zero probability that the witness misperceives the color of the 
+ball drawn, or else there is a non-zero probability that the witness misreports 
+the correctly perceived color, the posterior probability P (W | t (W) & E) does 
+diminish as N is increased and, thus, as the prior probability P (W | E) = 1/  N 
+is reduced.7
+The difference between the two cases lies in the fact that in the urn case, 
+as the prior probability is reduced the likelihood factor P (t (W)|¬ W & E)/ Bayes, Hume, Price, and Miracles   265
+P (t (W)| W & E) remains the same because the visual stimulus presented to 
+the witness when either a black or a white ball is drawn is independent of the 
+numbers of black and white balls in the urn. By contrast, in the lottery case the 
+corresponding likelihood factor changes in such a way as to cancel the change 
+in the prior factor, quenching the diminution effect.
+Two comments are in order. First, I see no a priori reason to think that 
+cases of reported miracles are always or even mostly like the urn case in that 
+they are subject to the diminution effect. Even when the reported miracle 
+is subject to the diminution effect, Hume gets his intended moral only for 
+one order of quantifiers; namely, for any given fallible witness (who may 
+practise deceit or who is subject to misperception, deceit, or self-deception), 
+there is a story so a priori implausible that we should not believe the story 
+if told by that witness. It does not follow that there is a story so a priori 
+implausible (unless, of course, the prior probability is flatly zero) that for 
+any fallible witness, we should not believe the story if told by that witness. 
+To get this latter implication one needs the extra postulate that there are in-
+principle bounds below which the probability of errors of reporting cannot 
+be reduced. Hume’s cynicism suggests such a postulate, but cynicism is not 
+an argument.
+6. Multiple witnesses
+Hume makes some nods to the importance of multiple witnessing, but he 
+seems not to have been aware of how powerful a consideration it can be. In 
+fairness, the power was clearly and fully revealed only in the work of Laplace 
+(1812, 1814) and more especially the work of Babbage (1838), whose Ninth 
+Bridgewater Treatise devotes a chapter to a refutation of Hume’s argument 
+against miracles.
+Suppose that there are N fallible witnesses, all of whom testify to the occur-
+rence of an event  M. For simplicity suppose that the witnesses are all equally 
+fallible in that for all  i = 1, 2, . . ., N
+P(ti (M)| M & E) = p, P(ti (M)|¬M & E) = q  (4)
+And suppose that conditional on the occurrence (or non-occurrence) of  M, 
+the testimonies of the witnesses are independent in the sense that
+P(t1(M) &t2(M) & . . . & t N(M) | ± M & E)
+= P(t1(M)|±M &E) × P(t2(M)| ± M & E) × . . . × P(tN(M)| ± M & E) (5)
+where ±  M stands for M or ¬  M, and where the choice is made uniformly on 
+both sides of the equality. Then the concurrent testimony of all N witnesses 
+gives a posterior probability266  John Earman
+P(M | t1(M) &t2(M) & . . . & tN(M) & E) = 1
+1+¬⎡
+⎣⎢⎤
+⎦⎥⎛
+⎝⎜⎞
+⎠⎟PM E
+PM Eq
+pN(| )
+(| ) (6)
+The witnesses may be very fallible in the sense that q can be as close to 1 as you 
+like. But as long as they are minimally reliable in the sense that  p > q, it follows 
+from (6) that the posterior probability of M can be pushed as close to 1 as you 
+like by a sufficiently large cloud of such fallible but minimally reliable wit-
+nesses—provided, of course, that P (M|E) > 0. Using this result Babbage was 
+able to give some nice examples where just twelve minimally reliable witnesses 
+can push the posterior probability of an initially very improbable event to a 
+respectably high level.
+In sum, if we set aside Hume’s wildly optimistic account of induction on 
+which P (M|E) = 0, then he must agree that fallible multiple witnesses can 
+establish the credibility of a miracle, provided that their testimonies are inde-
+pendent in the sense of (5) and that they are minimally reliable in the sense 
+that p > q. Which of these provisos would Hume have rejected? The answer is 
+‘Neither’, at least in some cases of secular miracles, such as in his hypothetical 
+example of eight days of total darkness around the world.
+[S]uppose, all authors, in all languages, agree, that, from the first of Janu-
+ary 1600, there was total darkness over the whole earth for eight days: 
+Suppose that the tradition of this extraordinary event is still strong and 
+lively among the people: that all travellers, who return from foreign coun-
+tries, bring us accounts of the same tradition without the least variation 
+or contradiction: It is evident, that our present philosophers, instead of 
+doubting the fact, ought to receive it as certain. . . . 
+(E 10.36)
+But in cases to which religious significance is attached, Hume professed to 
+be unswayed by even the largest cloud of witnesses. In the hypothetical case 
+of the resurrection of Queen Elizabeth, Hume declared that he would ‘not 
+have the least inclination to believe so miraculous an event’ (E 10.37), even 
+if all the members of the court and Parliament proclaimed it. Here it is less 
+plausible than in the previous case that the independence assumption is satis-
+fied since the witnesses can be influenced by each other and the general hub-
+bub surrounding the events. But there seems to be no in-principle difficulty 
+in arranging the circumstances so as to secure the independence condition. 
+The minimal reliability condition becomes suspect if the alleged resurrection 
+is invested with religious significance because witnesses in the grip of religious 
+fervor tend to be more credulous and because they may give in to the tempta-
+tion to practise deceit in order to win over the unconverted. But it is an insult Bayes, Hume, Price, and Miracles   267
+to the quality of the eighteenth-century debate to think that the participants 
+needed a sermonette on this topic from Hume. The pro-miracle proponents 
+were acutely aware of the need to scrutinize the contextual factors that might 
+give clues as to the reliability of the witnesses. The conclusions they drew from 
+their scrutiny may have been mistaken, but if so, the mistakes did not flow 
+from a failure to heed the empty solemnities of Hume’s essay. Hume’s treat-
+ment of the hypothetical Queen Elizabeth case drips with cynicism:
+[S]hould this miracle be ascribed to any new system of religion; men, in 
+all ages, have been so much imposed on by ridiculous stories of that kind, 
+that this very circumstance would be a full proof of cheat, and sufficient, 
+with all men of sense, not only to make them reject the fact, but even 
+reject it without farther examination.
+(E 10.38)
+The cynicism remains just cynicism unless it is backed by an argument show-
+ing that, in principle, the witnesses cannot be minimally reliable and inde-
+pendent when the alleged miracle is ascribed to a system of religion. Such an 
+argument is not to be found in Hume’s “Of miracles”.
+7. Miracles as a just foundation for religion
+Grant that nothing in principle blocks the use of eyewitness testimony to 
+establish the credibility of a miracle—say, a resurrection—of supposed reli-
+gious significance. It might still seem that Hume has safe ground to which 
+to retreat. On his behalf one can argue that to serve as a ‘just foundation for 
+religion’, the miracle must not only satisfy Hume’s first definition of ‘miracle’ 
+as a violation of a (putative) law of nature but must also satisfy the second 
+definition, according to which a miracle is “a transgression of a law of nature 
+by a particular volition of the Deity, or by the interposition of some invisible 
+agent” (E 10.12n). But (still continuing on Hume’s behalf, now in the voice of 
+John Stuart Mill), nothing can ever prove that the resurrection is miraculous 
+in the sense of Hume’s second definition because “there is still another possi-
+ble hypothesis, that of its being the result of some unknown natural cause; and 
+this possibility cannot be so completely shut out as to leave no alternative but 
+that of admitting the existence and intervention of a being superior to nature” 
+(Mill 1843, 440).
+This line is used over and again across the decades by commentators sympa-
+thetic to Hume. It is apt to strike the innocent reader as a powerful considera-
+tion, but when the context is filled in it is seen as unavailing against the more 
+sophisticated eighteenth-century pro-miracles proponents. For . . . the role 
+these proponents saw for miracles was not that of a direct and full proof of 
+the presence of God by marks of a supernatural intervention in human affairs. 268  John Earman
+Rather, the miraculous figured in an argument whose goal was to render reli-
+gious doctrines highly credible and, ideally, to give them the kind of moral 
+assurance needed to render a jury verdict of beyond reasonable doubt. And to 
+fulfill this role, miracles need not be conceived as supernatural interventions; 
+they need only serve as probabilistic indicators of the truth of the religious 
+doctrines.
+To illustrate how miracles can serve to confirm religious doctrines, suppose 
+that testimonial evidence t (M) has incrementally confirmed M:
+P(M | t(M) & E) > P (M | E) (7)
+Suppose also that the testimony bears on the religious doctrine D only through 
+M in that
+P(D | ± M& ± t(M) & E) = P (D | ± M & E) (8)
+And suppose finally that
+P(M | D & E) > P(M |¬D & E) (9)
+Then it follows that
+P(D | t(M) & E) > P(D | E) (10)
+that is, t (M) incrementally confirms  D.
+Condition (8) is surely unobjectionable. Condition (9) is the sense in which 
+M serves as a probabilistic indicator of the truth of  D, and to fulfill this role M 
+need not be the result of a supernatural intervention that disrupts the order 
+of nature. And condition (9) is seemingly easy to satisfy. For example, isn’t it 
+obvious that the miracle of the loaves is more likely on the assumption that 
+Christian doctrine is true than on the assumption that it is false? In fact, it is 
+not obvious. In general, whether or not (9) is satisfied depends on what alter-
+natives are included in ¬D and what their prior probabilities are.8 Consider, 
+for example, the case where a high prior is given to the possibility that there is a 
+non-Christian deceiver God who actualizes a world containing events designed 
+to mislead people into falsely believing Christian doctrine. And even when D 
+is incrementally confirmed by t (M), there is no assurance that evidence of 
+other miracles will push the probability of D anywhere near that required for 
+moral certainty—again, it depends on the available alternatives and their prior 
+probabilities.
+So the discouraging word is that Bayesianism does not pave an easy road 
+for religion. But by the same token there is no obvious difference here with 
+theoretical physics: whether and how much a physical theory T that postulates Bayes, Hume, Price, and Miracles   269
+unobservable properties of unobservable elementary particles is confirmed by 
+direct or testimonial evidence about streaks in cloud chambers depends on 
+what alternatives to T are entertained and what priors these alternatives are 
+assigned.
+8. Parting company
+Let us agree for present purposes . . . that the subjectivist form of Bayesianism 
+captures the logic of inductive reasoning. . . . By these lights it is rational to give 
+high degrees of belief to miracles; indeed . . . given various kinds of eyewitness 
+testimony that it is in principle possible to obtain, it would be irrational not 
+to give a high credibility to miracles. Further, miracles can be used to support 
+rational credence in theological doctrines.
+Thus far I have marched shoulder to shoulder with the pro-miracle forces. 
+But now I drop out of the parade, and this for two reasons. First, my degree 
+of belief function—which I immodestly assume to satisfy the Bayesian stric-
+tures—disagrees with, for example, Professor Swinburne’s (1970, 1979) 
+function—which I have no doubt satisfies the strictures.9 Second, and more 
+important, I think that these differences are matters of taste in that there is no 
+objective basis to prefer one over the other. One way to find objectivity in the 
+framework of subjective Bayesianism is through an evidence-driven merger of 
+opinion (aka ‘washing out of priors’10). Such a consensus, however, is hollow 
+unless it is in principle possible that the accumulating evidence produces the 
+merger of opinion by driving the posterior probability to 1 on the true hypoth-
+eses and 0 on the false hypotheses. But for theological hypotheses, whose truth 
+values do not supervene on the totality of empirical evidence—no matter how 
+liberally that evidence is construed—the desired convergence to certainty is 
+impossible . . .11
+9. Conclusion
+I trust that I have displeased all parties. I hope to have upset the devotees of 
+Hume’s miracles essay by showing that a Bayesian examination reveals Hume’s 
+seemingly powerful argument to be a shambles from which little emerges 
+intact, save for posturing and pompous solemnities. At the same time I hope I 
+have given no comfort to the pro-miracle forces. I personally do not give much 
+credibility to religious miracles and religious doctrines. And while I acknowl-
+edge that those who do can be just as rational as I am, I suspect that degrees 
+of belief in religious doctrines cannot have an objective status if a necessary 
+condition for such a status is the existence of a reliable procedure for learning, 
+from all possible empirical evidence, the truth values of these doctrines. The 
+proof, or disproof, of this suspicion would, I think, constitute an important 
+contribution to the philosophy of religion.270  John Earman
+Notes
+ 1. Bayes’ essay was published posthumously in 1763. It was probably written in the 1740s.
+ 2. A first draft of Hume’s essay on miracles was written (probably) in 1737. But the essay did 
+not appear in print until 1748 when it was published as Chapter 10 (‘Of miracles’) of Hume’s 
+Philosophical Essays Concerning Human Understanding, later called Enquiry Concern-
+ing Human Understanding. The internal evidence indicates that the published version of 
+Hume’s miracles essay was written in the 1740s.
+ 3. Quoted in Burns (1981). Burns’s book provides a good overview of the eighteenth-century 
+miracles debate.
+ 4. And C. D. Broad took Hume to be saying that “we have never the right to believe any alleged 
+miracle however strong the testimony for it may be” (Broad 1916–17, 80).
+ 5. Hume tells us that he got the idea during his stay in La Flèche (1736–37); see Hume (1932, 
+1.361).
+ 6. Hume’s ‘Indian prince’ example makes its appearance in a hastily added endnote to the 1750 
+edition. In later editions a paragraph and a long footnote on the Indian prince were added to 
+the text.
+ 7. Editors’ note: the original printing of this paper stated the second formula as ‘P(W|E) = 
+1/(N–1)’, which appears to be a misprint
+ 8. An exception is the hypothetico-deductive case where D entails M.
+ 9. It is only here that I part company with Professor Swinburne, from whom I learned to apply 
+Bayesianism to religious matters.
+ 10. This phrase is misleading since the likelihoods, which in many cases are just as subjective as 
+the priors, have to wash out too.
+ 11. Editors’ note: The remainder of §8 gives technical support to this claim.

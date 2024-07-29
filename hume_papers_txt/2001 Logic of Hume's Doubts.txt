@@ -1,0 +1,327 @@
+The Logic of Hume’s Sceptical Doubts 
+In this paper I shall analyse the logic  of Hume’s famous argument for his “sceptical doubts” concerning 
+induction (from Section IV of the first Enquiry ), to see what interpretative lessons can be drawn.  I shall 
+argue that these lessons are considerable, in particular proving beyond reasonable doubt that the argument is 
+genuinely sceptical in intent, and thus restoring a traditional view that has recently been strongly contested 
+by a number of prominent commentators.  To facilitate this analysis I must start by “stripping down” Hume’s 
+rather complex argument to a much simpler logical framework, one whose faithfulness to the principal steps 
+in his reasoning is, I believe, relatively uncontroversial.  Note that here all of the principal stages of the 
+argument are deliberately expressed in terms of Hume’s “founded on” relation, which both avoids having to 
+beg questions about the meaning of that relation,1 and also facilitates easy reference to these stages through 
+semi-formal abbreviation, using symbols which will I hope will be fairly self-explanatory: 
+ 
+A Logical Sketch of Hume’s Argument in Enquiry IV 
+                                                   
+1 The most detailed analysis of this argument in the current literature is provided by Millican (1995), who presents strong grou nds for 
+his structural claims but whose resulting structure diagram (on pp. 120-1) is unsuitable for my purposes partly because of its complexity, but most importantly because he replaces Hume’s terminology with question-begging translations – for example “is no t 
+founded on Reason” he renders as “cannot be rationally justified” (note here and elsewhere that I consistently capitalise “Reas on” to 
+signify its use as the name of a faculty).  By remedying these questionable translations, and leaving out some of the intermedi ate 
+stages, his diagram can fairly straightforwardly be transformed into my own. All factual inferences to the 
+unobserved are founded on 
+experience:  FO(f,e)  
+All factual inferences to the 
+unobserved are founded on 
+UP:  FO(f,u)  
+No factual inference to the 
+unobserved is founded on Reason:  ¬FO(f,R)  All reasonings from experience 
+are founded on the Uniformity 
+Principle [UP]:  FO(e,u)  
+UP is not founded on sensory 
+evidence:  ¬FO(u,s)  UP is not founded on  
+demonstrative inference (from past uniformity):  ¬FO(u,d)  
+UP is not founded on Reason:  
+¬FO(u,R)  UP is not founded on intuitive 
+evidence:  ¬FO(u,i)  UP is not founded on factual 
+inference to the unobserved:  
+¬FO(u,f)  Key to Formulae
+FO(x,y) :  x is founded on y 
+d: demonstrative inference 
+e: reasoning from experience 
+f: factual inference to the 
+unobserved 
+i: intuition 
+R: Reason 
+s: sensation 
+u: the Uniformity Principle  2This diagram shows clearly how Hume’s argument pivots around what is commonly called his “Uniformity 
+Principle”:  the principle that similar causes can be expected in the future to have similar effects to those that 
+they have had in the past.  Equally clear is the argument’s fundamental dependence on the logic of the 
+“founded on” relation, which underlies all of its major stages.  This logic is manifested in the following four 
+conditional formulae, which together fully account for the inferential structure represented in the diagram: 
+(f1)  FO(f,e) & FO(e,u) → FO(f,u) 
+(f2)  FO(f,u) → ¬FO(u,f) 
+(f3)  ¬FO(u,s) & ¬FO(u,i) & ¬FO(u,d) & ¬FO(u,f) → ¬FO(u,R) 
+(f4)  FO(f,u) & ¬FO(u,R) → ¬FO(f,R) 
+The third of these carries obvious implications for Hume’s notion of Reason, which we shall discuss later.  
+But the other three formulae seem to exemplify more general logical properties of the “founded on” relation, 
+providing important constraints on its interpretation.  Let us take these in turn, before going on to discuss what that relation might mean in the light of these constraints. 
+The Logic of Hume’s “Founded On” Relation 
+(f1) , the first formula listed above, appears to be a straightforward instance of transitivity , indicating that 
+Hume takes “founded on” to be in general a transitive relation,2 just as we might expect given the nature of 
+the foundational metaphor.  Moreover this transitivity is clearly the key inferential mechanism in the first 
+half of Hume’s argument, which instantiates a typical transitive chain:  factual inference is founded on causal 
+reasoning,3 which is founded on reasoning from experience, which is founded on the Uniformity Principle, 
+and from this Hume takes it to follow that factual inference is founded on the Uniformity Principle.4 
+(f2)  is equally straightforward and unsurprising, indicating that Hume takes the “founded on” relation 
+to be asymmetric ,5 which again is just what would be expected from the foundational metaphor.  Indeed 
+given the transitivity of the “founded on” relation, its asymmetry follows immediately from the fact that 
+nothing can be founded on itself (i.e. the “founded on” relation is irreflexive ).6  This provides the logical 
+basis for Hume’s denial that the Uniformity Principle can be founded on factual inference, on the ground that 
+such a breach of asymmetry would be “going in a circle, and taking that for granted, which is the very point 
+in question.” (E36).  Indeed it is worth noting how exactly Hume’s words corroborate the claim that he is 
+                                                   
+2  A relation is transitive  if whenever x bears the relation to y, and y to z, it follows that x bears the relation to z.  Examples of 
+transitive relations include equivalence relations (e.g. “equal in height to”), weak ordering relations (e.g. “no greater than” , “at least 
+as tall as”), and strict ordering relations (e.g. “less than”, “heavier than”, “descended from”). 
+3  This first stage of Hume’s transitive reasoning is omitted from the diagram for the sake of simplicity, and because it raises  no 
+issues beyond those raised by formula (f4) . 
+4  Hume himself twice explicitly emphasises the chainlike nature of this part of his argument, at E32 (“When it is asked … 
+explication”) and E35 (“We have said … conformable to the past”). 
+5  A relation is asymmetric  if whenever x bears the relation to y, it follows that y does not  bear the relation to x.  Examples of 
+asymmetric relations include those in which the two relata fall into different categories (e.g. “husband of”) and strict orderi ng 
+relations.  Transitivity and asymmetry together imply that “founded on” is itself a strict ordering relation. 
+6  If a relation is not asymmetric, then there is at least one pair x and y such that x bears the relation to y and also y bears the relation 
+to x.  But if this is so then the transitivity of the relation would immediately imply that x bears the relation to x, and y to y.  3here presupposing – as too obvious even to be worth mentioning – both the transitivity and the irreflexivity 
+of the “founded on” relation.  For it is only on the presumption of transitivity that the Uniformity Principle’s 
+being founded on factual inference, and factual inference’s being founded on the Uniformity Principle, 
+together amount to “the very point in question” being founded on itself.  And it is only on the presumption of 
+irreflexivity that such self-founding can be ruled out. 
+Formulae (f1)  and (f2) , therefore, are both intuitively straightforward and logically unsurprising, 
+and were evidently seen as such by Hume himself.  Formula (f4) , however, is altogether more perplexing, 
+since although it may appear at first glance to have a broadly transitive character, in fact the pattern of 
+inference which it instantiates seriously conflicts with transitivity and asymmetry,7 and is anyway not one 
+that Hume accepts in general.  To see this, consider a similar formula but with reasoning from experience (e) 
+substituted in place of Reason (R): 
+   FO(f,u) & ¬FO(u,e) → ¬FO(f,e) 
+Hume would certainly accept the antecedent of this conditional, that factual inference is founded on the 
+Uniformity Principle and that the Uniformity Principle is not founded on reasoning from experience.8  But he 
+would equally certainly deny its consequent, which contradicts his frequent claim that all factual inference is 
+founded on (reasoning from) experience.  So unlike the relatively straightforward (f1)  and (f2) , formula 
+(f4)  leaves us with a genuine puzzle about what is going on in the logic of Hume’s argument.  It might 
+seem that he must be guilty of an error here, perhaps mistaking the logic of his “founded on” relation or 
+failing to apply it consistently, or perhaps equivocating on the relation’s meaning, in which case presumably 
+his argument might be vitiated by this ambiguity in its central notion.  Fortunately, however, the puzzle can 
+be resolved by investigating just what Hume means by the relation, and this resolution will turn out to be 
+more subtle and far less damaging than these unpalatable alternatives would suggest.  
+Hume talks of the “founded on” relation as connecting a wide range of different types of thing – beliefs, 
+conclusions, principles, relations, inferences, types of inference, faculties, even “experience” – and he 
+himself provides a variety of different paraphrases for it.  He repeatedly states, for example, that: 
+(a) All factual inferences “are founded on the relation of cause and effect” (E27, E32, cf. E35).  This is paraphrased in 
+terms of such reasoning requiring “knowledge of cause and effect” (E27, cf. E35). 
+(b) All our reasonings and conclusions concerning cause and effect “are founded entirely on experience” (E164, cf. 
+E32).  This is paraphrased as “our knowledge of [cause and effect] is derived entirely from experience” (E35). 
+(c) All inferences from experience “are founded on the supposition of [the] resemblance of the past to the future” 
+(E38, cf. E104).  This is paraphrased as “all our experimental conclusions pro ceed upon the s upposition, that the 
+future will be conformable to the past” (E35). 
+(d) Factual inferences “are not founded on reasoning, or any process of the understanding” (E32).  This is paraphrased 
+by saying that in all such inferences, “there is a step taken by the mind, which is not supported by any argument or 
+process of the understanding” (E41). 
+                                                   
+7  Even if the three substituted terms are required to be distinct, it generates an inconsistency with asymmetry whenever one te rm is 
+founded on two others or (given transitivity) whenever one term is founded on a second which is it turn founded on a third. 
+8  That the Uniformity Principle is not founded on reasoning from experience follows immediately from the asymmetry of the 
+“founded on” relation, given that reasoning from experience is founded on the Uniformity Principle.  4What seems to be in common to all of these is the issue of the source of authority  for the beliefs, theories, 
+inferences, and inferential methods whose foundation is in question.  Accordingly, when Hume states that 
+one thing “is founded on” another, I suggest he means that it derives its authority  from that other.  This 
+suggestion is corroborated by his sometimes using precisely this sort of language to express his familiar 
+claim that all factual inferences are “founded on” experience: 
+ “None of [the sciences or arts] can go beyond experience, or establish any principles which are not 
+founded on that authority.”  (Txviii) 
+ “It is experience only, which gives authority to human testimony; and it is the same experience, which 
+assures us of the laws of nature.”  (E127) 
+Moreover if this is indeed what Hume means by “founded on”, then it explains why he should take for 
+granted that it is a transitive relation, because if X derives its authority from Y, and Y derives its authority 
+from Z, then it will indeed be true that X derives its authority, albeit indirectly, from Z – authority is (so to 
+speak) passed down the chain, a metaphor which Hume himself uses in a related context: 
+ “’Tis obvious all this chain of argument or connexion of causes and effects, is at first founded on those 
+characters or letters, which are seen or remember’d, and that without the authority either of the memory 
+or senses our whole reasoning wou’d be chimerical and without foundation. Every link of the chain 
+wou’d in that case hang upon another; but there wou’d not be any thing fix’d to one end of it, capable of 
+sustaining the whole; and consequently there wou’d be no belief nor evidence.”  (T83, cf. E46) 
+This, then, accounts for the “transitive” part of Hume’s reasoning – if factual inference derives its authority 
+from reasoning concerning cause and effect, and that derives its authority from experiential reasoning, and 
+that derives its authority from the Uniformity Principle, then it will indeed be true that factual inference 
+derives its authority (albeit indirectly) from the Uniformity Principle. 
+It is equally easy, on these terms, to explain the “asymmetric” part of Hume’s reasoning represented by 
+formula (f2) , for clearly two things cannot each derive their authority from the other.  But as we have seen, 
+this straightforward logic changes when Hume comes to consider, later in the argument, the question of 
+whether the Uniformity Principle (and hence factual inference) is founded on, or derives its authority from, 
+Reason.  This happens, I suggest, because Reason is here the ultimate source  of the relevant authority, so that 
+an assertion or denial of its sanction is very naturally understood as implying more than a mere assertion or 
+denial of possible derivative authority.  The subtle shift of meaning can be illustrated by spelling out 
+examples of the two types of assertion side by side: 
+ (i)    Factual reasoning is founded on the Uniformity Principle 
+ means   Factual reasoning derives its authority from the Uniformity Principle 
+ which means Factual reasoning derives whatever authority it possesses  from the Uniformity Principle 
+ (ii)    The Uniformity Principle is founded on Reason 
+ means   The Uniformity Principle derives its authority from Reason 
+ which means  The Uniformity Principle has authority  derived from Reason  5This fundamental but subtle difference fully legitimates Hume’s reasoning, and without supposing him to be 
+guilty of any crude equivocation in his use of the “founded on” relation.  For thus interpreted the step in his 
+argument represented by formula (f4)  turns out to be clearly valid: 
+ FO(f,u) All factual inferences to the unobserved derive whatever authority they possess from UP  
+ ¬FO(u,R) UP does not have authority derived from Reason  
+∴ ¬FO(f,R) No factual inference to the unobserved has authority derived from Reason  
+Interpreting Hume’s “founded on” relation in terms of the derivation of rational authority – a manifestly 
+normative notion – thus fully explains the logic of his argument. 
+The Logic of “Reason” in Hume’s Argument 
+Let us now consider what Hume means by “Reason” within his argument, and in particular within its 
+celebrated conclusion that induction “is not founded on Reason”.  The current literature contains at least five 
+different proposals regarding the meaning of this conclusion and the nature of Hume’s resulting position, of 
+which I shall be supporting the last: 
+(a) The “Deductivist” Interpretation   (Flew, Stove etc) 
+ Factual inference is not deductively valid (in the informal sense) – the truth of the premises of a factual 
+inference to the unobserved cannot guarantee the truth of its conclusion.  Hence factual inference to the 
+unobserved is unwarranted . 
+(b) The “Anti-Deductivist” Interpretation   (Beauchamp, Baier etc) 
+ Factual inference is not deductively valid (in the informal sense) – the truth of the premises of a factual 
+inference to the unobserved cannot guarantee the truth of its conclusion.  Hence the conventionally 
+recognised deductivist concept of Reason must be rejected . 
+(c) The “No Meta-Reasoning” Interpretation   (Garrett, Noonan) 
+ We are not caused  to perform factual inference to the unobserved through recognition of an argument  
+(i.e. a process of ratiocination) for the reliability of such inference. 
+(d) The “No Medium” Interpretation   (Owen) 
+ When we perform factual inference to the unobserved, we do not make these inferences through a chain 
+of reasoning using intermediate steps.  Rather, such inference is immediate and unreflective. 
+(e) The “No Insight” Interpretation   (Millican, Winkler)  
+ We can see no reason that justifies factual inference to the unobserved.  No source of evidence (whether 
+direct or mediated by reasoning) can yield rational insight into why such inferences should be reliable.9 
+                                                   
+9  I call this the “no insight” interpretation for the sake of a simple nickname, but I suspect that both Millican and Winkler m ight 
+prefer “no reason whatever”, given that the word “insight” may seem to smack of the kind of narrow rationalistic notion that bo th 
+reject (Millican (1995) pp. 135-8; Winkler (1999) pp. 186-7).  They interpret Hume as denying induction any basis in “Reason” construed in a Lockean manner, a notion which is broader than deductivist “Reason” but still involves an element of rational in sight.  6The first point to note is that (a), (b), (c) and (d) all imply that Hume’s denial of a rational foundation for 
+induction is in some way limited – in the case of (a) and (b), by restricting attention to forms of evidence that 
+yield absolute certainty, and in the case of (c) and (d), by focusing only on forms of evidence that involve 
+reasoning.  Hence all of them fail to provide a full account of the structure of that part of Hume’s argument 
+which was represented above by the formula: 
+(f3)  ¬FO(u,s) & ¬FO(u,i) & ¬FO(u,d) & ¬FO(u,f) → ¬FO(u,R) 
+As this formula indicates, when Hume discusses the rational credentials of the Uniformity Principle he in 
+turn rules out four potential sources of evidence: sensation, intuition, demonstration and factual inference.  
+The first two of these are directly perceptual rather than inferential (and should therefore be irrelevant to his 
+purposes if either the “no meta-reasoning” or the “no medium” interpretation were correct), while the last of 
+them cannot yield absolute certainty (and should therefore be irrelevant if either the “deductivist” or the 
+“anti-deductivist” interpretation were correct).  Defenders of these interpretations might be tempted to 
+dismiss this sort of objection by alleging carelessness or superfluity in Hume’s discussion, but a significant 
+passage from A Letter from a Gentleman to his Friend in Edinburgh , written by Hume in exactly the period 
+when he was working on the Enquiry , strongly indicates that on the contrary, his selection of these four 
+potential sources of evidence is entirely deliberate:  
+“It is common for Philosophers to distinguish the Kinds of Evidence into intuitive, demonstrative, 
+sensible, and moral”   (L22) 
+Hume’s argument is apparently designed to rule out every  potential “kind of evidence” for the Uniformity 
+Principle.  And so the kinds of evidence that he considers are not restricted either to those that yield absolute 
+certainty, nor to those that are inferential. 
+Alternative Accounts of the “Founded On” Relation 
+The objection just made seems fatal to the “deductivist” and “anti-deductivist” interpretations, because (as 
+both Millican (1995) pp. 123-4 and Garrett (1997) pp. 86-91 observe) if Hume’s ambition had been confined 
+to showing that factual inferences to the unobserved carry no absolute guarantee of success, then he could 
+easily have proved this limited result in a very much simpler manner.  His well-known argument from 
+distinct conceivability would have got him to this goal in a single bound, without even raising the question of 
+whether the Uniformity Principle can itself be founded on merely “probable” reasoning. 
+The matter is less clear-cut, however, in the case of the “no meta-reasoning” and “no medium” 
+interpretations, because the stages of Hume’s argument which they make to appear redundant – represented 
+by the formulae ¬FO(u,s) and ¬FO(u,i)  – play a relatively minor role in the structure of Hume’s 
+reasoning.  Moreover the first of these can perhaps be explained away on the basis that Hume is here 
+considering sensation not as a direct ground for the Uniformity Principle but rather as a potential source of premises  or mediums  from which it might be inferred, while the second (which is anyway absent from the 
+Treatise ) can be incorporated into the two interpretations, albeit at the cost of some artificiality.
+10 
+                                                   
+10  Garrett (1998) pp. 185-6 makes precisely these moves:  “I cannot see Hume clearly considering the idea that sensation itself  
+causes inductive inference – just the idea that it provides premises about sensible qualities that could cause inductive infere nces via 
+an argument from sensible qualities to ‘secret powers.’  I do see, thanks to Millican’s observation, that Hume’s argument in th e 
+Enquiry  (unlike that in the Treatise ) rules out the alternative that inductive inferences are produced by an intuition  of a connection 
+between past and future.  But … Hume wisely broadens his conclusion in the Enquiry  to match his broader argument.”  7Fortunately, however, a more fundamental objection to the “no meta-reasoning” and “no medium” 
+interpretations can be developed by reference to our earlier discussion of Hume’s “founded on” relation.  
+Here the two most relevant formulae are these: 
+(f1)  FO(f,e) & FO(e,u) → FO(f,u) 
+(f4)  FO(f,u) & ¬FO(u,R) → ¬FO(f,R) 
+Let us start with the “no meta-reasoning” interpretation, according to which the “founded on” relation is 
+supposed to involve causation rather than the derivation of rational authority, so that “ FO(f,e) ” is 
+presumably to be read as “Factual inference to the unobserved is caused by reasoning from experience”.  
+However an abstraction such as the Uniformity Principle is not the sort of thing that can have direct causal 
+influence, so if “founded on” is to be understood in this way, it follows that “ u” cannot be taken as standing 
+for the Uniformity Principle itself, but must instead mean something like reasoning that invokes the 
+Uniformity Principle .  Translating accordingly, the causal variant of formula (f1)  turns out like this: 
+ (f1c)   If factual inference to the unobserved is caused by reasoning from experience, and reasoning from 
+experience is caused by reasoning that invokes the Uniformity Principle, then factual inference to 
+the unobserved is caused by reasoning that invokes the Uniformity Principle. 
+This might seem satisfactory, because the transitivity which is characteristic of causal relations makes 
+(f1c)  plausibly true (and the corresponding variant of formula (f2)  is equally unproblematic).  But 
+moving on now to formula (f4) , we must find a way of rendering “ ¬FO(u,R) ” and “¬FO(f,R) ” in 
+causal terms.  The latter is the ultimate conclusion of Hume’s famous argument, and so consistency with the 
+“no meta-reasoning” interpretation requires us to interpret these expressions as denials that the form of 
+reasoning in question (respectively reasoning that invokes the Uniformity Principle, and factual inference to 
+the unobserved) is itself caused by (further) reasoning.  Hence we reach: 
+ (f4c)   If factual inference to the unobserved is caused by reasoning that invokes the Uniformity 
+Principle, and reasoning that invokes the Uniformity Principle is not caused by (further) reasoning, 
+then factual inference to the unobserved is not caused by (further) reasoning. 
+However (f4c)  is logically quite inadequate to play its required role.  First, it does nothing to solve the 
+“puzzle” mentioned earlier, for it provides no apparent explanation of why the form of conditional: 
+   FO(x,y) & ¬FO(y,z) → ¬FO(x,z) 
+which cannot in general be valid on Humean terms, should be thought acceptable in this instance.  Secondly, 
+it can seriously be questioned whether (f4c)  as stated actually provides a legitimate instantiation of this 
+(at least superficially  plausible) form, because in the two propositions: “reasoning that invokes the 
+Uniformity Principle is not caused by (further) reasoning” and “factual inference to the unobserved is not 
+caused by (further) reasoning”, the phrase “(further) reasoning” evidently refers to something different – in 
+the former case it means further reasoning beyond that which invokes the Uniformity Principle , and in the 
+latter it means further reasoning beyond the factual inference to the unobserved .  Thirdly, and disastrously 
+for the “no meta-reasoning” interpretation, the result of this equivocation is to make (f4c)  not only invalid, 
+but almost self-refuting.  For if factual inference to the unobserved is caused by reasoning that invokes the  8Uniformity Principle, then it immediately follows that factual inference to the unobserved is indeed caused 
+by “(further) reasoning” – namely, that very reasoning which invokes the Uniformity Principle!11 
+Turning now to the “no medium” interpretation, we are again faced with the problem of making 
+appropriate sense of the “founded on” relation.  Take, for example, Hume’s claim that factual inference to 
+the unobserved is founded on reasoning from experience, which we have formalised as “ FO(f,e) ”.  As far 
+as I can see, the only way of understanding this in accordance with the “no medium” interpretation is in 
+conditional terms, rendering it as something like “ if factual inference to the unobserved were to involve 
+intermediate reasoning, then this would be reasoning from experience” (or perhaps “… this would have to 
+involve a medium established by reasoning from experience”).  Not only is this extremely artificial, and 
+without any obvious basis in the text of the Enquiry , but also it completely fails to explain the logic behind 
+either  (f1)  or (f4) .  Even the basic property of transitivity seems hard to account for in these terms.12 
+Conclusion 
+The upshot of all this is that the logic of Hume’s argument concerning induction poses a major problem for 
+both the “no meta-reasoning” and “no medium” interpretations, just as it does for the “deductivist” and “anti-deductivist” interpretations.  The latter – as has been pointed out more than once before – are unable to 
+explain why Hume takes the trouble even to consider the possibility of a “probable” foundation for the 
+Uniformity Principle.  But on the “no meta-reasoning” and “no medium” interpretations, not only does some 
+of Hume’s discussion appear to be irrelevant,
+13 but also, his logic turns out to be seriously fallacious.  Given 
+this verdict, it might naturally be wondered at this point whether my discussion of these rival interpretations 
+has been somehow unfair or incomplete, overlooking some alternative way of understanding Hume’s 
+language which would make good sense of everything he says in the appropriate terms.  To address this 
+possibility I can think of no better response than a Humean challenge:  if anyone claims that there is some 
+consistent and plausible way of understanding the logic of Hume’s argument in terms of either the “no meta-
+reasoning” or the “no medium” interpretations, then let them spell out its logic in detail, making clear how 
+the “founded on” relation is to be understood, what logical properties (e.g. transitivity, asymmetry) this 
+relation has, and how the structure of Hume’s argument, represented by the formulae (f1)  to (f4) , can be 
+made sense of in those terms.  I shall be extremely surprised if this is achievable. 
+                                                   
+11  Note that there is no way round this problem by somehow trying to identify the two types of reasoning (e.g. by deeming that 
+factual inference to the unobserved itself indirectly invokes the Uniformity Principle).  For quite apart from any logical diff iculties 
+that would then arise elsewhere, the two relata of the “founded on” relation must clearly be distinct if it is supposed to be i nterpreted 
+in causal terms. 
+12  Owing to the uncertainly over how an advocate of the “no medium” interpretation might attempt to explicate the “founded on” 
+relation in terms consistent with that interpretation, I must leave the further exploration of these difficulties as an exercis e for the 
+reader.  Such uncertainty also explains why I conclude with a Humean challenge to Garrett, Noonan, and Owen. 
+13  This claim of irrelevance can be developed not only in relation to the stages represented by the formulae ¬FO(u,s) and 
+¬FO(u,i) , but also in relation to the entire strategy of Hume’s argument.  Thus Millican (1998) pp. 151-4 maintains that if Hume 
+were concerned only to prove a result about the causation  of our factual inferences (rather than about the rational credentials of any 
+basis that can be given for them), then it would be quite incomprehensible why he should restrict his attention to good  arguments for 
+the Uniformity Principle (etc), as though only these could possibly be causally efficacious.  A similar point can be made about  the 
+“no medium” interpretation, for on the corresponding interpretation of “Reason” – as the faculty which draws inferences via intermediate ideas or “mediums” – Hume seems to have no adequate basis for presuming that such inferences can be drawn only via  
+well-founded  mediums.  All this is related to the logical problems highlighted in my own paper, for the same sorts of points arise 
+indirectly when trying to make sense of the logical properties of the “founded on” relation that Hume relies on in his argument .  9References 
+Baier, Annette C. (1991) A Progress of Sentiments: Reflections on Hume’s Treatise , Harvard University Press 
+Beauchamp, Tom and Mappes, Thomas (1975) “Is Hume Really a Sceptic about Induction?”, American Philosophical 
+Quarterly  12, pp.119-29 
+Beauchamp, Tom and Rosenberg, Alexander (1981) Hume and the Problem of Causation , Oxford University Press 
+Flew, Antony (1961) Hume’s Philosophy of Belief , London: Routledge & Kegan Paul 
+Garrett, Don (1997) Cognition and Commitment in Hume’s Philosophy , Oxford University Press 
+Garrett, Don (1998) “Ideas, Reason and Skepticism: Replies to my Critics”, Hume Studies  24, pp.171-94 
+Millican, P.J.R. (1995) “Hume’s Argument Concerning Induction: Structure and Interpretation”, in Stanley Tweyman 
+(ed), David Hume: Critical Assessments , London: Routledge, volume 2, pp.91-144 
+Millican, P.J.R. (1998) “Hume on Reason and Induction: Epistemology or Cognitive Scien ce?”, Hume Studies  24, 
+pp.141-59 
+Noonan, Harold W. (1999) Hume on Knowledge , London: Routledge 
+Owen, David (1999) Hume’s Reason , Oxford University Press 
+Stove, D.C. (1965) “Hume,  Probability, and Induction”, Philosophical Review  74, pp.160-77 and reprinted in V.C. 
+Chappell (ed), Hume (Macmillan, 1968), pp.187-212 
+Stove, D.C. (1973) Probability and Hume’s Inductive Scepticism , Oxford University Press 
+Winkler, Kenneth, ‘Hume’s Inductive Skepticism’, in Margaret Atherton (ed.), The Empiricists  (Lanham, Maryland: 
+Rowman & Littlefield, 1999), pp. 183-212 
+ 

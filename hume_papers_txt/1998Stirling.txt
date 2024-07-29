@@ -1,0 +1,495 @@
+The Problem of the First Enquiry: 
+Concluding the 1998 Stirling Conference 
+Peter Millican 
+Preamble 
+I’d like to start by thanking all those who’ve played a part in making this conference such a success, 
+including all the readers who helped us decide which papers to include, Jane (McIntyre) who 
+chaired the Reading Committee, and especially Tony (Pitson), who organized the splendid local arrangements here in Stirling.  Compared to Jane and Tony, I’ve had it relatively easy.  Though I proposed, back at Lancaster in 1989, that this year’s conference should be mainly focused on the 
+first Enquiry  on its 250
+th anniversary, and originally planned to host it in Leeds, the last few years 
+have been so horrendously busy and stressful for me that I would have found it very hard to cope as local organizer.  Even without these strains, I would not have succeeded in doing things in Tony’s 
+calm, efficient manner. 
+ I felt honoured when Jane and Tony, at Monterey, suggested the idea of this session, in which I 
+shall try to draw together ideas that have been discussed in the conference, and a few which have not, to put into focus some key issues concerning the first Enquiry  and Hume’s related works.  
+However having now gone through the conference busily taking notes with this talk in mind, I’m 
+not quite so sure – perhaps Jane and Tony found an artfully cunning way of taking revenge for all the work that I indirectly dumped on them!  At any rate, I hope I’ll be forgiven if in the circumstances this talk is less polished than one prepared completely in advance. 
+ I hope also I’ll be forgiven for being rather selective in what topics I include and what I leave 
+out.  A brief mention of each of the conference papers, or even of those which discussed the first Enquiry  and Dialogues , wouldn’t constitute much of a “summing up” or provide any unifying 
+theme for discussion, and I propose instead to try giving a personal view of “The Problem of the 
+First Enquiry” , informed by a fair number of the very interesting papers and responses delivered 
+here in Stirling, but also by discussions that I’ve been part of this week, particularly involving Terry Penelhum, Paul Russell, and John Wright, with whom I’ve spent many hours.  Certainly my own understanding of the first Enquiry  has benefited enormously from this conference – a week ago I 
+could not have said some of the most substantial parts of what I am about to say – and I hope that 
+these thoughts, unpolished, sketchy, and even sometimes a bit rambling as they are, may be of interest to you too. 
+Note:  in what follows, references to contributors at the Stirling conference are underlined
+.  2What is Hume About in the Enquiry? 
+What is Hume about in the Enquiry?   What were his most pressing concerns when he published the 
+original Philosophical Essays  exactly 250 years ago, and when he subsequently revised it numerous 
+times, including for the posthumous edition of 1777?  It is important to remember that he did get these chances for revision, unlike with the unfortunate Treatise  whose hasty publication and 
+absence of a second edition he long regretted.  There are three points to be made in this respect: 
+1. The Enquiry  is less likely than the Treatise  to include textual slips or infelicities. 
+2. The Enquiry  is less likely to be prudentially dishonest. 
+3. The Enquiry  can, and should, be read together with the Dialogues  and Hume’s other later writings 
+(Terry Penelhum ’s paper at this conference indeed illustrated the value of this). 
+An Associationist Manifesto? 
+To return to the question: what is Hume about in the Enquiry?   Is it essentially an attempt to 
+salvage the palatable bits of his associationist science of man, to secure more attention for the 
+Treatise  – a sort of puffed-up Abstract?   Surely not, else why did he insist on repudiating the 
+Treatise  with the October 1775 “Advertisement” he sent to his printer?  By 1775, (a) he had already 
+achieved literary fame;  (b) he had previously expressed dissatisfaction with the Treatise  in various 
+letters;  (c) he was already very sick, and perhaps expecting that he hadn’t long to live.  So we have 
+every reason to take the Advertisement as sincerely intended. 
+ Was the Enquiry , then, an attempt to establish the basis of an associationist science of man for 
+others to complete?  Again this seems unlikely, but now because of the internal evidence from 
+Hume’s texts.  Consider first these familiar enthusiastic remarks about the power and range of the 
+principle of association, from the Treatise  and Abstract : 
+“Here is a kind of A TTRACTION , which in the mental world will be found to have as extraordinary effects as in the 
+natural, and to shew itself in as many and as various forms.”  ( T 12-13) 
+“if any thing can intitle the author to so glorious a name as that of an inventor , ’tis the use he makes of the 
+principle of the association of ideas, which enters into most of his philosophy.”  ( A 661-2) 
+Now contrast these with the first paragraph of “The Sceptic” (which is also echoed in Section I of 
+the Enquiry , at E 15): 
+“philosophers … confine too much their principles, and make no account of that vast variety which nature has so 
+much affected in all her operations.  When a philosopher has once laid hold of a favourite principle, which perhaps accounts for many natural effects, he extends the same principle over the whole creation, and reduces to it every phenomenon, though by the most violent and absurd reasoning.  … we cannot extend our conception to the variety and extent of nature, but imagine that she is as much bounded in her operations as we are in our speculation.”  
+(Essays , 159-60) 
+As so often, Hume’s right!  The psychological explanations in the Treatise  are often just too crude 
+to be convincing, while Hume’s efforts to force them into the straitjacket of associationism makes others appear tortuous and contrived (one might say “forced and lacking in vivacity”!).  The  3Treatise  is a very great but irremediably flawed work, as Hume began to realise very quickly after 
+its publication.  In this conference we’ve seen some very interesting discussions of his changes of 
+mind on the topic of belief, even as soon as the Appendix  published with Book III in 1740.  David 
+Owen  and Ted Morris , and Francis Dauer  and Peter Sullivan , have all made illuminating points 
+here, establishing at least a major change of emphasis in Hume’s theory (but let us not “quarrel” here, gentlemen, “about the degrees”, cf. D 218). 
+ However the best evidence of Hume’s disillusionment with associationist psychology is the 
+very small place which he gives it in the Enquiry .  Thus Section III, “Of the Association of Ideas”, 
+consists of only three paragraphs, while the only significant applications of associationism appear in 
+Part II of Section V, where he presents his account of the mechanism of belief, and in Section VI, where he develops that account to deal with probability.  Even in this central theory of belief, however, of which he had made so much in the Treatise  and the Abstract , Hume's lack of 
+confidence is manifest.  He repeatedly states that he is doing no more than suggesting “analogies” 
+(E 47, 50, 54) or giving “hints” to “excite the curiosity of philosophers” ( E 59).  More striking still, 
+he tells the reader quite explicitly that his theory of belief is entirely inessential for the comprehension of the remaining sections of the book: “the following enquiries may well be 
+understood, though it be neglected” ( E 47)! 
+A Critique of Religion? 
+So once again, what is Hume about in the Enquiry  if it’s not either a puff for, or a mere “recasting” 
+of, the Treatise?   If we examine the work in terms of its distinctive content, then its most obvious 
+difference from the Treatise  is in the prominence that it gives to religious issues.  So it is pertinent 
+to ask how central religion might be to Hume’s concerns.  The first point to make here is that religious topics would have featured much more in the Treatise  had not Hume removed from it, for 
+reasons of prudence, those sections (e.g. a discussion of miracles) that were most explicitly 
+“infidel”.  However his interest in religion can still be discerned in what remains.  In the Introduction ( T xv), for example, he singles out “Natural Religion” as a subject which might be 
+particularly improved using the results of his science of man.  And many later sections of the 
+Treatise  have very clear sceptical implications both for the traditional theistic arguments and for 
+various Christian doctrines such as transubstantiation, the immortality of the soul, and the goodness of God. 
+ There is no need to stress, to this audience, the depth and scope of Hume’s attacks on religion 
+in his later works; his critique of natural theology in the Enquiry  and the Dialogues  is especially 
+familiar.  But it is noteworthy that he was motivated by moral as well as epistemological 
+considerations.  He came to think of religion, at least in its “popular” forms, as a thoroughly evil 
+and pernicious influence, which is born out of superstitious fears ( NHR  II, III and VI; “Of 
+Superstition and Enthusiasm”), corrupts morality in a variety of ways ( NHR  XIV, “Of Superstition 
+and Enthusiasm”, “Of Suicide”), and in particular recommends spurious “monkish virtues” ( E 270, 
+NHR  X), promotes intolerance ( NHR  IX), and encourages the vices of hypocrisy (“Of National  4Characters” 204n), self-deception ( NHR  XIII), and simpleminded credulity ( E 117-8, NHR  XI-XII).  
+Hume’s History of England  is full of examples to bear out his suggestion that “if the religious spirit 
+be ever mentioned in any historical narration, we are sure to meet afterwards with a detail of the 
+miseries, which attend it” ( D 220), and indeed it seems likely that his increasing antipathy towards 
+religion during his life was fuelled by such historical discoveries. 
+Hume’s Religious Views 
+Despite all this, there is a significant body of opinion that Hume espouses at least a minimal form of 
+theism.  The most obvious evidence in favour of this suggestion comes from his explicit words, and 
+those of Philo, his presumed spokesman in the Dialogues , who seems to be some sort of sceptical 
+fideist rather than an atheist: 
+“Let us become thoroughly sensible of the weakness, bl indness, and narrow  limits of human reason … even in 
+subjects of common life and practice:  Let the errors … of our very senses be set before us;  … the contradictions, which adhere to the very ideas of matter, cause and effect, extension, space, time, motion …  When … familiar objects … are so inexplicable, and contain circumstances so repugnant and contradictory;  with what assurance can we decide concerning the origin of worlds, or trace their history from eternity to eternity?”  ( D 131-2) 
+“A person, seasoned with a just sense of the imperfections of natural reason, will fly to revealed truth with the 
+greatest avidity …  To be a philosophical sceptic is, in a man of letters, the first and most essential step towards being a sound, believing Christian”  ( D 227-8) 
+Joe Campbell  developed this theme in his conference paper, but I tend to agree more with Eric 
+Steinberg ’s response: there are indeed Pyrrhonian echoes in Philo’s speeches in the Dialogues , and 
+overt fideism, but by the end there’s no suspense of judgement concerning the existence of anything 
+recognisably like the god of any religion, nor any surviving case in its favour. 
+ Or is there?  What about the “true religion” on which Philo and Cleanthes seem to agree? 
+“… nothing can afford a stronger presumption, that any set of principles are true … than … that they tend to the 
+confirmation of true religion, and serve to confound the cavils of Atheists, Libertines, and Freethinkers of all denominations.”  (Cleathes, D 140) 
+“… in proportion to my veneration for true religion, is my abhorrence of vulgar superstitions …”  (Philo, D 219) 
+“True religion, I allow, has no such pernicious consequences …”  (Philo, D 223) 
+“Allow not your zeal against false religion to undermine your veneration for the true.  …  The most agreeable 
+reflection, which it is possible for human imagination to suggest, is that of genuine theism …”  (Cleanthes, D 224) 
+Similar positive references also occur when Hume is writing in propria persona:  
+“That the corruption of the best things produces the worst , is grown into a maxim, and is commonly proved, 
+among other instances, by the pernicious effects of superstition  and enthusiasm , the corruptions of true religion.”  
+(Of Superstition and Enthusiasm , first paragraph) 
+“The whole frame of nature bespeaks an intelligent author; and no rational enquirer can, after serious reflection, 
+suspend his belief a moment with regard to the primary principles of genuine Theism and Religion.”  ( NHR  134) 
+“As far as … history reaches, mankind … appear universally to have been polytheists.  Shall we assert, that, in 
+more ancient times … men entertained the principles of pure theism?  That is, while they were ignorant and 
+barbarous, they discovered truth:  But fell into error, as soon as they acquired learning and politeness.”  ( NHR  135) 
+Gaskin ( Hume’s Philosophy of Religion , pp. 187-8) draws attention to such passages, ultimately 
+concluding that Hume is an “attenuated deist” (p. 219) whose belief – such as it is – combines a 
+minimal metaphysical belief with an entirely non-theological moral commitment (cf. D 220).   5However my inclination is to agree instead with Terry Penelhum ’s conclusion, in his elegant 
+conference paper on religion in the first Enquiry , that Hume is a “closet atheist”.  Penelhum doesn’t 
+specifically address the “true religion” passages, these do not appear in the Enquiry , but he makes 
+relevant points drawn from other works, such as the Natural History of Religion  with its implication 
+that religion (including, presumably, “true” religion) is “misbegotten”.  He also stresses the lesson of Section XI, that natural theology can have no practical consequences, which is – to my mind – 
+particularly significant here, since it removes whatever logical glue might be thought to connect 
+deistic metaphysics with moral commitment.  If Humean theism must be limited to a religion without moral content, then Gaskin’s would-be “true religion” cannot be a coherent position, and Hume himself must have been well aware of this. 
+ Nevertheless Hume continued, of course, to maintain the pretence of belief, and Penelhum 
+provides a very plausible account of why he did so, notably to avoid offending his friends amongst 
+the moderate clergy and their congregations, and to limit his anti-religious ambitions to what was 
+realistic at the time.  In a world where religion is practically unquestionable, where very few readers can seriously contemplate atheism, the optimum aim might well be to dilute theism’s content so that at least it ceases to have such detrimental effects on philosophy and behaviour.  And this sort of 
+dilution is a major theme not only of Enquiry  Section XI, but also of Philo’s famous “confession” in 
+the final section of the Dialogues:  
+“If the whole of natural theology … resolves itself into one simple, though somewhat ambiguous, at least 
+undefined pr oposition, that the cause or causes of order in the universe probably bear some remote analogy to 
+human intelligence :  If this proposition be not capable of extension …  If it afford no inference that affects human 
+life …  And if the analogy … cannot be transferred … to the other qualities of the mind:  If this really be the case, 
+what can the most inquisitive, contemplative, and religious man do more than give a plain, philosophical assent to 
+the proposition … ?”  ( D 227) 
+Penelhum ended by suggesting that Hume would have foreseen how such dilution could lead, in 
+future generations, to a withering away of theism itself.  This speculation can also be reinforced by 
+hints that Hume left to his future readers, most notably the following passage which – like the one 
+above – seems to have been added on his deathbed in 1776: 
+“I next turn to the atheist … and I ask him, whether … there be not a certain degree of analogy among all the 
+operations of nature … whether the rotting of a turnip, the generation of an animal, and the structure of human thought be not energies that probably bear some remote analogy to each other …  [And] I ask him, if it be not 
+probable, that the principle which first arranged, and still maintains, order in this universe, bears not also some 
+remote inconceivable analogy to the other operations of nature, and among the rest to the œconomy of human mind and thought.”   (Philo, D 218) 
+This makes abundantly clear that the belief endorsed in Philo’s later “confession” is so dilute that it 
+cannot properly be called theism at all, nor even “attenuated deism”.  (Note that the phrase “some 
+remote analogy” occurs in only these two passages in Hume’s entire philosophical corpus, so there is compelling justification for interpreting them as a piece.)  All the confession amounts to is: 
+The cause or causes of order in the universe probably bear some remote analogy to human intelligence, just as the 
+rotting of the turnip, the generation of an animal and all the other operations of nature probably bear such an analogy. 
+Such a belief is so thin that it has lost any genuine religious content.  Reciting the belief may give 
+the appearance – and perhaps the personal comfort – of a superficial continuing adherence to  6religion, but all the active substance – including the pernicious metaphysics and morals – has 
+entirely disappeared.  If Hume indeed conceived this as a strategy for weaning people from their 
+religious addiction, then an appropriate name might be “Nicorette theism”. 
+The Problem of the First Enquiry 
+Drawing on our results so far, on associationism and religion, the position of the Enquiry  in the 
+context of the Treatise  might be summarised like this: 
+(a) The Enquiry’ s continuity with the Treatise  lies not so much in the details of associationism as in its anti-
+rationalist arguments: the Copy Principle; the argument concerning induction and its resolution through 
+custom (an instinct we share with other animals); the naturalistic explanation of probability and liberty; 
+the denial of any rationalistic understanding of necessity or perception of essences. 
+(b) Where the Enquiry  differs from the Treatise , it is in going further in the explicit condemnation of 
+natural theology and rationalistic metaphysics – notably in Sections X and XI, and the notorious book-
+burning finale of Section XII. 
+Thus the emphasis of the Enquiry  is vastly different from that of the Treatise .  Not only does the 
+mature Hume see his psychological theory of association as a tentative and relatively unimportant 
+speculation, but he even makes a point of stating explicitly that it is of minimal relevance to his 
+more philosophical results, which he clearly considers, and quite correctly, to be of much greater significance.  He no longer sees himself as the Newton of the mind.  But this is not to say that he has lost his faith in the application of “the experimental method of reasoning” to “moral subjects”.  
+Rather, he has acquired a more realistic perspective on his own achievements, and is by now well 
+aware that his permanent contributions to the advancement of learning will not lie in the details of his juvenile psychological theory, which now seems so strained and contrived, but in his philosophical assault on the heart of rationalism, whose force is undiminished.  In the Enquiry  he 
+therefore focuses almost exclusively on this negative task, re-stating only those arguments with 
+which he is still content, and which he believes will prove to be of enduring significance.  
+ All very well, but in this task it’s vitally important not to clear away too much!  If science is to 
+be vindicated in place of theology and metaphysics, then the all-embracing scepticism of the 
+Treatise  is far too strong.  Hume was well aware of the mischievous use made of paradoxes by 
+Bayle and the Port Royal logicians, subverting reason to promote faith.  He had even used a similar 
+trick himself not long before, in his Letter from a Gentleman:  
+“Must not a man be ridiculous to assert that our Author [of the Treatise ] denies the Principles of Religion, when 
+he looks upon them as equally certain with the Objects of his Senses?  If I be as much assured of these Principles, as that this Table at which I now write is before me;  Can any Thing further be desired by the most rigorous Antagonist?”  ( L 20) 
+So this is the Problem of the First Enquiry:  Is Hume able to steer a course between the Scylla of 
+superstition and aprioristic metaphysics on th e one hand, and the Charybdis of excessive 
+scepticism on the other?   Obviously the triumphant closing paragraph of Section XII is claiming 
+success in precisely this, but can Hume really succeed?  7 I see this as a major unsolved problem.  And it is more  vexing than the comparable problem 
+which arises in respect of the Treatise , and which Hume raises there far more explicitly, especially 
+in Section I iv 7, the Conclusion of Book I (e.g. T 268-9).  There is no time here to debate the 
+interpretation of that difficult section, so interestingly explored by Phil Cummins  and Wade 
+Robison , which some have thought to be a brilliant example of subtle and sophisticated 
+composition.  Others – myself included – find it far more problematic, and are not convinced that 
+Hume is there able to find a safe middle course.  But if he is not, then this is hardly a surprise, given 
+the difficulty of the problem and the haste of the youthful author, not to mention the overt distress that he evinces as he struggles with it.  In the case of the Enquiry , however, we have a calmly 
+composed and much revised text, where difficulties cannot so plausibly be put down to hasty 
+composition or lack of thinking through.  There is no easy way of avoiding our question: can the 
+Hume of the Enquiry  succeed in discriminating between superstition and science, using scepticism 
+to clear away the one whilst leaving the other intact? 
+ (I phrase the problem in terms of whether Hume can succeed rather than whether he does, to 
+suggest that the prime issue here is philosophical  rather than merely historical .  Hume is a great 
+thinker of exceptional logical insight, but sometimes prone to expressing himself less perspicuously 
+than one might wish for reasons of prudence, prejudice against formalism, allusion, idiom, 
+sloppiness or whatever.  If there’s a way of achieving his aims with the resources available to him, he’s very likely to have found it.  And if there’s some passage in Hume which can be interpreted in a variety of ways, then the most reliable method of disambiguating and clarifying its meaning is to 
+see what Hume does with it: how he argues for it, and what he infers from it.  It is the strong 
+relevance of Hume’s writings to living philosophical concerns, and the even stronger relevance of philosophical considerations to the understanding of his works, that makes him such a rewarding author to study.  Incidentally, this is also why I’m certain that he’s an atheist, despite the weight of 
+the theistic quotations so usefully collected by Joe Campbell
+.) 
+ Now down to details.  The Enquiry  starts with a manifesto in Section I, which I read as largely 
+a defence of the “abstruse” philosophy against the “easy” philosophy (despite Francis Dauer ’s claim 
+that the Enquiry  has become “easy philosophy” by leaving out the hydraulics of associationism).  
+As Ken Richman  put it nicely in the conclusion of his paper, “In his actions and his words Hume 
+tells us ‘Be a man; but amidst all your manliness, be still a philosopher’.” 
+ Section II is obviously a reworking of the Treatise  section on the origin of ideas, smoothing 
+over the theoretical complications (no simple/complex distinction here, for instance) and 
+emphasising the critical force of the Copy Principle. 
+ Section III is notable mainly for its brevity, especially in the form it took in the final edition 
+that Hume corrected.  Again, this does not come across as the work of an enthusiast for the 
+associationist psychology of the Treatise .  8 Then we reach Section IV, a key argument for the understanding of Hume both in the Treatise  
+and the Enquiry , and the first where what I have called the Problem of the Enquiry  clearly comes 
+into focus.  Too see this, contrast two prominent types of interpretation of Hume’s argument: 
+(a) The deductivist  interpretation of Flew and Stove, which implies that science is irrational. 
+(b) The anti-deductivist  interpretation of Beauchamp and Rosenberg,  Arnold, Baier and Broughton,  which 
+presents no problem for science, but which is utterly anodyne and has no serious sceptical implications. 
+Both types of interpretation can be attacked on at least three grounds: 
+1. Both appear to conflict with various Humean texts (the first with his endorsement of probability, the 
+second with the strong language in which he describes his sceptical conclusions). 
+2. Both conflict with the logic of Hume’s argument (neither can explain Hume’s canvassing of a 
+“probable” justification of induction). 
+3. Neither can provide any basis for a criterion of demarcation between legitimate “science” and 
+illegitimate “superstition” (such as Hume is clearly concerned to provide in the Enquiry , most obviously 
+in his concluding paragraph). 
+The resolution I favour is to look for an appropriate notion of “reason”, which can make sense of 
+Hume’s argument as genuinely sceptical (in denying that induction is founded on reason in that 
+sense) while leaving room for science to be “rational” in some less stringent sense.  As I have 
+argued at length elsewhere, I see the answer in a Lockean notion of reason as the perception  of 
+evidential relations, and I see the function of Hume’s argument in Enquiry  IV as being to 
+reinterpret  “reason” (a transition most explicitly signalled in what Don Garrett calls my “favourite 
+footnote”, T 117-8n).  Hume shows how induction depends crucially on the customary assumption 
+of uniformity, an assumption that can claim no basis in any sort of Lockean perceptual insight.  
+Rather, as he spells out in Section V, we make the assumption through an irresistible natural instinct, and this provides the basic belief in inductive uniformity from which virtually all of our 
+conclusions about “matter of fact” follow.  Those that are inferred “reasonably” on the basis of this 
+assumption can then claim the sanction of Hume’s reinterpreted notion of “reason”, even though they fail the Lockean criterion. 
+ But how can Hume, on this reading, provide a defensible criterion of demarcation between 
+“science” and “superstition”?  It might seem that the appeal to custom is arbitrary, if it ultimately 
+depends on a belief which has no rational basis of any kind, and whose only recommendation is its 
+psychological irresistibility.  Why cannot the religious claim the same for their own belief, 
+appealing to irresistible faith?  Hume was well aware of this difficulty from the start, because he addresses it squarely in the famous first paragraph of Treatise  I iv 4, reminding us how he has 
+founded his own inductive principles on the imagination, immediately after having criticised “the 
+antient philosophers” for basing their philosophy on the imagination: 
+“In order to justify myself, I must distinguish in the imagination betwixt the principles which are permanent, 
+irresistable, and universal; such as the customary transition from causes to effects, and from effects to causes:  And the principles, which are changeable, weak, and irregular; such as those [relied on by the antient philosophers].  The former are the foundation of all our thoughts and actions, so that upon their removal human  9nature must immediately perish and go to ruin.  The latter are neither unavoidable to mankind, nor necessary, or so 
+much as useful in the conduct of life; but on the contrary are observ’d only to take place in weak minds, and being opposite to the other principles of custom and reasoning, may easily be subverted by a due contrast and opposition.”  ( T 225) 
+In the Enquiry  Hume’s never discusses the theoretical problem in such a direct manner, but he does 
+far more to illustrate the practical application of his method of subverting superstitious beliefs.  
+Thus in Section VIII he illustrates how a consistent commitment to inductive uniformity can lead 
+“philosophers” to reason more systematically than “the vulgar” (e.g. E 86-7).  Then in Sections X 
+and XI he applies a similar technique, showing how the theists’ arguments in support of miracles and design are themselves based on inductive principles, but fail to follow those principles through consistently.  Hence these arguments “may easily be subverted by a due contrast and opposition”. 
+ All this is highly relevant to the important issue in the ethics of belief discussed, in the context 
+of miracles, by Patrick Corrigan
+ and Kenneth Merrill : how can Hume combine his claims about the 
+involuntariness of belief with the injunction to weigh evidence “wisely”?  Hume’s answer seems to 
+be that we can voluntarily choose to seek out, and take note of, evidence and logical considerations such as consistency.  Hence our beliefs are accountable not in terms of their ultimate basis – that is, 
+irresistible custom – but rather in terms of how diligently we follow through its implications.  Of 
+course the question of genuine choice and accountability can still be raised here, given that Hume takes our diligence (like all of our characteristics) to be causally determined.  But this is just the classic question of free will and determinism, to which Hume’s response is given in Enquiry  VIII. 
+ So far, so good.  And immediately after Hume has presented his theory of custom, he goes on 
+in Section VI to extend his new custom-based notion of “reason”, rather crudely in my view, to 
+bring what I shall call mathematical probability into the fold of rationally defensible operations. 
+ Section VII, as I read it, has a dual role.  On the one hand, Hume wants to trace the idea of 
+necessary connexion to its impression source, to pin down all we can mean  by “necessary 
+connexion”, “power”, “cause” and so on.  On the other hand, Hume delights, en passant , in 
+attacking would-be aprioristic causal claims wherever he encounters them, whether in external objects or in minds.  He does this whilst deploying an argumentative strategy which Edward Craig
+ 
+calls a “muddle”.  In Part I, Hume rules out any putative impression of necessary connexion on the 
+ground that none of them is capable of delivering certain knowledge of the effect which will follow.  But then, in Part II, he declares with triumph the discovery of his own candidate for that impression, apparently blindly missing the obvious fact that this candidate is itself manifestly incapable of 
+providing infallible causal knowledge. 
+ I agree with Craig that this argument is a strange one, but I don’t think it’s as muddled as he 
+supposes, and hence doesn’t throw as much doubt on Hume’s reasonings in this section.  In brief, I 
+think Hume is taking for granted that any impression of necessary connexion  has to connect  the 
+cause and effect, and is also presupposing, naturally in view of his own other beliefs and those of his philosophical opponents, that any aprioristic evidence must yield certainty if it provides any link 
+at all.  Put these two assumptions together and it makes perfect sense that he would expect a higher  10standard of connexion from an impression which arises in a single instance of conjunction than he 
+would from an impression which arises from repetition.  Having merely dropped that hint, however, 
+I must press on. 
+ A lot has been said at this conference, and understandably so, on the causal realism debate.  It 
+isn’t appropriate here to rehearse again all the familiar arguments and supposedly decisive 
+quotations, so I shall just state briefly why I personally remain unconvinced by the interpretation of John Wright
+ (and even more so by that of Galen Strawson). 
+ First, it just seems to me that Hume stated his anti-realism about as emphatically as it is 
+possible to do: when we speak of power in objects without any corresponding idea, we speak with 
+“no distinct meaning” ( T 162), “absolutely without any meaning” ( E 74), and our terms are 
+“altogether insignificant” ( A 657).  “We do not understand our meaning in talking so, but ignorantly 
+confound ideas, which are entirely distinct from each other” ( T 168); “we contradict ourselves, or 
+talk without a meaning” ( T 267).  Given that the best lines on the other side all fall within sections 
+where Hume has given at least a strong hint that he is speaking with the vulgar (i.e. E 33n), this 
+evidence is hard to counterbalance. 
+ But secondly, and more substantially, I just don’t see how causal realism is compatible with 
+other parts of Hume’s philosophy or the use he makes of his discovery about the origin of the idea 
+of necessary connexion: 
+(a) Most damagingly, apart from the negative epistemological conclusions for aprioristic science that Hume 
+draws en passant  while seeking the corresponding impression, the main use he makes of his idea of 
+necessity is in Section VIII.  But the same argument appears also in the Treatise  and the Abstract , which 
+sums up the point very nicely: 
+“the most zealous advocates for free-will must allow this union and inference with regard to human actions.  
+They will only deny, that this makes the whole of n ecessity.  But then they must shew, that we have an idea of 
+something else in the actions of matter; which, according to the foregoing reasoning, is impossible.”  ( A 661) 
+ Here Hume is explicitly appealing to the limits of coherent thought: his libertarian opponent, in 
+supposing that “the actions of matter” involve some objective necessity that outruns the Humean idea, is 
+trying to think the unthinkable.  Evidently this key move, which is made very clearly in all three 
+presentations of the argument, requires a semantic  rather than merely epistemological  interpretation of 
+Hume’s account of the idea of necessary connexion.  If the move is to be legitimate, then the nature of 
+the idea revealed by the Copy Principle must indeed constrain what we can “manage to mean” by 
+“necessary connexion”: coherent thought beyond the limits of our ideas must be impossible. 
+(b) Coming as I do from several years’ intensive study of the argument concerning induction and the related 
+sections, I find that argument very hard to square with the supposition that there might be hidden 
+connexions in objects which, if only we knew about them, could yield a priori  knowledge of cause and 
+effect.  Perhaps the most obvious problem here is with Hume’s Conceivability Principle, which seems 
+to rule out genuine necessities between distinct events. 
+(c) Against this, Edward Craig  argued nicely that the epistemological issue of the nature of our ideas could 
+be separated from the metaphysical issue of what’s really there in objects.  But even this, I believe, 
+gives no way out.  If we even try to contemplate the notion of necessity in objects, we have not “even  11any distinct notion of what it is we desire to know, when we endeavour a conception of it” ( E 77).  And 
+Hume needn’t just rely on his empiricist Copy Principle to get here: he has the resources in Enquiry  IV 
+(E 36-7) to show that no kind of power in objects could, in principle, solve the problem of induction.  
+But a power which can’t do that isn’t worthy of the name, and as he might say, I need not complete the 
+syllogism. 
+All this has been rather one-sided, and I’m not going to pretend that John Wright  hasn’t got 
+responses to at least some of these points.  To my mind, the strongest kind of response is to appeal 
+to Hume’s epistemological purposes, and thus get round the systematic block set up by Ken Levy  in 
+his paper on the topic.  But of this sort of thing, more later. 
+ I’ve already said a little about Enquiry  VIII, “Of Liberty and Necessity”, and since what 
+Hume’s up to there is fairly uncontroversial, I won’t say much more.  It and Section IX, “Of the 
+Reason of Animals”, aim to place man, both as an agent and as a reasoner, firmly among the order of brute nature.  Together with Section VII and its undermining of any aprioristic science of nature 
+or of man, they round off a thoroughly naturalistic picture of human nature and human science. 
+ The end of Section VIII, which raises the Problem of Evil, combines with Sections X and XI to 
+put the boot into natural theology.  Again the aim of these sections is relatively clear, and I have 
+nothing more to add here to the illuminating paper of Terry Penelhum
+, so I’ll jump straight forward 
+to the far more problematic Section XII. 
+ Section XII raises two very major problems, and I’ll start with the one touched on this morning 
+in the interesting discussion between Emilio Mazza  and Lorne Falkenstein : what sense can we 
+make of Hume’s apparently very sceptical account of our belief in the external world?  Until this 
+conference I felt extremely frustrated by this issue, but thanks to conversations with John Wright  
+and Paul Russell  I feel far better able to address it now.  This alone would, for me, have been 
+enough to make the conference worthwhile, quite apart from the many other interesting discussions I’ve been able to take part in or overhear, and the great pleasure of spending the week in the 
+company of so many congenial Humeans.  But not to lose any further time in circumlocution, as 
+Cleanthes would say, I’ll try to sketch how I now see the position of Enquiry  Section XII, and why 
+it’s altogether more satisfactory than the muddle of Treatise  I iv 7, mentioned earlier.  However I 
+shall steadfastly resist getting into the latter interpretative minefield: sufficient unto the day are the 
+puzzles thereof! 
+ First, let us recall where we stand.  I have argued that Hume’s primary aim in the Enquiry  is to 
+provide a principled demarcation between science on the one hand, and theology, superstition and 
+aprioristic metaphysics on the other.  In Sections IV and V the basis of that demarcation was presented: we are to reason in conformity with the natural and irresistible belief in inductive uniformity, what Hume in the Treatise  had called a “general and established” principle of the 
+imagination, and we are apparently to use this to subvert other imaginative principles “by a due 
+contrast and opposition”.  This method was applied successfully in the following sections without  12serious mishap, and we have by now apparently seen off natural theology and various vulgar 
+fallacies fairly comfortably by that means. 
+ All very well, but what all curious Humeans are waiting to see is what can be done with the 
+sceptical problems which [all but?] wrecked the project of the Treatise .  Let’s quickly review 
+Hume’s Section XII catalogue of these problems, disposing of those where Hume’s position is 
+relatively easy to discern, and leading up to the most problematic: 
+1. “Antecedent” scepticism has an extreme Cartesian variant, which Hume dismisses ( E 149-50) on the 
+ground that it is clearly pointless and incurable, leaving us in a sceptical pit with no conceivable means 
+of escape.  A more moderate variant he accepts, recommending that we “advance by timorous and sure 
+steps” ( E 150) to build our conclusions cautiously and solidly. 
+2. “Consequent” scepticism can be applied to the senses or reasoning.  Scepticism about abstract reasoning 
+tends to focus on problems of infinite divisibility ( E 156-8), which are seriously paradoxical but can 
+perhaps be allayed through an appropriate treatment of abstract ideas ( E 158n). 
+3. Scepticism about our “reasoning concerning matter of fact” comes in two forms, “popular” and 
+“philosophical”.  The popular form highlights everyday disagreements and the relativity of judgment to one’s situation, but such reflections have insufficient force to undermine our reliance on everyday 
+inductive reasoning, which we find irresistible outside the study.  Hence common-life sceptical 
+considerations are outweighed by common-life practice ( E 158-9). 
+4. The philosophical form of scepticism about factual reasoning – Hume’s own argument concerning 
+induction of Section IV – is more significant, and indeed philosophically irrefutable.  But again the 
+answer to it is a practical one: withholding all inductive belief is impossible, and would be disastrous if 
+it were possible.  So this form of scepticism cannot be taken seriously as a recommendation to renounce 
+all inductive beliefs; instead, its main upshot is simply what it tells us about our own epistemological 
+condition, “the whimsical condition of mankind” ( E 160). 
+5. Scepticism about the senses also seems to come in one form that is relatively popular and another that is 
+more philosophical.  The popular variant, based on the “trite topics” of E 151 as discussed by Emilio 
+Mazza , shows only that the evidence of the senses must be corrected by reason in familiar ways, taking 
+account of the context of observation – again a common-life sceptical consideration that can be 
+addressed in a common-life manner. 
+6. The “more profound arguments against the senses … admit not of so easy a solution” ( E 151).  There 
+are two such arguments, the first (drawn from Treatise  I iv 2) showing that we can’t legitimately reason 
+to an external cause of our perceptions, while the second (from Treatise  I iv 4) indicates that even the 
+notion of such a material cause – with primary but not secondary qualities – is incoherent. 
+So how does Hume respond to these last sceptical difficulties concerning the senses?  What we 
+might reasonably expect , as a continuation of the strategy from Sections IV and V, is first, an appeal 
+to the irresistible instincts of human nature, and secondly, a recommendation that we should continue to reason on that instinctive basis in a way that resolves the sceptical dilemma.  We do 
+indeed get an appeal to irresistible instinct, right at the beginning of the discussion:  13“It  seems evident, that men are carried, by a natural instinct or prepossession, to repose faith in their senses; and 
+that, without any reasoning, or even almost before the use of reason, we always suppose an external universe, which depends not on our perception …  Even the animal creation are governed by a like opinion …”  ( E 150) 
+But we don’t afterwards get anything like the comfortable resolution that follows Hume’s 
+discussion of induction.  Here is the concluding paragraph of Section XII Part I, which seems to 
+leave everything up in the air: 
+“Thus the first philosophical objection to … the opinion of external existence [the Treatise  I iv 2 argument] 
+consists in this, that such an opinion … carries no rational evidence with it, to convince an impartial enquirer.  The second objection [the Treatise  I iv 4 argument] goes farther, and represents this option as contrary to reason: at 
+least, if it be a principle of reason, that all sensible qualities are in the mind, not in the object.  Bereave matter of all its intelligible qualities, both primary and secondary, you in a manner annihilate it, and leave only a certain unknown, inexplicable something , as the cause of our perceptions; a notion so imperfect, that no sceptic will think 
+it worth while to contend against it.”  ( E 155) 
+However I suspect that this paragraph is very artfully written, perhaps deliberately leaving open two 
+possibilities to resolve the sceptical problems: 
+1. We could deny that “all sensible qualities are in the mind”, which might enable a return to some sort of 
+naïve realism (perhaps like the “vulgar” position of Treatise  I iv 2). 
+2. We could accept the belief in “a certain unknown, inexplicable something ”. 
+Simon Blackburn , in his paper here, dismissed the latter as “gloomy noumenalism”, but I think it 
+merits closer examination.  Certainly Hume’s words also seem to be rather dismissive: the notion is 
+“so imperfect, that no sceptic will think it worth while to contend against it”.  But this is in fact 
+quite compatible with seeing the notion as acceptable  on that basis.  Its “imperfection” is not a 
+matter of incoherence, but vacuity : it is so insubstantial as to contain nothing worthy of sceptical 
+objection.  It can therefore, perhaps, serve sufficiently to satisfy our natural craving for some sort of 
+conception of an external world, without bringing any objectionable metaphysical baggage such as 
+the distinction between primary and secondary qualities.  Taking a cue from our earlier discussion of Humean vacuous theism, we might therefore call it “Nicorette realism”. 
+ The parallel between Nicorette theism and Nicorette realism looks intriguing, but there is an 
+asymmetry between the two which might make this interpretative proposal seem rather implausible.  
+Hume’s motive for recommending a vacuous form of theism is – presumably – to undermine the 
+belief entirely: he does not appear to view theism as an inevitable natural belief, and his attitude towards it seems overwhelmingly negative.  But it’s hard to see why Hume, on the overall “pro-science, anti-superstition” account that I have been sketching, should have a comparable motive for 
+undermining realism about the external world.  For he clearly does take this belief to be natural, and 
+moreover it does seem to underlie the entire picture of the world that Humean inductive science is supposed to investigate.  Berkeley might combine immaterialism with a positive instrumentalist account of science based on benevolent divine orchestration, but such a strategy seems unlikely for 
+a philosopher like Hume, so opposed to interpreting the world theistically. 
+ The possibility that I did not see prior to this conference is that Hume might indeed have a 
+motive for what I have called “Nicorette realism”, not as a means of undermining realism, but as a 
+means of preserving it in a vacuous form, a Lockean “I know not what” that causes our perceptions.   14First, such a notion is at least compatible with Humean inductive science: as Berkeley’s 
+instrumentalism illustrates, the formulation of systematic laws governing the world as it appears to 
+us need not dictate our metaphysical view about what’s really  out there.  But secondly, Humean 
+vacuous realism has a positive virtue, in wrecking any prospect for the sort of aprioristic reasonings about matter that thinkers such as Samuel Clarke and Andrew Baxter went in for.  They argued that the metaphysical nature of matter is transparently inactive or inert , and on this basis went on to 
+claim that an immaterial God was required to provide the activity of the world (e.g. in forces such 
+as gravity, or powers such as thought).  Hume, clearly, wants none of this, and I suggest that his strategy for undermining it is to prove that the nature of matter is very far from transparent.  A priori  theorising about its nature, indeed, leads us into confusion and contradiction: even the 
+superficially plausible distinction between primary and secondary qualities – as Berkeley showed – 
+cannot be coherently defended.  But Berkeley’s argument (adopted by Hume in Treatise  I iv 4 and 
+Enquiry  XII) need not lead us to deny the existence of matter.  Instead, we can preserve realism in 
+its inoffensive Nicorette version, accepting that aprioristic theorising about matter is beyond us, and 
+contenting ourselves with the sort of systematically inductive science that the rest of the Enquiry  
+has been advocating.  So far from threatening to undermine such empiricist science, therefore, this vacuous realism positively supports it, by showing the impossibility of any aprioristic alternative! 
+ So I suggest that what we have here in Section XII of the Enquiry  is fundamentally different 
+from the Conclusion of Book I of the Treatise .  All the science we have, or need, is to be built on 
+the solid foundation of natural instinct, two “general and established” principles of the imagination, 
+namely custom and bare objective realism.  Unlike in the Treatise , however, we don’t need to rely 
+on any “trivial” principles of the imagination (such as the inability to follow a long line of thought) to get us off the sceptical hook.  (P.S. I think the project raised by Mark Collier
+’s paper and 
+discussed by Saul Traiger  is quite exciting here: it’s a very Humean idea, to find a non-arbitrary but 
+non-rule-based method of inference to the kind of “place-holding” external entity that Hume tells us 
+about.  Collier’s project thus seems to fit very well with the vacuous realism that I am here ascribing to Hume.) 
+ I mentioned that Section XII raises two very major problems, and the second of these is the 
+mitigated scepticism with which Hume finishes in Part III.  What is his basis for this, and in 
+particular, for his recommendation that we should restrict our reasoning to common life, and avoid 
+theology?  His argument here is rather vague: 
+“Another species of mitigated  scepticism which may be of advantage to mankind, and which may be the natural 
+result of the Pyrrhonian doubts and scruples, is the limitation of our enquiries to such subjects as are best adapted to the narrow capacity of human understanding.  The imagination  of man is naturally sublime, delighted with 
+whatever is remote and extraordinary  …  A correct Judgement  observes a contrary method, and avoiding all 
+distant and high enquiries, confines itself to common life, and to such subjects as fall under daily practice and experience …  To bring us to so salutary a determination, nothing can be more serviceable, than to be once 
+thoroughly convinced of the force of the Pyrrhonian doubt, and of the impossibility, that anything, but the strong 
+power of natural instinct, could free us from it.” 
+How exactly are we supposed to move from the Pyrrhonian conviction to the limitation of our 
+enquiries?  Is this a logical transition, or just a causal, psychological one, what is its basis, and is  15this sufficient to make it genuinely worthy of Hume’s recommendation?  There is a fair amount of 
+interesting literature on this problem (amongst which Terry Penelhum ’s contributions are 
+particularly illuminating), but there is no time to discuss this here.  However what I would like to 
+add is the fascinating note that this very issue is addressed in what I sometimes think of as the much-neglected Enquiry  Section XIII: namely, the first part of the Dialogues : 
+“Let us become thoroughly sensible of the weakness, bl indness, and narrow  limits of human reason … even in 
+subjects of common life and practice:  Let the errors … of our very senses be set before us;  … the contradictions, 
+which adhere to the very ideas of matter, cause and effect, extension, space, time, motion …  When … familiar 
+objects … are so inexplicable, and contain circumstances so repugnant and contradictory;  with what assurance can we decide concerning the origin of worlds, or trace their history from eternity to eternity?”  (Philo, D 131-2) 
+Cleanthes then casts doubt on the sincerity of Philo’s scepticism given the incapacity of human 
+nature to maintain it, and Philo makes two replies.  First, scepticism has the virtue of encouraging 
+intellectual modesty even if its recommended suspension of belief cannot be maintained consistently: 
+“… if a man has accustomed himself to sceptical considerations on the uncertainty and narrow limits of reason, he 
+will not entirely forget them when he turns his reflections on other subjects …”  ( D 134) 
+Secondly, it is possible to maintain a more consistent suspension of belief outside the sphere of 
+common life: 
+“… every one, even in common life, is constrained to have more or less of [natural and moral] philosophy;  … 
+from our earliest infancy we make continual advances in forming more general principles of conduct and reasoning;  … and … what we call philosophy  is nothing but a more regular and methodical operation of the same 
+kind.  To philosophise on such subjects is nothing essentially different from reasoning on common life … 
+     But when we look beyond human affairs and the properties of the surrounding bodies:  When we carry our 
+speculations into the two eternities … We must be far removed from the smallest tendency to scepticism not to be apprehensive, that we have here got quite beyond the reach of our faculties.  … We know not how far we ought to trust our vulgar methods of reasoning in such a subject; since, even in common life … we cannot account for them, and are entirely guided by a kind of instinct or necessity in employing them. 
+     … whenever our arguments lose [the solidity and naturalness, derived from the senses and experience], and run 
+wide of common life, … the most refined scepticism comes to be upon a footing with them …  The mind must remain in suspense … and it is that very suspense … which is the triumph of scepticism.”  ( D 134-6) 
+Cleanthes’ next response to Philo is, I believe, of considerable significance for understanding the 
+problem of Hume’s mitigated scepticism in the Enquiry : 
+“But I observe … with regard to … all speculative sceptics, that your doctrine and practice are as much at variance 
+in the most abstruse points of theory as in the conduct of common life.  … 
+     … the refined and philosophical sceptics … push their researches into the most abstruse corners of science;  
+and their assent attends them in every step, proportioned to the evidence which they meet with.  They are even obliged to acknowledge, that the most abstruse and remote objects are those which are best explained by philosophy.  Light is in reality anatomised:  The true system of the heavenly bodies is discovered and ascertained.  But … the cohesion of the parts of matter is still incomprehensible.  These sceptics, therefore, are obliged, in every question, to consider each particular evidence apart, and proportion their assent to the precise degree of evidence which occurs.  This is their practice in all natural, mathematical, moral, and political science.  And why not the same, I ask, in the theological and religious?  Why must conclusions of this nature be alone rejected on the general presumption of the insufficiency of human reason, without any particular discussion of the evidence?”  
+(D 136-7) 
+ Philo never replies explicitly  to Cleanthes’ reasonable challenge!  So I wonder if the rather 
+vague limitation of our enquiries to “common life” advocated in Enquiry  XII and by Philo in the 
+first part of the Dialogues  really represents Hume’s settled view.  And I shall end with a  16speculation.  Certainly Hume does deny that we can achieve knowledge in theological matters, but I 
+wonder if we should see this as a conclusion  drawn from his detailed arguments in the Enquiry  and 
+the Dialogues  rather than as a principle  of mitigated scepticism based only on general reflections 
+about the weakness of our faculties.  Such an interpretation seems to accord better with Hume’s own practice in both works, where he carefully shows the inadequacies of various theological reasonings rather than simply dismissing them a priori .  And Cleanthes’ strong objections to such 
+a priori  dismissal are fascinatingly echoed in a letter written by Hume to Gilbert Elliot of Minto on 
+18
+th February 1751, in which he says that “in Metaphysics or Theology … [nothing] can correct bad 
+Reasoning but good Reasoning: and Sophistry must be oppos’d by Syllogism”.  He also mentions the various religions of “Stockholm, Geneva, Rome antient & modern, Athens, & Memphis”, and 
+comments that: 
+“no thinking man can implicitly assent to any of [these religions]; but from the general Principle, that as the Truth 
+in these Subjects is beyond human Capacity, & that as for one’s own Ease he must adopt some Tenets, there is more Satisfaction & Convenience in holding to the Catechism we have been first taught.  Now this I have nothing to say against.  I woud only observe, that such a Conduct is founded on the most universal & determin’d scepticism, join’d to a little indolence.  For more Curiosity & Research gives a direct opposite Turn from the same Principles.”  ( HL i 151 ) 
+This is tantalising, and I shall just end by suggesting that our understanding of Hume’s mitigated 
+scepticism of the Enquiry  might well benefit from careful comparison with Part I of the Dialogues , 
+and consideration of this response to Elliot.  It is, perhaps, inevitable that any wide-ranging 
+discussion of Hume should end with a pointer to yet more questions which, with others, may 
+provide interesting material for future Hume conferences! 
+___________________ 

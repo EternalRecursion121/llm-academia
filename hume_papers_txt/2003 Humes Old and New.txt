@@ -1,0 +1,337 @@
+ Humes Old and New:  Cartesian Fellow-Traveller, 
+or Revolutionary? 
+Peter Millican, University of Leeds 
+p.j.r.millican@leeds.ac.uk 
+ 
+Where does Hume stand in relation to “rationalism”, and to Descartes in particular?  I’d like to address 
+this question in the light of various recent revisionary readings of Hume, focusing on what I take to be the 
+central nexus of three main topics:1 
+• Inductive Inference 
+• Causal Realism 
+• Liberty and Necessity 
+In general, I shall rely on the First Enquiry  rather than the Treatise , for three reasons: 
+• On the topics that it treats, the Enquiry  reflects Hume’s mature intentions better than the Treatise .2 
+• Most advocates of the various “New Humes” and “Old Humes” to be considered here have 
+themselves seen the Enquiry  as the most reliable indicator of Hume’s mature position.3 
+• On this nexus of topics in particular, the Enquiry  is philosophically and expositionally superior.4 
+This handout is designed to set the scene, by sketching the various positions and theses to be discussed 
+(together with references), and providing some other materials that will be referred to in my talk. 
+ 
+The “Old Hume” 
+The “Old Hume” of tradition is of course an extreme inductive sceptic, basing this in part on a regularity 
+analysis of causation which denies the existence – and even the meaningfulness – of any genuine “thick” 
+necessity or causal power in nature.  This outline still leaves plenty of room for variation in interpretative 
+                                                
+1 Even in his 1740 Abstract  of the Treatise  it is clear that Hume saw these as the central core of his “logic” (§3).  He there devotes paragraphs 
+to topics roughly as follows (with §21 and §25 being considered as divided into halves):  Causal reasoning and induction 12 (§4 , §§8-16, 
+§21, §§25-26);  The nature of inductive belief 9 (§§17-25, §27);  Liberty and necessity 4 (§§31-34);  Copy Principle 3 (§§5-7);   Personal 
+identity 1 (§28);  Geometry 1 (§29);  Passions 1 (§30);  Associationism 1 (§35).  Moreover given that within the Enquiry the Copy 
+Principle’s only use is to support his analysis of causation, while Personal Iden tity, Geometry and the Passions are entirely omitted, it seems 
+that virtually the entire common core of the Abstract  and Enquiry  – save only perhaps the very minimal general discussions of associationism 
+(one paragraph in the Abstract  and three in the Enquiry ) – is concerned with this nexus of topics. 
+2 Millican (2002b) presents arguments for this view, while Millican (2002d) pp. 421-4 and 467-72 surveys some of the secondary l iterature 
+bearing on the issue. 
+3 “New Humean” examples are Buckle (2002), Strawson (1989) p. 8, Strawson (2000) pp. 232-4, Wright (1986) pp. 418-21, and Wright  
+(2000) pp. 95-8;  the most prominent “Old Humean” example is Flew (1961), echoes of which appear also in Flew (1986). 
+4 On induction and also its relation to causation, see Millican (1995) pp. 167-8 and Millican (2002c) p. 109; on causal realism,  see the 
+Strawson references in the previous footnote; on liberty and necessity, see Botterill (2002) and note also the significant relo cation of the 
+topic, from Treatise  Book II to the Enquiry  section immediately following the discussion of causation.  2detail, but perhaps the paradigm “Old Hume” is the one portrayed in the well-known books by Flew 
+(1961) and Stove (1973), combining the following theses:5 
+Deductivism  
+From the point of view of Reason, arguments are “deductive or defective”;  good arguments, whether demonstrative or 
+probable, follow a deductive pattern, and the distinction between the two kinds depends not on the strength of their 
+inferential steps, but rather on the apriority or otherwise of their premises. 
+Inductive Scepticism  
+Induction has no rational basis, because it depends on an extrapolation from observed to unobserved which cannot be 
+legitimated at all by either demonstrative or probable reasoning. 
+Universal Irrationalism  
+Since all inductive inference is equally irrational, there is no consistent basis for drawing any demarcation between 
+scientific prediction and superstition. 
+Semantic Empiricism  
+The main aim of the two definitions of causation is to clarify the meaning of the concept of “necessity”, in accordance 
+with the Copy Principle that any simple idea must be derived from, and given meaning by, a corresponding impression.  
+It is this conceptual analysis which informs the “reconciling project” of Enquiry  VIII regarding liberty and necessity. 
+Causation as Regularity  
+Objectively considered, causation reduces to regular succession, as implied by the first of the two definitions.  The second 
+definition encapsulates a point about our subjective experience of causation, not its objective reality. 
+Power Incoherence  
+Our conception of causation is misleadingly enriched by the objectification and projection onto the world of our own 
+inductive instincts.  Though psychologically compelling, this projection is actually incoherent – we have no relevant 
+impression, and therefore cannot even form an idea of powers in nature that by “gluing” events together provide an 
+objective ground for causal inference.  Hence the ascription of powers to objects is incoherent. 
+Flew’s later book (1986, pp. 14-17) identifies Hume’s deductivism as one of three “interlocking Cartesian 
+assumptions”,6 and thus sees deep similarities between the conceptual framework of Descartes and Hume, 
+even if their epistemological conclusions are radically opposed.  Though overtly anti-rationalist, the “Old Hume” is therefore arguably in some ways fundamentally Cartesian in spirit. 
+ 
+The Causal Realist “New Hume” 
+The debate over Hume’s alleged causal realism has been a major focus of his interpreters for most of the 
+last two decades, starting with the books of Wright (1983) and Livingston (1984), but gaining prominence 
+after the publication of Broughton (1987), Craig (1987), Costa (1989) and Strawson (1989);  the latest 
+work to be added to this weighty catalogue is Buckle (2002).  Though these causal realist readings differ in various respects, an outline “New Hume” can be set in opposition to the “Old Hume” as follows: 
+                                               
+ 
+5 For detailed discussion of Flew and Stove on induction, scepticism and irrationalism, including appropriate references, see Mi llican (1995), 
+especially §2, §5, and §§10-11.  For a more general overview of the relevant logical and interpretative issues, see Millican (2 002c), 
+especially §3.1, §7.1, and §§10.2-3 (which refer to the Flew/Stove position as the “deductivist” interpretation). 
+6 The other two concern the Veil of Appearance and the incorporeality of persons.  3Denial of Universal Irrationalism  
+While being strictly sceptical about knowledge  claims, mitigated scepticism of the kind recommended in Enquiry  XII can 
+provide a consistent basis for distinguishing between “reasonable” and “unreasonable” inductive inferences, based on the idea of “methodizing and correcting” our natural beliefs and inferential processes.
+7 
+Denial of Semantic Empiricism  
+Though presented  as a hunt for a corresponding impression with semantic intent (i.e. to identify the meaning of the idea 
+of necessary connexion), in fact the main aim of the two definitions, and of the discussion leading up to them, is epistemological rather than analytic, to identify what we know  of necessity rather than what we mean  by it.
+8 
+Denial of Causation as Regularity  
+Objectively considered, genuine causal relations involve more than mere regular succession; a genuine cause is such in 
+virtue of having a power to bring about its effect, a natural necessity that binds the two together.  The two definitions encapsulate all we can know or contentfully conceive  about causation, rather than defining what “causation” means . 
+Denial of Power Incoherence
+ 
+Although our contentful, impression-derived, idea of necessary connection cannot properly be ascribed to objects, this 
+doesn’t prevent us from conceiving a “relative idea” or notion  of the inconceivable powers on which we take the “regular 
+succession of objects” (E55, 5.22) to depend.  Though by the standards of the Theory of Ideas this notion is inadequate, 
+imprecise, and even contentless, it is sufficient to enable us coherently to think of, and ascribe, objective powers.   
+In all four respects, the “New Hume” seems closer to Descartes than the “Old Hume”, primarily through 
+the weakening of the empiricist theme.9  Moreover “New Humeans” have shown a distinct tendency to 
+retain the deductivist conception of reason which is the most Cartesian characteristic of the Old Hume.10 
+ 
+Buckle’s “New Hume” 
+Buckle’s recent book (2002) presents a “New Hume” interpretation of the First Enquiry with a radically 
+new slant that portrays Hume’s relationship with Descartes as much closer than usually supposed.  On 
+Buckle’s reading, Hume’s main target in the Enquiry  is not modern rationalism, but rather, ancient 
+empiricism, for his primary aim is to attack scholastic Aristotelianism and the Roman Catholic religion 
+for which it provides a philosophical shelter.  So Buckle’s Hume is not in radical opposition to Descartes 
+and the rationalists, but instead views them as “fellow-travellers” on the Enlightenment road “who had gone astray, in part by having wandered up a few blind alleys, but especially by having failed fully to 
+extricate themselves from … scholastic philosophy” (pp. 59).  Still less is he in opposition to Locke; 
+indeed the message of the famous argument concerning induction in Enquiry  IV is essentially Lockean. 
+                                               
+ 
+7 See for example Broughton (1983) pp. 5-7, Buckle (2002) pp. 188-9, Craig (1987) p. 81, Livingston (1984) pp. 202-8, Wright (19 86) 
+pp. 418-21 and Wright (2000) pp. 95-6. 
+8 This theme is particularly urged by Craig (1987) pp. 90-111 and Craig (2002), though it is present throughout the “New Hume” l iterature.  
+Likewise the characteristic New Humean denials of “Causation as Regularity” and “Power Incoherence” are ubiquitous in the relev ant 
+literature, hence no specific references are given here. 
+9 The weakened scepticism is of more debatable significance, since the Cartesian denial of Universal Irrationalism would have a very 
+different basis from that of the Humean mitigated sceptic. 
+10 Deductivism, or a close variant thereof, is attributed to Hume by Broughton (1983) pp. 8-10, Buckle (2002) pp. 166-67, and Cra ig (1987) 
+pp. 77-83;  likewise inductive scepticism by Broughton (1987) pp. 237-8, Buckle (2002) pp. 163-8, Craig (1987) p. 81, and Straw son (1987) 
+pp. 182-3.  4The Hume of the Enquiry 
+The Hume of the Enquiry  is, I shall argue, neither the “Old” nor the “New” Hume, differing from each in 
+a number of radical respects.  There is insufficient space here to spell out my case in full, so I shall make 
+do with a brief summary and some references. 
+Denial of Deductivism  
+The clear evidence from analysis of Hume’s texts, and especially his argument concerning induction, is that he is not a 
+deductivist.  He does not presume that good arguments must follow a deductive pattern, does not distinguish between 
+“demonstrative” and “probable” arguments on the basis of the apriority of their premises, and does not presuppose that an 
+argument is “deductive or defective”.  (see Millican (1995) §2 and §5, and especially (2002c) §3.1, §7.1, and §§10.2-3) 
+Inductive Scepticism  
+According to the concept of Reason that Hume is opposing, induction has no rational basis, because it depends on an 
+extrapolation from observed to unobserved which cannot be legitimated by either sensation, intuition, demonstrative or 
+probable reasoning.  But the concept which Hume thus undermines is not deductivist but rather ( contra  Buckle) the more 
+relaxed Lockean notion of Reason, which countenances rational perception of probable as well as of demonstrative 
+evidential connections.  In stressing the inadequacy even of this relatively accommodating notion to ground induction, 
+Hume’s argument implicitly attacks the entire ancient tradition of perceptual Reason, which encompasses not only the rationalists, but also contemporary empiricists such as Locke and Butler.  (see Millican (2002c) §2, §§10-12) 
+Denial of Universal Irrationalism
+ 
+While being sceptical about claims of rational perception , mitigated scepticism of the kind recommended in Enquiry  XII 
+can provide a consistent basis for distinguishing between “reasonable” and “unreasonable” inductive inferences, based on the idea of “methodizing and correcting” (E162, 12.25) our natural beliefs and inferential processes.  Indeed the 
+irresistibility of induction makes consistent reasoning from experience the appropriate norm by which to judge factual 
+beliefs, and the later sections of the Enquiry  illustrate how this can be wielded to cope with reasoning involving hidden 
+uniformities (E86-7, 8.11-14),  analogy (E104, 9.1), conflicting evidence (E110-11, 10.3-4), proportionality (E136, 11.12-13) and unique causes (E148, 11.30).  (see Millican (1995) §§12-13, (2002b) §7, (2002c) §§11-12) 
+Semantic Empiricism
+ 
+The main aim of the two definitions of causation is indeed to clarify the meaning of the concept of “necessity”, in 
+accordance with the Copy Principle that any simple idea must be derived from, and given meaning by, a corresponding 
+impression.  It is this conceptual analysis which is absolutely crucial to Hume’s “reconciling project” regarding liberty 
+and necessity (an issue apparently generally overlooked by the advocates of the “New Hume”).  Without a semantic interpretation of his definitions of “necessary connexion”, Hume would have no warrant for wielding these definitions to conclude that “Beyond the constant conjunction  of similar objects, and the consequent inference  from one to the other, 
+we have no notion of any necessity, or connexion.” (E82, 8.5). And this absence of any other notion of necessity  is crucial 
+to his case that we cannot even conceive of any kind of necessity that could be present “in the operations of matter” but not “in the voluntary actions of intelligent beings” (E93, 8.21; cf. also E93, 8.22; A661, 34; Millican (2002b), pp. 58-9) 
+Causation as Structured Regularity
+ 
+Objectively considered, causation reduces to regular succession in the spirit of the first definition, though this can be a 
+complex matter involving patterns of events that can only adequately be systematised using careful analysis by means of general rules and eliminative methods, and modelled with mathematical structures such as Newtonian equations 
+involving the ascription of forces.  The second definition encapsulates a point about our subjective experience of 
+causation and our endowment of causal terms with meaning, not any objective reality.  (see Millican (2002c), §9.2) 
+Denial of Power Incoherence
+ 
+Although our impression-derived idea of necessary connection cannot properly be ascribed to objects, it can nevertheless 
+provide a basis of meaning to enable us properly to ascribe quantitative powers to objects, as required by Newtonian systematisation.  (see Millican (2002c), §9.2, which expresses doubts about the ultimate coherence of Hume’s position)  5A logical sketch of Hume’s argument concerning induction in Enquiry IV 
+ 
+ 
+This sketch is taken from p. 147 of Millican (2002c), which also provides (at p. 171) a more detailed 
+diagram, showing the finer structure of the argument.  This diagram shows how Hume’s argument pivots around the Uniformity Principle, and reveals its fundamental dependence on the logic of the “founded on” 
+relation, which underlies all of its major stages.  This logic is manifested in the following four conditional 
+formulae, which together fully account for the inferential structure represented in the diagram: 
+(f1)  FO(f,e) & FO(e,u) → FO(f,u) 
+(f2)  FO(f,u) → ¬FO(u,f) 
+(f3)  ¬FO(u,s) & ¬FO(u,i) & ¬FO(u,d) & ¬FO(u,f) → ¬FO(u,R) 
+(f4)  FO(f,u) & ¬FO(u,R) → ¬FO(f,R) 
+The challenge to any interpretation of Hume’s famous argument is to find a concept of “Reason” which 
+makes sense of this inferential structure.  See Millican (2002c) §10 for a detailed discussion. All factual inferences to the 
+unobserved are founded on 
+experience:  FO(f,e)  
+All factual inferences to the 
+unobserved are founded on UP:  FO(f,u)  
+No factual inference to the 
+unobserved is founded on Reason:  ¬FO(f,R)  All reasonings from experience 
+are founded on the Uniformity Principle (UP):  FO(e,u)  
+UP is not founded on sensory 
+evidence:  ¬FO(u,s)  UP is not founded on 
+demonstrative inference (from past uniformity):  ¬FO(u,d)  
+UP is not founded on Reason: 
+¬FO(u,R)UP is not founded onintuitive inference (from past 
+uniformity):  ¬FO(u,i)  UP is not founded on factual 
+inference to the unobserved: ¬FO(u,f)  Key to Formulae  
+FO(x,y): x is founded on y 
+d: demonstrative inference 
+e: reasoning from experience 
+f: factual inference to the 
+unobserved 
+i: intuition 
+R: Reason 
+s: sensation 
+u: the Uniformity Principle  6Hume versus Descartes 
+In Millican (2002b) and (2002c), I present an interpretation of Hume’s Enquiry  radically different from 
+Buckle’s.  In some respects it is very non-traditional – notably, in denying that Hume’s notion of reason is 
+deductivist – but in others – notably, in the identification of Hume’s primary targets, it comes much closer than Buckle’s to the familiar story of the philosophy textbooks.  I find Buckle’s anti-Aristotelian reading 
+bizarre and almost perverse.  The positive evidence he gives for it (pp. 31-5) amounts to little more than 
+Hume’s announced intention in Section I to attack “an abstruse philosophy, which seems to have hitherto served only as a shelter to superstition” (allegedly code for Roman Catholicism);  his famous denunciation of “divinity and school metaphysics” in the Enquiry ’s final paragraph;  and his attack on 
+miracles with its appeal to Tillotson’s anti-Catholic argument.  Most of Buckle’s accompanying 
+discussion (pp. 31-43) is devoted not to providing more positive evidence, but rather, to contesting the idea that Hume’s targets could instead have been the rationalists as traditionally supposed. 
+ Against all this, I would point out first, that Hume’s use of “superstition” is by no means specific to 
+Catholicism, nor always opposed to “enthusiasm” (T271, 1.4.7.13; T562, 3.2.10.15; E122, 10.25; E126, 
+10.30; E133, 11.3; M198-9, 3.15-17; M270, 9.3);  secondly, that Hume’s attack on miracles with its 
+explicit focus on resurrection stories (E115, 10.12; E128, 10.37) is nearly as evidently anti-Protestant as 
+anti-Catholic;  thirdly, that the most obviously relevant passage in the entire Enquiry  is conspicuously 
+absent from Buckle’s account:  “The fame … of A
+RISTOTLE  is utterly decayed.” (E7, 1.4).  Buckle 
+labours hard (pp. 53-6) to argue that when Hume wrote the Enquiry  scholastic Aristotelianism was not yet 
+a “dead duck”, but none of the primary works that he refers to here goes beyond 1697 (fully 50 years 
+before the Enquiry ’s first appearance as the Philosophical Essays ), and his omission of Hume’s own 
+explicit statement on the matter is startling.  Nor would the Enquiry ’s only other explicit mention of 
+Aristotle change this picture, for it merely remarks on the contrast between contemporary science and his 
+primitive theory of “earth, water, and other elements” (E84, 8.7).  Hume was not alone in his dismissive 
+view of Aristotelianism, and two of the Enquiry ’s early reviews record it without any demur (indeed one 
+of them even suggests a possible reason for Aristotle’s decayed fame, namely the increasing rarity of Greek linguistic competence:  see Fieser (2000), pp. 112, 114). 
+ My final response to Buckle is to reiterate the claim made in Millican (2002b, pp. 27-31), that 
+Descartes remains (arguably with Malebranche) the best single opponent against whom to measure the 
+philosophical cutting-edge of the Enquiry .  There I spelled out 23 central and characteristic Cartesian 
+theses, all taken from the Meditations  save one (from the Discourse on Method ), and all clearly opposed 
+by Hume, mostly in the Enquiry .
+11  If this compilation is anywhere near correct, then Buckle’s attempt to 
+argue that only scholastic Aristotelianism fits the bill as the Enquiry ’s primary target must fail.  
+Combined with the weakness of his positive arguments, I would suggest that “Hume versus Descartes and 
+the rationalists” remains a far more appropriate motto than “Hume versus Aristotle and the scholastics”. 
+                                                
+11 For the contrastive component of Descartes’ claim (12), concerning the mechanistic status of animals, see for example his Discourse on 
+Method , part 5. For Hume’s responses (8) and (17), see the Treatise of Human Nature  I. iv. 5 (‘Of the Immateriality of the Soul’) and I. iv. 6 
+(‘Of Personal Identity’) respectively, and for more on (8) and his response (9), see the posthumous essay ‘Of the Immortality o f the Soul’ 
+(which probably originated as part of the manuscript of the Treatise  though if so it was excised prior to publication).  7Hume versus Descartes on the Power of Reason 
+According to Descartes, (1) we have an infallible faculty of clear and distinct perception  which, if 
+properly exercised, (2) is able to grasp various general causal principles a priori  and, moreover, (3) can 
+establish the essence of mind (namely, thinking) and of body (namely, extension) by pure intellectual 
+insight , yielding further and more specific (4) a priori knowledge about the behaviour of minds and of 
+physical things . Through such clear and distinct perception our reason also (5) can demonstrate from our 
+ideas alone that God must exist , and (6) can prove with certainty the real existence of an external, 
+physical world  consisting of extended objects. In all of these ways, (7) reason can defeat scepticism . 
+Hume totally disagrees: (1) we cannot prove that any of our faculties is infallible , while (2) all of our 
+knowledge of causation is based on experience and is therefore uncertain . Also (3) our understanding of 
+the nature of mind and matter is entirely obscure , providing no basis for inference about anything, and 
+hence (4) we can learn about the behaviour of mind and matter only through observation and experience . 
+Moreover (5) neither God nor anything else can be proved to exist a priori , from our ideas alone (indeed 
+we have good empirical grounds to deny the existence of any benevolent deity), while (6) we have no 
+good argument of any sort, a priori or empirical, to justify our (purely instinctive) belief in an external 
+world . Taking these points together, it is clear that (7) scepticism cannot be defeated by reason . 
+Hume versus Descartes on Mind, Reason, and Imagination 
+Descartes argues that (8) the mind consists of immaterial substance , and so (9) can survive the body’s 
+death . (10) Pure reason is the mind’s primary function , but as the mind is non-material, (11) reason is 
+outside the realm of causal determination  which governs purely physical things, being (12) a faculty of 
+intellectual insight which fundamentally distingui shes us from the (purely mechanistic) animals . (13) The 
+faculty of imagination is distinct from reason , since it depends on the body. Though many of our ideas are 
+derived from the imagination and the senses, (14) the mind contains some pur ely intellectual “innate” 
+ideas such as those of God, mind and extension . (15) The workings of the intellect are transparent to 
+introspection  and so (16) the mind is better known than the body . (17) The “self” revealed by 
+introspection is an indivisible unity whose essence is simply to think . 
+Hume again differs on every point: (8) the notion of substance, let alone that of an immaterial 
+substance, is confused , and (9) the mind cannot survive the body’s death . (10) Very little if any of the 
+mind’s activity is governed by “reason” in the Cartesian sense , while most of what we call (12) “reason” 
+is essentially an animal instinct  which like everything else that we do is (11) subject to causal 
+determination . In fact (13) most of our “reasoning” is based on the imagination , while (14) all of our 
+ideas are ultimately derived from the senses . (15) The operations of the mind are based on many hidden 
+causal mechanisms , far less familiar to us than some of the relatively obvious physical interactions of 
+bodies, and so (16) the workings of the mind are if anything less well known than those of physical things . 
+(17) Introspection reveals no simple and indivisi ble “self”, but only a bundle of perceptions .  8Hume versus Descartes on Belief and Volition 
+In his quest for certainty Descartes claims that (18) I should not accept anything which is at all uncertain , 
+and thus presupposes that (19) belief is a voluntary activity . More generally, he uses the principle that 
+(20) the operations of the intellect are subject to the will  both to claim that (21) God is not responsible for 
+my false beliefs , and also to argue (22) that involuntary ideas must have external causes . He accepts that 
+some beliefs, namely those that are clear and distinct, compel his assent, but sees this as no problem on 
+the ground that such (23) assent-compulsion is a guarantee of truth . 
+Hume’s attitude to belief is entirely different, since he claims that as a general rule, (20) the 
+operations of the mind are not subject to the will , and, in particular, (19) belief is involuntary . It follows 
+that (18) I cannot avoid accepting many things that are uncertain , and thus (23) the fact that I am unable 
+to doubt something is no guarantee of its truth . As for ideas, (22) an involuntary idea is no guarantee of 
+an external cause . But even if all belief and thought were entirely voluntary, still (21) God could not 
+escape responsibility for our cognitive (or indeed moral) errors , since (11) all that we do, and believe, is 
+causally determined . 
+ 
+____________________ 9Bibliography 
+Works by Hume 
+References to Hume’s Treatise , Abstract , and Enquiries  are given using both paragraph numbers from the 
+new Clarendon editions, and Selby-Bigge page references, with prefix letter codes, which are also used 
+for other Hume references.  Details of the relevant editions are as follows: 
+T A Treatise of Human Nature  (1739-40), ed. David Fate Norton and Mary Norton, Oxford University 
+Press, 2000;  ed. L.A. Selby-Bigge, second edition revised by P.H. Nidditch, Oxford University 
+Press, 1978. 
+A Abstract of a book lately published, entituled, A Treatise of Human Nature, etc.  (1740), in Norton 
+edition of the Treatise , and also reprinted as pp.641-62 of Selby-Bigge’s edition of the Treatise  
+E Enquiry concerning Human Understanding  (1772/1777), ed. Tom L. Beauchamp, Oxford University 
+Press, 1999;  ed. L.A. Selby-Bigge, third edition revised by P.H. Nidditch, Oxford Univerdity Press, 
+1975 (first publication by Hume 1748). 
+M Enquiry concerning the Principles of Morals  (1772/1777), ed. Tom L. Beauchamp, Oxford 
+University Press, 1998;  ed. L.A. Selby-Bigge, third edition revised by P.H. Nidditch, Oxford 
+Univerdity Press, 1975 (first publication by Hume 1751). 
+L A Letter from a Gentleman to his friend in Edinburgh  (1745), ed. Ernest C. Mossner and John V. 
+Price, Edinburgh University Press, 1967 
+Other References 
+Blackburn, Simon (1990), “Hume and Thick Connexions”, Philosophy and Phenomenological Research  50, pp. 
+237-50; reprinted in Owen (2000), pp. 333-46 and in Read and Richman (2000), pp. 100-12; revised as chapter 
+5 of Blackburn, Essays in Quasi-Realism  (Oxford University Press, 1993) and the revised form reprinted in 
+Millican (2002a), pp. 259-76 (from which page references are taken) 
+Botterill, George (2002), “Hume on Liberty and Necessity”, in Millican (2002a), pp. 277-300 
+Broughton, Janet (1983), “Hume’s Skepticism about Causal Inferences”, Pacific Philosophical Quarterly  64, pp. 3-
+18; reprinted in Owen (2000), pp. 149-64 
+Broughton, Janet (1987), “Hume’s Ideas about Necessary Connection”, Hume Studies  13, pp. 217-44 
+Buckle, Stephen (2001), Hume’s Enlightenment Tract: The Unity and Purpose of An Enquiry Concerning Human 
+Understanding , Oxford University Press 
+Costa, Michael J. (1989), “Hume and Causal Realism”, Australasian Journal of Philosophy  67, pp. 172-90 
+Craig, Edward (1987), The Mind of God and the Works of Man , Oxford University Press 
+Craig, Edward (2002), “The Idea of Necessary Connexion”, adapted from chapter 2 §§3-4 of Craig (1987), in 
+Millican (2002a), pp. 211-29  10Fieser, James (2000), ed., Early Responses to Hume’s Metaphysical and Epistemological Writings, vol. I, 
+Eighteenth-Century Responses , Thoemmes Press 
+Flew, Antony (1961), Hume’s Philosophy of Belief , Routledge and Kegan Paul 
+Flew, Antony (1986), David Hume: Philosopher of Moral Science , Blackwell 
+Livingston, Donald W. (1984), Hume’s Philosophy of Common Life , Chicago University Press 
+Millican, Peter (1995), “Hume’s Argument concerning Induction: Structure and Interpretation”, in Stanley 
+Tweyman (ed.), David Hume: Critical Assessments , Routledge, volume ii, pp. 91-144; reprinted in Owen 
+(2000), pp. 165-218 
+Millican, Peter (2002a), ed., Reading Hume on Human Understanding:  Essays on the First Enquiry , Oxford 
+University Press 
+Millican, Peter (2002b), “The Context, Aims, and Structure of Hume’s First Enquiry ”, in Millican (2002a), pp. 27-
+65 
+Millican, Peter (2002c), “Hume’s Sceptical Doubts concerning Induction”, in Millican (2002a), pp. 107-73 
+Millican, Peter (2002d), “Critical Survey of the Literature on Hume and the First Enquiry ”, in Millican (2002a), pp. 
+413-74 
+Owen, David (2000), ed., Hume: General Philosophy , Ashgate 
+Read, Rupert and Richman, Kenneth A. (2000), eds, The New Hume Debate , Routledge 
+Stove, D. C. (1973), Probability and Hume’s Induction Scepticism , Oxford University Press 
+Strawson, Galen (2000), “David Hume: Objects and Power”, in Read and Richman (2000), pp. 31-51; reprinted in 
+Millican (2002a), pp. 231-57 (from which page references are taken) 
+Strawson, Galen (1989), The Secret Connexion , Oxford University Press 
+Winkler, Kenneth P. (1991), “The New Hume”, Philosophical Review  100, pp. 541-79; reprinted in Owen (2000), 
+pp. 347-85 and in Read and Richman (2000), pp. 52-74 
+Wright, John P. (1983), The Sceptical Realism of David Hume , Manchester University Press 
+Wright, John P. (1986), “Hume’s Academic Scepticism: A Reappraisal of His Philosophy of Human 
+Understanding”, Canadian Journal of Philosophy  16, pp. 407-36; reprinted in Owen (2000), pp. 303-31 
+Wright, John P. (2000), “Hume’s Causal Realism: Recovering a Traditional Interpretation”, in Read and Richman 
+(2000), pp. 88-99  
+ 

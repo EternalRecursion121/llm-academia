@@ -1,0 +1,1226 @@
+INTRODUCTION
+David Hume (1711 –76) was one of the great philosophers (arguably
+the greatest) of that prodigiously fruitful era known as the early modern
+period. During the seventeenth and eighteenth centuries, scholasticAristotelianism, a world-view which had dominated thought for manyhundreds of years, ﬁnally began to be overshadowed by a recogniz-
+ably modern scienti ﬁc perspective. René Descartes ( 1596 –1650 ),
+building on the discoveries of Galileo Galilei and others, was the ﬁrst
+philosopher seriously to threaten Aristotle’s dominance. Then in the
+next generation, John Locke ( 1632 –1704 ) developed a rival account
+of the world, incorporating scienti ﬁc developments from England
+associated particularly with Robert Boyle and Isaac Newton. By theend of the seventeenth century, scholasticism was in terminal decline,
+but intense debate continued as philosophers sought to make sense ofthe world and man’s place in it, accommodating the new discoveries.
+Some of the points in dispute were essentially scienti ﬁc, but many
+others concerned what we would now call epistemology (i.e. theory of
+knowledge) or philosophy of science , and many of the most intractable
+also had a theological dimension. Both Descartes and Locke foundways of tying these threads together, and they were followed byothers, such as respectively Nicolas Malebranche ( 1638 –1715 ) and
+George Berkeley ( 1685 –1753 ), who later developed their theories in
+novel ways.
+Despite this variety of speculation, these thinkers all shared some
+important assumptions, notably a view of the world as created bydivine reason, and—relatedly—as potentially ‘intelligible’ to humanreason. Hume’s special signi ﬁcance is as the ﬁrst great philosopher to
+question both of these pervasive assumptions, and to build an episte-mology and philosophy of science that in no way depend on either ofthem. Over a century before Charles Darwin’s Origin of Species of
+1859 , Hume argued powerfully that human reason is fundamentally
+similar to that of the other animals, founded on instinct rather thanquasi-divine insight into things. Hence science must proceed by exper-iment and systematization of observations, rather than by metaphys-ical theorizing or a priori speculation. This outlook, revolutionary in itstime, was to be powerfully vindicated during the twentieth century
+Copyright 2007. OUP Oxford.
+All rights reserved. May not be reproduced in any form without permission from the publisher, except fair uses permitted under U.S. or applicable copyright law.EBSCO Publishing : eBook Collection (EBSCOhost) - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF 
+OXFORD 
+AN: 216022 ; David Hume, Peter Millican.; An Enquiry Concerning Human Understanding
+Account: s8580219.main.ehostas the successes of relativity theory and quantum mechanics forced
+scientists—often very reluctantly— to accept that intuitive ‘unintel-ligibility’ to human reason is no impediment to empirical truth.
+Hume’s once scandalous message has thus become almost scienti ﬁc
+‘common sense’. Outside the laboratory, however, we still inhabit a
+world infused with ancient assumptions, and largely blind to the need
+for, or the consequences of, their abandonment. So Hume’s attempt
+to forge an empirically based, naturalistic world-view retains aunique contemporary relevance.
+Hume’s ﬁrst publication, A Treatise of Human Nature (1739 –40),
+began as ‘an attempt to introduce the experimental method of rea-soning into moral subjects’. But in both advocating and pursuing theempirical study of the human world, the juvenile Hume ‘was carry’daway by the Heat of Youth & Invention’ (see p. 163), producing a long
+work in which his strokes of critical genius were confusingly mingled
+with unrealistically ambitious psychological generalizations and—atleast in Book I—unresolved sceptical paradoxes. Hume quickly
+regretted this, as his letters testify, and even before the ﬁnal Book III
+of the Treatise was delivered from the press, he was already reformu-
+lating his approach in the short 1740 Abstract (included in this
+volume as Appendix I). By 1748 he had produced a second major
+work, the Enquiry concerning Human Understanding ,
+1following the
+pattern of the Abstract in focusing on his central philosophical mes-
+sage, expanding and clarifying the key arguments that support it (for example in Sections IV, VII, and VIII), and limiting his psycho-logical specula tions to modest hints of ‘explications and analogies’ 
+(E5.9). The sceptical paradoxes are also limited or ‘mitigated’, but this,
+perhaps surprisingly, gives the Enquiry more rather than less critical
+bite. Anyone who reads the Treatise —with its radical suggestions that
+even our trust in logic is ill-founded, and that even our basic beliefs inexternal objects and the self are incoherent—may be puzzled but isunlikely to be convinced. If everything is equally doubtful, then most
+people will hang on to what is comfortable, and though radical scepti-cism may do something to jolt the complacent dogmatist, it is unlikelyto yield any settled change of mind. The Enquiry is more potent,
+because more discriminating. It reveals the relatively humble basis ofIntroduction x
+1Called ‘the ﬁrstEnquiry ’ to distinguish it from the 1751 Enquiry concerning the
+Principles of Morals.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xi
+human reason, in much the same way as Book I of the Treatise , but
+instead of going on to advocate ever more radical forms of scepticism,
+it then takes human reason seriously for what it is, and builds on it apersuasive structure that can vindicate disciplined modern sciencewhile condemning traditional metaphysics and irrational superstition.
+The magnitude of Hume’s achievement is best appreciated by 
+surveying the depth of the tradition he undermined, stretching back
+to the beginnings of philosophy in ancient Greece. Although, as weshall see, the early modern world into which he was born had alreadyrejected much of its medieval dogmatic legacy, that legacy was replacedwith a new dogmatism which was less obvious because so pervasive.Having identi ﬁed the common threads that linked the ancient,
+medieval, and early modern worlds, we shall then be in a position toturn with more appreciation to the pages of the Enquiry concerning
+Human Understanding , one of the very ﬁnest works of philosophy and
+the authoritative statement of David Hume’s mature epistemology.
+1. From Ancient to Modern Cosmology
+Aristotle was supremely honoured in the medieval period because hisphilosophical outlook could be comfortably combined with Christianity,a synthesis impressively re ﬁned by Thomas Aquinas ( 1225 –74). The
+Christianization of the Roman Empire had long since brought about
+the suppression of all the pagan schools of philosophy that had thrivedin ancient Greece (such as the Academic and Pyrrhonian sceptics,the Epicureans, and the Stoics).
+2These rival traditions were then
+largely forgotten until the Renaissance, when pagan manuscripts that
+had been preserved in the Greek or Muslim worlds were broughtwest by scholars ﬂeeing the Ottoman Turks. Suddenly a range of
+new intellectual horizons opened up, combining with other events to
+prompt a general questioning of traditional authority. Population
+growth, techno logical innovation (notably gunpowder), and the dis-
+covery of new lands, cultures, and religions unknown to the ancients,
+2The Roman emperor Theodosius I ordered the destruction of pagan temples
+(including great libraries such as that in Alexandria) in 391; the emperor Justinian then
+suppressed all the remaining pagan schools in 529. For a brief review of the various
+philosophical traditions mentioned here, see the Glossarial Index of Major Philosophers
+and Philosophical Movements, below. Likewise the Glossary can be consulted for un-familiar technical terms or antiquated meanings.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xii
+all provoked political, economic, and doctrinal instability. Finally the
+Reformation, starting with Martin Luther’s rebellion against the
+Church of Rome in 1517 , led to widespread religious wars founded on
+philosophical di ﬀerences: one side took Church authority and tradition
+as the criterion of truth, the other appealed instead to the Spirit of Godacting within the individual believer. Suddenly traditional authoritylooked open to doubt, and the questions of the rediscovered ancient
+sceptics became highly relevant, inspiring natural philosophers (i.e.scientists) to examine the world with a more critical eye.
+Aristotelian physics and cosmology was based on the idea that
+material things have natural movements according to their elemental
+composition. The four terrestrial elements, earth, water, air, and ﬁre,
+of which everything below the Moon is composed, strive to reach their
+natural place in the cosmos: earth at the centre, water in a spherearound the earth, then air and ﬁre. Stones thus naturally fall towards
+the centre of the universe because they mainly consist of earth, whileﬁre rises. Heavenly bodies such as the stars, however, are seen to move
+perpetually in circles around the Earth, implying that they are made
+of a ﬁfth element, a celestial ‘ether’, which Aristotle took to be some
+kind of crystalline solid. Again these movements are driven by a tele-
+ological (i.e. purposive) striving: heavenly bodies eternally move in
+circles because this is the nearest they can approach to the pure actu-
+ality of God, the unmoved mover. Around the Earth at the centre of theuniverse, the Moon, planets, Sun, and stars are arranged in a seriesof concentric crystalline shells, forming a heavenly clockwork drivenby the steady rotation of the outermost sphere, repeating its circuitseternally with perfect accuracy, while generating the dance of the plan-ets as seen in the sky. However, the visible motion of the planets is infact very far from being a steady circular movement around the sky:
+sometimes a planet will ‘regress’ for a time, moving backwards from
+day to day before turning again to continue in its usual direction.Accounting for this observed complexity requires much more than a
+simple pattern of circular orbits, and over the years the Aristotelianmodel was progressively re ﬁned, most notably with the addition of
+epicycles , or orbits around orbits. It eventually achieved de ﬁnitive form
+through the work of Ptolemy around ad 150 , and was then destined
+to dominate European astronomy for almost 1,500 years.
+In1543 Nicolaus Copernicus famously advanced the theory that
+the Earth is a planet orbiting the Sun, but it was not until the early
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xiii
+seventeenth century that observational evidence became available 
+to mount a decisive challenge to Ptolemaic astronomy. In 1609 –10
+Galileo Galilei made his own telescope (a device invented only in
+1608 ) and viewed the heavens in unprecedented detail, immediately
+publishing what he saw in The Starry Messenger .3Amongst his discov-
+eries were craters, mountains, and valleys on the moon, whose dimen-
+sions could even be gauged from the observed shadows, and whoseexistence suggested a world much like our own, of rugged rockyirregularity rather than smooth etherial perfection. Likewise the fourGalilean moons orbiting around Jupiter undermined the idea that all
+celestial motion must centre on the Earth, while the sequence of the
+phases of Venus in shapes from crescent to almost circular—invisibleto the naked eye but very obvious through a telescope—gave decisiveevidence against the Aristotelian-Ptolemaic model of the planetaryorbits. Less decisive, but imaginatively suggestive of the need for anew world-view, Galileo saw innumerable new stars of varying bright-ness, seeming to stretch out well beyond the crystalline sphere that
+was supposed to hold the known visible stars.
+2. From Aristotelian to Cartesian Intelligibility
+If the Earth is not at the centre of the universe, then not only Aristotle’scosmology, but also his account of terrestrial motion must be seri-ously in error. Moreover when tested critically, speci ﬁc predictions
+derived from his theories were found to be quite wrong, even applied
+to such everyday things as the ﬂight of a cannon ball, a sledge sliding
+over an icy pond, the dripping of water from a gutter, or the fall of
+stones of di ﬀerent sizes. Galileo is reputed to have demonstrated this
+publicly, by dropping a heavy and a light ball simultaneously from theTower of Pisa, both falling with similar speed.
+4He went on to develop
+3Galileo’s weren’t the only relevant observations. In 1572 Tycho Brahe had observed a
+supernova, and in 1604 Johannes Kepler observed another (also seen by Galileo). Meanwhile
+in1577 , a major comet appeared, which Brahe—by triangulation against observations of
+astronomers elsewhere in Europe—proved to be more distant than the Moon. All these indi-
+cated that the heavens beyond the Moon were far from the eternally incorruptible domainenvisaged by Aristotle (who had dismissed comets and meteors as atmospheric phenomena,hence the word ‘meteorology’). See p. 160below for Hume’s comment on the signi ﬁcance of
+this undermining of the distinction between the heavenly and earthly domains.
+4Aristotle claimed that heavy objects fall faster than light ones in proportion to their
+weight, whereas in fact they usually fall faster only very marginally, the di ﬀerence being
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xiv
+an alternative theory of motion, based on the concepts of inertia and
+forces . This was taken further by René Descartes (or ‘Des Cartes’)—
+widely considered the ﬁrst great early modern philosopher—and it
+was his ‘Cartesian’ mechanics that was to dominate the thought of
+much of the seventeenth century.
+Galileo and Descartes between them established a new way of under-
+standing the physical world, replacing purposive strivings (what
+Aristotle had called ‘ ﬁnal’ causes) by mathematically formulated laws
+framed exclusively in terms of mechanical, ‘e ﬃcient’ causation. The
+new science took bodies to be essentially passive, their movement
+changing according to the action of external forces. Left to themselves,bodies will simply maintain their state of rest or uniform linear motion,this so-called inertia applying equally whether the body is stationary or
+moving in any direction (so the concept of natural place or direction is
+completely abandoned). A body’s motion changes only when it is actedupon by a force, though the precise magnitude of the force associatedwith changes of movement remained a matter of controversy.
+5
+Descartes’s vision of mechanics had an elegant simplicity, and also
+a reassuring air of intelligibility . In place of Aristotle’s ﬁve elements
+with their somewhat arbitrary ‘natural’ tendencies, Descartes substi-
+tuted a single type of matter, whose essence (i.e. central de ﬁning qual-
+ity) he identi ﬁed as simple spatial extension (i.e. geometrical size). All
+the fundamental properties of matter then supposedly follow logicallyfrom this essence, in a way intelligible to our rational (and immaterial)
+minds; for example, extension implies no power of initiating change,so matter’s passivity and inertia are fully explained.
+6This approach
+also provided an ingenious solution to the resulting problem ofaccounting for the motion of the planets as well as cannon balls. If theessence of matter is extension, then empty space—that is, extension
+due to air resistance. In 1971 , David Scott of Apollo 15performed Galileo’s experiment
+on the Moon, showing that a hammer and a feather indeed fall at the same rate in the
+absence of air.
+5The so-called vis viva controversy is alluded to by Hume in the Enquiry , at E7.29
+endnote [E].
+6This is of course only a brief caricature of Descartes’s position. He was far less ration-
+alist about the practical conduct of scienti ﬁc enquiry, viewing experiment as the means
+of discovering which mechanisms are actually operative in nature. Note also that he seesmind as a substance quite distinct from matter, whose essence is thought rather than
+extension. For a typically forthright Humean dismissal of such ‘substance dualism’, seethe beginning of his essay ‘Of the Immortality of the Soul’ (Appendix II, below).
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xv
+without matter—becomes an impossibility, so the entire universe
+must be ﬁlled with matter (i.e. the universe is a plenum ). But in such
+a plenum, movement of one piece of matter can happen only if
+another piece ‘moves out of the way’, and as soon as it itself moves,its place must be taken by yet another piece of matter. Hence allmotion through space must involve matter moving in circuits, andDescartes concluded that the universe must be structured by ‘vor-tices’, or whirlpools of circulating matter. This provides a very elegantexplanation of how the planets can be retained in circular motionaround the Sun despite their inertial tendency to move in straightlines. The Sun is thus the centre of a giant vortex, with smaller vorticeswithin it ranging from that which carries the Moon around the Earth,down to the minuscule vortices in our own bodies that constitute themechanisms of these intricate machines.
+Aristotelian physics had likewise aspired to make the operations of
+nature intelligible, by explaining the behaviour of things in purposive
+terms, but such explanations now came to seem vacuous compared
+with those of the new science. This is the point of Molière’s cleverparody in Act III of his play Le Malade imaginaire (1673 ):
+‘I would like to ask you the cause and reason why opium makes one sleep.’
+‘The reason is that in opium resides a dormitive virtue , of which it is the
+nature to stupefy the senses.’
+Here the appeal to ‘dormitive virtue’ is clearly no more than giving 
+a fancy name to an unknown cause of the observed phenomenon.Any appearance of explanation is entirely bogus, and most naturalphilosophers understandably became anxious to distance themselvesfrom such occult qualities . They accordingly aimed to con ﬁne their
+explanations to eﬃcient rather than ﬁnalcausation (i.e. processes that
+bring things about rather than purposes), and to appeal only to causal
+mechanisms that depend on the types of qualities manifested inexperience and whose mode of operation seems intuitively compre-hensible, such as size, shape, and motion. All this helps to account forthe great in ﬂuence of Cartesian physics, which operated exclusively by
+means of mechanical causation: interaction between contiguous parts
+of matter by pressure and impact. Such causation has a reassuringfamiliarity (since its action can be observed amongst everyday thingssuch as water and billiard balls) and also an apparent intelligibility (in
+that it operates through physical touching which requires only familiar
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xvi
+geometrical properties). Hence the appeal of this sort of ‘mechanical
+philosophy’ was not con ﬁned to the followers of Descartes.
+3. Corpuscularianism, Locke, and Newton
+A less rationalistic form of mechanism was inspired by the atomismof the ancient Epicurean school, and championed initially by theFrenchman Pierre Gassendi. However, it ﬂourished better in Britain,
+whose natural philosophers tended to be suspicious of the Cartesian
+attempt to derive scienti ﬁc principles from pure reason, and followed
+Francis Bacon in emphasizing the role of experimentation. Robert Boyle,
+one of the most in ﬂuential scientists of the seventeenth century,
+7
+advocated what he called ‘corpuscularianism’, a name that avoidedthe atheistic associations of Epicurean atomism. Boyle’s interest inchemistry led him to speculate that material substances are composedof imperceptible ‘corpuscles’ whose physical interactions on the atomicscale are responsible for the large-scale perceived properties. All cor-puscles are formed from the same ‘universal matter’, and the various
+properties of di ﬀerent substances arise from the way in which these
+minute corpuscles are organized: their individual size, shape, and
+motion, and the resulting texture. It is only these so-called ‘primary’qualities that feature in the physical theory, and they are to be distin-guished from ‘secondary’ qualities such as an object’s colour, taste,or smell, which represent the e ﬀects of the object on the human
+senses rather than anything genuinely intrinsic to it. Because the pri-
+mary qualities are essentially geometrical (and hence mathematicallydescribable), this theory—like that of Descartes—held out the promiseof explaining objects’ behaviour in terms of straightforward mechan-ical interactions whose results could potentially be calculated. Butunlike Descartes, Boyle took matter’s fundamental properties to includeimpenetrability as independent of extension. This opened the possi-bility of penetrable extension (i.e. extension without matter), thusenabling a distinction to be drawn between atoms and empty space,
+and avoiding the Cartesian plenum.
+Boyle’s corpuscularianism became philosophical orthodoxy in Britain
+through the work of his friend John Locke, a philosopher destined to
+7It seems that Boyle was a major focus of natural philosophy teaching in Edinburgh
+when Hume studied there in 1724 –5.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xvii
+eclipse Descartes, and whose epistemology and political theory were to
+exert huge in ﬂuence into the nineteenth century and beyond. Locke’s
+monumental Essay concerning Human Understanding , published in
+1690 , explored the materials and limits of human thinking, setting an
+agenda that Hume would follow in his similarly titled Enquiry . Locke’s
+Essay is infused with an empiricist spirit, arguing that all our ‘ideas’
+(i.e. the constituents of our thoughts) derive from experience, as doesthe overwhelming bulk of our knowledge. Locke starts with a vigorousattack on the theory of ‘innate ideas’, targeting both scholastic andCartesian attempts to deduce truths by pure reason based on suchsupposed ideas (as, for example, in Descartes’s argument that theperfection of our innate idea of God implies a perfect cause). Lockethen goes on to give a thoroughly empiricist account of the origin ofour ideas, taking an atomistic approach in which complex ideas arecomposed of simples, and the simple ideas themselves are directlyderived from experience. This experience can be of the external worldor of our own minds: thus the senses yield ‘ideas of sensation’ (such asthe redness of a rose), while introspection yields ‘ideas of re ﬂection’
+(such as desire for the rose, or fear of its thorn). Since all such expe-rience is of particular sensations or feelings, the ideas we derive fromthese are particular also. General ideas (such as the idea of redness in general) then get generated from ideas of particular instances (e.g. the colour of di ﬀerent red ﬂowers) by ‘abstraction’, in which the
+diﬀering details (e.g. the varying brightnesses and hues) are ignored,
+and notice taken only of what is common to all, leaving an ‘abstractidea’ which is able to represent any instance whatever.
+If all our ideas are derived from experience, then it is natural also
+to see this as the source of all our knowledge of the world, since onlyour senses can inform us what kinds of things exist and how theybehave. Thus Locke, like Boyle, was far more cautious than Descartes,who had claimed to know the entire essence of matter and mind fromhis innate ideas of extension and thought respectively. For Locke,the essence of both is hidden from us, and the most we can do is toseek a plausible account of them, which will always remain uncertainand answerable to further experience. It is in this spirit that he endorsesthe ‘corpuscularian hypothesis’, that material things are made of cor-puscles of ‘substance in general’ (Boyle’s ‘universal matter’) possessingthe geometrical primary properties (size, shape, motion, etc.) togetherwith ‘solidity’ (Boyle’s ‘impenetrability’). Since we cannot know the
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xviii
+‘real essence’ of physical substances—e.g. the underlying corpuscular
+structure of gold—our science of them has to be based on the manifest
+properties that we perceive, the ‘nominal essence’ by which we identify
+them—e.g. the ‘Colour, Weight, Fusibility, and Fixedness, etc.’ of
+gold, which ‘gives it a right to that Name’ ( Essay , III. iii. 18). Science
+must therefore proceed by careful observation and experiment, withlittle point to theorizing about underlying essences. Occasionally Locke
+seems to go further than these modest principles would allow, sug-gesting that the mechanical behaviour of the corpuscular world couldin principle be predicted without experiment if only we had sensessuﬃcient to inspect it in detail:
+I doubt not but if we could discover the Figure, Size, Texture, and Motion
+of the minute Constituent parts of any two Bodies, we should know withoutTrial several of their Operations one upon another, as we do now theProperties of a Square, or a Triangle. ( Essay, IV. iii. 25)
+But this remains at most a theoretical speculation, and unlike
+Descartes, Locke never expresses any serious ambition to deducephysical laws by pure reason.
+Descartes’s ambition exceeded his reach, and although his thought
+remained in ﬂuential for many years, especially in his native France,
+its practical value never matched its theoretical elegance. The sup-posed deduction of precise laws of motion from the pure geometry ofextension proved elusive, and Cartesian mechanics was unable toyield convincing predictions either of terrestrial dynamics (e.g. ﬂying
+projectiles and colliding billiard balls), or the celestial orbits of the
+planets. Indeed the careful observations and calculations of TychoBrahe and Johannes Kepler had revealed these orbits to be ellipticalrather than circular, and this gave particular di ﬃculties for the Cartesian
+vortex theory. Its death knell came in 1687 , when Isaac Newton was
+able in his Principia Mathematica to prove results indicating the impos-
+sibility of a vortex yielding elliptical motion. The Principia , perhaps
+the most in ﬂuential work of science ever published, went on to dis-
+place the Cartesian account by formulating a set of mechanical laws
+that apparently explained both terrestrial and celestial dynamics inexquisite detail. Newton retained Descartes’s concept of inertia as his‘ﬁrst law’ (that objects move uniformly unless acted upon by a force),
+but followed Boyle in replacing the Cartesian plenum with a universemainly composed of empty space. He then took the controversial
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xix
+step of positing a force, called ‘gravity’, acting between bodies across
+that empty space, proportional to their mass and inversely propor-tional to the square of the distance between them. Using his newlyinvented mathematical tool, the calculus, he proved that such a force,acting on bodies in accordance with his second law,
+8would indeed
+generate elliptical orbital motion amongst bodies in space, and couldalso explain the parabolic ﬂight and accelerating fall of projectiles
+near the Earth. Moreover the ‘constant of proportionality’ required
+in these two contexts turned out to coincide, strongly con ﬁrming
+both the theory itself and also Galileo’s once revolutionary claim thatcelestial and terrestrial bodies are subject to exactly the same laws.
+Despite this success, Newton’s postulated gravitational force, acting
+at a distance and without any intermediate mechanical connexion,
+seemed to many to be deeply ‘unintelligible’ and even objectionably‘occult’. Newton’s in ﬂuential response to this objection, in the second
+edition of Principia , was to insist that he ‘feigned no hypotheses’ (i.e.
+invented no speculations) about the causes of gravity, and felt no need
+to do so. If his equations correctly described the observed behaviourof objects, then his theory (including its postulated forces) should bedeemed acceptable whatever the underlying reality might be, andspeculation about the ultimate cause of gravitational attraction wasboth unnecessary and inappropriate, unless and until further empir-ical evidence emerged that might help to throw light on the matter.This somewhat instrumentalist position was later to make a deep impres-
+sion on Hume, whose approach to the metaphysics of causation can
+be seen as generalizing it to all causes whatever.
+9Amongst natural
+philosophers, however, although Newton’s theory triumphed owingto its sheer accuracy and predictive power, the quest for intelligibility
+8This law states that if a force Facts on a body of mass m, this causes the body to
+accelerate—i.e. to change its velocity—in the direction of F, the magnitude of that
+acceleration being Fdivided by m.
+9Instrumentalism is the view that theoretical entities such as forces are to be thought
+of as useful instruments for describing and predicting phenomena, whose value does not
+depend on their actually corresponding to anything in the real world. Strict instrumen-
+talists (e.g. Berkeley) deny such entities’ reality. What we might call methodological
+instrumentalists (e.g. Newton in respect of gravity) see the primary criterion of a theory’s
+scienti ﬁc adequacy as being independent of whether such entities exist. Hume’s position
+on powers and forces is methodologically instrumentalist in spirit, but with a semanticcolouring that interprets what it means for a power to exist in terms of its instrumental-
+ist adequacy.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xx
+continued, and even Newton himself speculated that gravity might
+be accounted for by some sort of ‘etherial active ﬂuid’ permeating
+space (as mentioned by Hume at E7.25 endnote [D]). However, there
+are also hints in his writings, made louder and more explicit in his followers, that the very unintelligibility of gravity has religioussigniﬁcance as an argument for God’s existence, since only the con-
+tinuous power of an almighty being could keep the world working inconformity with a law for which there is no conceivable mechanicalexplanation.
+4. Free Will, and the Dangers of Infidelity
+Throughout this period, religion exerted a profound in ﬂuence over
+all philosophical and scienti ﬁc speculation. No philosopher or scien-
+tist could a ﬀord to ignore the religious implications of his work, and
+many were attacked on account of their supposed heresy or ‘in ﬁdelity’.
+Galileo’s punishment by the Inquisition provides the most famousexample, deemed heretical for stating that the Earth orbits the Sun andthus contradicting scriptural texts such as ‘The Lord . . . has establishedthe world; it shall never be moved’ (Psalm 93:1) and the famous cre-
+ation story in Genesis (according to which ‘the heaven and the earth’are created ‘in the beginning’, and the Sun is not made until thefourth day). Hearing of Galileo’s condemnation, Descartes withheldhis own projected treatise The World , and took great pains to exclude
+anything unorthodox from his published writings. But this did not
+save his works from being added (in 1663 ) to the Roman Catholic
+Index of Prohibited Books, a list that came to include almost every
+signiﬁcant work of post-medieval Western philosophy. His o ﬀence
+seems to have been an implicit denial of the doctrine of transubstan-tiation, that in the ceremony of the Eucharist commemorating the
+Last Supper, consecrated bread and wine are literally changed insubstance into the body and blood of Christ. Such a claim made somesense within the Aristotelian scheme, but ceased to be feasible within aphysics such as Descartes’s or Locke’s that saw the perceptible ‘second-ary’ qualities of things (their colour, taste, smell, etc.) as caused directlyby their underlying ‘primary’ or mechanical structure.
+Another theological mine ﬁeld, raising problems for both Roman
+Catholics and Protestants, concerned the question of free will. The
+growth of empirical science, and the mechanical philosophy in 
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxi
+particular, put increasing emphasis on laws of nature and the clockwork
+predictability of physical phenomena. Hence most of the great philoso-phers of the seventeenth and eighteenth centuries (e.g. Descartes,
+Hobbes, Spinoza, Locke, Leibniz, Hume, and Kant) were attracted todeterminism , the view that every event is brought about by antecedent
+causes and is therefore predictable (at least in principle) from knowl-
+edge of prior conditions and the relevant causal laws. But while deter-minism in the physical realm was relatively unproblematic, in thehuman realm it threatened to undermine freedom and moral respon-sibility. Punishment seems appropriate only when some wrong is com-mitted freely, by an agent who had some choice in the matter. How
+then could it be right for any judge (human or divine) to punish awrongdoer, if the act in question was the product of inexorable causallaws, and could have been foreseen by God with absolute certaintybefore the sinner had even been born?
+Many shied away from facing up to this thorny problem; Descartes,
+for example, is rather vague about whether determinism applies to the
+immaterial mind. The classic resolution of the dilemma, compatibilism ,
+was most clearly formulated by his contemporary Thomas Hobbes,theﬁrst great philosopher to write in the English language and a
+forthright materialist (who provocatively cited Descartes’s mental
+‘immaterial substance’ as a paradigm contradiction in terms). Acceptingthat the (purely material) world is governed by causal necessitation—what he called ‘the doctrine of necessity’—Hobbes preserved moralfreedom by asserting its full compatibility with determinism:
+Liberty , or F reedome , signi ﬁeth (properly) the absence of Opposition;
+(by Opposition, I mean external Impediments of motion;) . . . a FREE-MAN,
+is he, that in those things, which by his strength and wit he is able to do ,is not hin-
+dred to doe what he has a will to . . . . Liberty andNecessity are Con sistent . . .
+the actions which men voluntarily doe . . . because they proceed from their will,
+proceed from liberty ; and yet, because every act of mans will, and every
+desire, and inclination proceedeth from some cause, and that from another
+cause, in a continuall chaine, . . . proceed from necessity . (Leviathan , ch. 21)
+Hume is widely seen as following Hobbes here, and indeed uses
+Hobbesian terminology in Section VIII of the Enquiry , ‘Of Liberty
+and Necessity’, where he presents his own (subtly di ﬀerent) compat-
+ibilist approach.
+Compatibilism is now very widely accepted, though it remains
+controversial, and the nexus of problems surrounding free will—one
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxii
+of the most ancient in metaphysics—is still hotly debated today.
+However, three hundred years ago it seemed even more intractable,
+because of the variety of theological issues with which it interlocked.
+Thus for example not only causal determinism, but also God’s cre-ation and sustaining of the world from moment to moment (an ideamuch emphasized by Descartes), threatens to make Him responsiblefor everything that happens, including human sin. Denying deter-minism might ameliorate this di ﬃculty, but would potentially cast
+doubt on both God’s omnipotence (by implying that some things
+happen by chance, independently of His decrees) and His omnis-cience (by making it utterly obscure how God could foresee a yetundetermined future). Another related issue involved the theology ofgrace and justi ﬁcation, sharpened by Protestant Reformers’ empha-
+sis on the ‘original sin’ we inherit from Adam and Eve and our con-
+sequent total depravity that makes us all—even the most apparentlyvirtuous—thoroughly deserving of eternal damnation. FollowingAugustine, the Reformers insisted that we can be saved from this fateonly by the grace of God, which generously grants us salvation throughfaith in Christ, and not through any merit of our own.
+10But how is
+it that some achieve this saving faith whereas others do not, giventhat the distinction cannot be founded on their moral virtue? It seemsthat God must Himself choose on whom to bestow it, but then if Hedoes so, how can this divine grace be anything other than irresistible?Considerations like these led many Protestants—most notably John
+Calvin—to the doctrine of predestination , implying that the choice of
+who is destined to go to heaven, and who to hell, was made by God
+from the beginning of time, quite irrespective of human merit.Opponents of Calvinism found this doctrine morally monstrous,whereby most of mankind (including Christians of rival sects) are
+doomed to inevitable hell ﬁre owing to the sin of Adam, while God—
+who could very easily spare all of them from this eternal torture
+simply by granting them saving faith—in fact spares only very few.
+With eternal hell ﬁre or salvation at stake, it is not surprising that
+religious disputes could become impassioned and aggressive. Humehimself, living in Calvinist Scotland, accordingly took care to avoidovert in ﬁdelity, for example suppressing his own potentially incendiary
+10The Roman Catholic Jansenists (who make an appearance in Section X of the Enquiry )
+took a similar approach, though most Catholic sects put greater emphasis on good works
+as also contributing to salvation.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxiii
+treatment of immortality to be published only posthumously.11
+Although religious persecution in Britain had greatly declined after
+the horrors of the Civil War ( 1642 –51) and the bigotry of Cromwell’s
+Commonwealth ( 1649 –60), it was still possible in 1697 for Thomas
+Aikenhead, a 19-year-old Edinburgh University student, to be hanged
+for blasphemous comments made to other students, and even as lateas1733 , the Cambridge theologian Thomas Woolston died in prison,
+having been convicted of blasphemy four years earlier. Hume him-
+self experienced prejudice of a less dangerous kind, being rejected asan applicant for a chair of Philosophy at Edinburgh in 1745 on the
+ground that his Treatise of Human Nature advocated ‘Principles lead-
+ing to downright Atheism’ ( L17), even though the Treatise (for rea-
+sons of prudence) contained no explicit discussion of religion. In 1756 ,
+the General Assembly of the Church of Scotland debated a motionto excommunicate him (i.e. expel him from the Church), based largelyon the religious sections of the Enquiry which had been published in
+1748 , though the motion was rejected. By then, such a condemnation
+might well have made the Church a laughing stock, but it was still
+prudent for Hume to tread carefully where Christianity was con-cerned, and an explicit denial of its central doctrines would be verylikely both to provoke a hostile reaction, and also to upset numerousfriends. Even in eighteenth-century Edinburgh, the ‘Athens of the
+North’ which saw the brilliant ﬂowering of intellectual activity of
+which Hume was a leading light, religious orthodoxy remained a
+potent force and a centre of allegiance for the vast majority.
+5. God’s Design, and Human Reason
+Amongst the more sophisticated classes of this ‘Scottish Enlightenment’,however, the nature of religious commitment was profoundly di ﬀerent
+from either of the types that had been dominant in the seventeenthcentury. Roman Catholicism, with its ornate rites, magical transub-stantiation, and saintly miracles, was now commonly dismissed as‘superstition’, while the narrow bigotry and fervent ‘enthusiasm’ ofvarious Protestant sects was equally despised.
+12Repelled by the vicious
+11For examples of Hume’s other methods of hiding or disguising his atheism, see
+below pp. 146,161‒2 ,202‒3 .
+12Accordingly Hume’s essay ‘Of Superstition and Enthusiasm’, in which he critically
+discusses them both, could safely be published in 1741 .
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxiv
+religious wars that these competing movements had inspired, enlight-
+ened intellectuals had moved on to a form of Christianity that fully
+embraced the scienti ﬁc revolution, with an increasing emphasis on
+religion as grounded on reason rather than faith. Thus the ancient God
+of miracles, grace, exclusive revelations, and inexplicable mysterieswas largely abandoned in favour of the Great Designer. Speci ﬁcally
+Christian doctrines such as the incarnation and resurrection of Jesuswere, as always, based on written revelation, with the miracles reportedin the Bible playing a crucial role in authenticating both Jesus him-self and other biblical ﬁgures. But any more recent or controversial
+revelations (with their divisive doctrinal implications) were downplayed,in favour of an emphasis on natural theology : religion as established
+by reason and science. From this perspective, the ‘incomparable Mr. Newton’ (as Locke described him) had performed a major ser-vice to theology, by revealing the secrets of God’s wonderful creation.Hence the famous epitaph by the poet Alexander Pope:
+Nature and Nature’s laws lay hid in night:
+God said, Let Newton be! and all was light.
+Unlike many thinkers in both earlier and later centuries, those of the
+Enlightenment—at least in Britain—typically saw no con ﬂict between
+science and religion, but viewed new discoveries as providing yetmore evidence of the intricacy, wisdom, and benevolence of God’shandiwork. Science became a religiously informed activity, and read-ing God’s works from ‘the great book of nature’ was judged a worthyalternative to reading them from the Bible. The Design Argumentfor God’s existence thus became widely viewed as the strongest pillarof natural religion.
+13
+With God portrayed as the Great Designer, and human reason
+demonstrating its own impressive powers in revealing His creation,this naturally encouraged the thought that our faculty of reason hasa semi-divine quality, substantiating the biblical claim that we are‘made in the image of God’. Much of our behaviour might be instinct-ive, or driven by bodily appetites and passions, like that of the otheranimals. But our reason seemed to be special, providing an insightinto rational truth (most obviously in mathematics) that appears to approximate to God’s transparent perception. Of course we are
+13For one of the most famous and elegant statements of the Design Argument, see
+Part ii of Hume’s Dialogues , in Appendix III, below.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxv
+limited creatures, so our pure rational insight may not extend very
+far, but the apparent success of philosophers in discovering ‘intelli-gible’ laws of nature indicated that it was at least partially applicablebeyond mathematics, to the operations of the physical world. Locke,typically, was more modest, acknowledging that even our scienti ﬁc
+understanding of the world is at best ‘probable’ and thus inevitably
+falls short of the ‘demonstrative’ certainty of mathematics. But eventhis mere probable judgement is quite su ﬃcient for our practical
+needs, and our faculty of reason is just as valuable when we use it toperceive probabilities as when we perceive certainties. God has givenus faculties suitable for our position in the world, as creatures inter-mediate between animals and angels. And though our reason mightbe fallible and limited, it above all is what elevates us above the beasts.In this, at least, most early modern philosophers could agree withPlato, who saw reason as the central function of the immortal soul,
+and even Aristotle, who de ﬁned man as the one distinctive ‘rational
+animal’.
+6. Inertness, Malebranche, and Berkeley
+The Design Argument was not the only way in which the new sciencecould be harnessed to the bene ﬁt of religion. Indeed we saw earlier how
+the ‘unintelligible’ nature of gravitational attraction—the fact that it seemed inexplicable in mechanistic terms—could be presented asan argument for God’s existence. The ‘mechanical philosophy’ notonly encouraged the perception of the world as a clockwork master-piece (thereby implying the existence of a master clockmaker); it alsoimplied limits on the essence and powers of matter, which could beexploited for theological gain. Descartes was the ﬁrst to do this, when
+he claimed to perceive clearly and distinctly that the essence of
+matter was di ﬀerent from that of the thinking self, so that the soul
+must be immaterial and hence could potentially survive the body’s
+dissolution. Locke followed, giving an argument for the existence ofGod which depended on the impossibility of intelligent thought’sarising from the mere primary qualities of matter. However, Lockeventured the opinion that God might, if He wished, ‘superadd’ thoughtto matter ( Essay , IV. iii. 6). This provoked a great deal of hostility,
+since thought was evidently an ‘active’ power, whereas the mechani-cal philosophy (inspired by the concept of inertia) encouraged the
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxvi
+idea that matter was purely passive or ‘inert’. Material things were
+seen as intricate but lifeless machines, their cogs and levers static until
+set in motion by some external power. This picture would be under-
+mined if a genuinely active power—such as thought, or possiblygravity—were to be ascribed to matter itself. In that case, the appar-ent need for an external source of power might be removed, withpotentially dangerous implications for the existence of both God anda distinct, immaterial soul. So the inertness of matter became aprominent and theologically charged theme in much philosophicaldiscussion, and was to remain so well into Hume’s time (e.g. in thework of Samuel Clarke and Andrew Baxter).
+Some metaphysicians took these sorts of considerations much fur-
+ther, to the extent of completely denying the causal relevance of matter,or even its very existence. Nicolas Malebranche, the most in ﬂuential
+Cartesian of the late seventeenth century, built on Descartes’s ideathat continual re-creation by God is necessary to sustain the worldfrom moment to moment, drawing the conclusion that no real causalinteraction takes place except through the intervention of God. Onthis account, when one billiard ball hits another, the second ballmoves not because of any force in the ﬁrst ball, but purely because
+God then chooses to re-create the second ball in an appropriatesequence of positions. The collision of the balls is not a cause of the
+movement, but an occasion for God to bring about the relevant behav-
+iour, in accordance with the behavioural laws that He has decreed.
+Hence this theory (described and criticized by Hume at E7.21–5) is
+called occasionalism . Another of Malebranche’s arguments for this
+theory was based on the common assumption—discussed above—that genuine causation should be intelligible . Interpreting intelligibil-
+ity in a particularly strong sense, he insisted that an event can be areal cause only if it makes the subsequent non-occurrence of its e ﬀect
+inconceivable, so that the cause has a (logically) necessary connexion
+with its e ﬀect. Hence the collision of the ﬁrst billiard ball with the
+second cannot possibly be the real cause of the second ball’s motion,because it would be perfectly conceivable for the one event not to be followed by the other. The only cause capable of satisfying thisinconceivability requirement turns out to be the will of God, who isomnipotent and whose intentions are therefore infallibly ful ﬁlled. So
+again we reach Malebranche’s desired conclusion, that God is the
+only true cause.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Introduction xxvii
+Malebranche’s occasionalism has the peculiar consequence that
+every event in the world is really brought about by God, and this
+applies to the operation not only of inanimate things, but also of ourown sensory and motor faculties. When we see an apple, for exam-ple, or when we stretch to pick it up, it is God who creates our visualperceptions (which are of ideas in His mind) to correspond with thereality, and it is He who moves our arm (or, strictly, re-creates itmoment by moment in changing positions) to correspond with ourwilled movement. But having gone this far, there might now seemlittle point in postulating a material world at all, since it does notappear to play any part in what we experience or in explaining whathappens (e.g. it is not any powers of the billiard balls that explaintheir movements, but God’s decision to re-create them in accordancewith the ‘laws of motion’ to which He has chosen to conform).
+14
+Thus some philosophers, impressed by the fundamental notion thatmatter cannot be active, ended up entirely denying its existence, aview called immaterialism oridealism . On this view, material objects
+‘exist’ only in so far as we have ideas in our mind that appear to rep-
+resent them, or God has ideas in His mind that are archetypes of theideas He wills to create in ours.
+The most prominent of these immaterialists was George Berkeley,
+whose overall position is in many respects similar to that of
+Malebranche, though with a di ﬀerent emphasis due in part to his
+place within the Lockean rather than Cartesian tradition. Locke hadinsisted on a distinction between ideas, which are purely in the mind,and material things, which are the presumed external causes of our
+perceptual ideas. These ideas represent things as having both primaryqualities (such as shape, size, and motion) and also secondary qualities(such as colour, taste, and smell), but our best theory of the world—i.e. Boyle’s corpuscularianism—indicates that only our ideas of pri-mary qualities resemble genuine qualities of material things. Berkeley
+agrees with Locke regarding the essentially mental nature of what is
+immediately perceived, and the main focus of his arguments is toattack the Lockean view that there is something in addition, some sup-posed material object ‘behind’ the perceived apple-idea. In particular,
+14In a sense, God’s choice of the laws of motion is arbitrary, though Malebranche
+believed that God would inevitably create the best world consistent with His nature, so
+that His choice of laws would be determined by His wisdom and goodness.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use he emphasizes the inconceivability of anything sensory existing 
+outside a mind, and denies that anything unperceived (such as thesupposed primary qualities of an external object) could even resemble
+a sensory idea. He then goes on to attack the basis of the primary-secondary quality distinction itself, arguing that since our ideas of pri-
+mary qualities are inextricably linked with those of secondary qualities
+(e.g. we see or imagine an object’s shape only by seeing or imagining theextent of its colour), it is impossible to conceive the one without theother.
+15Even if some objects resembling our ideas were to exist outside
+the mind, since those ideas are ‘visibly inactive, [with] nothing of poweror agency included in them’ ( Principles , i. 25), any such objects would
+themselves have to be totally inert, and hence quite unable to cause any
+perception of them. Thus Berkeley reaches the conclusion that the onlyactive things in the universe are minds, or spirits, while everything thatwe perceive consists of inactive, inert, ideas.
+It seems odd that a line of thought inspired by physical science,
+namely the mechanical philosophy’s emphasis on the inertness of
+matter, should lead to metaphysical positions such as occasionalismand immaterialism that deny physical objects any causal role what-ever in the world that we perceive. But Berkeley in particular tookpains to develop an account of physical science consistent with hisimmaterialism, and he did this by taking further the instrumentalismhinted at by Newton. On this account, the aim of science is simply to discover laws that generate true predictions about the perceivedphenomena, and it is irrelevant whether the unperceived entities (suchas forces) to which those laws appeal actually have any real existence,as long as they provide useful instruments of prediction. If immateri-alism is correct, then such forces—and even the material objects thatLocke and others suppose to be the causes of our perceptions—do notin fact exist, and the apparent intricacy of the physical world is due notto the interaction of complex material mechanisms, but instead toGod’s direct action. God benevolently ensures that our perceptionsoccur in the same patterns as they would if they were caused by suchIntroduction xxviii
+15Berkeley links this with an intense attack on Locke’s doctrine of ‘abstraction’, the
+process by which we supposedly come to form general ideas. In fact it seems that he mis-
+understood Locke, whose notion of abstraction (involving ‘partial consideration’ of someaspects of an idea) is rather similar to Berkeley’s. Hume’s own account of general ideas,developed from Berkeley’s, is sketched at E12.20 endnote [P].
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use material mechanisms, and He does this precisely to enable us to
+develop methods of predicting what will happen, and to direct ourlives accordingly. Our sensory ideas of objects are thus signs from God
+providing us with predictive information, rather than perceptions ofreal material things. But this metaphysical position makes no di ﬀerence
+to the practice or value of science, which can proceed regardless and
+yield bene ﬁts just as great as if it were genuinely descriptive of an
+objective material world.
+7. The Humean Revolution
+Against all this background, we are now in a position to appreciate
+the relevance and the revolutionary implications of Hume’s philoso-phy. Put crudely, he follows the spirit of Locke’s empiricism withrespect to both the origin of ideas ( Enquiry Section II) and factual
+discovery, but develops it far more consistently, ruthlessly dismiss-ing all hints of pure rational insight (e.g. into the powers of matter)
+and deploying powerful sceptical arguments to undermine even theideal of causal intelligibility.
+Hume’s ﬁrst such sceptical argument (Section IV Part i) shows
+that causal laws can be known only by experience, but that experi-ence gives no real insight into what makes them operate. Hence eventhe supposed intelligibility of causation by mechanical impact (e.g. ofbilliard balls) is an illusion, generated by familiarity. He then goes on(Sections IV Part ii and V) to consider how we learn from experi-ence, which Locke had attributed to the rational perception of prob-able evidential connexions. Hume argues against this that all learningfrom experience, and hence all factual reasoning, is founded on aninstinctive assumption for which we can give no rational basis what-ever, namely, that what we have observed is a reliable guide to theunobserved. Thus our capacity for factual reasoning, instead of beinga manifestation of angelic rational perception, turns out to be di ﬀerent
+only in degree from that of the animals (Section IX).
+Hume’s next major argument (Section VII) investigates our very
+notion of causation, concluding that so far from having anything to
+do with insight into the world, it instead involves a projection ontothe world of our own inferential behaviour. This might seem toimply dismal prospects for science, but Hume turns it to advantageIntroduction xxix
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use by insisting on the moral that causation— genuine causation—is to be
+understood in conformity with his analysis, and he ends the section
+by de ﬁning ‘cause’ accordingly. Intelligibility is not to be had, but nor
+is it required , and the proper ideal of science is rather to discover and
+simplify the laws that describe phenomena ( E4.12). Thus allcauses in
+science can, and should, be viewed broadly instrumentally, as Newtonhad done in the case of gravity and Berkeley generalized. This positivemessage is developed further in Section VIII, where Hume followsHobbes in advocating a deterministic compatibilism. His new under-standing of causation signi ﬁcantly strengthens the case, by showing
+that a lack of ‘intelligibility’ in the moral world is no obstacle to gen-
+uine causation or determinism concerning human action. Thus moralscience—as exempli ﬁed in numerous of Hume’s essays and other
+works—is shown to be feasible. He then goes on to attack the rationalbasis for belief in God (Sections X and XI), and to advocate a ‘mitigatedscepticism’ which does not aspire to certainty, limits our scienti ﬁc
+ambitions, and restricts them to subjects within the scope of our
+experience (Section XII).
+From this perspective, both Darwinian biology and the develop-
+ment of science since the dawn of the twentieth century can be seen
+as vindicating Hume. Darwin emphasized our continuity with theanimals, then relativity theory and quantum physics demonstratedconclusively that the apparent intelligibility of the world that soimpressed philosophers from Aristotle to Descartes to Kant (andbeyond) was largely an illusion. As a result, the rigorously empiricistand methodologically instrumentalist approach that Hume pioneeredhas become scienti ﬁcally mainstream, and in this respect the Enquiry
+may today seem relatively innocuous and ino ﬀensive. However, it
+still has much to teach even modern scientists, who will often stopapplying their critical methods outside the laboratory, whereas Humewould advise that we take them more seriously, into the religious andmoral assumptions that drive our lives. To better appreciate the forceand implications of all this, let us now turn in more detail to theEnquiry itself.
+8. Section I: The Aims of the Enquiry
+Theﬁrst section of the Enquiry serves as an introduction, but starts out
+as a comparison between two species of ‘moral philosophy’ (i.e. theIntroduction xxx
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use study of man).16The ‘easy philosophy’ is eloquent and poetic, using
+immediately striking, easily comprehensible, and imaginatively pleas-
+ing re ﬂections on life to paint virtue in alluring colours and thus to
+improve our manners and behaviour. By contrast, ‘abstruse’ philoso-phy aims to satisfy the intellect rather than to please the imagination—its goal is to discover the actual principles of human nature by
+systematic rational investigation. Initially Hume gives the appearance
+of preferring the easy philosophy ( E1.3–6) as more agreeable and
+down to earth, but in fact most of the section is devoted to a defenceof abstruse metaphysics, spelling out ‘what can reasonably be pleadedin their behalf ’ ( E1.7).
+Hume’s defence of abstruse metaphysics combines two main
+themes which might be described as the scienti ﬁcand the critical . The
+former highlights the necessity and value of careful, precise thinkingin establishing general truths about man and the moral world; thusthe abstruse philosophy can help the easy, in much the same way asan anatomist can help a painter, as well as fostering the innocentpleasure of discovery. The main objection to this optimistic pictureis that such potential discovery of truth is an illusion, and it is inresponse to this objection that the critical theme comes to the fore:
+Here indeed lies the justest and most plausible objection against a consider-
+able part of metaphysics, that they are not properly a science; but arise eitherfrom the fruitless e ﬀorts of human vanity, which would penetrate into sub-
+jects utterly inaccessible to the understanding, or from the craft of popularsuperstitions, which, being unable to defend themselves on fair ground, raisethese intangling brambles to cover and protect their weakness. . . .
+But is this a su ﬃcient reason, why philosophers should desist from such
+researches . . . ? Is it not proper to draw an opposite conclusion . . . ? . . . Theonly method of freeing learning . . . from these abstruse questions, is to enquireseriously into the nature of human understanding, and shew, from an exactanalysis of its powers and capacity, that it is by no means ﬁtted for such
+remote and abstruse subjects. We . . . must cultivate true metaphysics with somecare, in order to destroy the false and adulterate. . . . Accurate and just reason-ing . . . is alone able to subvert that abstruse philosophy and metaphysical jargon,which, being mixed up with popular superstition . . . gives it the air of scienceand wisdom. ( E1.11–12)Introduction xxxi
+16Here ‘moral philosophy’ is used in its 18th-century sense, rather than in the modern
+sense of ethics . Note again that unfamiliar or antiquated terms can be consulted in the
+Glossary below.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use His critical salvo delivered, Hume soon turns back to his scienti ﬁc
+theme, emphasizing the ‘many positive advantages, which result from
+an accurate scrutiny into the powers and faculties of human nature’.
+It might be suggested that any such supposed ‘science is uncertain
+and chimerical’, but Hume responds to this suggestion by insistingthat at least some kind of ‘mental geography, or delineation of the
+distinct parts and powers of the mind’ is clearly defensible and well
+within our grasp ( E1.13–14). Moreover our scienti ﬁc ambitions can
+legitimately extend deeper than this mere ‘ordering and distinguishing[of] the operations of the mind’:
+May we not hope, that philosophy, if cultivated with care . . . may carry its
+researches still farther, and discover, at least in some degree, the secretsprings and principles, by which the human mind is actuated in its opera-tions? ( E1.15)
+Just as Brahe, Kepler, and others, by ‘ordering and distinguishing’ the
+apparent motions of the planets, had prepared the way for Newton tobuild on their work and reveal the hidden laws underlying such motion,
+so philosophers—having established a reliable mental geography—can then aspire to uncover the secret springs and principles that gen-
+erate the observable behaviour of the mind.
+9. Sections II and III: The Origin and Association of Ideas
+Section II of the Enquiry sets out the basic principles of Hume’s ‘Theory
+of Ideas’, most of which is derivative from Locke’s Essay concerning
+Human Understanding . It is perhaps due to the in ﬂuence of Locke’s
+attack on innatism (cf. § 3above) that the origin of ideas is given such
+a prominent position by Hume, but this emphasis is rather mislead-ing, for it plays an important role only in one later section of theEnquiry (Section VII), and even here in Section II Hume’s explicit
+discussion of the innate ideas controversy merits only a note ( E2.9
+endnote [A]).
+Ideas and Impressions
+Locke, like Descartes, had used the vague word ‘idea’ for ‘whatsoever
+is the object of the understanding when a man thinks’ ( Essay , I. i. 8).
+Thus according to Locke, anyone who sees the blue sky or feels a
+pain has in his mind an idea of that colour or of that sensation, andIntroduction xxxii
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use likewise anyone who merely thinks about the sky or contemplates pain
+also has in his mind corresponding ideas. Hume, however, considersthis broad usage to be inappropriate, for it con ﬂates together two
+quite distinct mental operations—namely the awareness of sensa tions
+or feelings, and the consideration of thoughts—and only the latter, inhis opinion, can properly be called ‘ideas’ in the conventional sense.
+He therefore restricts the scope of ‘idea’ to refer to thoughts alone,
+coining the new term ‘impression’ to refer to sensations and feelings,and the term ‘perception’ for the general class of objects of the mind,comprising impressions and ideas together (so Lockean ‘ideas’ becomeHumean ‘perceptions’). In general, impressions are more ‘forceful andvivacious’ than ideas, though this rule can break down if ‘the mindbe disordered by disease or madness’ ( E2.1): a madman’s thoughts
+could be as vivid to him as his sensations, in which case he wouldpresumably be unable to tell the di ﬀerence.
+17
+Some of Hume’s discussion suggests a distinction (again derived
+from Locke) which he had de ﬁned explicitly in the Treatise :
+Simple perceptions or impressions and ideas are such as admit of no distinction
+nor separation. The complex are the contrary of these, and may be distin-guished into parts. Tho’ a particular colour, taste, and smell are qualities allunited together in this apple,’tis easy to perceive they are not the same, butare at least distinguishable from each other. ( T1.1.1.2 )
+Presumably the particular ideas of colour, taste, etc. are understood
+to be simple ideas, while the idea of the apple is a complex idea thatcombines them, but in the Enquiry Hume gives no such clear examples
+of complexes composed of simples. Instead he gives two instances of
+complex ideas, namely that of a golden mountain and that of a virtu-ous horse, each itself composed of two further complex ideas ( E2.5).
+This might suggest that he no longer wishes to commit himself to a
+view about which ideas, if any, are absolutely simple, though he laterhints that ideas of colour seem to be ( E2.8).Introduction xxxiii
+17‘Force’ and ‘vivacity’ do not seem to be the best words to capture the distinction
+between sensory awareness or feelings on the one hand, and thoughts on the other,
+because thoughts can sometimes be very vivid (e.g. thinking about one’s sweetheart,noticing a vital step in a winning chess combination), while sensations can be very dulland boring (e.g. watching paint dry). Fortunately, very little in the Enquiry depends on
+exactly how ‘force and vivacity’ is interpreted.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use The Copy Principle
+Hume argues that although our capacity to form ideas may seem
+completely unbounded, in fact ‘all this creative power of the mindamounts to no more than the faculty of compounding, transposing,augmenting, or diminishing the materials a ﬀorded us by the senses
+and experience’ ( E2.5).
+18In other words, our minds can create new
+ideas from the components which experience has already given us,
+by combining together our existing ideas in new ways or by shuf ﬂing
+the components of our existing ideas, but we are quite unable to form
+any completely new ideas beyond those that have already been givento us by sensation or feeling.
+Or, to express myself in philosophical language, all our ideas or more feeble
+perceptions are copies of our impressions or more lively ones. ( E2.5)
+This is widely known as Hume’s Copy Principle .19
+Hume gives two arguments ( E2.6,2.7) for the Copy Principle, the
+ﬁrst of which simply claims that all of our existing ideas, if examined,
+will in fact turn out to be copied from impressions. Here the example
+he gives is deliberately chosen to oppose Descartes:
+The idea of God, as meaning an in ﬁnitely intelligent, wise, and good Being ,
+arises from re ﬂecting on the operations of our own mind, and augmenting,
+without limit, those qualities of goodness and wisdom. ( E2.6, my italics)
+Obviously the Cartesian could persist in claiming that the idea of God
+is innate, but Hume’s rival account of the idea is straightforward andplausible, and carries force given the weight of his generalization. Ifall our ideas can be accounted for by the Copy Principle, then whyshould we suppose any mysterious faculty of innate ideas?
+Hume ends Section II by suggesting that the Copy Principle pro-
+vides a potent weapon for eliminating bogus would-be ideas that turnIntroduction xxxiv
+18Hume’s famous ‘missing shade of blue’ ( E2.8) highlights another way in which the
+mind might ‘compound . . . the materials a ﬀorded us by the senses’, by mixing ideas to
+generate intermediates. This casts doubt on the claim that all simple ideas must be direct
+copies of impressions, but it does not pose any sort of di ﬃculty for his general claim that
+the materials of our thoughts must ultimately derive from impressions.
+19Without the simple-complex distinction the principle is hard to express precisely
+(cf.T1.1.1.7 ), because a complex idea (e.g. of a golden mountain) can perfectly well be
+formed without being copied from a single corresponding impression. The point is that
+every partof the idea must ultimately be copied from part of some impression—i.e. there
+is no part of the idea which is not impression-derived.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use out to have no corresponding impression ( E2.9). However, in the
+rest of the Enquiry he uses it less aggressively, not to reject ideas but as
+a tool of analysis, a ‘new microscope or species of optics’ ( E7.4) which
+can make our ideas more clear and precise by discovering the impres-
+sions from which they are derived and of which they are copies.20As
+we shall see later, his main application of this ‘microscope’ comes inSection VII, where he uses it to clarify the idea of necessary connex-ion, but there are also brief hints of its playing a role in Section XII,as applied to the ideas of extension ( E12.15 ), space, and time ( E12.20
+endnote [P]).
+The Association of Ideas
+The present Section III is merely the ﬁrst three paragraphs of what was
+originally a much longer essay, which Hume cut down after the 1772
+edition by the removal of an extended discussion of the role of the asso-ciation of ideas in literature (see pp. 178–83). It is very straightfor-
+ward, ﬁrst pointing out that our ideas tend to follow each other, and 
+to combine with each other, in regular patterns. He then suggests
+that all of this associative behaviour reduces to the operation of threerelations or ‘principles of connexion among ideas, namely, Resemblance ,
+Contiguity in time or place, and Cause orEﬀect’. The section ends rather
+tamely, with Hume stating that although he can ﬁnd no other prin-
+ciples of association besides these three, nevertheless he cannot prove
+that his enumeration is complete. This doesn’t seem to be of great con-cern to him, presumably because nothing of great consequence hangson it in what follows. Indeed the only signi ﬁcant role of the association
+of ideas in the Enquiry is to provide an analogy with the operation of
+custom . In Part ii of Section V ( E5.20), Hume will suggest that custom,
+an instinctive mechanism that underlies all of our factual reasoning,operates in a somewhat similar way to the association of ideas.
+10. Section IV: Hume’s Fork
+In Section IV the serious business of the Enquiry begins, and 
+Hume presents his most celebrated argument, the sceptical argumentIntroduction xxxv
+20In the Treatise Hume had used the Copy Principle to dismiss a fair number of sup-
+posedly bogus ideas, for example material substance ( T1.1.6.1 ), existence ( T1.2.6.2 –5),
+solidity ( T1.4.4.12 –14), mental substance ( T1.4.5.3 –4), and the self ‘as something
+simple and individual’ ( Appendix, 11).
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use concerning what he calls ‘reasoning concerning matter of fact’, but
+we shall call ‘factual reasoning’ for short. First, however, there is avital preliminary. In the ﬁrst two paragraphs of Section IV, Hume
+introduces a distinction of enormous importance, between ‘relationsof ideas’ and ‘matters of fact’ (a distinction commonly known as‘Hume’s Fork’). Relations of ideas, as the name implies, can be
+known a priori, simply by inspecting the nature and internal relationsbetween our ideas, and using either immediate ‘intuition’ (e.g. ourdirect intellectual grasp that one plus one equals two, or that a squarehas four sides) or ‘demonstration’ (i.e. a sequence of ‘intuitive’ steps,as for example in the proof of Pythagoras’ Theorem). Such truthscan therefore be known with complete certainty.
+Matters of fact, by contrast, can be known only a posteriori (i.e. by
+consulting past experience), since they do not concern just the internalrelations between our ideas, but rather how those ideas go togetherin the actual world (e.g. it is a matter of fact whether the idea of goldcoexists ‘externally’ with the idea of a mountain, i.e. whether there isin fact a golden mountain). For this reason there is no internal contra-diction in supposing any matter of fact to be otherwise—its falsehoodis distinctly conceivable —and it follows that no matter of fact can be
+demonstrated a priori to be true. Thus no matter of fact is intuitivelyor demonstratively certain.
+Here are some relatively straightforward examples of the two sides
+of Hume’s distinction:
+Relations of Ideas Pythagoras’ Theorem ( E4.1)
+3×5=½×30(E4.1)
+All bachelors are unmarried
+A metre contains 100centimetres
+Matters of Fact The sun will rise tomorrow ( E4.2)
+The sun will not rise tomorrow ( E4.2)
+Stones fall when released in air
+Impact causes a billiard ball to move
+Note that although relations of ideas are a priori, and in thissense
+prior to experience, it does not follow that the ideas they involve are
+‘innate’ and in that sense prior to experience. On Hume’s principles
+the idea of a bachelor, like all other ideas, is derived from experienceIntroduction xxxvi
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use (e.g. a baby wouldn’t have the idea): the point is that having acquired
+that idea I can then know for certain, without any empirical investi-
+gation, that all bachelors are unmarried. What makes a truth a priori
+is that it can be justiﬁedwithout appeal to experience, purely by
+thinking about the ideas involved. Matters of fact, by contrast, can be
+known to be true (or to be false) only by consulting experience.
+Demonstrative and Factual Reasoning
+A little later in Section IV, Hume draws a related distinction between
+types of reasoning , though he does not spend long explaining it, per-
+haps because it was already very familiar from the work of JohnLocke:
+All reasonings may be divided into two kinds, namely demonstrative reasoning,
+or that concerning relations of ideas, and moral reasoning, or that concerningmatter of fact and existence. ( E4.18)
+Demonstrative reasoning is what can be loosely called ‘deductive’ rea-
+soning,21in which the steps of the argument proceed with absolute
+certainty based on the logical relations between the ideas concerned
+(e.g. the kind of argument used in mathematics, such as the proof of Pythagoras’ Theorem). Factual reasoning—which Hume also calls
+‘moral’ and Locke had called ‘probable’—is now commonly called‘inductive’ inference, encompassing all sorts of everyday reasoning inwhich we draw apparently reasonable (but less than logically certain)conclusions based on our personal experience, testimony, our under-standing of how people and things behave, and so forth.
+22
+11. Sections IV and V: The Basis of Factual Reasoning
+Hume’s Fork raises the question of how we can know ‘matters of fact’that go beyond our immediate experience of sensation and memory(E4.3). It is in response to this enquiry that Hume develops his Introduction xxxvii
+21Taking ‘deductive’ here in an informal sense, rather than the stricter alternative
+modern notion which limits it to reasoning within a formal system.
+22In this very general sense ‘induction’ is not con ﬁned—as the term’s Aristotelian
+origins would suggest—to inferences that move from particular observations (e.g. of
+many As that are Bs) to a universal conclusion (e.g. that all A s are Bs); indeed Hume’s
+own examples are usually of particular inferences (e.g. that all observed As have been Bs,
+therefore this A isB). The term is not used by Hume himself in either sense.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use argument concerning induction, probably the most famous argument
+in English language philosophy.
+The Sceptical Argument Concerning Induction
+Suppose I see one loose billiard ball collide with another. I will nat-urally expect the second ball to move, but how can I know—or evenhave any ground for reasonable belief—that it will do so? Humestarts by pointing out that any such belief about the unobservedappears to be based on causation : I predict that the second ball will
+move on the basis of a belief that the collision will cause it to do so.
+Where, then, do such causal beliefs come from? Apparently onlyfrom experience, because they cannot be known a priori, a point onwhich Hume expands at length ( E4.6–11). But to learn anything
+from experience, we must clearly be able to extrapolate beyond it: todraw factual or inductive inferences from what we have observed, to
+what we have not(as when we infer that hitherto unobserved billiard
+balls will behave in the same sorts of ways as those we have experi-enced, and that the operative causal laws will remain consistent). It
+follows that all our beliefs about unobserved matters of fact are based
+on a general principle or supposition of uniformity, that the future
+will resemble, or be conformable to, the past (E4.19,4.21), and they can
+be warranted only if this is rationally well founded. The challenge is
+to identify any such rational foundation:
+if you insist, that the inference [from observed to unobserved] is made by a
+chain of reasoning, I desire you to produce that reasoning. ( E4.16)
+Hume therefore turns to examine all the potential sources of rational
+justiﬁcation for this principle of uniformity. A passage from A Letter
+from a Gentleman to his Friend in Edinburgh (1745 ), written at about
+the same time as the Enquiry , helps to explain his procedure in what
+follows:
+It is common for Philosophers to distinguish the Kinds of Evidence into
+intuitive ,demonstrative ,sensible [i.e. sensory], and moral [i.e. inductive]; ( L22)
+Hume accordingly points out that his uniformity principle cannot be
+based on rational ‘intuition’, nor on ‘demonstrative argument’ fromour experience, because we can easily conceive of the future’s turn-ing out di ﬀerently ( E4.18). Nor can it be founded on anything that
+we learn by sensory experience, since this tells us nothing about objects’Introduction xxxviii
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use underlying powers—we learn what powers things have only through
+practical experience of their e ﬀects, not by any perception of their
+nature ( E4.16,4.21). All this leaves only ‘moral’ (factual or induc-
+tive) argument from experience, but even if experience might reli-ably tell us what powers objects have had in the past, it cannot justifyany inference beyond that past experience, except by taking for
+granted the principle that we are trying to establish, which would beviciously circular ( E4.19). Having thus ruled out intuition, demon-
+stration, sensation, and factual inference, the upshot is that none of
+these conventionally accepted sources of evidence can provide any
+foundation for the principle of uniformity. Hence, Hume concludes,‘it is not reasoning which engages us to suppose the past resemblingthe future, and to expect similar e ﬀects from causes, which are, to
+appearance, similar’ ( E4.23). It seems, then, that we can give no solid
+rational basis whatever for our only method of establishing matters offact ‘beyond the present testimony of our senses, or the records ofour memory’, and this result is Hume’s famous scepticism about
+induction.
+Custom and Belief
+Section V of the Enquiry starts with a paragraph commending philo-
+sophical scepticism, strongly contrasting with the typical view of the
+time which saw the sceptic as a dangerous enemy of religion andmorality.
+23In opposition to this view, Hume goes on to stress that
+theoretical sceptical doubts, even if founded on impeccable philo-
+sophical argument, cannot in practice undermine our natural humantendency to draw inferences and form beliefs:
+Though we should conclude . . . as in the foregoing section, that, in all rea-
+sonings from experience, there is a step taken by the mind, which is not sup-ported by any argument or process of the understanding; there is no danger,that these reasonings, on which almost all knowledge depends, will ever beaﬀected by such a discovery. If the mind be not engaged by argument to
+make this step, it must be induced by some other principle of equal weightand authority ( E5.2)Introduction xxxix
+23Hume’s Letter from a Gentleman , quoted in the previous paragraph, was written 
+to defend himself against a vitriolic pamphlet which had accused him of ‘Universal
+Scepticism . . . downright Atheism . . . denying the Immateriality of the Soul . . . sappingthe Foundations of Morality’ ( L17–18).
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Hume calls this principle of factual inference custom orhabit , empha-
+sizing its vital role as ‘the great guide of human life’, without which
+‘we should be entirely ignorant of every matter of fact, beyond whatis immediately present to the memory and senses’ ( E5.6). Custom
+provides an answer to the sceptical doubts that Hume has raised not
+by addressing them, but by ignoring them. It irresistibly leads us tomake inferences from observed to unobserved immediately, instinc-tively, and without re ﬂection, but since these inferences are not
+founded on reason, they are also immune to scepticism about reason
+(E5.8). All this might seem to make Hume an irrationalist, commit-
+ted to denying any criteria for reasonable belief and to accepting the
+equal legitimacy of any inference that seems natural. But as we shallsee later, this is very far from being the case.
+Part ii of Section V discusses the nature of belief, though Hume
+indicates that this discussion is not central to his views, and ‘may . . .
+be neglected’ without great loss ( E5.9). Whereas Part i seems to be
+an exercise in what Section I called ‘mental geography’, identifyingcustom as one of the central ‘powers and faculties’ of the humanmind ( E1.14), Part ii seems to provide a cautious sketch of the kind
+of deeper study of ‘secret springs and principles’ ( E1.15) that Hume
+had also anticipated, speculating about the underlying basis ofcustom’s operation. The main conclusion of this study is simply that
+custom is somewhat analogous to the association of ideas explained in
+Section III ( E5.20). It therefore provides an illustration of how the 
+science of the human mind can proceed, aiming ‘to reduce the prin-
+ciples’ that govern it ‘to a greater simplicity, and to resolve the manyparticular e ﬀects into a few general causes, by means of reasonings
+from analogy, experience, and observation’ ( E4.12). Hume has already
+argued that this sort of systematization is ‘the utmost e ﬀort of human
+reason’, and is the most that science can aspire to, given the impos-
+sibility of achieving a priori insight into why things operate as they do.Section V Part ii thus provides a brief illustration of Hume’s generalphilosophy of science, applied to the study of the human mind.
+12. Section VI: ‘Of Probability’
+As we saw earlier in Section IV, Hume took over from Locke ( Essay ,
+IV. xv. 1) a general distinction between demonstrative andprobable rea-
+soning, though he generally prefers to call the latter ‘moral reasoning’,Introduction xl
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use or ‘reasoning concerning matter of fact and existence’. On Locke’s
+account, no reasoning from past to future can be more than ‘prob-able’, even if it is based on extensive and totally uniform experience
+(as for example when I predict that an unsupported stone, when
+released above the ground, will fall). Hume begins Section VI withan important footnote in which he suggests a re ﬁnement of Locke’s
+terminology, coining the term ‘proof ’ for these most strongly groundedexperiential inferences, and reserving the word ‘probability’ for infer-ences in which past experience is less than uniform. Here he is not,of course, retracting anything in his previous argument: what he nowcalls ‘proofs’ are still based on instinct rather than on rational insight,but he is pointing out that it seems unnatural to call a conclusionsuch as that all men will die merely ‘probable’, since our entirely uni-
+form experience in its favour is psychologically entirely compelling,leaving ‘no room for doubt’.
+Section VI aims to provide a brief explanation of ‘probability’ in
+Hume’s new narrower sense, showing how the mechanism of causalinference discovered in Section V can be extended to account for ourtendency to form beliefs of di ﬀerent degrees of conviction in propor-
+tion to mixed evidence. Such an account advances his proposed scienceof mind, by ‘resolving’ another form of reasoning into an already
+identi ﬁed ‘general cause’ (cf. E4.12), namely custom . Custom typic-
+ally leads our minds to make associative links whose strength is in
+proportion to the balance of evidence, and this can explain both the‘probability of chances’ (e.g. predicting the falls of a six-sided die)and the ‘probability of causes’ (e.g. predicting that the next Awill
+be a Bon the grounds that most, but not all, past As have been Bs,
+though the underlying causes are unknown).
+Hume will later apply this account to the case of miracles in
+Section X, where it turns out that he intends it to be not only explana-tory of how we doreason, but also normative : prescribing how we
+should reason. His basis for this is not made entirely explicit, but the
+underlying motive seems to be the legitimation of probabilistic rea-
+soning, conferring it with authority and respectability, by showing it
+to be derivative from a principle which plays such an essential and
+irresistible role in our mental life. From now on, one of Hume’s main
+aims in the Enquiry —and arguably his primary aim—will be to spell
+out the implications of systematically taking custom, and custom
+alone, as our touchstone of empirical rationality.Introduction xli
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use 13. Section VII: ‘Of the Idea of Necessary Connexion’
+Hume starts Section VII by emphasizing the importance of clarify-
+ing our philosophical ideas, focusing particularly on ‘those of power ,
+force ,energy , or necessary connexion ’ (E7.3) which are so intimately
+connected with the vital concept of causation , itself the basis of all rea-
+soning from experience (as we saw in Section IV). Hume’s method ofclarifying obscure ideas is to make use of the ‘new microscope orspecies of optics’ ( E7.4) which the Copy Principle of Section II 
+provides, by inspecting the impression(s) from which those ideas 
+are derived. Thus begins the hunt for the impression of necessaryconnexion.
+24
+PART I: A Fruitless Search
+Hume begins with his favourite example of the two billiard balls. Wesee one billiard ball striking another, see the second one move, nodoubt hear a sound; but what we do not perceive in any way throughthe senses is the necessity that we assume connects the two events
+together (in that the one event had to be followed by the other). All
+we see is a sequence of events—we do not see the causal glue that
+(we assume) binds them, or the power in the one ball’s movement by
+which it communicates motion to the other.
+Hume proceeds to back up this claim with an important argument,
+several variations on which will be used in the pages to come:
+From the ﬁrst appearance of an object, we never can conjecture what e ﬀect
+will result from it. But were the power or energy of any cause discoverable
+by the mind, we could foresee the e ﬀect, even without experience; and
+might, at ﬁrst, pronounce with certainty concerning it, by the mere dint of
+thought and reasoning. ( E7.7)
+This builds on the sceptical argument of Section IV Part i, which
+established that all causal knowledge is a posteriori, that nothingabout causes and e ﬀects can be known in advance of experience. Introduction xlii
+24Hume consistently treats ‘power’ and ‘necessary connexion’ as equivalent, some-
+times abbreviates the latter to just ‘connexion’ ( E7.28), and also equates these with other
+terms such as ‘force’ and ‘energy’. This suggests that the key idea whose source he is
+seeking is not strictly that of necessary connexion, but rather the wider notion of connexion
+in general, or a consequential link from one thing to another. This also ﬁts with his view,
+implied by Section VI, that the notion of probability is derived from the same source.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Ifwe perceived an impression of necessary connexion between 
+AandB, he reasons, then we could know a priori that Acauses B. But
+we cannot know a priori that Acauses B. So it follows that we per-
+ceive no such impression of their necessary connexion.
+Having ruled out any sensory source for the impression of neces-
+sary connexion, Hume moves on to consider the possibility that it
+might instead be an impression of re ﬂection acquired from our aware-
+ness of the mind’s powers, or consciousness of the actions of our will
+(E7.9–20). But he denies that this can be so, using the same style 
+of argument. He examines the operation of our will ﬁrst in moving
+our body ( E7.10–15), and then in forming and processing ideas 
+(E7.16–20), emphasizing how both types of power can be known
+only by experience.
+Hume then takes time o ﬀfrom his search for the impression of
+necessity, to mount a vigorous attack upon Malebranche’s doctrine
+ofoccasionalism (explained in § 6,above). Malebranche had used argu-
+ments somewhat similar to Hume’s, to maintain that we have no ideaof power in objects, and he concluded that only God can exert genu-ine power. Hume starts his critique by mischievously suggesting thatoccasionalism has superstitious origins ( E7.21). He then dismisses it
+with two characteristic objections ( E7.24–5),ﬁrst, that it is too bold
+and bizarre to be credible (cf. E12.25 ), and secondly, that it is incon-
+sistent, since the same reasoning that the occasionalists use to showthat power in objects is inconceivable shows equally that power inminds, even in a divine mind, is also inconceivable.
+Although Hume’s hunt for the elusive impression of necessary
+connexion has so far been in vain, his arguments of Section VII Part i have succeeded in other ways. He has attacked the foundationof Cartesian science, based as it is on the ideal of clear and distinctperception of nature’s workings, by denying outright that any causalinteractions at all—even those of God—are in any way ‘intelligible’.We cannot ‘understand’ how billiard balls communicate motion byimpulse, nor how the mind has command over the body, nor evenhow any mind, whether human or divine, has command over itself.And the fact that we cannot understand these operations proves thatwe cannot perceive the necessity which supposedly governs them.All are equally unintelligible, equally opaque to ‘clear and distinct’perception.Introduction xliii
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use PART II: Cause Successfully De ﬁned
+The ﬁrst paragraph of Part ii provides a useful summary of Part i,
+pointing towards the sceptical conclusion that the idea of necessary
+connexion is entirely bogus and the term meaningless. But Humethen suggests an alternative which proves to be more fruitful. Perhapsthe impression of necessary connexion is not one that we perceive inparticular instances of causal interactions (whether these be external
+or internal, physical or mental), but is instead an impression thatarises from repetition when it leads us, through the operation of
+custom, to make causal inferences:
+This connexion, therefore, which we feelin the mind, this customary transition
+of the imagination from one object to its usual attendant, is the sentiment or
+impression, from which we form the idea of power or necessary connexion.(E7.28)
+Thus the idea of necessary connexion is derived from our own aware-
+ness of making causal inferences. Having seen AandBconstantly con-
+joined in the past, when we see an A, we just ﬁnd ourselves expecting
+aB, and we are aware of having made this transition of thought or
+inference. It is the inference itself that then gives content to our idea
+of connexion, ‘that inference of the understanding, which is the onlyconnexion, that we can have any comprehension of ’ ( E8.25). When
+we say that Ais the cause of B, we naturally think of this causal
+link—this supposed necessary connexion—as the basis of our infer-ence from AtoB. But the central core of Hume’s message is that this
+is the wrong way round : it is our tendency to infer Bfrom Athat gives
+content to the causal claim, and so, as he put it in the Treatise , ‘the
+necessary connexion depends on the inference, instead of the infer-ence’s depending on the necessary connexion’ ( T1.3.6.3 ).
+The idea of necessary connexion has now been vindicated as a bona
+ﬁde idea, but shown to be copied from something internal, which
+Hume—in line with his Copy Principle—calls an ‘impression’, butwhich would perhaps be more accurately described as a re ﬂexive
+awareness of our own inferential behaviour. It seems to follow that wehave no real idea of any sort of ‘power’ or ‘necessity’ that might be sup-posed to reside in objects, leading Hume to his famous—indeed notor-ious—subjectivist conclusion about necessity and hence causation:
+When we say, therefore, that one object is connected with another, we mean
+only, that they have acquired a connexion in our thought ( E7.28)Introduction xliv
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use The necessity of any action, whether of matter or of mind, is not, properly
+speaking, a quality in the agent, but in any thinking or intelligent being, who
+may consider the action. ( E8.22 endnote [F])
+Some recent interpreters have cast doubt on the extent to which pas-
+sages such as these re ﬂect a genuine subjectivism on Hume’s part.25
+But in terms of its in ﬂuence on epistemology, metaphysics, and the
+philosophy of science, this ‘anti-realism’ about causation, along withhis inductive scepticism, constitutes his most prominent legacy.
+Having ﬁnally tracked down the impression of necessary connexion,
+Hume sets about clarifying the notion of ‘cause’, of which necessary
+connexion is the central component. He gives two ‘de ﬁnitions of
+cause ’, also adding a gloss on the ﬁrst of them:
+[1]an object, followed by another,26and where all the objects, similar to the ﬁrst,
+are followed by objects similar to the second.
+Or in other words
+[1′]where, if the ﬁrst object had not been, the second never had existed .27
+[2]an object followed by another, and whose appearance always conveys thethought to that other . (E7.29)
+Since Hume has already argued that the idea of necessity cannot lit-
+erally be deﬁnedin the sense of a conceptual analysis or dictionary
+deﬁnition (i.e. through ‘enumeration of those parts . . . that compose’
+the idea, E7.4), his two de ﬁnitions must be understood as doing
+something rather di ﬀerent. They seem to be intended to capture the
+circumstances under which we come to ascribe causal connexion,
+with the ﬁrst de ﬁnition focusing on the kind of observation that leads
+someone to believe in such a connexion (namely, the observation of
+what appears to that person to be a constant conjunction), while thesecond de ﬁnition focuses instead on what the student of humanIntroduction xlv
+25The main contributions to this ongoing debate are most easily accessible in Rupert
+Read and Kenneth A. Richman (eds.), The New Hume Debate (Routledge, 2nd edn., 2007 ),
+to which I have also contributed an essay.
+26In the Treatise (T1.3.14.31 ), Hume had insisted that a cause must be contiguous
+with its e ﬀect as well as temporally prior, but he dropped this condition from the Enquiry
+(cf. p. 207), presumably to allow for the possibility of gravitational action at a distance,
+or perhaps causation between mental events that have no spatial location.
+27This gloss cannot possibly be equivalent to ( 1) even if it is interpreted as a straight-
+forward past tense conditional, meaning ‘where, if the ﬁrst object was not , the second was
+noteither’. De ﬁnition ( 1) states that the ﬁrst object has never appeared without the
+second, which implies that if the second object was not, the ﬁrstwas not either. So Hume’s
+gloss is puzzling, seeming to get things the wrong way round.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use nature will observe in the believer once the causal belief has taken
+hold, and which gives that belief its characteristic content (namely, theoperation of a certain type of associative mechanism). Hume acknow-
+ledges that his de ﬁnitions fall short of what might be wished for: neither
+of them identi ﬁes anything about the speci ﬁc cause in itself that con-
+nects it with its e ﬀect, for it is only in virtue of the pattern of events —
+the conjunction in other instances, or the consequent tendency to draw
+inferences—that the causal link can be ascribed. We are naturallyinclined to want more, to try to grasp ‘that circumstance in the cause,which gives it a connexion with its e ﬀect’. But on Hume’s subject-
+ivist principles, even this wish is incoherent: ‘We have no idea of thisconnexion; nor even any distinct notion what it is we desire to know,when we endeavour at a conception of it’ ( E7.29). So Hume’s two
+deﬁnitions capture everything that we can coherently mean in ascrib-
+ing causal connexions. Though we hanker after a deeper and more
+substantial conception of causation, some notion of the supposedcausal glue that binds events together, we cannot achieve this, nor
+even any coherent understanding of what it is that we thus seek! Thisdoes not, however, undermine the notion of ‘cause’; rather, it showsthat the notion is to be ascribed purely on the basis of Hume’s twodeﬁnitions (cf. T1.4.5.32 ).
+14. Section VIII: ‘Of Liberty and Necessity’
+In Section VIII Hume pursues ‘a reconciling project’ ( E8.23), pre-
+senting a compatibilist solution to the ancient problem of free will and
+determinism. As brie ﬂy discussed in § 4, above, he follows Hobbes in
+claiming that the doctrine of necessity —i.e. universal determinism—
+is compatible with the doctrine of liberty —i.e. the claim that some of
+our actions are freeand therefore morally accountable. Hobbes had
+based his compatibilism on a de ﬁnition of ‘freedom’ as being able to
+do what one wills without hindrance , and Hume’s de ﬁnition of ‘liberty’
+is in the same spirit:
+By liberty, then, we can only mean a power of acting or not acting, according
+to the determinations of the will ; that is, if we chuse to remain at rest, we may;
+if we chuse to move, we also may. ( E8.23)
+Liberty so de ﬁned is obviously compatible with determinism: if our
+actions follow our will, then we do have such liberty, even if our willIntroduction xlvi
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use itself is entirely causally determined. Hobbes had maintained that
+our will is indeed thus determined, and Hume agrees, but his distinc-tive contribution to the debate is to provide a new argument for 
+this claim, appealing to the understanding of ‘necessity’ reached in
+Section VII:
+Our idea . . . of necessity and causation arises entirely from the uniformity,
+observable in the operations of nature; where similar objects are constantlyconjoined together, and the mind is determined by custom to infer the onefrom the appearance of the other. . . . Beyond the constant conjunction of
+similar objects, and the consequent inference from one to the other, we have
+no notion of any necessity, or connexion. ( E8.5)
+Most of Part i of Section VIII is devoted to making the case that human
+actions manifest such uniformity, that they are generally recognizedas doing so, and that people standardly perform inductive inferencesaccordingly. Hence ‘all mankind . . . have . . . acknowledged the doc-trine of necessity, in their whole practice and reasoning’, even while‘profess[ing] the contrary opinion’ ( E8.21). Hume attributes this
+mismatch to men’s ‘propensity to believe, that they penetrate farther
+into the powers of nature, and perceive something like a necessaryconnexion between the cause and the e ﬀect’. Such penetration is, of
+course, an illusion (as shown in Sections IV and VII), and it is this
+recognition that provides the key to properly understanding thenecessity of human actions. In learning that the necessity of physical
+operations amounts to no more than constant conjunction and con-
+sequent inference, we come to see that human actions too are subject
+to the same necessity.
+While making this case, Hume in passing develops his view of
+inductive science, as sketched earlier in Section IV ( E4.12). We should
+look for causal relations that are entirely constant ( E8.13), seeking
+for deeper laws that underlie super ﬁcial irregularities. And we should
+do this not only in natural philosophy but in the human realm also,
+with equal expectation of success.
+In Part ii of Section VIII, Hume turns to address the consequences
+of his determinist world-view for morality and religion. He starts (E8.27) by re-emphasizing that his most distinctive contribution is
+to undermine the supposed metaphysical necessity of the physical world,
+rather than to propose any novel understanding of human action. Hethen goes on to argue for another distinctive claim ( E8.28–30): thatIntroduction xlvii
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use viewing human behaviour as causally determined, so far from being
+contrary to morality, is actually essential to it, since blame and pun-ishment are appropriate only where actions are caused by the agent’s
+durable character and disposition. This argument, however, even 
+if accepted, does little to resolve the widely felt tension betweendeterminism and moral responsibility: if everything that I do was
+‘pre-ordained’ before I was even born, then how can I be genuinely
+responsible? It might now seem that the notion of moral responsibil-
+ity has turned out to be incoherent, both requiring and yet beingincompatible with determinism. Hume sketches his solution to thisconundrum when discussing the religious implications of his views(E8.34–5), a solution based on his moral theory which is sentimen-
+talist (i.e. based on the emotions or passions) rather than rationalist :
+A man, who is robbed of a considerable sum; does he ﬁnd his vexation 
+for the loss any wise diminished by these sublime re ﬂections? Why then
+should his moral resentment against the crime be supposed incompatible
+with them? ( E8.35)
+If morality is founded on emotions of blame (etc.) that naturally 
+arise within us in certain circumstances—for example when a crimeis committed—then we should not expect that these emotions will
+disappear, just because we re ﬂect on the inexorable chain of causa-
+tion which led to the criminal’s action. Here Hume does little more
+than drop this hint; the full development of his sentimentalist moraltheory comes in the companion work, his Enquiry concerning the
+Principles of Morals .
+15. Section IX: ‘Of the Reason of Animals’
+In the wake of the Darwinian revolution, it is no surprise that thereshould be similarities between animal and human thinking, but in theeighteenth century the suggestion was potentially quite shocking.
+28
+Human reason was commonly thought to be quasi-divine or angelicrather than beastlike, a faculty expressing the essence of our uniqueimmaterial soul, capable of providing transparent insight into thenature of things and operating quite independently of brute animalIntroduction xlviii
+28Darwin’s notebooks of 1838 –9record that he read Hume’s section on the reason of
+animals just at the time that he was developing his theory of evolution.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use instincts. Perhaps for this reason Hume’s discussion is quite short, and
+steers clear of the dangerous implications made explicit in his essay ‘Ofthe Immortality of the Soul’ (included in this volume as Appendix II).
+The main point Hume emphasizes here is a corollary of his induc-
+tive approach to science: since all our factual reasonings are foundedon an assumption of uniformity or resemblance, their strength can be
+expected to depend on the degree of resemblance involved. Though
+Hume illustrates this point by the analogy between humans and 
+animals—appealing to the instinctive nature of animal reasoning tocorroborate his claim (from Sections IV and V) that human reason-ing is instinctive also—his methodological message is more general.This is, that reasoning from analogy is a natural extension of infer-ence based on custom, just as probabilistic reasoning was shown to bein Section VI.
+16. Section X: ‘Of Miracles’
+Though mainly concerned with miracles, Section X has a far widersigniﬁcance, because here we see how Hume’s theory of induction
+based on custom has a critical edge, helping us to weigh up con ﬂicting
+evidence appropriately, particularly in the case of evidence from tes-
+timony. Hume starts ( E10.3–4) by recalling his account of probability
+from Section VI, making its normative implications very explicit:
+A wise man, therefore, proportions his belief to the evidence. . . . All prob-
+ability, then, supposes an opposition of experiments and observations, wherethe one side is found to overbalance the other, and to produce a degree ofevidence, proportioned to the superiority. ( E10.4)
+He goes on to argue that this general principle should be applied
+equally in the case of testimony, hence the credit that we give to reportsof witnesses should be proportioned to their experienced reliability.However experience indicates that the reliability of witnesses varies,depending on a number of factors such as ‘the opposition of contrarytestimony; . . . the character or number of the witnesses; . . . the mannerof their delivering their testimony; or . . . the union of all these cir-cumstances’ ( E10.7). These are all factors that we naturally—and
+rightly— take into account when assessing the overall credibility of
+testimony, which will depend in each case on the balance betweenthe positive and negative factors involved.Introduction xlix
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use Hume’s main point in Part i of Section X is that there is another
+factor to put into this balancing operation, which does not depend on
+the nature of the witnesses , but rather, on the nature of the reported
+event . If this supposed event is quite contrary to our uniform experi-
+ence or even apparently miraculous, then that experience itself pro-vides strong inductive evidence against the event’s occurrence.
+29
+Hence in assessing the overall credibility of the testimony, we mustbalance whatever experience we might have in favour of the reliabil-ity of the witnesses, against this contrary evidence:
+The plain consequence is (and it is a general maxim worthy of our atten-
+tion), ‘That no testimony is su ﬃcient to establish a miracle, unless the testi-
+mony be of such a kind, that its falsehood would be more miraculous, thanthe fact, which it endeavours to establish: And even in that case, there is amutual destruction of arguments, and the superior only gives us an assur-ance suitable to that degree of force, which remains, after deducting the inferior.’ ( E10.13 )
+Hume can here be seen as anticipating a result that is now very famil-
+iar to theoreticians, but all too often ignored more widely: that whenassessing the evidence for some event, it is important to take into
+account the background probability of the event itself.
+30
+Hume’s ‘general maxim’ sets a demanding requirement for testi-
+mony to establish a miracle. Then in Part ii, he gives four arguments to
+suggest that this requirement is, in practice, never likely to be satis ﬁed,
+especially in the case of miracles associated with a religion. First, no
+miracle in history has in fact been su ﬃciently well attested by
+suﬃciently many reliable witnesses ( E10.15 ). Secondly, the pleasant
+passion of surprise and wonder makes miracle stories particularlyIntroduction l
+29As we saw above in Section VI, Hume coins the term ‘proof’ for this strongest type
+of inductive argument, based on totally uniform experience. However, such proofs are
+not necessarily irresistible, and his discussion of miracles makes very clear that they candiﬀer in strength and potentially con ﬂict (see also his letter at p. 165, below).
+30Suppose, for example, that I am worried about a genetic disease that af ﬂicts one in
+a million people, and take a test for it which has a 99.9% chance of giving the ‘correct’
+result (i.e. if I have the disease, it is 99.9% likely to come out positive, and if I don’t, it
+is only 0.1% likely to come out positive). Most people would naturally take a positive
+result as showing that I very probably have the disease. However the one in a million‘background probability’ outweighs the one in a thousand chance of the test’s getting itwrong, leaving an overall probability that I have the disease, based on this evidence, ofonly 1in1,002 . Thus a false test is far more likely than the disease itself.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use prone to invention and fantasy, all the more so if they are propagated
+to promote religion ( E10.16 –19). As the history of forged miracles
+amply demonstrates, a religious person may lie ‘for the sake of pro-
+moting so holy a cause’, or out of vanity, or he may be gullible or
+swayed by eloquence (since many renounce their reason in questionsof religion). Thirdly, miracle stories almost all ‘abound amongst igno-
+rant and barbarous nations’, suggesting that they are indeed products
+of imagination rather than provable fact ( E10.20 –3). Finally, if a
+miracle is supposed to establish the religion (or sect) to which it isattributed, and since the various religions are incompatible, it followsthat the evidence for any miracle will be opposed by the evidence infavour of the far greater number of miracles reported in other reli-gions. Hume illustrates this point ( E10.25 –7) with some apparently
+well-evidenced miracles that he is con ﬁdent his readers will reject,
+thus suggesting that the dismissive attitude they naturally feel
+towards miracles associated with the Roman emperor Vespasian (forexample) should equally be extended to the Christian miracles they
+are inclined to accept.
+Putting all these points together, ‘Upon the whole . . . it appears, that
+no testimony for any kind of miracle has ever amounted to a proba-bility, much less to a proof ’. Moreover because of the distinctive ten-
+dency of religions to propagate bogus miracle stories and to generate
+fanciful testimony for them, ‘no human testimony can have such forceas to prove a miracle, and make it a just foundation for any [popular]system of religion’ ( E10.35 ). Outside a religious context, there could
+conceivably be su ﬃcient evidence for some kinds of miracles (though
+perhaps not for a resurrection— E10.37 ), but if a miracle ‘be ascribed
+to any new system of religion, . . . this very circumstance would be a
+full proof of a cheat’ ( E10.38 ). ‘Proof ’ here does not imply that reli-
+gious miracles are logically impossible (cf. n. 29, above); it is simply
+that our extensive experience of the hopeless unreliability of reli-giously inspired miracle stories counts decisively against their credi-bility. An omnipotent deity could , of course, bring about whatever the
+stories report. But even if God exists, experience remains our only guideto His ways of working, and hence in assessing the stories we are still
+reduced to comparing the reliability of testimony with the reliability
+of the apparent laws of nature ( E10.38 ). Even for the theist, custom
+and induction provide the only route to factual discovery.Introduction li
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use 17. Section XI: ‘Of a Particular Providence, 
+and of a Future State’
+Most of the argument of Section XI is put in the mouth of ‘a friend
+who loves sceptical paradoxes’, and placed in a classical context, toenable Hume to distance himself from his controversial critique ofthe Design Argument for a Christian God, which when he wrote wasthe most respected weapon in the theist’s arsenal (cf. § 5, above).
+Hume’s main point against that argument is that it can never provethe existence of a being with more impressive qualities (e.g. power,wisdom, or goodness) than are actually manifested in the world. So
+we can never argue ﬁrst from the world to God, and then back from
+the nature of that inferred God to draw new conclusions about the
+world—for example that there is an afterlife in which the good will
+be rewarded and the evil punished.
+Just as in Section X, therefore, Hume is working out the implications
+of basing our knowledge of the world on induction. ‘Experimentaltheists’ claim to provide a solid rational foundation for their belief inGod, based not on speculative metaphysics, nor on special divinerevelation, but on the relatively down-to-earth methods of inductivescience, reasonably ‘drawing inferences from e ﬀects to causes’.
+31
+Hume counters that
+they have aided the ascent of reason by the wings of imagination; otherwise
+they could not thus change their manner of inference, and argue from causesto eﬀects; presuming, that a more perfect production than the present world
+would be more suitable to such perfect beings as the gods, and forgettingthat they have no reason to ascribe to these celestial beings any perfection orany attribute, but what can be found in the present world. ( E11.16 )
+Again Hume attacks a theistic argument, and in doing so uses—and
+highlights—principles that are of far broader application. As well asthis principle of proportionality , that we should proportion hypothe-
+sized causes to their observed e ﬀects, Section XI also re-emphasizes
+the principle of analogy from Section IX, that an inductive argu-
+ment’s strength varies with the degree of similarity between the
+objects involved, so that any inference from human purposes to thoseIntroduction lii
+31In the excerpt from Hume’s Dialogues (see Appendix III), Cleanthes expresses this
+preference very clearly. It is instructive to read Section XI of the Enquiry alongside both
+theDialogues and the essay ‘Of the Immortality of the Soul’ (see Appendix II).
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use of a god is bound to be weak ( E11.25 –7). Hume also hints at two
+other general principles, that it is problematic to draw conclusions
+about any supposed cause that is known only through a single mani-festation
+(E11.25‒6 ), and—even more so—any supposed cause of a
+unique type ( E11.30 ).
+18. Section XII: ‘Of the Academical or Sceptical Philosophy’
+In Section XII, Hume discusses a wide array of sceptical arguments,
+clarifying his own ﬁnely balanced attitude to them. While acknowl-
+edging many of them to be irrefutable, he nevertheless resists, on
+practical rather than purely theoretical grounds, being forced by theminto ‘excessive’ scepticism. This approach is typi ﬁed by his short
+treatment of antecedent scepticism at E12.3–4, where he contrasts
+the futile and self-defeating extremes of Cartesian doubt with a moremoderate caution and modesty that he fully endorses.
+32He then
+moves on to discuss several varieties of consequent scepticism—
+scepticism arising from speci ﬁc considerations rather than generalized
+a priori distrust of our faculties—and these occupy most of Part iand all of Part ii.
+Turning ﬁrst to our sensory belief in the external world, Hume
+attributes this to a ‘blind and powerful instinct of nature’ ( E12.8),
+which, however, leads us to identify physical objects with the veryimages that appear to our minds. This identi ﬁcation raises obvious
+problems, because the perceptions of the mind are so ﬂeeting ( E12.9);
+hence to maintain our instinctive belief in a durable external world,
+modern philosophers such as Locke adopt the theory of representative
+realism : postulating physical objects that are distinct from, and causes
+of, those perceptions. Drawing on his theory of causation, Hume
+now emphasizes the impossibility of establishing any such theory. If we are only ever directly acquainted with our perceptions, and neverwith their supposed causes, then no connexion between the two—no‘constant conjunction’ (cf. E7.28,8.5)—can ever be observed. Even
+worse, an argument derived from Berkeley ( E12.15 ) suggests that
+the Lockean theory is not only groundless but vacuous or incoherent.Introduction liii
+32Descartes used extreme scepticism as a tool for sweeping away traditional views,
+and claimed to establish his own ﬁrst principles as ‘clearly and distinctly perceived’, sup-
+posedly immune even to the most radical doubt.
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use For Locke’s understanding of perception depends on a distinction
+between primary andsecondary qualities, where the former (e.g. length,
+movement, solidity) are supposed to be in the objects themselves in
+a way that resembles our ideas of them, while the latter (e.g. felt hard-
+ness, temperature, colour) are not. But Hume agrees with Berkeleythat our ideas of primary qualities are entirely dependent on those of
+secondary qualities; for example we acquire an idea of an extended
+area by seeing it di ﬀerently coloured from its surroundings. Hence if
+we try to imagine an external object as independent of our percep-tions, distinct from all mind-dependent qualities, then we are forcedto ‘bereave matter of all its intelligible qualities, both primary andsecondary’, and we are left only with ‘a certain unknown, inexplic-able something , as the cause of our perceptions; a notion so imperfect,
+that no sceptic will think it worth while to contend against it’ ( E12.16 ).
+One important upshot of this discussion is that any attempt to pene-
+trate the essence of physical objects—so popular amongst theologicalmetaphysicians intent on proving matter’s inertness (cf. § 6, above)—
+is doomed to failure.
+Part ii of Section XII turns to scepticism about our reasoning facul-
+ties, starting with some of the notorious paradoxes of in ﬁnite divisi-
+bility. Hume describes and seems to endorse them, though in a note
+(E12.20 endnote [P]) he suggests that it may be possible ‘to avoid
+these absurdities and contradictions’, by appeal to a non-abstractionisttheory of general ideas (as developed more fully in Treatise 1.1.7 ). He
+then moves on to scepticism about factual reasoning, ﬁrst dismissing—
+on practical grounds—an ‘excessive’ popular variant which takes our
+inconsistent judgements to undermine all inductive reasoning:
+The great subverter of Pyrrhonism or the excessive principles of scepticism,
+is action, and employment, and the occupations of common life. These prin-
+ciples may ﬂourish and triumph in the schools; where it is, indeed di ﬃcult,
+if not impossible, to refute them. But as soon as they leave the shade, and bythe presence of the real objects, which actuate our passions, and sentiments,
+are put in opposition to the more powerful principles of our nature, they
+vanish like smoke ( E12.21 )
+More substantial is a philosophical variant of scepticism about induction,
+Hume’s own argument from Section IV in summary form ( E12.22 ).
+This too can be criticized as excessive if it goes to the Pyrrhonian
+extreme of attempting to undermine all belief, but fortunately for oursurvival, human nature is too strong to make such avoidance of beliefIntroduction liv
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use a genuine possibility. We simply cannot help forming beliefs through
+custom, as Hume has already explained in Section V, even though wehave no rational basis for the assumption of uniformity on which
+such beliefs are founded.
+This appeal to the unavoidability of belief can be used to dismiss
+total scepticism—i.e. ‘undistinguished doubts’ ( E12.24 ) about every-
+thing—but it need not imply an indiscriminate acceptance of whatever
+we are inclined to believe. Indeed Hume suggests that a sceptical
+appreciation of the weakness of our faculties, combined with a recog-
+nition of the practical inevitability of belief, can lead us to a form ofundogmatic mitigated scepticism in which our doubts and beliefs are
+cautiously assessed and ‘corrected by common sense and re ﬂection’.
+It is also natural to combine this caution with a modest restriction of our enquiries to ‘such subjects as are best adapted to the narrowcapacity of human understanding’ ( E12.25 ), given that even in common
+life, we cannot provide any solid reason for supposing our faculties tobe reliable. Empirical science can comfortably be accommodated by
+this approach, in so far as it is simply a more systematic application ofeveryday inductive reasoning, that is, ‘the re ﬂections of common life,
+methodized and corrected’. Moreover the earlier sections of the Enquiry
+have already shown what such methodizing and correction involves,
+and how custom can ground such procedures as the explanation of
+phenomena by relatively simple and potentially quanti ﬁable laws 
+(E4.12–13,7.25 endnote [D], 7.29 endnote [E]), the calculation of
+probabilities by past frequencies ( E6.2–4,10.3–7), the systematic
+search for hidden causes ( E8.13–15), the use of analogy ( E9.1,
+11.24 –6), proportionate inference ( E11.12 –16), and so on.
+The overall shape of this defence of inductive science is most con-
+cisely sketched by Philo in Hume’s posthumous Dialogues concerning
+Natural Religion . Scepticism may be theoretically irrefutable, but
+even the sceptic must ‘act . . . and live, and converse, like other men’,
+since human nature gives him no choice. Reasonings of common lifeare thus vindicated, but we may well be driven further by curiosity,in which case our scienti ﬁc speculations can also share in this vindi-
+cation if they proceed in the same spirit, as a systematic extension of
+everyday inductive thinking:
+[The sceptic] considers . . . that every one, even in common life, is constrained
+to have more or less of this philosophy; that from our earliest infancy wemake continual advances in forming more general principles of conduct andIntroduction lv
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use reasoning; that the larger experience we acquire, and the stronger reason we
+are endued with, we always render our principles the more general and com-prehensive; and that what we call philosophy [i.e. natural philosophy or science]
+is nothing but a more regular and methodical operation of the same kind. Tophilosophise on such subjects is nothing essentially di ﬀerent from reasoning
+on common life; and we may only expect greater stability, if not greater truth,from our philosophy, on account of its exacter and more scrupulous methodof proceeding. ( D134, pp. 154‒5 below)
+Hume’s scepticism thus leaves room for a scienti ﬁc approach founded
+on modest inductive systematization, but the sceptical thrust remains
+in what is excluded . All knowledge of matter of fact beyond what we
+immediately perceive and remember depends on causation ( E4.4),
+while causal laws—whether concerning the operations of matter 
+(E4.6–13,7.6–8) or mind ( E7.9–20)—are discoverable only by
+experience. ‘If we reason à priori , any thing may appear able to pro-
+duce any thing’ ( E12.29 ). Hence rational insight into the nature of
+things is a hopeless fantasy, and it is impossible a priori to prove theexistence of God, or indeed of anything else ( E12.13 ,12.28 –9).
+Thus a priori demonstration is limited to the abstract realm of ideas,
+but only in mathematics are our ideas su ﬃciently precise to make
+demonstrative argument genuinely fruitful ( E12.27 ). The upshot of
+all this is to limit the worthwhile ﬁelds of investigation to mathemat-
+ics (which is a priori but concerns only relations of ideas) and induc-tive empirical science (which concerns matters of fact but is uncertainand empirical). Any work that purports to transcend these limits, byestablishing matters of fact with demonstrative certainty—whatImmanuel Kant would later call ‘synthetic a priori knowledge’—cantherefore be roundly condemned, as Hume expresses in his famousconcluding paragraph:
+When we run over libraries, persuaded of these principles, what havoc must
+we make? If we take in our hand any volume; of divinity or school metaphysics,for instance; let us ask, Does it contain any abstract reasoning containing 
+quantity or number? No. Does it contain any experimental reasoning concerning
+matter of fact and existence? No. Commit it then to the ﬂames: for it can 
+contain nothing but sophistry and illusion. ( E12.34 )Introduction lvi
+ EBSCOhost - printed on 10/8/2023 8:59 AM via BODLEIAN LIBRARIES - UNIVERSITY OF OXFORD. All use subject to 
+https://www.ebsco.com/terms-of-use 

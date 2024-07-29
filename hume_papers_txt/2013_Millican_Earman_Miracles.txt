@@ -1,0 +1,487 @@
+CHAPTER 20
+Earman on Hume on Miracles
+PETER MILLICAN
+John Earman, in his book Hume’s Abject Failure: The Argument Against Mira-
+cles (2000) and his chapter in this volume “Bayes, Hume, Price, and Miracles” 
+subjects Hume’s essay on miracles (in Section 10 of the  Enquiry concerning 
+Human Understanding ) to an abusive and merciless attack. According to Ear-
+man, Hume’s argument is “a confection of rhetoric and schein Geld [Ger-
+man for  false money ]” (Earman 2000, 73), and “a shambles from which little 
+emerges intact” (see p. 269 above). More specifically, he alleges that it is “tame 
+and derivative [and] something of a muddle,” presenting a hopelessly obscure 
+thesis (see p. 260 above), based on a “proof” that amounts to little more than 
+the dogmatic assumption that “uniform experience in favor of a lawlike gener-
+alization leaves no room for doubt” (see p. 262 above). According to Earman, 
+Hume’s only achievement in the essay is to disguise the crudity of his position 
+through misleading “posturing and pompous solemnities” (see p. 262 above) 
+which have seduced his readers into viewing his key “maxim,” in the final par-
+agraph of Enquiry 10 Part 1, as an expression of “profound wisdom.” Instead, 
+alleges Earman, this maxim is at best merely trivial and tautological, amount-
+ing to “the correct but unhelpful principle that no testimony is sufficient to 
+establish the credibility of a miracle unless the testimony makes the miracle 
+more likely than not” (see p. 263 above). He goes on (in §5) to criticize what he 
+calls Hume’s “diminution principle”—that the evidential force of testimony 
+for any event diminishes in proportion to the unusualness of that event—and 
+to propose (§6) that multiple witnesses can provide a clear counterexample to 
+Hume’s apparent belief that a miracle could never be established by testimony. 
+271272  Peter Millican
+Earman then turns to the specific case of religious miracles (§7), arguing—here 
+more against Mill and other Humean sympathisers than against Hume him-
+self—that there is no reason in principle why testimony for a miracle should 
+not support a religious doctrine. Earman is doubtful, however, whether such 
+support could ever amount to an objective proof, though for reasons quite dif-
+ferent from Hume’s (§8).
+All this might seem quite damning for Hume, but let us see what can be 
+pleaded on his behalf. I shall argue that his essay on miracles does indeed have 
+some significant flaws, but it is far better than alleged by Earman, whose inter-
+pretation of it can indeed be decisively refuted.
+Hume’s “Proof” Against Miracles
+Since he is so confidently abusive about Hume’s argument and the obscurity of 
+its main thesis, it is especially disappointing that Earman himself is so careless 
+in his exposition of it, for example talking quite inappropriately of “Hume’s 
+‘proof’ against miracles” as though this referred to his overall philosophical 
+argument. In fact, when Hume talks of a proof in Enquiry 10 he always means 
+a strong inductive argument, extrapolating from uniform experience of a spe-
+cific phenomenon, and providing full assurance  when taken alone . As he makes 
+clear in a 1761 letter to Hugh Blair:
+The proof against a miracle, as it is founded on invariable experience, is 
+of that species or kind of proof, which is full and certain when taken alone, 
+because it implies no doubt, as is the case with all probabilities.
+(Hume 1932, 1.350)
+Earman (see p. 261 above) suggests—perhaps with a hint of caution—that 
+Hume “seems to be saying” that if L is a lawlike generalization backed by such 
+a proof, then L should be assigned a probability of 1 (i.e. 100%), thus effec-
+tively ruling out from the start any possibility of testimonial evidence counting 
+significantly in favor of any violation of  L. In his earlier book, Earman was far 
+more forthright in presenting this interpretation:
+So here in a nutshell is Hume’s first argument against miracles. A . . . 
+miracle is a violation of a presumptive law of nature. By Hume’s [princi-
+ples], experience confers a probability of 1 on a presumptive law. Hence, 
+the probability of a miracle is flatly zero. Very simple. And very crude.
+(Earman 2000, 23)
+On this interpretation, once “the proof against a miracle” has been established, 
+there is no way that any further observation or testimony—however good it 
+might be—could make any difference whatever to the miracle’s probability, Earman on Hume on Miracles   273
+which even if multiplied by an enormous factor (due to that further evidence) 
+must remain fixed at zero. But this is entirely contrary to much that Hume 
+says, not least the final clause of the sentence quoted above from his 1761 letter 
+to Blair: “. . . but there are degrees of this species, and when a weaker proof is 
+opposed to a stronger, it is overcome.”
+Earman (2000, 23, and see p. 261 above) omits this final clause, but it is cru-
+cial to Hume’s position, providing the entire basis for the main scenario of his 
+essay on miracles, in which there is “proof against proof” (E 10.11), with new 
+testimonial evidence potentially overruling a previous proof from experience. 
+So we have very strong grounds for rejecting the crude interpretation that Ear-
+man initially proposes.1
+Earman on Hume’s Maxim
+Earman then moves on to another simplistic reading, but seems curiously 
+unwilling to engage in careful consideration of Hume’s text, gliding above it by 
+referring vaguely to other commentators’ views, while including not a single 
+quotation from Hume himself:
+Hume recognized that his “proof”2 only applies when the evidence 
+consists of uniform experience . . . The real issue is joined when that 
+proof is opposed by a counterproof from eyewitness testimony. Many 
+commentators from Hume’s day to the present have read Hume as say-
+ing that . . . uniform experience always trumps testimony . . . Let’s be 
+charitable to Hume by not subscribing to [this] reading . . . The issue 
+then becomes how to tell when the balance tips in favor of one or the 
+other. Hume’s famous “maxim” might be thought to provide just such a 
+prescription.
+(see p. 262 above)
+It seems odd to describe this treatment as “charitable,” when no evidence has 
+been presented to suggest that Hume’s argument is anything like as crude as 
+“many commentators” have thought. Moreover in other circumstances, Ear-
+man himself is quite happy to dismiss the views even of “most commenta-
+tors,” as we find when he gives his own—somewhat uncharitable—account of 
+Hume’s maxim. Here is how Hume himself states it:
+The plain consequence is (and it is a general maxim worthy of our atten-
+tion), “That no testimony is sufficient to establish a miracle, unless the 
+testimony be of such a kind, that its falsehood would be more miraculous, 
+than the fact, which it endeavours to establish . . .” 
+(E 10.13)274  Peter Millican
+And here are Earman’s comments on the quoted “maxim”:3
+Most commentators have seen profound wisdom here. I see only trivial-
+ity . . . the relevant probability of the event which the testimony endeavors 
+to establish is P (M | t (M)& E), while the relevant probability of the false-
+hood of the testimony is P (¬ M | t (M)& E). To say that the falsehood of 
+the testimony is more miraculous than the event which it endeavors to 
+establish is just to say that the latter probability is smaller than the former, 
+i.e.
+P(M | t(M) & E) > P (¬ M | t(M) & E) (1)
+which is equivalent to
+P (M |t(M) & E) > 0.5. (2)
+On this reading, Hume’s maxim is the correct but unhelpful principle 
+that no testimony is sufficient to establish the credibility of a miracle 
+unless the testimony makes the miracle more likely than not.
+(see p. 263 above)
+Earman’s argument for this reading—both in this chapter and his earlier 
+book—makes very little further reference to Hume’s text, but consists mainly 
+of criticism of rival probabilistic interpretations, which are shown to fail in 
+various ways.4 But all of the rivals that Earman considers share the same fault, 
+of completely ignoring the significance, within Hume’s maxim, of the words 
+“testimony . . .  of such a kind. ” They are all thus token interpretations of the 
+maxim—focusing on the probability of individual items of testimony—rather 
+than type interpretations, which take seriously Hume’s apparent concern with 
+the typical probability of kinds of testimony.5
+It is fairly easy to show that Earman’s interpretation is incorrect, by exam-
+ining Hume’s argument leading up to his maxim, and the evidential weigh-
+ing operation that generates it. Hume starts by pointing out that all evidence 
+about the unobserved is derived from experience, with the weight of such evi-
+dence determined by the consistency of the relevant experience. “A wise man, 
+therefore, proportions his belief to the evidence” (E 10.4). He then emphasizes 
+that this principle of inductive rationality applies not only to inference from 
+personal observation but also to arguments from testimony, for “our assur-
+ance in any argument of this kind is derived from no other principle than our 
+observation of the veracity of human testimony, and of the usual conformity 
+of facts to the reports of witnesses” (E 10.5). That being so, it is important to 
+recognize that not all kinds of testimony are found to be equally reliable:Earman on Hume on Miracles   275
+And as the evidence, derived from witnesses and human testimony, is 
+founded on past experience, so it varies with the experience, . . . according 
+as the conjunction between any particular kind of report and any kind of 
+object has been found to be constant or variable . . . Where . . . experience 
+is not entirely uniform on any side, it is attended with an unavoidable 
+contrariety in our judgments . . . 
+ This contrariety of evidence . . . may be derived from several different 
+causes; from the opposition of contrary testimony; from the character or 
+number of the witnesses; from the manner of their delivering their testi-
+mony; or from the union of all these circumstances. . . . There are many 
+other particulars of the same kind, which may diminish or destroy the 
+force of any argument, derived from human testimony.
+ Suppose, for instance, that the fact, which the testimony endeavours 
+to establish, partakes of the extraordinary and the marvellous; in that 
+case, the evidence, resulting from the testimony, admits of a diminution, 
+greater or less, in proportion as the fact is more less unusual.
+(E 10.6–8).
+In this last sentence, the unusualness of the reported event is identified—
+alongside contrary testimony and the character, number, and manner of the 
+witnesses—as one additional factor that bears on the credibility of testimonial 
+reports. But Hume then immediately isolates this particular factor, and views 
+it as balanced on the other side of the scale against the characteristics of the tes-
+timony that incline us to believe it, resulting in “a counterpoize, and mutual 
+destruction of belief and authority” (E 10.8).
+After a couple of short paragraphs illustrating such “destruction of belief” 
+(through the famous examples of Cato and the Indian prince), Hume quickly 
+goes on to present the most extreme possible case of “counterpoize,” where 
+the reported fact;
+instead of being only marvellous, is really miraculous; and . . .  the tes-
+timony, considered apart and in itself , amounts to an entire proof; in 
+that case, there is proof against proof, of which the strongest must pre-
+vail, but still with a diminution of its force, in proportion to that of its 
+antagonist.
+(E 10.11, my emphasis)
+Two very important points should be noted here. First, Hume’s argument 
+so far has treated a miracle as just an extreme case of an extraordinary (i.e. 
+inductively improbable) event, and the general principles involved in this 
+treatment are no different from those that he applies to any other extraor-
+dinary event.6 Second, in sketching out how the counterpoise takes place, 
+Hume has understood the strength of the testimony—“considered apart 276  Peter Millican
+and in itself”—as yielding a single overall measure of proof which can then 
+appropriately be weighed against the strength of the counter-proof that 
+arises from the miraculousness (i.e. the extreme lack of conformity to our 
+uniform experience) of the alleged event. The stronger of these two proofs 
+“must prevail, but still with a diminution of its force, in proportion to that of 
+its antagonist.” So the confidence we place in the testimony (or—depending 
+on which is weightier—in the inductive evidence against the supposed event) 
+will depend on the extent to which the testimonial proof (or alternatively the 
+proof from experience) over-balances its antagonist. We have “proof against 
+proof,”  with the overall credibility given not by either “proof” individually, but 
+by the result of weighing them against each other . Neither side of the contest 
+alone yields the appropriate credibility measure: that comes only from the 
+comparison between them.
+This point, which is absolutely clear from Hume’s text, refutes Earman’s 
+interpretation outright. For on his account, Hume’s intended criterion of 
+credibility is:
+P(M | t(M) & E) > P (¬M | t(M) & E) (1)
+On this criterion, both sides of the inequality represent an overall probability 
+measure, on the left-hand side the probability of the miracle (conditional on 
+the testimony and our past experience), and on the right-hand side the prob-
+ability of no such miracle (conditional on the testimony and our past experi-
+ence). Hume’s own maxim is nothing like this. On the contrary, as we have 
+seen clearly from his text, his maxim involves a comparison between two quite 
+different “proofs,” one concerning the relevant kind of testimony “considered 
+apart and in itself” (in terms of the character, number, and manner of the wit-
+nesses etc., but not the specific event reported), and the other concerning the 
+event reported (in terms of its lack of conformity to our experience). We have 
+yet to see whether this maxim can be given a suitable probabilistic representa-
+tion, let alone one that is philosophically defensible. But what is quite clear is 
+that Earman’s interpretation of Hume’s maxim is seriously mistaken.
+A “Type” Interpretation of Hume’s Maxim
+If the preceding discussion is correct, then Hume’s maxim must be under-
+stood in such a way that the probability of the testimony “considered apart 
+and in itself” is distinguished from, and weighed against, the improbability 
+of the reported event considered independently of that testimony.7 Hume’s 
+idea seems to be that different “kinds” of testimony (specified in terms of the 
+character and number of the witnesses, the manner of delivery etc.) carry a 
+different typical probability of truth and falsehood  independently of the event 
+reported .8 Let us call this his  Independence Assumption . Suppose, then, that we Earman on Hume on Miracles   277
+focus on a particular kind of testimony—whose characteristic probability of 
+falsehood is  f—which either asserts, or denies, the occurrence of a particular 
+type of event  M—whose probability of occurrence is  m. If the reliability of that 
+kind of testimony is probabilistically independent of what is being reported, 
+then we can apparently calculate the probability of a “true positive” and a 
+“false positive” report as follows (as before using “ t(M)” to mean that M is 
+testified to have occurred):
+True positive ( M occurs, and is truly reported)
+P(M&t(M)) = P(M) × P(true report ) = m.(1 – f)
+False positive ( M does not occur, but is falsely reported as having 
+occurred)
+P(¬ M & t(M)) = P (¬ M) × P(false report ) = (1 –  m). f
+If positive testimony has been given, therefore, this testimony will be probably 
+true only if a “false positive” is less likely than a “true positive,” and hence in 
+accordance with the formula:
+P(M/t(M)) > 0.5 → (1 – m). f < m (1 – f)
+which simplifies to:
+P(M/t(M)) > 0.5 → f < m 
+This result neatly corresponds to Hume’s maxim, since its right-hand side is 
+exactly equivalent to saying that the falsehood of the testimony, considered apart 
+and in itself is more miraculous (i.e. less probable) than  the event reported, con-
+sidered independently of the testimony . Hume’s own route to this result was not, 
+of course, so mathematical: he seems to have viewed the situation as involving 
+a relatively simple trial of strength between the inductive evidence for the tes-
+timony and the inductive evidence for the relevant “law of nature.” But given 
+his apparent Independence Assumption, this yields exactly the formal result 
+calculated above, which can thus stand as a faithful mathematical elucidation 
+of his position, rather than an anachronistic distortion.9
+The Non-Triviality of Hume’s Maxim
+If Hume’s Independence Assumption applies to testimony for miracles in this 
+way (for doubts, see the next section), then his maxim can indeed be of real 
+practical value. To illustrate with a non-miraculous example, suppose that 278  Peter Millican
+Fred wants to know whether he suffers from some genetic condition G which 
+afflicts one person in a million. He has no other evidence either way, but a test 
+is available which seems very reliable, in that whoever is tested, and  whether 
+they actually have the condition or not , the chance that the test will give a correct 
+diagnosis is 99·9%, and an incorrect diagnosis only 0·1% (so Hume’s Inde-
+pendence Assumption plausibly applies: the test can be assigned a consistent 
+probability of delivering truth rather than falsehood, independently of what 
+the facts happen to be). When Fred later leaves the clinic in distress at having 
+tested positive for  G, how convinced should he be that he does indeed have 
+that condition?
+Most people would, in my experience, judge Fred’s likelihood of having G 
+in this situation to be very high, but in fact the reverse is the case, as Hume 
+would recognize. As Fred stumbles out despondently through the clinic door, 
+Hume might greet him with a consoling comment something like this: Con-
+sider whether it be more probable, that this kind of test should be mistaken, or 
+that you should really have condition G(cf. E 10.13).10
+Given that the test is wrong one time in a thousand, while G afflicts only 
+one person in a million, there is clearly a far greater likelihood of a mistaken 
+test than of Fred’s actually suffering from  G. And so a positive test report does 
+relatively little to indicate that he actually has the disease: in fact, it changes the 
+probability from a negligible one in a million to the only slightly more worry-
+ing 1 in 1,002.11 Hume’s maxim, therefore, is entirely correct in this case, and it 
+also gives the correct answer for other relevantly similar cases. If, for example, 
+we increase the “initial probability” of the disease to over one in a thousand, 
+then the test indeed becomes credible. And this last point demonstrates a kernel 
+of truth in what Earman calls Hume’s “diminution principle”: whether some 
+alleged fact can be rendered rationally credible by some testimony depends on 
+its prior probability (or in Hume’s terms how “miraculous” or “unusual” the 
+alleged fact is) as well as on the characteristics of the testimony.
+We have already seen enough to counter Earman’s insultingly dismiss-
+ive view of Hume’s treatment of miracles. Certainly there are problems, as 
+will become apparent shortly, but Hume deserves credit for enunciating a 
+principle which clearly anticipates—by two and a half centuries—the iden-
+tification of the base rate fallacy by psychologists Amos Tversky and Daniel 
+Kahneman.12 This is a very common error in human thinking, whereby we 
+naturally find it all too easy to ignore the background “base rate” of some 
+phenomenon when assessing the significance of evidence for it. So on receiv-
+ing a disappointing test report for condition  G, most people would be far 
+more struck by the specific immediacy of that result—and the test’s apparent 
+reliability of 99.9%—than by the memory of the general probability for G of 
+one in a million. They would thus be seriously mistaken, and Hume’s maxim 
+is potentially of considerable value as a vivid reminder of the need to take 
+base rates into account.Earman on Hume on Miracles   279
+Difficulties for Hume’s Position
+Let us now take a more critical look at Hume’s implicit Independence Assump-
+tion: that it is in general possible to consider a kind of testimony as conferring 
+a typical evidential probability, independently of what it reports. Admittedly 
+this assumption was not confined to Hume, and some of his opponents—
+notably Richard Price (1768, §2, pp. 413–6)—themselves took it for granted 
+when arguing in favor of miracle stories. Earman (§5) discusses Price on just 
+this theme:
+Price responded that “improbabilities as such do not lessen the capacity 
+of testimony to report the truth” (Price 1768, 413). This is surely right, as 
+was Price’s further claim that the diminution effect operates through the 
+factors of the intent to deceive and the danger of being deceived, either by 
+others or by oneself. Unfortunately Price overstepped himself in claim-
+ing that when the first factor is absent, testimony “communicates its own 
+probability” to the event.
+(Price 1768, 414)
+Hume’s argument, however—somewhat paradoxically—itself undermines the 
+Independence Assumption from which it apparently starts, since the upshot 
+of the argument is precisely to show that the same kind of testimony can yield 
+very different probabilities, depending on the prior probability of what it 
+reports. In the diagnostic example of the section above, a positive test report 
+yields a probability for G of 1 in 1,002; but a negative test report yields virtual 
+certainty for ¬ G (with the probability of G now close to one in a billion).13 
+Moreover there is no good reason for expecting such a diagnostic test to have 
+the same probability of error in both directions: for example an over-sensitive 
+test for G might have a relatively high chance of erroneously identifying G (a 
+false positive), while having very little chance of failing to detect its presence (a 
+false negative). Likewise, there is no reason why someone, gazing over a foggy 
+Scottish loch at twilight, should mistake a floating log for a sea monster with 
+exactly the same probability as he would mistake a sea monster for a floating 
+log. Indeed Hume himself is clearly aware that such mistakes are likely to be 
+biased in one direction rather than the other, given “the strong propensity 
+of mankind to the extraordinary and the marvellous” (E 10.19). So his own 
+attachment to the Independence Assumption seems to be at most lukewarm, 
+and his argument in “Of Miracles” is perhaps best understood as starting from 
+the assumption but then discarding it, on the basis of both his maxim and also 
+the psychological considerations presented in his Part 2. Price, by contrast, 
+holds firm to the assumption, and hence has an untenable position.
+Price nevertheless raises a serious problem for Hume’s position through his 
+examples such as the lottery discussed by Earman (§5). The same problem—280  Peter Millican
+identified previously by Joseph Butler (1736, II ii 3 [§11]) and George Camp-
+bell (1762, I §1, p. 31)—also arises in the case of everyday reports, which we 
+very reasonably believe even when the prior probability of the fact reported is 
+far less than the prior probability of a false report. Imagine listening to a BBC 
+radio announcement on 8th April 1967:
+Foinavon, a 100-to-1 outsider ridden by John Buckingham, won the 1967 
+Grand National after a dramatic pile-up stopped all the leading horses at 
+the 23rd fence.
+What is the prior probability that the radio announcer would get something 
+wrong here? To be very ungenerous to the BBC, let us suppose that it is 5% 
+(so 1 in 20 such announcements will involve a mistake). This is clearly vastly 
+greater than the prior probability that a 100-to-1 horse with that particular 
+(previously unfamiliar) name, ridden by a jockey with another particular 
+(unfamiliar) name, should win after such a specific and unlikely calamity at 
+that particular fence. So the testimony is not even close to being “of such a kind, 
+that its falsehood would be more miraculous, than the fact, which it endeav-
+ours to establish”;14 and yet we quite properly believe it. Hence Hume’s maxim 
+is mistaken.
+The fundamental flaw in Hume’s reasoning, as I have interpreted it, derives 
+from the faulty calculation of a “false positive” report:
+False positive ( M does not occur, but is falsely reported as having 
+occurred)
+P(¬M & t(M)) = P(¬M) × P(false report ) = (1 – m). f
+Imagine if the 1967 Grand National had been an unremarkable race won 
+by one of the favorites, but reported falsely on the radio. How likely is it, in 
+those circumstances, that the report would be false  in precisely the way quoted 
+above— naming Foinavon (wrongly) as the winner, alleging (falsely) a dra-
+matic pile-up, and so forth? Clearly it is vanishingly unlikely; indeed it is so 
+unlikely that the probability of such a “false positive” is far less than the prob-
+ability of Foinavon actually winning as described. So any listener to the report 
+is quite right to believe it, albeit with some slight reservation in proportion to 
+the general fallibility of BBC reports. And Hume’s maxim is indeed refuted, 
+as likewise in Price’s lottery example, where again the crucial point is that the 
+probability of ticket number 79’s being falsely reported as winning is even less 
+than the prior probability of its actually winning.15
+So Hume’s maxim fails, except in a limited range of (typically artificial) 
+cases such as the diagnostic test, where it serves as a useful warning against the 
+“base rate fallacy.” However, I believe that much more can be salvaged from Earman on Hume on Miracles   281
+Hume’s position by dropping his Independence Assumption and taking his 
+arguments as pointing instead towards a revised maxim which encapsulates 
+the point just made:
+No testimony is sufficient to establish a miracle  M, unless the testimony is 
+of such a kind, that the occurrence of an M report of that kind ( given that 
+M does not in fact occur ) would be even less probable than M itself.
+Such an approach would shift the emphasis from Part 1 of Hume’s essay 
+towards Part 2, from abstract probability to the psychological factors that 
+falsely generate miracle reports. But further discussion of all this must wait for 
+another occasion.16
+Multiple Witnesses and Religious Miracles
+Since Hume does not attempt to rule out the possibility of testimony suffi-
+cient to establish a miracle,17 and he never denies that a genuinely established 
+miracle could provide evidence for a religion, Earman’s discussions in his 
+sections six and seven do not refute any position that Hume is committing 
+to holding. From a Humean point of view, however, Earman’s treatment 
+of independent multiple witnesses seems surprisingly complacent, especially 
+his suggestion that “there seems to be no in-principle difficulty in arrang-
+ing the circumstances so as to secure the independence condition” (see 
+p. 266 above). Note that his results here crucially depend on the assump-
+tion that the multiple witnesses are indeed  independent , so that the prob-
+ability of some witness w2 reporting that M occurs is completely unaffected 
+by what another witness w1 reports: they must not be colluding, or subject 
+to any other common influence except for their perception of M itself (or 
+its absence). But Hume’s own main concern is  epistemological , so it is not 
+enough that the multiple witnesses be actually  independent (as assumed in 
+Earman’s calculations); they must also be known to be independent. And 
+in any situation involving miracle stories propagated by the adherents of a 
+particular religion, it is almost inevitably going to be more reasonable—our 
+experience of human nature being what it is—to suspect that the witnesses 
+are not independent (through either collusion or delusive influences, exter-
+nal or psychological), rather than to believe that some astonishing event 
+favoring their religion has actually happened. That, at any rate, will be the 
+natural Humean suspicion, and Earman has done nothing to refute it.18 So 
+again, although he makes some interesting points on the Bayesian treatment 
+of miracles, his discussion sheds relatively little light on Hume’s philosophy, 
+which is far richer and more defensible than such a narrowly mathematical 
+treatment can reveal.282  Peter Millican
+Notes
+ 1. There is no space here for further interpretative discussion of Hume’s understanding of 
+probabilities and proofs, which can be found in Millican (2011, §2, §6) and Fogelin (2003, 
+43–53).
+ 2. Note here the point I make in the first paragraph of the firstsection above.
+ 3. In what follows, M is some potential event (typically a would-be miracle), t(M) is the 
+occurrence of testimony for that event, and E is the background evidence (typically the 
+observation of uniformities in accordance with the law of nature of which M would be a 
+violation).
+ 4. Earman’s only substantial further quotation of Hume in this discussion is his (correct) point 
+that the final sentence of E 10.13 treats the maxim as providing a sufficient  as well as necessary  
+condition for credibility. The previous two sentences of E 10.13 also suggest this, and the 
+three sentences together strongly corroborate Earman’s presumption (which he explains in 
+a part of section 4 omitted from the chapter in this collection) that “sufficient to establish a 
+miracle,” for Hume, means to render the miracle more likely than not , rather than to render 
+the miracle certain .
+ 5. To illustrate the type/token distinction, consider how many letters the word “error” con-
+tains. Two different answers are possible, because the word contains five token  letters (“e,” 
+then “r,” “r,” “o,” “r”), but only three letter types  (“e,” “r,” “o”). The related distinction 
+between kinds and individual items of testimony is applied to Hume’s maxim in Millican 
+(1993), which independently proposes essentially the same formula that Earman favors as 
+a relatively  plausible token  interpretation (Millican 1993, 490). But Earman also expresses 
+serious reservations about it, indicating the likely superiority of a type interpretation (Mil-
+lican 1993, 490, 491, 495 n. 8), though without attempting to work out the latter. Earman’s 
+book references the paper (Earman 2000, 93), but unfortunately he ignores the reservations 
+expressed there about his favored formula.
+ 6. In a note to the paragraph which mentions the Indian prince’s incredulity about ice (E 10.10), 
+Hume sketches a distinction between extraordinary  and miraculous  events, but this plays no 
+significant role in his argument. Unlike Earman (see pp. 262–263 above), therefore, I do not 
+see Hume’s relative lack of engagement with these sorts of examples and complications as 
+particularly relevant to the assessment of his position.
+ 7. Note that this distinction cannot easily be drawn within a token  interpretation of Hume’s 
+maxim, which can only consider “the probability of the testimony” to refer to the probability 
+of the particular item of testimony  (in favor of some specific reported event), which is there-
+fore hard to distinguish—given that the testimony has been presented—from  the resulting 
+probability of the reported event itself . Hence it is not surprising that Earman’s attempts to 
+identify a coherent token interpretation lead quickly to triviality.
+ 8. In his maxim, Hume talks of the falsehood of a kind  of testimony as being “more miracu-
+lous” than the event reported, and in the following sentences, he clearly understands miracu-
+lousness as the inverse of probability. So he indeed seems committed to viewing kinds  of 
+testimony as having a typical probability.
+ 9. Nor is there anything un-Humean about attempting to make these things mathematically 
+precise. Hume himself did not have our modern probability theory to hand, but at E 10.4 
+he explicitly recommends calculation in cases of opposing probabilities, “to know the exact 
+force of the superior evidence.”
+ 10. Note that this is quite different from asking: “Which is more probable, in the light of this 
+result: that this specific test is mistaken in saying that you have condition G, or that you 
+really have condition G?” which would be trivially equivalent to asking whether the test result 
+makes it more probable than not that Fred has the condition. Earman reads Hume’s maxim 
+as expressing just this useless equivalence.
+ 11. Consider a population of a billion, of whom one thousand have the disease while 999,999,000 
+do not. If all were tested, we would expect 999 true positives against 999,999 false positives.
+ 12. Their best-known article is Tversky and Kahneman (1974), with a striking example of the Earman on Hume on Miracles   283
+base rate fallacy at pp. 1124–1125, under the heading “ Insensitivity to prior probability of 
+outcomes. ”
+ 13. Testing a billion people, we could expect just one false negative result, and 998,999,001 true 
+negatives. We might notice here that the test, in either case, impacts on the initial probability 
+of G by a factor of approximately 1,000, which corresponds to the 1 in 1,000 probability of a 
+mistaken test occurring. This might seem to revive the idea that the test can be seen as having 
+a consistent force, and perhaps Hume himself was thinking along these lines, because the 
+same sort of pattern will indeed hold for any similar case in which the relevant initial prob-
+ability is very small (as with miracles). But unfortunately it breaks down as soon as we move 
+to examples which involve more than two possible outcomes, as in the racing report and 
+lottery cases discussed in the main text.
+ 14 Recall that “more miraculous” here is simply to be understood as “less probable,” and that 
+Hume’s argument purports to be based on general considerations of probability (n. 8 above). 
+So he would be begging the question against miracles if he attempted to erect some special 
+hurdle against them without providing an argument to justify such discrimination.
+ 15. The difference in Earman’s urn example (see pp. 264–265 above) is that the prior probability 
+of reporting a black ball as a white one is taken to be constant, irrespective of the number of 
+balls in the urn, whereas in the lottery case, as the number of available tickets rises, the prob-
+ability that a mistaken report will happen upon the number 79 reduces. The urn case would 
+become closer to the lottery case if the reporter were under the mistaken impression that the 
+balls are all of different colors; then his reporting “white” when in fact the ball is black will 
+get less probable as the number of balls increases.
+ 16. For a sketch, see Millican (2011, §§19–20).
+ 17. For more discussion of this point, see Millican (2011, §12).
+ 18. Moreover his talk of “arranging the circumstances so as to secure the independence condi-
+tion” is rather bewildering: are we supposed to organize some rigorous experimental setup, 
+and then just wait for a miracle to present itself?This page intentionally left blank

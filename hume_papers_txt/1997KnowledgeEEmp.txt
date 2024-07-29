@@ -1,0 +1,60 @@
+1 
+ KNOWLEDGE 
+LOCKE famously defines knowledge as “the perception of the connexion and agreement, or 
+disagreement and repugnancy of any of our Ideas ” (Essay  IV i 2), but his subsequent discussion 
+significantly extends this somewhat vague and unclear definition.  He starts by suggesting that knowledge always concerns one of four types of agreement or disagreement, namely “Identity, or Diversity”, “Relation”, “Co-existence, or necessary connexion”, and “real Existence”--his examples of the first two of these (perceiving the self-identity and distinctness of ideas, and the relations between ideas) fit relatively comfortably with his definition, but knowledge of “co-existence” (Locke instances the fixedness of gold and the magnetisability of iron) and “real existen ce” (for example of physical 
+objects, or of God) both seem to involve the “agreement” of ideas with external things rather than merely amongst themselves. 
+ Locke then points out (Essay
+ IV i 8) that knowledge can involve not only current “perception 
+of agreement or disagreement” (what he calls actual knowledge ), but also remembered perception, 
+which he calls habitual knowledge .  Some habitual knowledge, so-called intuitive knowledge , is such 
+that its truth is immediately apparent whenever it is brought to mind; but other habitual knowledge, for example of geometrical theorems, relies on memory (which “is but the reviving of some past knowledge”) to provide the assurance that it has indeed been perceived to be true in the past, as well as on an awareness of “the immutability of the same relations between the same immutable things” to extend that assurance to the present and future.  Locke admits to having had doubts about the status of remembered truths, which “seem’d formerly to me like something between Opinion and Knowledge, as sort of Assurance which exceeds bare Belief, for that relies on the Testimony of another;  Yet upon a due examination I find it comes not short of perfect certainty, and is in effect true Knowledge.” (Essay
+ IV i 9). 
+ Locke’s fundamental assumption, made explicit here, that “true knowledge” requires “perfect 
+certainty” generates an obvious tension when he comes to discuss “the Degrees of our Knowledge” (Essay
+ IV ii).  For then he distinguishes three such degrees, namely intuitive knowledge , 2 
+ demonstrative knowledge  (or “knowledge by intervening proofs ”), and sensitive knowledge .  A truth 
+known intuitively is (as mentioned earlier) immediately and irresistibly apparent--“like the bright Sun-shine”, it “forces it self immediately to be perceived, as soon as ever the Mind turns its view that way; and leaves no room for Hesitation, Doubt, or Examination”.  Demonstrative knowledge, by contrast, becomes evident only through the mediation of intervening “proofs”, and although such a “demonstration” must consist of intuitively certain steps to merit the name, nevertheless the fact that “pains and attention” are required to keep the reasoning in view (and hence that “Men embrace often Falshoods for Demonstrations”--Essay
+ IV ii 7) implies that this is in some sense a lesser degree of 
+knowledge.  Unable to attribute its inferiority to any descent from “perfect certainty”, however, Locke instead explains that, as compared with INTUITION, DEMONSTRATION is only less clear and 
+distinct , or less evidently  certain.  Likewise his account of sensitive knowledge, “of the existence of 
+particular external Objects, by that perception and Consciousness we have of the actual entrance of Ideas
+ from them” (Essay  IV ii 14), displays a similar awkwardness.  He seems torn between on the 
+one hand his desire to confer on it the honorific title of “knowledge”, and on the other his awareness that, in the face of scepticism about the external world, sensation appears in some respects at least to be significantly less secure than intuition. 
+ HUME largely takes over Locke’s understanding of knowledge, but because of his sceptical 
+outlook, shows far less interest in it.  Thus although the longest part of his Treatise
+ is entitled “Of 
+knowledge and probability”, only the first few pages of this are devoted to knowledge proper, and all the remainder to PROBABILITY. 
+ Like Locke, Hume begins his discussion of knowledge by specifying the kinds of relation that 
+are susceptible of it, namely on his account “resemblance, contrariety, degrees in quality, and 
+proportions in quantity or number ” (Treatise, p. 70).  The first three of these, he says, “fall more 
+properly under the province of intuition than demonstration”--only the fourth, which underlies the “sciences” of algebra and arithmetic, yields ideas sufficiently precise and distinct to enable us to “carry on a chain of reasoning to any degree of intricacy, and yet preserve a perfect exactness and certainty”.  (However in his first Enquiry
+ (1748) pp. 25, 163, Hume admits geometry as a third science depending 3 
+ only on quantity or number, and therefore capable of demonstration--he no longer sees geometrical 
+ideas as being contaminated with the vagueness and imprecision of our sensory impressions.) 
+ For Hume, therefore, knowledge has only a very restricted scope--the vast bulk of our beliefs 
+fall within the realm of probability, being dependent not on one of the four knowledge-yielding relations but instead on CAUSATION
+, and on causal reasoning by INDUCTION.  Hume sees such 
+beliefs as capable of being certain in a psychological  sense--indeed he uses language highly 
+reminiscent of Locke’s account of intuition  in describing some of them as “entirely free from doubt 
+and uncertainty” (Treatise  p. 124) and as irresistible, like “seeing the surrounding bodies, when we 
+turn our eyes towards them in bright sunshine” (Treatise  p. 183).  But this kind of certainty carries no 
+rational guarantee, and hence cannot merit the title of “knowledge”. 
+ Modern epistemologists have retreated from the early empiricists’ assumption that beliefs can 
+count as knowledge only if rationally certain, and have tried to give a coherent account of our common-sense notion of “knowledge” which sets no such extreme constraint.  However the seminal paper of Gettier (1963) showed that the then popular analysis of knowledge as “justified true belief” is dubious, essentially because a true belief which is “justified” on the basis of a prior (justified but) false belief cannot intuitively be described as knowledge.  The massive literature generated on the topic since then gives little ground for confidence that the quest for a precise analysis of the common-sense notion of knowledge will ever be su ccessful. 
+ ____________________ 
+ Peter Millican 
+ 
+ 4 
+  Primary Sources 
+Hume, David (1739) A Treatise of Human Nature , ed. L.A. Selby-Bigge, second edition revised by 
+P.H. Nidditch, Oxford 1978 
+Hume, David (1777) Enquiries concerning Human Understanding and concerning the Principles of 
+Morals , ed. L.A. Selby-Bigge, third edition revised by P.H. Nidditch, Oxford 1975 (first 
+publication by Hume 1748 and 1751 respectively--1777 was the last edition to incorporate new authorial corrections) 
+Locke, John (1690) An Essay Concerning Human Understanding
+, ed. P.H. Nidditch, Oxford 1975 
+ Bibliography 
+Ayers, Michael (1991) Locke volume I: Epistemology , Routledge 
+Gettier, Edmund Jr. “Is Justified True Belief Knowledge?”, Analysis  23 (1963): 121-3 
+Kemp Smith, Norman (1941) The Philosophy of David Hume , Macmillan, chapter XV  

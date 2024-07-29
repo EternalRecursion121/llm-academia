@@ -1,0 +1,860 @@
+PP. 81–106
+EUROPEAN JOURNAL FOR  
+PHILOSOPHY OF RELIGION  
+Vol 9, No 3 (2017)  
+DOI: 10.24204/EJPR.V9I3.1996
+AUTHOR: PETER.MILLICAN@HERTFORD.OX.AC.UKDEFENDING THE COMMON-CORE/DIVERSITY 
+DILEMMA: ONE AUTHOR’S REPLY TO 
+ABRAM, HEIM, LUKASIEWICZ, MOSER, OPPY, 
+SALAMON, SENOR, TALIAFERRO & POROT
+Peter Millican
+Hertford College, Oxford
+Branden Thornhill-Miller and I feel tremendously grateful — and hon -
+oured — to have received so many interesting and thoughtful critical re -
+sponses to our paper on “The Common-Core/Diversity Dilemma” (hence -
+forth “CCDD ”). In writing it, we hoped to provoke discussion and debate, but 
+could not expect that it would provoke so much, and so quickly. As our critics 
+have appreciated, the paper was also itself a product  of discussion and debate, 
+with the two of us trying to find a position, or range of positions, that we 
+could agree fell within the “rational limits of supernatural belief ” ( CCDD , 2). 
+This involved significant compromise on both sides, and hence it would be a 
+mistake for any reader to assume that all of the views expressed in the paper 
+can be unequivocally attributed to either of us. At some points, indeed, we felt 
+compelled to highlight that we were attracted towards significantly different 
+paths (2, 5, 46–9), with my own tendency being towards scepticism and natu -
+ralism “in the spirit of David Hume” (2), and thus inclined “to ‘bite the bullet’ 
+of cool, parsimonious reason and learn to live with a godless world” (46).
+1. EMPATHY, AND LOSS OF FAITH
+In at least one case, namely that of the Fine Tuning Argument (to be discussed 
+in §3 below), this context puts me in the unusual situation of being obliged 
+to defend as rationally respectable  a position of which I am seriously sceptical 
+on intellectual grounds. To be clear in advance, therefore, I do not find this 
+argument persuasive, but it does seem to me legitimately to raise significant PETER MILLICAN82
+questions that invite (but do not compel) a divine answer. CCDD ’s references 
+to this argument came from me rather than my co-author,1 and are there 
+because I cannot imagine personally maintaining a belief in a divine creator 
+without being able to draw on some respectable evidence that can survive 
+critical scrutiny (as, I believe, the vast majority of other theistic arguments 
+and supposed evidence cannot, a topic obviously too big to address further 
+here).2 Many people are — for good or ill — less scrupulous in this respect, 
+but many of my philosophical colleagues would no doubt insist on being sig -
+nificantly more scrupulous.3 Again, I should stress that my own inclinations 
+are in the latter direction: we philosophers tend to view it as desirable to base 
+our theoretical views on (what we take to be) fully rational criteria, and are 
+systematically enculturated towards doing so. But in responding to those who 
+would criticise our paper for failing to stick to such a strong “rationalist” line, 
+I would ask them to imagine the situation of someone who is persuaded by 
+the sceptical case but psychologically unable to maintain this; for whom the 
+prospect of casting off all supernatural religious belief seems too much to 
+bear, potentially undermining both their optimism about the universe, and 
+also — perhaps just as significantly — their social context.
+Those who have never fallen under the spell of religion might find it sur -
+prising how traumatic relinquishing it can be, even for those whose ideals are 
+strongly committed to rationality. My own experience of this was probably 
+relatively mild, because it occurred whilst I was still young, in response to a 
+combination of factors that came together when I was an undergraduate. As 
+1 Obviously. no implications can be drawn regarding Branden Thornhill-Miller’s beliefs 
+from my own views as expressed in this current reply to critics. But the example given here 
+makes clear that even views suggested in the jointly-authored CCDD  cannot be assumed to be 
+those of either of us individually: the paper involved a great deal of discussion and compro -
+mise, to endeavour to reach — as far as possible — positions that both of us felt were rationally 
+sustainable given the philosophical and psychological evidence. Not surprisingly, the philo -
+sophical sections II and III (and 46–7 of VIII) mainly reflect my work, while sections IV to VII 
+(and the rest of VIII), focused on empirical and religious studies, mainly reflect my co-author’s 
+work. However we discussed and agreed the paper throughout.
+2 This answers Taliaferro and Porot: “We are sceptical of the idea that one can reasonably 
+appreciate the individual and social benefits of a belief system without seeing any legitimate 
+merit to the content of those beliefs. ... We don’t assume that TMM necessarily share this intui -
+tion, but we would like to know whether or not they do. ” (228).
+3 As, for example, Moser (38–9).DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY83
+a keen and highly involved Anglican, I was shocked on encountering funda -
+mentalist believers at Oxford, and the discovery that otherwise highly intel -
+ligent people could reflectively endorse — as literal truth — the moral atroci -
+ties and fanciful tales of the Old Testament, made me ponder more seriously 
+than ever before whether my own religious beliefs were reasonably founded. 
+I decided to change subject (from Mathematics) to Philosophy and Theology 
+to sort myself out, after which various events jolted me out of my middle-
+class complacency into realising how awful the world is for so many people, 
+bringing a new vividness to the Problem of Evil. The theological answers were 
+unconvincing under critical scrutiny, as were the philosophical theistic argu -
+ments, while David Hume’s Dialogues concerning Natural Religion  made many 
+of them seem not only inadequate, but risible. By the time I was studying Phi -
+losophy of Religion as an Oxford postgraduate, my theism was evaporating, 
+but — crucially — my nominal Christianity remained, at least for a few years. 
+When my turn came at a postgraduate seminar, I presented a paper arguing 
+that the sincere Christian should be prepared to accept the non-existence of 
+God if that was where the evidence pointed (an idea received more warmly 
+by the Professor of Theology than by the Professor of Philosophy of Reli -
+gion). Even after moving on to teaching posts elsewhere, I continued to at -
+tend church erratically, until the recitation of creeds (whose dubious history 
+I had studied) became just too much to tolerate. Acknowledging that I could 
+no longer call myself a Christian was a serious personal ordeal, even when it 
+was based on so much study and thought, and even though I had most of my 
+life ahead of me, with virtually none of my new social context threatened by 
+my loss of faith. Against this background, I find it relatively easy to empathise 
+with those who feel that their religious commitments, entwined within their 
+lives over decades, are completely impossible to relinquish, whatever con -
+trary theoretical arguments might be presented.
+2. BENEFITS OF RELIGION WITHOUT FIRST-ORDER BELIEF?
+Perhaps the most controversial suggestion in our paper was the idea that 
+what we call “second-order” religious belief could provide some kind of mid -
+dle ground here, preserving some of the social and psychological benefits of 
+religion while abandoning the specific “first-order” religious beliefs that are PETER MILLICAN84
+undermined by the Common-Core/Diversity Dilemma. This idea was treated 
+with great scepticism by most of our critics (Heim, 253–4; Łukasiewicz, 223; 
+Moser, 38–39; Oppy, 262–3; Salamon, 216–30; Taliaferro & Porot, 228–30), 
+and though sympathetic to such scepticism, I take seriously the possibility 
+that second-order religion could indeed suffice to bring such benefits, since 
+I am unaware of empirical evidence that would show otherwise.4 Religions 
+come in many varieties (as Oppy stresses in response to Salamon, 260–2), and 
+plenty of people apparently find comfort in superstitious beliefs that would 
+not count as religious . Many believers might well identify with Salamon’s view 
+that takes ethics as central to the role of religion (to be discussed in §4 below), 
+but this is by no means universal. Many people also express what might be 
+called “metaphysical” yearnings, for the idea that this world and mortal life 
+are not “all there is”: that the world is not merely material, and there is some -
+thing beyond or some deeper purpose to it all (whether or not this conforms 
+to any ethical ideal). Moreover such feelings need not be selfish , in the sense 
+of yearning for a heavenly future state. It is commonplace for people to devote 
+their lives to their ideals, and even to sacrifice their lives where necessary, an 
+observation not confined to those who expect posthumous reward.
+I fully acknowledge that second-order religion as we presented it is likely 
+to be seen as somewhat elitist, “thin” (Salamon, 199; Moser, 38), and “exis -
+tentially irrelevant” (Salamon, 225), especially if it is interpreted rigorously, 
+refraining from any first-order “contamination” . But that is not the interpre -
+tation we were proposing: we were not suggesting a complete divorce from 
+culturally-conditioned religious practices, but rather, that such religious ex -
+pression should be followed in an “undogmatic and non-prejudicial” spirit 
+(48).5 Many religious believers, especially perhaps in the Far East beyond 
+the hegemony of the dominant and exclusivist monotheisms, participate in 
+4 But I make no claim to special expertise here, and will be interested to see the response of 
+my co-author to relevant points, e.g. McCauley’s work as discussed by Heim (250–3).
+5 It may be that several critics have been misled by an unfortunate ambiguity in the text of 
+our paper, where we refer to “second-order theism — or deism — ... ” (4). For example, Oppy 
+(259) and Senor (221, n. 5) both read this, not unreasonably, as implying an equation  between 
+second-order theism and deism, but our intention here was to refer to “second-order (theism 
+or deism)” , to clarify that deism was included  within the category (but not required ). Moser 
+(37) also misinterprets our notion of second-order religion, in presuming that it must be en -
+tirely non-causal.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY85
+combinations of religious practices that are, strictly viewed, incoherent, and 
+often, at least in part, “vulgarly superstitious” .6 Buddhism is combined with 
+worshipping the idols of Hinduism or Shinto, for example, apparently meet -
+ing both the social and “existential” needs of those concerned, despite the 
+theoretical shortcomings.7 At the other extreme from vulgar superstition, 
+Christian Quakerism involves no exclusivist creed, and those involved prob -
+ably have a wide variety of incompatible views on the status of Jesus and other 
+controversial doctrines. It would presumably be possible for religions in gen -
+eral to move away from dogmatic expression of beliefs and enforced theolog -
+ical purity, to put more emphasis on the social and ceremonial side, and far 
+less on doctrinal orthodoxy.8 This might then enable adherents to experience 
+personal fulfilment through a range of “valid spiritual paths” , without any 
+focus on the incompatibility of their “presume[d] metaphysical conditions” 
+(Heim, 247, nn. 35, 37).
+Now imagine a participant in such a religious group, who starts with 
+doubts about particular historical teachings and eventually becomes scep -
+tical about whether there is even any supernatural agency in the universe. 
+One can imagine their feeling somewhat conflicted about religious partici -
+pation, even of the undogmatic kind. Suppose that they later become con -
+vinced — through the Fine Tuning Argument, perhaps — that there is some 
+ultimate Designer, albeit one of whom we can know virtually nothing, but 
+who can, not unreasonably, be taken as the implicit focal point of many re -
+ligions. My expectation is that this new conviction could make a significant 
+difference to such a person, helping to remove their conflicted concerns by 
+giving them confidence that “there is something more” to the universe, and 
+6 Oppy remarks that “Since Hume wrote his Natural History of Religion , it has been a com -
+monplace that ‘vulgar superstitions’ are much better suited to the relief of existential anxiety 
+than are the abstruse deliverances of theologians. ” (262–3).
+7 Heim also draws attention to this phenomenon (247), apparently viewing it as in tension 
+with our view, which I do not. The only mention of “polytheism” in our paper suggested that 
+it would be unattractive to “any conventional Jew, Christian, or Muslim” (17); perhaps our 
+understanding of what counts as “conventional” differs here.
+8 This coheres with Oppy’s suggestion that first-order religion could move towards less au -
+thoritative forms that “might be able to deliver the in-group goods without also delivering the 
+out-group damage” (271–2). But note also that undogmatic first-order religious institutions 
+are entirely compatible with individual second-order belief.PETER MILLICAN86
+hope of a positive purpose to it all.9 And although I would not now see myself 
+as being that person, I can imagine an alternative history in which I might 
+have found significant consolation in such a resolution.10
+3. THE FINE TUNING ARGUMENT
+In support of our conception of second-order religion, our paper put a mod -
+est emphasis on the Fine Tuning Argument, with one brief mention in the 
+abstract (1), three sentences in the introduction (3–4), and a paragraph and 
+footnote in the concluding section (47). This makes a striking contrast with 
+its relative prominence in the critical responses, where — compared to our 
+total of four occurrences — the phrase “fine tuning” (and cognates) appear 
+five times in Senor’s, 15 times in Moser’s, 29 times in Oppy’s and 47 times in 
+Salamon’s. Per page, these four responses give an overall frequency more than 
+12 times our own, strongly suggesting that more is being read into our nod 
+towards this argument than we intended. Accordingly, Salamon states that 
+our conception of second-order religion is “supposed to be ... supported solely  
+by the Fine-Tuning Argument for the existence of God” (199, his emphasis). 
+Abram likewise says that such belief “would rely on the Fine-Tuning Argu -
+ment alone” (239). Senor says of us: “The ground of such belief, they aver, is 
+the fine-tuning argument” (214). Oppy is initially more guarded (259–60), 
+but later describes us as proposing “a second-order religion that is strongly 
+supported by fine-tuning considerations” (264).
+What we actually said, however, was that second-order religion “can be 
+given some distinctive (albeit controversial) intellectual support through the 
+increasingly popular Fine Tuning Argument” (1); that “Second-order theism 
+is ... likely to be particularly attractive to adherents of the Fine-Tuning Ar -
+9 This expectation reflects the view — based on psychological evidence and the study of 
+world religions — of my co-author, Branden Thornhill-Miller, who plans to elaborate on sec -
+ond-order religion and its implications in a future paper.
+10 Late in my teens, largely under the influence of an inspirational vicar, I contemplated a ca -
+reer in the Church. Suppose this had come to pass, and that religious doubts had only occurred 
+to me when I was settled as a priest, part of a community and with a family to support, feeling 
+highly fulfilled by helping others through my pastoral work and with no other career in sight. In 
+that case, I could easily have been strongly attracted towards religious viewpoints which — as an 
+academic philosopher — I have the luxury of viewing as insufficiently intellectually rigorous.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY87
+gument” (3); and that “the assessment of the argument is disputed, but we 
+doubt that it is decisively refutable given the current state of knowledge, as 
+long as its conclusion is suitably restricted” (47). This is at best faint praise for 
+the argument, and certainly gives no suggestion that it is the only thing that 
+second-order religion has going for it.
+As already stated, I personally do not find the Fine Tuning Argument 
+persuasive, but I am convinced that it is significantly better than most athe -
+ist philosophers seem to think (as long as its conclusion is, indeed, suitably 
+restricted). Oppy is probably expressing a standard view when he says — hav-
+ing apparently agreed with us that Ontological, Cosmological, and Moral 
+Arguments are “decisively refutable” — that “there is no reason to suppose 
+that extant fine-tuning arguments are in better standing than other kinds of 
+theistic arguments (265).11 Moser is less explicit, but refers to a well-known 
+paper that expresses “various serious objections” to the argument (34).12 In 
+favour of the argument, we raised the possibility that “in the future — pos-
+sibly a distant future — the development of physics [may] strengthen ... the 
+argument, for example by ... corroborating the naturalistic inexplicability of 
+the ‘anthropic coincidences’” (47).
+To flesh out this speculation, suppose that by 1,000 years’ time, physics 
+has long since consolidated and removed all the irritating conflicts and lacu -
+nae that currently bedevil it. For at least 500 of those years, there has been 
+no hint of contradiction between the successors of quantum mechanics and 
+general relativity, while the material and forces in the universe have also ap -
+11 The phrase “decisively refutable” is our own (47). Oppy himself says that the Ontological, 
+Cosmological, and Moral Arguments are “unsuccessful” , and adds that he takes this to be true 
+also “for all the other classes of extant theistic arguments” (265).
+12 These “serious” objections are mainly based on considerations of mathematical probabil -
+ity that bear little relation to the physics, and seem to me implausible. There are, of course, 
+obvious difficulties in applying probability rigorously to the unique case of the creation of the 
+universe, but in the sort of scenario I sketch below, such absolute theoretical rejection would I 
+believe seem unconvincing. Any objection purporting to show that an inference to divine ac -
+tion would be unjustified no matter how extreme the phenomena may be  has to be viewed with 
+extreme suspicion (and in general, the most effective way of opposing Design Arguments is 
+not to rule them out on principle, but rather, to acknowledge that they could have force if the 
+empirical evidence were sufficiently impressive, but to point out that it isn’t). To be fair to the 
+paper in question, these issues are recognised towards the end (Colyvan et al.  2005, 332).PETER MILLICAN88
+parently become well understood.13 The formation of the universe is also well 
+understood in terms of the relevant laws, starting from a “Big Bang” with spe -
+cific initial conditions, and developing through time towards our recognis -
+able future with corroborative evidence at every main stage. Physical expla -
+nation, however, is still incomplete: many “anthropic coincidences” remain, 
+with apparently arbitrary constants — all of which have resisted deeper at -
+tempts at explanation — fitting together in ways that seem precisely adjusted 
+to enable the evolution of a complex universe with galaxies, stars, planets, and 
+chemistry capable of supporting life (through mechanisms that are again by 
+now well understood). Strikingly, no such “coincidence” becomes apparent 
+within these theories until billions of years have elapsed after the Big Bang: 
+what stands out as remarkable is not the early part of this journey, but the 
+long-term end result of the interaction of all these laws. Way back in the 21st 
+century, various theories were proposed to explain this apparent fine tuning 
+as a selection effect, by speculating about evolving sequences of universes or 
+an infinite “world ensemble” , but these have all long since proved untena -
+ble.14 Meanwhile, the development of computation has proceeded apace, with 
+quantum computers — hugely improved since their initial mass-production 
+more than 950 years earlier — now able to simulate alternative physical theo -
+ries with unparalleled speed and accuracy. Again and again these simulations 
+give the same message: across a huge range of such theories, with the relevant 
+13 This is emphatically not the current situation. The existence of “dark matter” was corrobo -
+rated only in 1980, and the first direct evidence for “dark energy” came only in 1998. We still 
+don’t have much clue what either of these are (assuming they genuinely exist), but analysis of 
+seven years of data from NASA ’s Wilkinson Microwave Anisotropy Probe, released in January 
+2010, suggests that 72.8% of the mass of the universe is constituted by dark energy, and 22.7% 
+by dark matter. That leaves only 4.56% of atomic matter, the stuff that we knew to exist prior 
+to 1980. The very recent development, uncertainty, and even internal contradictions of current 
+physics give excellent reason for scepticism  about “fine tuning” , but not for dogmatic rejection  
+of the idea.
+14 Some may argue that such proof is impossible, but the history of science strongly suggests 
+that our imaginations are rather poor at predicting what may or may not become possible 
+in the future. In his 1835 Cours de Philosophie Positive , ignorant of the developing science 
+of spectroscopy, Auguste Comte notoriously asserted that we could never know the chemi -
+cal composition of the stars. Bell’s Theorem gives a more contemporary example, enabling 
+the demonstration — through statistical calculation and empirical testing — of a limitation on 
+quantum “hidden variable” theories that would probably have seemed to most philosophers 
+(including myself) to be impossible to establish.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY89
+constants varied in trillions of different ways, it has turned out that every 
+such constant has to be within a very narrow proportion of the theoretically 
+“feasible” range in order to generate anything like a complex chemical uni -
+verse. The constants seem to be “fine tuned” , and all attempts to explain this 
+fine tuning have utterly failed, over centuries of trying, and while science in 
+other respects has been developing fruitfully.
+To be clear, I do not personally consider this scenario at all likely, but see 
+nothing inconceivable in it.15 And if this were to come about, then it seems 
+to me that the remarkable apparent fine-tuning would give at least some evi -
+dence for a cosmic intelligent power, one able to plan  and foresee , from the 
+time of the Big Bang, how the universe was going to develop over the subse -
+quent billions of years. The “coincidence” that seems to demand explanation 
+only becomes apparent long after the initial state, and this is a distinctive 
+feature of the Fine Tuning Argument that makes it especially suitable for in -
+dicating an intelligent , forward-planning agent  (as well as one of cosmic scale). 
+Hence it is not merely an update of the traditional Design Argument which 
+Hume demolished, but has distinctive virtues.16 Oppy disagrees, deploying a 
+standard objection:
+On the theistic view, [the fine tuning of the initial causal state] will be a 
+matter of God’s initial disposition to create a big-bang universe ... in which 
+the fine-tuned constants take the values that they do ... I suspect that most 
+theists will favour the view that God’s initial creative disposition is brutely 
+contingent — God could have had quite different initial creative dispositions 
+and there is nothing that explains why God had the creative dispositions that 
+he did rather than [others] ... I prefer the variant of the naturalistic view on 
+which the initial state of our universe is brutely necessary ... then the views 
+are simply on a par with respect to the virtues of the explanations that they 
+give of the fine-tuning of the causal order for life. (266)
+15 By contrast, I cannot envisage any future scenario that would vindicate the Ontologi -
+cal, Cosmological, or Moral Arguments for God (though future discoveries could make con -
+sciousness another interesting field for discussion).
+16 Compare the conclusion of Colyvan et al. (2005): “In each epoch, what it is about the 
+cosmos that is supposed to warrant the design hypothesis has been different: the mechanistic 
+solar system, biological organs, and now: fine tuning. But the fundamental flaws in the design 
+argument really have nothing to do with the particular suspect chosen. ... the fine-tuning ver -
+sion of the argument is no better than its predecessors” (334).PETER MILLICAN90
+This, however, seems to miss the point, because the theist who favours the 
+Fine Tuning Argument — while perhaps agreeing that “God could have 
+had quite different initial creative dispositions” — will not agree that “there 
+is nothing that explains why God had the creative dispositions that he did 
+rather than others” . Even if, in some sense, we take as “brute facts” that God is 
+omnipotent,17 omniscient, and values loving relationships with sentient crea -
+tures, it is not then a further  brute fact — given this overall orientation — that 
+he chose to create a universe whose specific physical constants were precisely 
+“tuned” in such a way as to facilitate the evolution of such creatures. Hence I 
+conclude that the Fine Tuning Argument has more explanatory virtue than 
+Oppy suggests, and remains in play as a potential (albeit highly debatable) 
+support for second-order theism.
+4. SALAMON’S AGATHEISM
+Salamon’s “agatheism” provides a fascinating counterpoint to our second-
+order religion, focusing on morality as the core notion rather than cosmic 
+purpose, but otherwise playing a somewhat similar role. Certainly his vision 
+of religions coming together through recognition of a fundamental and en -
+lightened moral core is an attractive one, but serious questions arise about its 
+supposed basis and viability. There is no space here for the extensive discus -
+sion that Salamon’s deep and interesting paper deserves, so I shall confine 
+myself to a few brief points, sketching my position fairly forthrightly rather 
+than arguing for it with any subtlety.
+To begin with, I share Oppy’s scepticism (260–2) that first-order religions 
+are, in general, founded on an agatheistic moral view, and am more inclined 
+towards Łukasiewicz’s view “that ‘true’ first-order religions are grounded 
+mainly in religious authority and in the past” (229). First-order religion is 
+largely a confused mess that exhibits far too much respect for ancient and less 
+enlightened times, and consequently preserves a legacy which has often been 
+strongly conditioned by superstitious stories, historical contingency, and vi -
+17 Although it points to cosmic power, the Fine Tuning Argument does not strictly support 
+omnipotence . Indeed in general, fine tuning is better evidence for an architect  who is having 
+to achieve some task within tight constraints, rather than a creator ex nihilo  who could bring 
+about exactly what he wants without any causal limitations.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY91
+cious battles (either over doctrine, or more obviously for naked power). Ex -
+amples of all this are legion, and familiar.
+When religion frames so many people’s view of “life, the universe, and 
+everything” , it is bound to be closely associated with morality; moreover some 
+varieties of religion (and specific religious texts such as Matthew  5–7) indeed 
+exhibit great moral enlightenment. But this has not apparently been the main 
+driving force of most historical religion, as evidenced by what happens when 
+the superstitious stories, theological orthodoxies, and power struggles come 
+into opposition with ethical values. Then we end up, for example, with Biblical 
+texts in which the first four of the ten commandments all focus on devotion 
+to Y ahweh;18 and in which the ultimate crime — punishable through future 
+generations — is “the sin of Jeroboam the son of Nebat” , namely setting up 
+idols of golden calves in Bethel and Dan (thus depriving Jerusalem of income 
+from religious tribute). By contrast, the genocide of six entire nations, simply 
+because they inhabit the Promised Land, is not only permitted but positively 
+encouraged (and we should not be surprised to discover that Deuteronomy  
+20:14–17 has inspired so-called “Islamic State” in some of their atrocities).
+If religion were genuinely founded on a moral core, then one would ex -
+pect this to be the dominant factor in religious debate and discussion, but 
+history tells a very different story. The Reformation was primarily about re -
+ligious authority, and in its wake both Catholics and Protestants apparently 
+considered it entirely in order — for example in the Thirty Y ears’ War and the 
+English Civil War — to kill each other with enthusiasm.19 A similar pattern is 
+seen still in Islam, where the ancient conflict between Shia and Sunni (again 
+fundamentally about authority) shows no sign of abating, while appeals to 
+morally enlightened passages within the Quran  seem largely to fall on deaf 
+ears. So far from religion being shaped around moral considerations, brute 
+historical fact suggests that there is a lot to be said for Hume’s view that re -
+18 The four are: “Y ou shall have no other gods before me”; “Y ou shall not make for yourself an 
+idol ... for I ... am a jealous God, punishing children for the iniquity of parents, to the third and 
+fourth generation”; “Y ou shall not make wrongful use of the name of the Lord your God”; “Ob -
+serve the sabbath day and keep it holy ... a sabbath to the Lord your God” ( Deuteronomy  5: 6–21).
+19 Moreover the Thirty Y ears’ War gives a very clear example in which it was religious affilia -
+tion that initially triggered the conflict and determined the sides; there is no question of a basis 
+in some broader social concern that was independent of religion.PETER MILLICAN92
+ligion corrupts  morality, recommending spurious “virtues” , promoting intol -
+erance, and encouraging the vices of hypocrisy, self-deception, and simple-
+minded credulity.20 Contemporary societies that are politically dominated by 
+clergy or religious orthodoxies tell a sorry tale, in line with his pessimistic 
+comment that “If the religious spirit be ever mentioned in any historical nar -
+ration, we are sure to meet afterwards with a detail of the miseries which at -
+tend it. ” ( Dialogues  12.11).
+Abram “aims to expand Salamon’s agatheistic position and divert Thorn -
+hill-Miller’s and Millican’s attention to the sphere of morality” (240). Having 
+acknowledged the sceptical view of Bernard Williams,21 much of the focus 
+of her response is to emphasise the power of religion to sustain “conclusive” , 
+“unconditional” , “inescapable” commitment “that requires our compliance” 
+(244) and enables us to “become passionate about morality” (247). She appar -
+ently agrees with Rowan Williams that “to do something [morally] extraor -
+dinary ..., one has to subscribe to the idea of a transcendent source of value” 
+(245). I am not persuaded by this last claim, since there are plenty of exam -
+ples of heroic atheists, and of people who have devoted their lives to values 
+without any suggestion of a “transcendent source” . But suppose it were true 
+that the absolute heights of heroism empirically went along with religious 
+belief — what would follow? Personally, I would rather live in a world with -
+out such heroes: where nobody  believes that they have “inescapable” commit -
+ments derived from a transcendent source that unconditionally requires their 
+compliance (e.g. to become terrorist martyrs). The history of those who are 
+“passionate” about their religiously-inspired moral beliefs is depressing rath -
+er than uplifting, with religion often serving to harden their hearts against 
+more homely secular virtues such as benevolence, empathy, and pity. Voltaire 
+had good reason to stress how unnatural religious views can lead to unnatu -
+ral acts of violence and injustice:
+In days gone by, there were people who said to us: ‘Y ou believe in incompre -
+hensible, contradictory and impossible things because we have commanded 
+you to; now then, commit unjust acts because we likewise order you to do 
+so. ’ ... Certainly any one who has the power to make you believe absurdities 
+20 For more discussion and references, see Millican (2002), 34–40 and especially 38.
+21 She quotes him (242) as remarking that appeal to God in morality “either adds nothing at 
+all, or it adds the wrong sort of thing” — a sentiment with which Hume would obviously concur.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY93
+has the power to make you commit injustices. If you do not use the intel -
+ligence with which God endowed your mind to resist believing impossibili -
+ties, you will not be able to use the sense of injustice which God planted in 
+your heart to resist a command to do evil. Once a single faculty of your soul 
+has been tyrannized, all the other faculties will submit to the same fate. This 
+has been the cause of all the religious crimes that have flooded the earth. 
+(Voltaire 1765, 277–8)
+Ridiculous beliefs — for example that forcible religious conversion under tor -
+ture can save a soul from eternal damnation, or that martyrdom can gain 
+eternal bliss in the company of 72 willing virgins — can very easily lead to un -
+speakable acts, as history amply confirms. Morality is far safer if kept beyond 
+the grasp of “passionate” religious enthusiasm.
+Another serious difficulty for agatheism is the familiar Problem of Evil, 
+which threatens to drive a wedge between metaphysics and morals. This is 
+too big a topic to embark on here, so I shall simply observe that agatheism 
+looks far harder to square with the empirical data than is our second-order 
+religion with its ultimate creator (or perhaps fine-tuner) who generally lets 
+the world alone. The latter might not offer as much personal support and 
+consolation as the view that the world is governed by moral perfection, but 
+for those who do find it existentially adequate, it is probably much easier to 
+maintain against the hard and depressing evidence of experience.
+5. SUPERNATURALISM
+Turning now to the more sceptical elements of our paper, Taliaferro and Porot 
+take us to task for using the term “supernatural” to characterise our target, for 
+three reasons. First, they believe the term “suggests ... a clear understanding 
+of what is natural” (215). In my idiolect, however, it suggests no such thing, 
+and I agree entirely with the points they make about our contemporary “lack 
+of a clear understanding of what is material” (216), and how far modern phys -
+ics has moved from early-modern paradigms. Secondly, they take the term 
+to imply distortion  or lack compared with the natural (217). Again, I do not 
+understand it as having such pejorative overtones, and “ super natural” sounds 
+to me like an attribution of something more  than natural, rather than some -PETER MILLICAN94
+thing less (a view strongly confirmed by the Oxford English Dictionary).22 
+Thirdly, they dislike “the way in which ‘supernatural’ as ... currently defined 
+in English, includes not just God ... [but] ghosts, spooks, vampires, telepathy, 
+astro-projection, witches, Delphic oracles, dead ancestral spirits, poltergeists, 
+and so on” (217). This requires more discussion.
+In the first sentence of our Introduction, we characterised our topic as 
+“belief in supernatural agents such as gods, angels, and spirits”; we then spoke 
+of “such invisible powers” and “instances of perceived supernatural agency” . 
+Given this focus, two reasonable alternatives to the word “supernatural” 
+would be Hume’s term, “invisible, intelligent powers” , or — perhaps prefer -
+ably for Taliaferro and Porot — “incorporeal agents” . Now I take it that incor -
+poreal agency can reasonably be considered as “supernatural” in the sense 
+of being in radical tension with our scientific understanding of the natural 
+world. The limits of physical matter admittedly remain very unclear, poten -
+tially embracing “psychic” qualities (with panpsychism now taken seriously 
+by a fair number of philosophers); this indeed makes terms such as “physi -
+calism” and “naturalism” hard to pin down. But as far as I know there has 
+been no serious scientific  evidence of agents that are entirely incorporeal ; and 
+the belief that such agents exist remains clearly in the religious (and perhaps 
+parapsychological) rather than scientific domain, completely dissociated from 
+our developing understanding of biology, evolution, and the mechanisms of 
+human thought and action. This is not, of course, to presume that it is false or 
+universally rejected by scientists; but in general parlance incorporeal agents 
+would count as “supernatural” if anything does.23 Talk of incorporeal agents 
+will also embrace some of the occult entities whose company Taliaferro and 
+Porot resent (though by no means all of them: vampires and telepathy, for 
+example, need involve no such agency). I can understand why they dislike 
+belief in God being put alongside belief in dead ancestral spirits and so forth, 
+but those do all happen to be instances of the topic under discussion. And it is 
+22 The non-obsolete OED definitions of the adjective are “1(a) Belonging to a realm or system 
+that transcends nature , as that of divine , magical, or ghostly beings  ... ”; “1(b) Relating to, dealing 
+with, or characterized by such a realm, system, or force”; and “2. More than what is natural or 
+ordinary; unnaturally or extraordinarily great ; abnormal, extraordinary. ” (my emphasis).
+23 As the OED  clearly confirms. And again, most would consider the power to act without a 
+body a superpower  rather than a limitation.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY95
+indeed an implication of our view that some of the processes that lead to belief 
+in divine action lead also to belief in ancestral spirits and witchcraft that most 
+would regard as “superstitious” . I acknowledge that “there is a tendency to as -
+sociate what is supernatural with that which is superstitious” (218), but on our 
+view, such an association is not entirely inappropriate: if the same psychologi -
+cal processes are, indeed, involved in both, then that is highly relevant to their 
+assessment. Overall, therefore, I am unconvinced by any objection of principle 
+to the term “supernatural” , and from a stylistic point of view, “supernatural 
+belief ” seems clearly preferable to “belief in incorporeal agency” . I also note 
+that our other critics raised no objection to the term, and indeed used it them -
+selves. But just to be very clear, our use of the term “supernatural” is not in any 
+way intended to function as a persuasive definition : the issues we raise are to 
+be decided by discussion and argument, not by verbally enshrined prejudices.
+6. HUME ON MIRACLES
+I hold no brief to defend Hume against the charge of racism, though Taliafer -
+ro and Porot overstate it unfairly.24 And I am prepared to accept that his ap -
+parent unwillingness here to accept phenomena beyond his experience may 
+suggest parallels with his view on miracles.25 Moreover I agree with Taliaferro 
+and Porot that Hume’s confusing discussion of “his case of world-wide to -
+tal darkness” (221), and his failure to link the issue of miracles more clearly 
+with the idea of divine teleology  (222), are serious weaknesses.26 But I take 
+issue with Taliaferro and Porot’s discussion of contrary miracles. They are in 
+24 They say, for example, that Hume “grants [Willams] no more skills than a parrot” (220), 
+which would of course be both ridiculous and extremely offensive. Hume actually says that 
+Williams is “likely ... admired for very slender accomplishments” , in much the same way as a 
+parrot can be admired for “speak[ing] a few words plainly” . What count as “very slender ac -
+complishments” for humans and parrots are clearly quite different, and Hume expresses no 
+doubt that Williams has some “parts and learning” by comparison with other Jamaicans.
+25 Just as Taliaferro and Porot should acknowledge the equally obvious parallels between 
+religious and “superstitious” beliefs involving incorporeal agents. Note that if, as they claim, 
+“Hume seems just as ready to dismiss reports of intelligent blacks as to dismiss miracle stories 
+due to an errant imagination or … cognitive biases” (220), then this makes his undervaluing 
+of the evidence for black people’s accomplishments more a cognitive than a moral failing.
+26 Both points are made very explicitly in Millican (2011), §18 (182–4) — this paper is re -
+ferred to several times in CCDD  (see footnotes 11, 13, 14, and 15).PETER MILLICAN96
+danger of misrepresenting us when they refer to “TMM’s revision of Hume’s 
+critique of miracles” and then go on to state a view, supposedly “ As [TMM] 
+phrased it” (223), which looks very like the Humean position that we were 
+explicitly criticising  (on 15–16). We ourselves said:
+Hume goes much too far when arguing that miracles ‘pretended to have 
+been wrought’ in contrary religions are ‘to be regarded as contrary facts’ . ... 
+Indeed, as we have seen, M1 and M2 need not be ‘contrary’ even in the weak 
+sense of merely making each other less probable , despite the strict contrari -
+ety of their associated religions, R1 and R2. (16)
+Against this background, it seems strange that Taliaferro and Porot should 
+argue so forcefully towards the conclusion: “To say that incoherence between 
+doctrines establishes that the miracle did not happen, even when all … faiths 
+could (in principle) agree that it did, is misguided. ” (224). We agree, and we 
+never said — or even suggested — any such thing.
+A more substantial disagreement emerges when Taliaferro and Porot ad -
+dress the issue of whether believers can “rationally reject the miracles of other 
+faiths without rejecting the miracles of their own faith” (226), but here I be -
+lieve they have overlooked the force of our argument. Their concern seems 
+to be to establish the potential for asymmetries  between different religions 
+based on the content of the relevant beliefs (e.g. moral egalitarianism versus 
+hierarchy), and they point out correctly that “it seems perfectly coherent for a 
+believer to say that they don’t believe the testimony of a miracle for a religion 
+that generates other false claims” (225). This, of course, is exactly  the sort of 
+reasoning that Hume was proposing regarding “contrary miracles”: rejecting 
+miracle stories on the basis that the corresponding religion is presumed to 
+be false. And so ironically Taliaferro and Porot are now apparently lining up 
+on Hume’s side, in favour of a kind of reasoning on which we were casting 
+doubt (though on the basis of probabilistic considerations rather than alleged 
+incoherence).
+In our discussion of “contrary miracles” , we were not denying that a be -
+liever might justifiably draw distinctions between miracle stories in different 
+religions, and indeed the question of justification  here is irrelevant. Taliaferro 
+and Porot (225) quote us as saying:
+The point here is not that Christian believers are logically compelled to deny  
+the miracles of rival religions (as the contrary religions argument would DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY97
+suggest), but rather, that these believers will in fact want to deny  them. 
+(CCDD , 19)
+Our denial of logical compulsion here was made against Hume , as the paren -
+thesis makes very clear. And our point was that, notwithstanding this lack of 
+compulsion, most believers would in fact  deny the miracle stories of other 
+religions. Whether or not this denial would be justified , such religious believ -
+ers would then be faced with a host of miraculous reports from a multitude 
+of religions, the vast majority of which they consider to be false . This would im -
+mediately imply that miracle reports are statistically very unreliable. It would 
+also raise the question of how these false reports came about, with a very 
+plausible explanation being that “humans are naturally drawn towards belief 
+in the supernatural, with a vivid imagination driven by hopes and fears, cog -
+nitive biases, lack of critical judgement, and a delight in miracle stories etc. ” 
+(17). Both the obvious statistical message, and the naturalistic explanation, 
+cast serious doubt not only on the miracle stories of other  religions, but also 
+on those of the believer’s religion itself. And thus we reach a clear instance of 
+the Common-Core/Diversity Dilemma: “That in so far as ... miracle reports 
+... point towards specific aspects of particular religions, their diversity and 
+mutual opposition undermines their evidential force; while in so far as [they] 
+involve a ‘common core’ of similarity, they point towards a proximate com -
+mon cause ... that is natural rather than supernatural. ” (3, 20).
+7. RATIONALITY AND OBJECTIVITY
+Our discussion raised big questions about rationality and objectivity, and 
+many interesting points have been made in response. As Moser (33–5), 
+Oppy (268), and Senor (216–20) observe, what it is rational to believe will 
+inevitably depend to some extent on the epistemological situation of the in -
+dividual believer, and hence we were being imprecise in talking with such 
+apparent generality of the “rational limits of supernatural belief ” (2). More 
+substantially, it is debatable how far general third-person (e.g. statistical) con -
+siderations should be taken into account by the rational subject who has a 
+first-person experience as of a supernatural agent, or who receives religious 
+testimony from someone he trusts. Taliaferro and Porot suggest that objec -
+tive testing — for example of the efficacy of petitionary prayer — is especially PETER MILLICAN98
+problematic when God’s existence is in question, given his supposed neces -
+sity and omnipresence (226–7).27 They also provide an amusing story of a 
+religious experience striking Thornhill-Miller and me whilst walking back 
+to Hertford College after giving a paper elsewhere (232–3).28 Senor (217) 
+suggests that we are inappropriately assuming “a general parity among the 
+practitioners of various religions regarding the experiences they have and the 
+beliefs they form on the basis of them” ,29 and argues that testimony can be 
+“a rationality conferring process” , even if it cannot ultimately be traced back 
+to genuine religious experiences (219–20).30 Moser points out that diversity 
+does not necessarily imply disagreement, speculating that “God could issue 
+opposing commands to you and me for keeping the Sabbath” , giving us both 
+“undefeated evidence” , bearing in mind that “God could have different spe -
+27 I suspect, however, that their points about prayer are self-defeating, since if “There is no 
+one on earth who is not prayed for” (226) — and if this lack of a control group undermines any 
+attempt to test prayer’s efficacy — then it seems to follow that individual prayer (in the context 
+of universal collective prayers) has no curative value. They cannot have it both ways: either 
+individual  prayer is ineffective, or it has specific good effects that could be detectable.
+28 The story somewhat chimes with me, since I have sung the Magnificat  many times in 
+the past, and have probably got closest through music — including Church music — to what 
+I might be tempted to call a religious experience. But the example has an easy answer: “once 
+… supernatural agents (whose veracity cannot be guaranteed) are brought into the picture, it 
+becomes obvious that mere humans will be unable to tell with any reliability what source any 
+miracle has” ( CCDD , 17 n. 27). The Problem of Evil would strongly dissuade me from accept -
+ing any religious experience as involving genuine contact with an omniperfect God, because 
+even supernatural beings are to be judged morally by how they act, not by how they choose to 
+present themselves to potentially gullible observers.
+29 He also suggests that we offer no relevant empirical evidence for this, apparently overlook -
+ing the wealth of psychological studies cited in our paper that point towards such commonality.
+30 There is, however, a serious problem here. Suppose we accept, with Senor, that “a testifier 
+might not be rational in her belief, but sincerely assert that P and a hearer might thereby come 
+to rationally believe that P . So, even if TMM’s argument might cause problems for the rational -
+ity of specific religions in a general, person-neutral sense, many believers might be rational in 
+their beliefs. ” (220). This seems to be presented as a vindication of the potential rationality of 
+religious belief. But any victory here is obviously Pyrrhic, for its premise is that rational belief 
+can be founded on irrational testimony. On that basis, almost any belief that is not obviously  
+false can in principle be rationally held, if based on a confident report from someone who is 
+fully trusted but in fact utterly deluded on the matter in question. I therefore think we were 
+wise to focus, in CCDD , on the “rational limits of supernatural belief ” from a well-informed 
+and intersubjective point of view, rather than that of the individual believer.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY99
+cific purposes for you and me” (33). Oppy (268–9) and Senor (220) point to 
+epistemological externalism as potentially playing a role in these discussions.
+Other significant points concern an implicit contrast that we may have 
+seemed to assume between religious diversity and an imagined naturalistic 
+unanimity. Taliaferro and Porot indeed allege unfairness here, noting the 
+considerable diversity between “different naturalistic accounts of human per -
+sons” and of “the human mind” (223–4). Such diversity “also concerns deep 
+matters in metaphysics, epistemology, value theory, philosophy of language, 
+and other sub-fields” (228). In the same vein, Oppy says:
+Some, but not all, intelligent, reflective, interested, well-informed philoso -
+phers have been, and some, but not all, intelligent, reflective, interested and 
+well-informed philosophers are, determinists, substance dualists, conse -
+quentialists, communitarians, virtue ethicists, logical pluralists, phenom -
+enologists, existentialists, physicalists, legal positivists, and so forth. What 
+credence, then, can we give to claims that it is irrational  to believe in deter -
+minism, or consequentialism, or communitarianism ... etc.? (269–70)
+He also goes on to stress that the “human cognitive failings — egocentric bias, 
+confirmation bias, optimistic bias, and the like” that we highlight as an epis -
+temological problem with regard to religion “are universal ... So a question 
+naturally arises about the extent to which the views of Thornhill-Miller and 
+Millican on the question of the rationality of naturalistic and theistic beliefs 
+are themselves affected by these universal cognitive failings. ” (270).
+All these are interesting questions, deserving of far longer and more de -
+tailed answers than I am able to give here.31 But in brief, I continue to think 
+that there are special problems with the diversity in religious belief, which 
+fully justify the place that we gave it in our paper, and which strongly cohere 
+with our emphasis on the Common-Core/Diversity Dilemma. First, the ex -
+tent of religious diversity is longstanding, widespread and notorious, charac -
+terised by uncompromising and violent disagreement throughout recorded 
+history, and relatively little rational engagement. Secondly, and relatedly, the 
+31 Other very interesting issues are raised by Heim (249–50) in relation to our discussion of 
+the “Normal/Objective Dilemma” , and I regret that lack of space precludes addressing those 
+here. One point worth noting, however, is Heim’s approving mention of Damasio’s view “that 
+emotion is an integral element in the way ‘higher’ human reason works” (249). As I have noted 
+elsewhere (Millican 2002, 425), Damasio’s book in turn approvingly mentions Hume, who in 
+this respect yet again achieved insights that were well ahead of his time.PETER MILLICAN100
+existential concerns that motivate religion typically give the relevant beliefs 
+an intensity out of all proportion to the evidence, making believers peculiarly 
+weak at assessing that evidence objectively, and giving religious institutions 
+a concern for orthodoxy which often crushes even further any prospect of 
+calm, objective reflection. Thirdly, for these and associated reasons, religious 
+diversity is deeply entrenched, with rival communities only rarely attempting 
+to learn from each other or modify their views: religious affiliation for most 
+people is therefore overwhelmingly determined by geography or family com -
+munity, rather than by rational investigation or discussion. Fourthly, in so 
+far as religion is based on personal experience rather than local tradition or 
+teaching, it is clear that such experiences are culturally conditioned, with the 
+common underlying features typically interpreted by the believer as having 
+doctrinal implications that almost invariably mirror the relevant community. 
+Fifthly — as we documented at length — psychological studies clearly suggest 
+that several mechanisms that lie behind supernatural religious beliefs also 
+commonly lead to superstitious beliefs which defy any rational credibility.
+Senor suggests that a religious belief could be justified on externalist 
+grounds if “it is the product of a properly functioning, reliable, truth-aimed 
+belief-forming process operating in an appropriate environment” (220). 
+There are at least two problems with this. First, externalist accounts of justifi -
+cation are essentially third-person , based on an outside view of the processes 
+involved rather than the believer’s own perspective. These often fit well with 
+our everyday ascriptions of knowledge (including to animals and unreflec -
+tive people), but they are far less helpful when we ourselves are plagued with 
+epistemological doubts. In these circumstances, it is of little help to know that 
+if our belief that P is the product of a reliable process operating in a standard 
+way, then  it counts as knowledge: our worry is precisely that it might not be 
+the product of such a process, and hence would not count as knowledge. Thus 
+externalism does not alleviate our epistemological concern, but instead re-
+packages it at a higher level: uncertainty over whether P is true  gets replaced 
+by uncertainty over whether I know that P . When we seek reflective  knowl -
+edge from the first-person point of view, mere externalist considerations are 
+not sufficient.
+The second problem with relying on externalism here is that the relevant 
+belief-forming processes — if individuated in the obvious way — simply are DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY101
+not reliable in general, as the sheer statistics of disagreement indicate clearly.32 
+In response, it seems to me to be a desperate expedient to suggest, as Moser 
+does, that there “could be a divine purpose for diversity and disagreement 
+in religions, and thus the latter need not count against evidence for theis -
+tic belief or first-order theistic religion” (39). Suppose, if you will, that God 
+has excellent reason (unknown to us) for dividing mankind into ten groups, 
+who all receive different and mutually incompatible revelations about the di -
+vine nature or the destiny of the universe. Even if God is blameless here (for 
+he knows best), this obviously undermines his record as a reliable source of 
+truth, when at least 90% of us are told something false.33
+The points above suggest some obvious answers to the “partners in crime” 
+objection which alleges that the situation in naturalistic philosophy is no bet -
+ter than in first-order religion. If it was in fact the case that disagreements in 
+epistemology, ethics, or metaphysics persisted, over generations and between 
+communities, in the same way as differences in religion, and when they were 
+raised, tended to precipitate dogmatic assertion (or special pleading in favour 
+of supposedly privileged personal revelations) rather than rational discussion 
+(in which the claimed evidence is exposed to critical scrutiny), then I would 
+agree wholeheartedly that this gave good reason to withhold confidence from 
+32 This does not take for granted that the mere existence of proximate natural causal mecha -
+nisms undermines religious beliefs, as Senor (218) and Taliaferro & Porot (230–2) may be pre -
+suming. I agree that it would be possible — perhaps even to be expected — for God to exploit 
+such mechanisms if he wished to generate religious experiences. But the problem is that these 
+mechanisms operate in many cases where the resulting beliefs are clearly unreasonable, thus 
+demonstrating their unreliability. A superficially tempting response might be to reconceptual -
+ise the mechanisms in such a way that genuine divine initiation becomes treated as definitive  
+of them, thus making the relevant type of mechanism an infallible  indicator of God’s presence 
+(i.e. if God did not initiate the process, then it should not be counted as an instance of truth -
+ful mechanism T). But then we get back to the problem of being unable to tell, from the first-
+person point of view of the believer , whether such a divine knowledge-generating mechanism 
+is indeed operative, or whether instead it is the (indistinguishable, and apparently far more 
+common) delusive variant F, with no deity playing any part in the process.
+33 Floating this possibility — of some unknown divine purpose in fostering disagree -
+ment — also seems to be in tension with an earlier remark, in which Moser criticised us for 
+appealing to a “mere ‘possibility’” on the basis that “a mere possibility does not yield actual 
+evidence” (34). As regards that particular case, we should have made clear that the Fine Tuning 
+Argument, if accepted , would suggest the consequences we described, having explicitly made 
+the point that they were “only to be expected” if “the universe has in fact been finely tuned” (4).PETER MILLICAN102
+the relevant beliefs.34 Likewise, if it turned out that particular commonplace 
+experiences — for example of intentional action — were standardly interpret -
+ed quite differently by members of different philosophical clans, even when 
+all the objective data pointed to commonality, then I would refrain from giv -
+ing these interpretations any significant evidential weight in respect of the 
+crucial disagreements. When matters are genuinely controversial, and objec -
+tive evidence is hard to identify, the withholding of assent is not to be regret -
+ted: appropriate scepticism can readily be embraced! Oppy’s list of debat -
+able philosophical doctrines includes many plausible examples of such cases, 
+mostly taken from ethics (e.g. consequentialism, communitarianism, virtue 
+ethics, existentialism) and from a range of notoriously difficult areas where 
+our attempts to understand the objective and subjective worlds come into 
+tension (e.g. determinism, substance dualism, phenomenology, physicalism). 
+In the former group, it is unclear that there even exists any objective method 
+of resolution (since ethical judgements plausibly require emotional engage -
+ment), and many would question whether seeking literal truth  (as opposed, 
+say, to culturally sensitive reflective equilibrium) is appropriate. In the latter 
+group, not only are the issues complex and interlocking, with questions of de -
+batable definition as well as disputed evidence, but also, it often seems likely 
+here that our theorising is running well ahead of any solid scientific basis. 
+And in all of these areas, our philosophical “intuitions” are so contaminated 
+with ancient and modern baggage (much of it associated with religion), that 
+it should be no surprise that agreement is hard to reach.35
+34 Scepticism should also be extended, of course, to “the views of Thornhill-Miller and Mil -
+lican” , if careful analysis yields significant evidence that our arguments are fallacious, perhaps 
+owing to the various “universal cognitive failings” that we highlight as promoting supernatural 
+beliefs (cf. Oppy 270). The great virtue of debates such as this is precisely to enable the expo -
+sure of any fallacies, and to facilitate cleansing of the contending arguments from dependence 
+on unnoticed biases or question-begging etc. No procedure can guarantee  achievement of a 
+rational outcome in such contentious and difficult matters, but calm, open, reasoned debate 
+radically improves the odds.
+35 For example, traditional religious beliefs generally go together with an embrace of dualism 
+and a rejection of consequentialism and determinism (since the Free Will Defence depends on 
+a libertarian account of freedom), as confirmed by the survey results at https://philpapers.org/
+surveys/linear_most_with.pl?A=main%3AGod%3Atheism.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY103
+In other areas of philosophy, less marked by tribal “schools” , there is sub -
+stantial progress, and it is achieved largely through dialogue and reasoned 
+debate. Most of us agree most of the time, for example, when an argument is 
+valid or invalid, when various theories are mutually consistent or inconsist -
+ent, and what constitutes a strong point for, or against, some theory. Our 
+views on these things are not determined by our upbringing, and we learn 
+them at least largely through the development of understanding rather than 
+authoritative instruction. A more distinctive but perhaps equally important 
+point is that philosophy itself is a very unusual discipline, with a strong tradi -
+tion of exploring questions at the frontiers of discovery and understanding. 
+Hence it has often been historically the midwife of other disciplines, for ex -
+ample physics and political theory in the 17th century (e.g. Galileo, Descartes, 
+Hobbes, Locke), and of economics and psychology in the 18th century (e.g. 
+Hume, Smith, Hartley). Once such new fields have matured sufficiently to 
+have their own established methods of investigation, they typically pass on to 
+more specialist thinkers, and cease to count as “philosophy” . Thus the ques -
+tions that today count as “philosophical” are typically those that are either 
+enduringly difficult and controversial (including questions of value), or those 
+that currently lie at the frontiers of investigation (e.g. in the borderlands of 
+cognitive science and artificial intelligence).
+Philosophy therefore embraces a high proportion of controversial ques -
+tions where methods are uncertain, doubt is appropriate and dogmatism is 
+not to be trusted. The same of course goes for first-order religion, but here 
+there is no such creditable track record of fruitful novelty, rigorous debate, 
+and theoretical development down through the ages. Whereas secular phi -
+losophy — both natural and social — has delivered impressive change in the 
+scientific, political, and ethical arenas over the last 400 years or so, it is only 
+relatively recently that the main established religions have even started to 
+move away from implausible literalist beliefs (e.g. creation and worldwide 
+flood stories) that remained unquestioned for many times longer, even in 
+the teeth of discoveries that should have cast serious doubt on them. In the 
+moral sphere, they likewise continue to drag their feet, slow as always to re -
+consider the prejudices that in the past were used to justify slavery, and more 
+recently to reject contraception, homosexuality, assisted death, and much else 
+(not to mention specifically religious “crimes” such as apostasy and heresy). PETER MILLICAN104
+I conclude that the “partners in crime” defence of first-order religion cannot 
+work. But even if it were to succeed in putting philosophy in the same boat, 
+the appropriate response would be to extend our scepticism to philosophy, 
+not to withdraw it from first-order religion.
+In short, therefore, and despite the challenges posed by the very interest -
+ing responses discussed here (all too briefly), I believe that the Common-
+Core/Diversity Dilemma remains a significant sceptical challenge to first-
+order religion.
+BIBLIOGRAPHY
+Abram, Anna. “‘The Maxim of the Moon’ and the Lived Experience of Religious Belief: 
+An Ethical Revision of Thornhill-Miller’s and Millican’s Second Order Religion. ” 
+European Journal for Philosophy of Religion  8, no. 1 (2016): 239–50. doi:10.24204/
+ejpr.v8i1.77.
+Colyvan, Mark, Jay L. Garfield, and Graham Priest. “Problems with the Argument 
+from Fine Tuning. ” Synthese , no. 145 (2005): 325–38. doi:10.1007/s11229-005-6195-0.
+Heim, S. M. “Diverse Religious Experiences and First Order Religious Beliefs. ” 
+European Journal for Philosophy of Religion  8, no. 3 (2016): 237–55. doi:10.24204/
+ejpr.v8i3.1696.
+Łukasiewicz, Dariusz. “ Agathological Rationalism and First-Order Religions. ” 
+European Journal for Philosophy of Religion  9, no. 2 (2017): 22–39. doi:10.24204/ejpr.
+v9i2.1944.
+Millican, Peter, ed. Reading Hume on Human Understanding: Essays on the first 
+Enquiry . Oxford: Clarendon Press, 2002.
+Millican, Peter. “Twenty Questions about Hume’s “Of Miracles”” Philosophy and 
+Religion; Royal Institute of Philosophy Supplement  68, ed. by Anthony O’Hear (2011): 
+152–92. doi:10.1017/S1358246111000105.
+Moser, Paul K. “First-Order Theistic Religion: Intentional Power Beyond Belief. ” 
+European Journal for Philosophy of Religion  9, no.  3 (2017). doi:10.24204/ejpr.
+v9i3.1989.
+Oppy, Graham. “On Second-Order Religion, Agatheism and Naturalism. A Reply to 
+Branden Thornhill-Miller, Peter Millican and Janusz Salamon. ” European Journal for 
+Philosophy of Religion  8, no. 3 (2016): 257–72. doi:10.24204/ejpr.v8i3.1697.DEFENDING THE COMMON-CORE/DIVERSITY DILEMMA: ONE AUTHOR’S REPLY105
+Salamon, Janusz. “ Atheism and Agatheism in the Global Ethical Discourse: Reply to 
+Millican and Thornhill-Miller. ” European Journal for Philosophy of Religion  7, no. 4 
+(2015): 197–245. doi:10.24204/ejpr.v7i4.94.
+Senor, Thomas D. “Common Core/Diversity Dilemma, Agatheism and the 
+Epistemology of Religious Belief. ” European Journal for Philosophy of Religion  8, no. 4 
+(2017): 213–26. doi:10.24204/ejpr.v8i4.1764.
+Taliaferro, Charles, and Christophe Porot. “ A Defense of First and Second-Order 
+Theism: The Limits of Empirical Inquiry and the Rationality of Religious Belief. ” 
+European Journal for Philosophy of Religion  8, no. 3 (2016): 213–35. doi:10.24204/
+ejpr.v8i3.1695.
+Thornhill-Miller, Branden, and Peter Millican. “The Common-Core/Diversity 
+Dilemma: Revisions of Humean thought, New Empirical Research, and the Limits of 
+Rational Religious Belief. ” European Journal for Philosophy of Religion  7, no. 1 (2015): 
+1–49. doi:10.24204/ejpr.v7i1.128.
+Torrey, Norman L., ed. Les Philosophes: The philosophers of the Enlightenment and 
+modern democracy . New Y ork: Capricorn Books, 1961.
+Voltaire, (François-Marie Arouet). [1765] 1961. “Questions on Miracles. ” In Les 
+Philosophes: The philosophers of the Enlightenment and modern democracy , edited by 
+Norman L. Torrey. New Y ork: Capricorn Books.

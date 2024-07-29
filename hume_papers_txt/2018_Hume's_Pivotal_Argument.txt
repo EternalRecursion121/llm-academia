@@ -1,0 +1,1691 @@
+Hume Studies
+Volume 44, Number 2, 2018, pp. 167–208
+Peter Millican is Gilbert Ryle Fellow and Professor of Philosophy at Hertford College, Uni -
+versity of Oxford, Catte Street, Oxford, OX1 3BW, United Kingdom. 
+Email: peter.millican@hertford.ox.ac.ukHume’s Pivotal Argument, and His 
+Supposed Obligation of Reason
+PETER MILLICAN
+Abstract: Treatise  1.4.1 argues that whenever we assess our probability of error, 
+“we are oblig’d by our reason” to consider also the probability of error in that 
+assessment, leading to a fatal regress which—but for irresistible nature—would 
+extinguish all belief. The argument plays a huge role in the Treatise , and has 
+recently attracted many defenders, rejecting the previously standard objection 
+that iterated reflection need not imply reduction  of probability. This paper, 
+however, presses a more fundamental objection—that there is no obligation 
+of reason to iterate in the first place—something obscured by the failure of 
+previous analyses to focus on specific examples. Unlike the Treatise , Hume’s 
+Enquiry  of 1748 is richly illustrated with examples, making it likely that he 
+himself would have encountered these problems. And there are traces in the 
+Enquiry  of a fundamental change of view, corroborating the significance of 
+this argument for his philosophical development.
+Hume’s argument in Treatise  1.4.1, “Of scepticism with regard to reason,” is one of 
+the most important in the entire work, setting an extreme sceptical tone which 
+persists into the Conclusion of Book 1, and delivering a result that appears to 
+wreak havoc there. The significance Hume accords it in 1739 is also witnessed by 
+the number of times that he refers or alludes to it in other sections of the Trea -
+tise.1 Yet it does not feature in his 1748 Enquiry concerning Human Understanding , 
+and became in time (arguably) “the only major argument of Book I of the Treatise  Hume Studies168 Peter Millican
+not repeated in his later writings.”2 Accordingly, it was for many years neglected 
+by scholars, and omitted from most books on Hume, which typically aspired to 
+give a coherent picture of his epistemology that encompassed both the Treatise  
+and the Enquiry . Other likely factors here were the argument’s tension with the 
+“naturalist” view of Hume popularised by Norman Kemp Smith and later Barry 
+Stroud, and its mismatch with the conventional structure of standard topics (ideas, 
+induction, causation, external world, and personal identity) around which many 
+books on Hume have been organised.3 This neglect, however, came to an end in 
+the 1980s, with three authors—Fred Wilson, Richard DeWitt, and Ted Morris—all 
+seeking to rehabilitate Hume’s argument against what they considered to be an 
+overwhelmingly dismissive orthodoxy,4 and a fourth—Robert Fogelin—treating 
+it fully (and fairly sympathetically) within a major book on Hume’s scepticism. 
+Since then, there has been an enduring resurgence of interest in, and support for, 
+the argument, seemingly putting it on a stronger footing and generating fruitful 
+discussion about its place within Hume’s philosophy. Indeed, a clear majority of 
+those who have written on the argument over the last few decades have presented 
+it as being at least substantially, or potentially, defensible.5
+Against this more recent trend, my primary aim in this paper is to highlight 
+a fundamental and decisive flaw which has been overlooked by both Hume’s crit -
+ics and defenders, probably because they have generally discussed the argument 
+only at a very abstract level, without focusing on specific examples. When we do 
+focus in this way, I suggest, the flaw is inevitably revealed, and I maintain that this 
+very plausibly explains why Hume’s first Enquiry  both omits the argument, and 
+explicitly rejects the sort of “antecedent scepticism” that seems to lie behind it. If 
+this conjecture is correct, then Hume’s changing attitude towards the argument 
+of Treatise  1.4.1 could well have been pivotal in respect of the development of his 
+scepticism, giving valuable insight not only into the epistemology of the Treatise , 
+but also the contrasting features of his mature epistemology as presented in the 
+Enquiry  and later works. Hence my title’s deliberately provocative reference to 
+“Hume’s Pivotal Argument.”
+1. Introduction
+Hume’s argument “Of scepticism with regard to reason” falls into two parts. The 
+first part—which I shall call the Uncertainty Argument —starts from the observation 
+that we are fallible even in performing simple mathematical calculations; hence 
+it is rational to be less than completely certain even in these cases, and accord -
+ingly “all knowledge degenerates into probability” (T 1.4.1.1; SBN 180). Whether 
+in fact all knowledge would thus degenerate can be disputed, since self-evident 
+“intuitive” judgments, for example, are not obviously subject to this problem. But 
+for present purposes I shall be accepting Hume’s argument to this point, and in Volume 44, Number 2, 2018169 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+section 2 below give a supportive illustration involving the solution of a quadratic 
+equation, a standard part of mathematical education even in Hume’s day,6 which 
+will provide a useful focus for subsequent discussion. To highlight assessment of 
+the probability of error, I shall suppose that solving the equation in question is 
+financially significant, and that purchase of insurance is potentially available, thus 
+giving a practical point to that assessment. All this displays Hume’s Uncertainty 
+Argument in a favourable light.
+The second part of Hume’s argument—the Regress Argument —builds on the first 
+by claiming that “we are oblig’d by our reason,” whenever we make any uncertain 
+judgment, to make a further judgment assessing the extent of that uncertainty, 
+and to take this into account, thus undermining further our confidence in the 
+original proposition. But since this further judgment is itself uncertain, a simi -
+lar obligation requires us to adjust this by making yet another judgment about 
+its own uncertainty, and so on. We are trapped in a regress, which according to 
+Hume should eventually leave “nothing of the original probability,” so that “all 
+the rules of logic require a continual diminution, and at last a total extinction of 
+belief and evidence” (T 1.4.1.6; SBN 182–83). Section 3 below outlines this argu -
+ment, applying it briefly to the quadratic equation illustration from section 2, 
+and defending Hume against one obvious but superficial objection that can arise 
+from misunderstanding his treatment of probability (in which zero represents 
+indifference  or lack of belief  rather than certainty of falsehood).
+Various other objections have been raised against the Regress Argument (and 
+will be mentioned below), but my distinctive focus goes to its very heart, by chal -
+lenging the supposed obligation of reason to perform deep iterative reflection: 
+there is, I shall claim, no such obligation , and no reasonable basis for it. Section 4 
+highlights this supposed obligation, both as briefly expressed by Hume himself, and 
+as spelled out more fully by recent sympathetic scholars. Section 5 then rehearses 
+a well-known challenge to what Hume takes to be the consequence of follow -
+ing through on the obligation, again illustrated by the quadratic example, and 
+questioning his assumption that the iterated reflection involved in his regress—if 
+accepted as appropriate—must inevitably undermine the original probability. This 
+objection, advanced long ago by Thomas Reid and revived by D. G. C. MacNabb, 
+reveals Hume’s argument to be seriously incomplete though not yet refuted. In 
+section 5 I also identify factors that might have led Hume to take for granted that 
+a regress would indeed imply diminution of probability.
+My principal objection to the Regress Argument comes in section 6, which 
+follows through the quadratic example in a practical situation where again quan -
+tification of my degree of assurance is highly pertinent owing to the possibility 
+of purchasing insurance against error. This gives good practical reason to move 
+beyond first-level reflection (on the mathematical problem itself) to second-level 
+reflection (on my probability of mathematical error), but it is much harder to find Hume Studies170 Peter Millican
+a situation in which quantitative third-level reflection can plausibly be motivated. 
+Such a situation turns out to require that I have new information  at the relevant level 
+(for example, performance statistics regarding my previous attempts at second-
+level assessment), but even where such information is available, the consequences 
+of this third-level reflection seem unlikely to impact more than one level below 
+(hence it is unlikely to affect my preferred mathematical solution). It is very hard 
+indeed to imagine a realistic scenario in which yet higher-level reflection could be 
+well motivated (either epistemologically or practically), and I do not attempt this 
+in respect of the quadratic example. But even if such an unusual situation were to 
+arise, this discussion suggests that high-level reflection would be unlikely to have 
+significant impact on commitments more than one level down (hence it would be 
+unlikely to affect either my preferred mathematical solution, or my confidence in 
+that solution). The nature of any such impact would also be hard to predict, and 
+there is nothing here to support Hume’s presumption that it would undermine 
+those commitments.
+To sum up so far, Hume’s plausible (and here unchallenged) Uncertainty Ar -
+gument apparently seduces him into a tempting generalisation, that “going up a 
+level” and taking our reliability into account will always improve our judgments. 
+This works well at the first level, at least when have a particular interest in the as -
+sessment of our reliability, and when we have some statistics of past performance 
+on which to base such an assessment. But generalising from this into the repeated 
+iteration of the Regress Argument—supposing that “going up a level” will continue 
+to be beneficial even when it loses any contact with either our specific interests 
+or further statistical input—is a serious mistake. Hume’s brief and hand-waving 
+argument for this generalisation in Treatise  1.4.1.6 (SBN 182) turns out to be unable 
+to survive even detailed exposition  involving specific examples, let alone detailed 
+analysis.
+The Regress Argument is not only faulty in itself, but also implicitly inconsis -
+tent with Hume’s own principles, in that it starts off from reflection on our track 
+record of success and failure (considering reason as “a kind of cause” in the spirit 
+of his “probability of causes”), but then— even if that track record is excellent —ends 
+up drawing an extreme sceptical conclusion which is radically at variance with 
+that history of success. This might prompt us to wonder how committed Hume 
+himself can be to the argument, especially given hints in the Treatise  text that he 
+may be presenting it, at least in part, as a reductio  of opposing views. In section 
+7, however, I argue that it is not textually defensible to view Hume as here prof -
+fering a reductio  of rival views of reason : his words clearly indicate that he himself 
+finds the argument rationally  (though not psychologically ) compelling. Far more 
+plausible, as urged by Donald Ainslie, is to understand Hume’s strategy as posing a 
+reductio  of a then-standard overseer  model of belief  or judgment  (according to which 
+our judgment stands over and supervises our other faculties). But as explained in Volume 44, Number 2, 2018171 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+section 8, the coherence of such a strategy crucially depends on Hume’s taking 
+the supposed obligation of reason to be genuine . Only if the Regress Argument is 
+rationally irrefutable can our inability to accept it provide an empirical objection 
+to the overseer model. Thus interpreting the argument as a reductio  in this way 
+does not absolve Hume from the accusation of fallacy.
+In section 9 I propose an interpretative hypothesis, that Hume himself came 
+to realise the inadequacy of the Regress Argument when working towards his Philo -
+sophical Essays of 1748 (now known as the first  Enquiry ). This hypothesis builds on 
+my earlier philosophical conclusions, that the argument is impossible to spell out 
+coherently beyond the first few levels, and that this incoherence becomes evident 
+when the attempt is made to apply it to specific examples, an expository device 
+which Hume uses frequently in the  Enquiry (though not in the Treatise ). Hence if 
+my negative conclusions about the logic of the Regress Argument are correct, and if 
+Hume was not merely presenting it as a reductio  of others’ principles, then one can 
+reasonably predict  that he would have changed his mind about it in the 1740s—a 
+prediction which is, moreover, confirmed by various traces in the concluding 
+section of the Enquiry . The significance of this change in his views is explained 
+in my final section 10, which highlights the massively destructive role played by 
+the Regress Argument in the Conclusion of Treatise  Book 1, and by contrast the 
+“mitigated” scepticism advocated at the end of the Enquiry .
+2. The Uncertainty Argument
+Suppose that I need to solve some familiar type of mathematical equation—maybe 
+a quadratic  equation—in a practical situation where the solution really matters: 
+if I get it wrong, then I shall lose a significant sum of money, say $1,000. Suppose 
+also that someone gives me an opportunity to insure  against such a loss: how much 
+should I be prepared to pay for this insurance? The ideal answer will depend on 
+the probability that my solution is wrong. And this probability, as Hume points 
+out, may itself depend not so much on the reliability of the mathematical proce -
+dure that I use to solve the problem, as on my own reliability in carrying out that 
+procedure. He goes on to recommend the obvious approach, in accordance with 
+his method of “probability of causes” (T 1.3.12), which is to consider how well I 
+have performed when attempting such solutions in the past. And note that he 
+makes no suggestion here of scepticism about my memory or other records—this 
+scepticism is directed towards reason , not memory  or the external world :
+In all demonstrative sciences the rules are certain and infallible; but when 
+we apply them, our fallible and uncertain faculties are very apt to depart 
+from them, and fall into error. We must, therefore, in every reasoning 
+form a new judgment, as a check . . . on our first judgment or belief; and Hume Studies172 Peter Millican
+must enlarge our view to comprehend a kind of history of all the instances, 
+wherein our understanding has deceiv’d us, compar’d with those, wherein 
+its testimony was just and true. Our reason must be consider’d as a kind 
+of cause, of which truth is the natural effect; but such-a-one as by the 
+irruption of other causes, and by the inconstancy of our mental powers, 
+may frequently be prevented. By this means all knowledge degenerates 
+into probability; and this probability is greater or less, according to our 
+experience of the veracity or deceitfulness of our understanding, and . . . 
+the simplicity or intricacy of the question. (T 1.4.1.1; SBN 180)
+Accordingly, I need to look at my past record of solving quadratic equations: how 
+reliable have I actually  been, given the “history of all the instances” that I can 
+remember or have recorded? Suppose, for example, that I judge my experienced 
+reliability as 95%. In that case, an appropriate price for me to be willing to pay to 
+insure against a $1,000 error will be $50.
+Hume goes on to claim that this kind of uncertainty will infect even much 
+simpler mathematical examples, appealing to considerations (including an appar -
+ent Sorites argument at T 1.4.1.3; SBN 181) that are far less straightforward than 
+his initial simple point about our fallibility.7 Here significant objections can be 
+raised, casting doubt on whether the Uncertainty Argument really implies that 
+“all knowledge degenerates into probability” (T 1.4.1.1; SBN 180). For example, it 
+might be that I have always  got quadratic equations right, and if so, the case for 
+diminution either initially or subsequently is less clear, since arguably a Humean 
+“proof” could resist probabilistic erosion.8 Or there might be instances of “knowl -
+edge” that are based on immediate intuition  rather than calculation, and hence 
+would not be subject to the same possibility of error.9 But for present purposes, 
+these objections can be put to one side, and we can focus on the quadratic example 
+sketched above, in which I am well aware of my own past fallibility.
+3. The Regress Argument
+Let us accordingly assume that Hume’s Uncertainty Argument has adjusted my 
+confidence concerning the $1,000 quadratic equation to 95%, based on my 
+remembered past experience. That seems reasonable enough, and I might well 
+consider $50 an appropriate price to pay if insurance is available against getting 
+it wrong. But this is only the first step in Hume’s destructively sceptical argument, 
+and I have yet to face his vicious regress, which he apparently sees as applying to 
+any probable judgment whatever:10
+Having thus found in every probability, beside the original uncertainty 
+inherent in the subject, a new uncertainty deriv’d from the weakness of Volume 44, Number 2, 2018173 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+that faculty, which judges, and having adjusted these two together, we 
+are oblig’d by our reason to add a new doubt deriv’d from the possibility 
+of error in the estimation we make of the truth and fidelity of our facul -
+ties. This is a doubt, . . . of which, if we wou’d closely pursue our reason, 
+we cannot avoid giving a decision. But this decision, tho’ it shou’d be 
+favourable to our preceeding judgment, being founded only on prob -
+ability, must weaken still further our first evidence, and must itself be 
+weaken’d by a fourth doubt of the same kind, and so on in infinitum ; till 
+at last there remain nothing of the original probability, however great we 
+may suppose it to have been, and however small the diminution by every 
+new uncertainty. No finite object can subsist under a decrease repeated in 
+infinitum ; and . . . must in this manner be reduc’d to nothing. . . . [O]ur first 
+belief . . . must infallibly perish by passing thro’ so many new examina -
+tions, of which each diminishes somewhat of its force and vigour. When 
+I reflect on the natural fallibility of my judgment, I have less confidence 
+in my opinions, than when I only consider the objects concerning which 
+I reason; and when I proceed still farther, to turn the scrutiny against 
+every successive estimation I make of my faculties, all the rules of logic 
+require a continual diminution, and at last a total extinction of belief and 
+evidence. (T 1.4.1.6; SBN 182–83)
+So after I have made my first-level judgment about the quadratic equation itself (for 
+example, that its only positive solution is x=16), and then the second-level judg -
+ment that I am 95% reliable in solving quadratic equations, I should supposedly 
+make a third-level reflective judgment to take into account “a new doubt deriv’d 
+from the possibility of error in the estimation we make of the truth and fidelity 
+of our faculties.” In other words, I should factor in my reliability (or otherwise) in 
+making second-level judgments about the reliability of my competence in solv -
+ing such problems as quadratic equations. And after having done that, I should 
+make a fourth-level judgment to factor in my reliability (or otherwise) in making 
+such third-level judgments, and so on ad infinitum . Each of these additional fac -
+tors, Hume thinks, will involve some diminution of the overall probability that I 
+should assign to my first-level judgment about the quadratic equation itself, thus 
+progressively resulting—if my judgments are faithful to “the rules of logic”—in 
+“a total extinction of belief and evidence.”11
+We shall shortly consider whether indeed “we are oblig’d by our reason” to 
+enter Hume’s sceptical regress. But before proceeding, it is worth noting that he 
+sees the outcome of this regress as being “total extinction of belief,” so when he 
+talks of the “original probability” being “reduc’d to nothing,” charity requires that 
+we should interpret all this as taking place on a scale that treats 0 as indifference . 
+Such a scale is unconventional by modern standards, since we are used to treating Hume Studies174 Peter Millican
+0.5 as indifference, and 0 as certainty of falsehood. But the Humean alternative 
+is perfectly coherent, as can be seen if we imagine the conventional scale—with 
+1 held fast as representing certainty—being “stretched” linearly downwards so 
+that certainty of falsehood moves down from 0 to -1, while indifference (which is 
+halfway between the two extremes) correspondingly moves down from 0.5 to 0. 
+This interpretation of Humean probabilities is moreover strongly supported by 
+two consistent features of his more mathematical discussions of the topic. First, 
+in a number of places (for instance, T 1.3.12.19, 2.3.1.12; EHU 10.4; SBN 138, 403, 
+1 1 1), he treats the force of probabilistic evidence as being measured by the differ -
+ence  between the number of positive “experiments” and the number of negative 
+“experiments,” so that an exact balance of evidence either way, corresponding to 
+complete indifference, would give a value of 0 (rather than the conventional 0.5). 
+Second, he often talks of probabilities as being proportional  to the overall number 
+of instances (for instance, T 1.3.12.10–1 1, 15–18, 22; 1.3.13.20; EHU 6.2–4, 10.3–6; 
+SBN 134, 136–37, 139–40, 154, 56–58, 1 10–12), suggesting that the balance of “ex -
+periments” should be normalised  so that uniform positive evidence gives a value 
+of 1. These two features are combined in the Treatise ’s most sustained discussion of 
+probabilistic evidence, at T 1.3.1 1.9–13 (SBN 127–30), which accordingly seems to 
+imply a theory in which the f orce of evidence  constituted by p positive and n negative 
+instances—let us call this a Humean credibility —should be calculated arithmetically 
+as (p–n)/(p+n).12 Where all instances are positive, this gives a result of 1, while if all 
+are negative, the result is -1.13 Though this theory is indeed coherent, however, it 
+has the serious drawback of complicating the mathematics of standard operations 
+(such as conjunction of independent events, or disjunction of mutually exclusive 
+events). This, in turn, potentially has implications for Hume’s Regress Argument—
+for example, by obscuring the conditions under which an iterated conjunction’s 
+probability will tend towards 0—which would need to be addressed by any defence 
+of his position. But for present purposes we can leave such complications aside.
+4. The Supposed Obligation of Reason
+Recall how Hume, having reduced “knowledge” to “probability” through his 
+Uncertainty Argument, proceeds to introduce his ultimately all-encompassing 
+destructive regress:
+Having thus found in every probability, beside the original uncertainty 
+inherent in the subject, a new uncertainty deriv’d from the weakness of 
+that faculty, which judges, and having adjusted these two together, we 
+are oblig’d by our reason  to add a new doubt deriv’d from the possibility of 
+error in the estimation we make of the truth and fidelity of our faculties. 
+(T 1.4.1.6, emphasis added; SBN 182)Volume 44, Number 2, 2018175 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+Thus reason supposedly obliges  us to take into account “the possibility of error in 
+the estimation we make of the truth and fidelity of our faculties,” and this appar -
+ently involves a judgment of probability that we have erred in our estimation. 
+Clearly such error is entirely possible—even likely—and accordingly defenders of 
+Hume’s argument have typically taken the obligation to be a clear requirement of 
+epistemic responsibility. The underlying motivation here seems to be something 
+like the principle of total evidence , that in Keynes’s words, “in reckoning a probability 
+we must take into account all the information which we have.”14 If, therefore, we 
+have information about our own fallibility, that too must be put into the reckon -
+ing when making an overall judgment to which that fallibility might be relevant. 
+Ted Morris expresses this line of thought well:
+Hume clearly thinks that, as rationally reflective epistemic agents, we 
+are obliged to . . . critically assess the quality of our judgments of prob -
+ability. . . . But if this is correct, why should reflective evaluation of our 
+abilities stop there? Isn’t it merely arbitrary to claim that we should assess 
+our judgments of probability, and to say that it is unnecessary to assess 
+our ability to make assessments of this kind? . . . To stop at the first stage 
+of assessment is sheer dogmatism, an unwarranted departure from the 
+spirit of rationally reflective epistemic agency, unless some argument can 
+be given to show that assessments at that stage  are somehow infallible. 
+(Morris, “Hume’s Scepticism” , 47–48)
+So having estimated that we are, say, 95% likely to have solved the quadratic 
+equation correctly (a second-level  judgment), we need to go on to make a further 
+assessment (now third-level ) about the accuracy of that estimate.15 But clearly this 
+further assessment will itself be fallible, and so the same argument can be used for 
+going yet further. We have already seen Hume’s own presentation of this point (at 
+the beginning of section 3 above), and again Morris expresses it clearly:
+If we apply these considerations to the judgment we make at the second 
+stage of assessment, we should also assess that  judgment as an assess -
+ment of probability. This sets up a vicious infinite regress of assessments 
+of assessments. We have no justification for stopping the procedure at 
+any particular stage. . . . If we are reasonable, then, we are committed 
+to assessing every assessment of probability we make in the light of our 
+realization that we are highly fallible assessors. . . . Given the way Hume 
+presents his argument, there is no non-arbitrary end to the stages of iter -
+ated assessment I’m obliged as a rationally reflective epistemic agent to 
+go through. My assessment should never conclude. I must always keep 
+reassessing, and presumably should withhold judgment until the testing Hume Studies176 Peter Millican
+procedure ends. But here it never does. I’m never warranted in believing, 
+so I never believe. Meanwhile, my confidence level decreases with each 
+further assessment. (Morris, “Hume’s Scepticism,” 48–51)
+Morris thus argues that a “reflective epistemic agent” is rationally obliged to enter 
+Hume’s regress. Henry Allison, likewise, sees this as obligatory for a “maximally 
+responsible but fallible reasoner” ( Custom and Reason , 223), because “according 
+to ‘the rules of logic’ to which this reasoner is committed, there is no principled  
+point at which she could stop the process of reflective assessment and confidently 
+retain her belief” (224). Other scholars also agree,16 but in section 6 below I shall 
+be challenging this.
+5. Challenging the Iterative Reduction
+First, however, let us clarify how Hume’s argument is supposed to apply to our 
+example, and at the same time, briefly address the principal objection that has 
+hitherto dominated most discussion of the argument. In the case we have been 
+considering: (a) I have just attempted to solve a quadratic equation (for example, 
+using the standard formula); and (b) my remembered and recorded past experi -
+ence suggests that I get such things right 95% of the time. Also, as a matter of 
+pragmatic—rather than epistemological—significance, (c) an incorrect solution 
+will cost me $1,000; and (d) I have an opportunity to insure against making a 
+mistake, thus giving a practical purpose to my estimate of this probability.17 If my 
+estimated 5% probability of error is correct, then the price that I should be prepared 
+to pay for insuring against a $1,000 loss is $50. If my estimate is incorrect, then 
+the appropriate price might be very different, and we can assume that it is in my 
+interest to get the price right.
+So to continue this story, the worry has now been raised that perhaps my esti -
+mate of 95% reliability is wrong: but what follows? In the practical case that we are 
+considering, it would be natural to check over my memory and records of solving 
+quadratic equations,18 to ensure that my estimate of 95% reliability is broadly cor -
+rect. Hume’s argument has not mentioned any sceptical worries about memory or 
+written records, and indeed, he earlier enjoined us to consider the “history of all 
+the instances” in which we have made previous judgments, so apparently he sees 
+no problem in principle here. Moreover, he recognises that my verdict after this 
+checking might be “favourable to [my] preceeding judgment”—perhaps it turns 
+out that I have indeed been 95% reliable, or perhaps even better, say 97% reliable. 
+Yet according to Hume, “this decision . . . being founded only on probability, must 
+weaken still further our first evidence” (T 1.4.1.6; SBN 182). But in the situation 
+we are discussing, such a claim seems very dubious (and at least requires some 
+defence): it may indeed be true that the confirming assessment is “founded only Volume 44, Number 2, 2018177 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+on probability,” but in so far as it has any force, this tends to increase  rather than 
+reduce  my confidence of having solved the quadratic equation correctly. This simple 
+point, commonly considered to be the chief objection to Hume’s argument, goes 
+all the way back to Reid: “My decision upon this second point is favourable to 
+my first judgment, and therefore, as I apprehend, must strengthen it. To say, that 
+this decision, because it is only probable, must weaken the first evidence, seems 
+to me contrary to all rules of logic, and to common sense” ( Essays , VII.iv, 568). 
+In recent years this objection has been associated with MacNabb, who puts it in 
+somewhat similar language: “it seems evident to commonsense that the second-
+order judgement that I am very likely, though not certain, to be correct in some 
+first-order judgement increases rather than diminishes the authority of that first-
+order judgement” ( David Hume , 101).19
+Given that this objection is indeed fairly “evident to commonsense,” it is 
+striking that Hume’s text offers no argument for his apparent assumption that any 
+higher-order judgment, simply in virtue of “being founded only on probability, 
+must weaken” the lower-order evidence to which it is applied. This suggests that 
+he might simply have taken for granted the most familiar pattern of iterated prob -
+abilities, which applies when we are faced with a sequence of outcomes, each of 
+which is a necessary condition  for the next stage.20 One clear example of this would 
+be an “accumulator bet,” where I gamble on the sequence of events A, B, C,  and D 
+(for example, results of football matches, or horses winning races), and I win only if 
+all four  component predictions are fulfilled. Another example would be the passing 
+of a message down a line of testimony from P to Q to R to S to T, where the message 
+gets passed faithfully only if all four transfers succeed. In such cases, adding an 
+additional uncertain  event to the sequence can only reduce  the overall probability 
+of success, and if the sequence is potentially infinite, then this overall probability 
+will almost inevitably tend to zero on the conventional scale of probabilities.21 
+But note that the epistemic consequences in terms of rational belief  will differ radi -
+cally between these two examples: whereas a massively iterated accumulator bet 
+becomes vanishingly unlikely to win , a massively iterated line of testimony becomes 
+vanishingly unlikely to deliver a trustworthy report . Hence, I should tend towards 
+disbelief  that the accumulator will win, but indifference  as regards the content of the 
+report (unless, of course, I have some other source of information available). The 
+latter—but not the former—would fit with the total loss of belief that Hume sees 
+as the upshot of his argument.22 It is therefore interesting to note that earlier in 
+the Treatise , at T 1.3.13.5 (SBN 145–46), he discusses chains of historical testimony 
+as potentially giving rise to “reiterated diminutions” of “force and evidence,” and 
+there refers forward to Treatise  1.4.1 as providing “one very memorable exception” 
+to the general impossibility of “conviction . . . subsist[ing] under such reiterated 
+diminutions.” Perhaps, then, he viewed repeated checking as relevantly similar to Hume Studies178 Peter Millican
+a chain of testimony, but in neither place does he provide any explicit argument 
+for such a parallel.23
+Moreover, this sort of progressive diminution is not always the right way to 
+treat iterated probabilities, particularly when dealing with a sequence of distinct 
+items of evidence bearing on a single claim . Here, adding new positive evidence (for 
+example, testimony of further witnesses in favour of a reported event) will usually 
+increase  the overall probability rather than reducing it, even if that new evidence 
+by itself would have minimal force (for example, where the further witnesses are 
+only 51% likely to tell the truth on any particular occasion).24 So a crucial question 
+for Hume’s Regress Argument is whether the main case that we have been discuss -
+ing—of the quadratic equation whose solution is being iteratively checked—is 
+closer in spirit to the case just mentioned—of a sequence of distinct items of 
+evidence bearing on a single claim—than it is to a chain of testimony (or, indeed, 
+an accumulator bet). Hume himself does not address this question, apparently 
+taking for granted that “many new examinations” will automatically generate a 
+decrease in probability. But the fact that iterated probabilities can behave quite 
+differently in different cases makes it incumbent on defenders of his argument to 
+justify  treating them as he does, especially given the counterintuitive outcome to 
+which this leads.25
+6. Challenging the Supposed Obligation
+To explore whether any such justification might be available, let us try iterating 
+our concerns about the quadratic case in the sort of way that Hume recommends. 
+Suppose, then, that my first estimate of my reliability at solving these equations 
+was 95%, but now, on checking, I get 97% instead. This would appear to give some 
+substance to Hume’s point that my estimating abilities are unreliable, and hence 
+that I should attempt to measure my unreliability and factor it into the overall 
+assessment. If I accept this obligation, then such measurement will presumably 
+involve me in trying to recall the past cases in which I have carried out this sort of 
+checking of previous estimates (pondering a “history of all the instances”), with a 
+view to confirming that they have all indicated a reasonable level of accuracy (say, 
+within 5% either way). At this point I am unlikely to have many past cases to go 
+on, since such higher-level checking is something I rarely do. And if I then go up 
+another level, to consider my track record in cases where I have tried to assess such 
+higher-level checkings, I will almost certainly draw a statistical blank. Continuing 
+further again—into yet higher-level checkings that become harder and harder to 
+understand, let alone carry out—seems pointless and even absurd, yet according 
+to Hume the regress has barely started, since “we are oblig’d by our reason” to 
+continue it to infinity! Something seems to have gone seriously wrong here.Volume 44, Number 2, 2018179 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+To analyse the situation more systematically, let us wind back to the begin -
+ning and ask what all this was supposed to achieve. I started out wanting to know 
+the solution to a quadratic equation, and calculated a credible answer. At that 
+stage, I had no particular interest in the general accuracy of my quadratic-solving 
+ability, though I was of course taking this somewhat for granted in setting out to 
+solve the equation myself (rather than, say, paying someone else to solve it for 
+me). The fact that $1,000 depended on my getting it right might well have given 
+me some concern about the correctness of my answer, but the natural response to 
+such concern—unless outside help was available—would have been for me to do 
+repeated mathematical checking, ideally using a variety of techniques.26 Left to 
+myself in this situation, it is hard to see any obvious motivation for going to any 
+higher level of reflection about my abilities, since doing so is not going to help 
+me to get the right answer.27
+Such motivation can arise, however, if I am given the opportunity to insure  
+against error. This gives me a clear interest in discovering my general level of accu -
+racy, not for its own sake, nor because it helps me to solve the equation, nor because 
+it will impact on my solution, but simply in order to work out the appropriate 
+odds for prudent insurance. So now I have a good practical reason for moving up 
+to the second level, to assess my own abilities. The obvious way of undertaking 
+this assessment is to follow Hume’s advice and check out my past statistics, by 
+considering the “history of all the instances, wherein [my] understanding has 
+deceiv’d [me], compar’d with those, wherein its testimony was just and true.” Thus 
+I need to go back to my memory and records, on which—as emphasised earlier—
+Hume’s argument has cast no doubt. There is, however, a complication here: these 
+records might help me to identify my past solutions  of quadratic equations, but 
+how can I know whether or not these solutions were correct ? Unless I have outside 
+feedback—from a teacher, perhaps, or a computer, or from some kind of practical 
+outcome that hinges on my getting things right—it seems that even in assessing 
+my past record, I am thrown back on the need to do more mathematical  (rather 
+than higher level) checking.
+But let us put this complication to one side, and assume that my past level of 
+performance can be readily discovered, perhaps because my solutions were formally 
+(and reliably) graded in some educational context. So now I can count through 
+and check the percentage of equations that I have solved correctly. And again, if 
+my past history of solving quadratic equations— while making all the checks that I 
+can carry out myself at the mathematical level —reveals 95% reliability; and if getting 
+it right is worth $1,000 to me in this case; then it makes sense— even after such care -
+ful personal checking —to pay $50 to insure against failure. But now Hume’s third 
+level of reflection is supposed to come into play: how can I be sure that the figure 
+of 95% is correct? Given my acknowledged interest in discovering my past level of 
+accuracy, this question might indeed concern me. But if it does, the obvious and Hume Studies180 Peter Millican
+appropriate thing for me to do is to recheck my statistics—to go back again over 
+those educational records—and carefully recalculate the relevant percentage. If I 
+then get the same answer, I am reassured that I had it right before. If I get a different 
+answer, I will do yet more checks. And if checking again and again just brings me 
+a random sequence of very different answers, I will conclude that I am hopeless 
+at this sort of exercise. But in none of these cases is there any obvious benefit in 
+moving up to a higher level of systematic reflection about my abilities in making 
+such statistical assessments, since doing so is very unlikely to help me make better 
+judgments at the levels that concern me.28
+I say “very unlikely,” because it is not entirely impossible  that such higher-
+level reflection could help here, though the kind of scenario involved would be 
+extremely unusual. Suppose, then, that I have been in this sort of situation many 
+times before, assessing my reliability on a variety of mathematical problems 
+(with a view to purchasing insurance or whatever), and in these situations I have 
+repeatedly assessed my past statistics in an apparently consistent manner, but 
+have then repeatedly discovered after the event—presumably through some in -
+dependent feedback—that my estimates were uniformly wrong (for example, 3% 
+too high). In that case, I could indeed improve my second-level assessment of my 
+reliability in solving quadratic equations (for example, by adjusting it down from 
+95% to 92%), but only because I have a genuine track record of such assessments 
+to consult, which is itself informed by some reliable independent feedback. But 
+this possibility gives no help to Hume’s argument, which takes the obligation of 
+reason to move to higher levels as applying quite independently of such concrete 
+information (which is why it can continue to infinity). I am supposed somehow 
+to be obliged to reflect on my ability to make high-level statistical assessments, 
+even if I have no track record of having performed such assessments, and no other source 
+of information to inform those reflections .
+Even in the unusual scenario just described, in which I do have some incentive 
+for third-level reflection in order to correct my second-level statistical assessment 
+of my first-level reliability, there is no reason to expect that this will change my 
+first-level solution to the quadratic equation itself. It might slightly diminish my 
+confidence  in that solution (say, from 95% down to 92%), but this gives me no 
+reason for abandoning it: indeed it could well give me a more solid basis for stick -
+ing to that solution in preference to any other, by providing long-term statistical 
+evidence, with reliable independent feedback, that my reliability is over 91% 
+(which in turn suggests that my actual answer is over 10 times more likely than 
+any alternative).29 Thus even where level-3 reflection diminishes my confidence 
+at level-2, it will not thereby change my decision at level-1. This casts doubt on 
+Hume’s unargued assumption at T 1.4.1.6 (SBN 182) that higher-level doubts must 
+inevitably iterate down to “weaken . . . our first evidence”: indeed, the example we 
+have just examined suggests that higher-level reflection is unlikely to impact on Volume 44, Number 2, 2018181 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+the specific judgment made just two levels below, let alone further. Hence level-4 
+reflection, even if we could make sense of it in some probably far-fetched and 
+artificial scenario (which I shall not attempt to imagine here), looks unlikely to 
+impact on the level-2 assessment that informs my purchase of insurance, let alone 
+on the quadratic solution itself. Moving up Hume’s regress has by now become 
+both barely intelligible and utterly pointless.
+But further, even if such increasingly high-level reflection could in principle 
+impact on our arithmetical conclusions or our confidence in them, it would not 
+follow that it was rationally well motivated. There should be no automatic as -
+sumption that reflection becomes more authoritative at higher levels, since on 
+the contrary, it is likely to become less, rather than more, reliable (and not only 
+because we quickly run out of experiential data). Humans are characteristically 
+far better at concrete than abstract thinking, and far more likely to be reliable 
+when pondering specific problems of a kind that they have trained to solve than 
+when engaging in highly abstract reflection. We are also often bad at assessing 
+our own competence, with some people too confident, and others too diffident. 
+Those schooled in solving equations, with frequent feedback from a teacher, will 
+be vastly more aware of their competence in that specific skill than in their high-
+level reflection. Moreover we are easily distracted and confused when faced with 
+multiple problems and complex information, so the idea that we have a rational 
+duty—when trying to solve an equation—to divert our focus from that mathemati -
+cal problem into highly abstract levels of reflection about our own competence 
+is clearly ludicrous on any practical level. Relatedly, worrying about our abilities 
+can tend to undermine those very abilities. For example, a chess player who feels 
+unconfident about his endgame technique, and finds himself reflecting anxiously 
+on past failures, is typically less likely to succeed in a real-time contest than one who 
+is able to focus wholeheartedly on the problem at hand (though the reverse can 
+apply when plenty of time is available, as in correspondence chess, where careful 
+analysis of past errors, and how to avoid them, can indeed be genuinely help -
+ful). The key point, however, is that all these are empirical matters: however they 
+might turn out, it is not an a priori truth that higher-level reflection is epistemologically 
+beneficial. Hence it cannot be an priori truth that such reflection is a rational obligation .
+Here the defender of Hume might be tempted to protest that the point just 
+emphasised, so far from being an objection  to him, is entirely in line with his own 
+principles. For Hume does not generally treat obligations as being a priori, either in 
+the case of morality (for example, T 3.1.1.4–6, 17–25; 3.2.5.4–6; 3.2.6.6; SBN 456–57, 
+463–68, 517–19, 528–29) or in the current case of reasoning according to the “prob -
+ability of causes” (T 1.3.12). This is true enough, but then the criticism becomes 
+that in the argument of Treatise  1.4.1, Hume fails to be consistent with his own 
+principles when he insists that infinitely iterated doubts are an obligation of reason, 
+despite there being no apparent empirical  basis for any such obligation. Indeed, it Hume Studies182 Peter Millican
+is hard to see how he could even suppose there to be any plausible empirical case 
+for a method of proceeding which he himself considers psychologically unfeasible  
+beyond the initial stages (T 1.4.1.7, 10; SBN 183, 185), is ultimately impossible  even 
+in principle (as requiring infinite iteration), and which—were it possible—would 
+be self-defeating  (as leading to total loss of belief). Accordingly, his argument for the 
+supposed obligation of reason briefly outlined in T 1.4.1.6 (SBN 182)—like those 
+of Morris and Allison also quoted in section 4 above—has a strongly aprioristic 
+flavour, failing even to consider the empirical question of how far iterated reflection 
+is actually  beneficial in practice. But this empirical question ought to be crucial 
+to any proper application of the method that Hume advocates, treating reason 
+“as a kind of cause” and statistically assessing its empirical track record  in delivering 
+truth, with an awareness that the probability of error may vary in different cases 
+“according to the simplicity or intricacy of the question” (T 1.4.1.1; SBN 180).30 If 
+we pursue this method rigorously, in the spirit of Hume’s “rules by which to judge 
+of causes and effects” (T 1.3.15, cf. T 1.3.13.1 1; SBN 149), then we should apply the 
+same kind of probabilistic thinking to the outcome of specific reasoning methods. 
+Thus the very principles from which Hume’s argument begins require us to assess 
+such methods on the basis of their past track record , as emphasised in my previous 
+paragraph. But again, if we assess the method of extreme iterated doubt in this 
+way, it is immediately revealed to be hopeless, generating confusion and tending 
+to undermine our judgments, even in cases where sticking to first-level induction 
+could have brought us a success rate of over 90%! So Hume’s insistence in Treatise  
+1.4.1 that rationality would require “total extinction of belief”—by uncritically 
+adhering to the method of extreme iterated doubt even as it becomes manifestly 
+out of line with the statistical track record from which the entire assessment is 
+supposed to begin—is showing too little  reflective consistency with the inductive 
+principles from which he starts, rather than too much .31
+These points are cumulatively devastating, but not particularly difficult to see 
+once we attempt to apply the iterative doubt of Treatise  1.4.1 to a specific example 
+(such as our quadratic equation). And if Hume had made the same attempt, rather 
+than discussing the method so summarily and at such a high level of abstraction, 
+it is hard to believe that he would have remained persuaded that it was rationally 
+defensible, let alone rationally obligatory. His Regress Argument starts reasonably 
+enough, from the observation that any “probable” judgment we make will carry 
+a risk of error, and the consequent recommendation that we should moderate 
+our confidence in any first-level judgment by taking into account our actual track 
+record of relevant successes and failures. But this does not plausibly commit us to 
+a policy of performing iterated assessments at ever higher levels, and doing so  even 
+when we lack any empirical data to base them on . Such a progression conflicts, indeed, 
+with Hume’s own fundamental principles of epistemological empiricism, since it 
+puts epistemological weight on iterative assessments which (beyond the first few Volume 44, Number 2, 2018183 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+levels) lack any empirical foundation or inductive track record. And it also loses 
+any plausible support from the widely accepted principle of total evidence , because 
+without any inductive track record to base them on, fifth-level speculations (say) 
+about my accuracy in making fourth-level assessments remain just that—specula -
+tions—and cannot provide evidence  worthy of the name, even if my fourth-level 
+accuracy were in fact relevant to the first-level issue that concerns me. But further, as 
+we have seen, it is not at all clear that my fourth-level accuracy actually has any such 
+relevance, still less that a negative verdict at that level should impact negatively on 
+my confidence in my first-level judgment. To the contrary, we observe in practice 
+that we get less reliable as we try to reflect abstractly on our higher-level abilities 
+(losing focus, as we do so, on our first-level subject-matter). Having made that ob -
+servation, the very same principle  that motivates Hume’s argument—namely, that 
+we should take into account any method’s empirical track record when evaluating 
+its results—tells against  raising our reflection to any further levels. Repeatedly iter -
+ated reflection turns out to be not only practically unfeasible and psychologically 
+difficult, but also epistemologically counterproductive, as Hume himself would 
+surely have recognised if he had worked it through with any practical example.
+To sum up, then: First, Hume has offered no reason whatever—beyond a 
+handwaving “and so on” (T 1.4.1.6; SBN 182)—to justify his claim that repeated 
+iterative reflection is rationally obligatory. Second, such iteration seems unnatu -
+ral and implausible, and is contrary to any established philosophical practice, so 
+there is a clear onus on Hume to justify his claim. Third, we have seen a sequence 
+of strong considerations that collectively make a compelling case against such 
+iteration, both rationally and pragmatically. Fourth, this case appeals to the very 
+principles of probable reasoning from which the sceptical argument appears to 
+start. Hence, we can very safely conclude: Hume’s statement at T 1.4.1.6 that “we 
+are oblig’d by our reason” to engage in extreme iterative doubt is both incorrect, and also 
+runs contrary to his own more general principles .
+7. Does Hume Himself Accept the Obligation of Reason?
+These apparent tensions in Hume’s position might, however, be mitigated if his 
+Regress Argument was intended as a reductio  of previous philosophers’ views—re -
+ducing them either to absurdity or to manifest empirical falsehood—by taking the 
+troublesome obligation of reason to be their commitment rather than his own. 
+And his text does indeed rather suggest this, in two ways. First, he acknowledges 
+that he himself cannot “sincerely assent” to the argument and relinquish all his 
+beliefs, because they are subject to nature’s “absolute and uncontroulable neces -
+sity” (T 1.4.1.7; SBN 183). Then he appears to describe the argument not as his own 
+invention, but as borrowed from “those sceptics, who hold that all is uncertain, Hume Studies184 Peter Millican
+and that our judgment is not in any thing possest of any measures of truth and 
+falshood”:
+My intention then in displaying so carefully the arguments of that fantas -
+tic sect, is only to make the reader sensible of the truth of my hypothesis, 
+that all our reasonings concerning causes and effects are deriv’d from nothing 
+but custom; and that belief is more properly an act of the sensitive, than of the 
+cogitative part of our natures . (T 1.4.1.8; SBN 183)
+Emphasising this passage, Annette Baier situates Hume’s argument within a broader 
+narrative of the Treatise  as a “progress of sentiments” in which the scope of “reason” 
+is progressively widened to become sensitive and ultimately social, rather than 
+purely intellectual: “Hume claims explicitly that [ Treatise  1.4.1] is directed at reason 
+as ratiocination or cogitation . . . displaying . . . the arguments of the ‘fantastic 
+sect’ of sceptics who try to destroy ratiocination with their ratiocination” (Baier, 
+Progress of Sentiments , 61). She elsewhere describes the target of Hume’s reductio  
+strategy as “rationalism” (87), “rationalist or intellectualist reason” and “calcula -
+tive (non-causal) reasoning” (96). The common factor here seems to be not so 
+much a particular philosophical view, or a particular rationalist philosopher, as a 
+broad contrast with Hume’s own “sensitive” picture of causal inference. Likewise 
+Morris—whose account of the supposed obligation of reason we saw in section 4 
+above—interprets Hume’s Regress Argument as a reductio , starting from the false 
+ideal of “rationally reflective epistemic agency” and proving its absurdity: “Hume is 
+saying that . . . if we were reflective rational epistemic agents, then not only would 
+we know nothing, we would be unable to form any beliefs at all! ” (Morris, “Hume’s 
+Scepticism” , 56).32
+Although this sort of interpretation has obvious attractions, not least that it 
+potentially absolves Hume from the fallacies implicit in the Regress Argument, it 
+seems to me both historically and textually implausible. First, it is far from clear 
+that any previous philosophers would actually have been committed to the novel 
+and radically sceptical argument that Hume would thus be foisting on them. 
+Even if they agreed with its reasonable initial moves, namely the Uncertainty 
+Argument and the introduction of second-level reflection, he could not expect 
+that this would force them into his vicious regress, unless he himself took this to be 
+a genuine rational requirement . Further, as we have already seen, he apparently sees 
+the argument’s logic as starting from his own  method of “probability of causes,” 
+rather than from any rival “rationalist” position, and the argument’s faults, as 
+uncovered in §5 and §6 above, are sufficiently general that, once they have been 
+recognised, the argument simply ceases to pose a coherent reductio  of any plausible 
+ideal of reasoning, whether “intellectualist,” “calculative,” “rationally reflective,” 
+or whatever. So if the argument is indeed supposed to be a reductio  of some previous Volume 44, Number 2, 2018185 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+view of reason, it is hard to identify which target Hume might have in mind. Both 
+Baier and Morris gesture towards Descartes, whose “method of doubt” does indeed 
+recommend fundamental questioning of our faculties with the sort of insistent 
+rigour that Hume’s argument displays.33 But the recursive probabilistic  doubts of 
+Hume’s argument seem very un-Cartesian, because the method of doubt explicitly 
+rejects anything short of certainty , and Descartes accordingly shows little interest 
+in probability.34 Even if Descartes had such an interest, moreover, there is nothing 
+in his texts to suggest that he would be committed to accepting the dubious steps 
+that we have identified in the Regress Argument. That argument’s main problem, 
+to be clear, is not that it is obsessively concerned with rationally reflective doubt 
+(of which Descartes might well approve); rather, it is that the argument’s way of 
+applying that doubt is fundamentally irrational . For as we saw in sections 5 and 6 
+above, Hume is simply mistaken in supposing that thoroughgoing rational reflec -
+tion would have the consequences that he alleges. So from a logical point of view, 
+the Regress Argument cannot in fact  provide a cogent reductio  of Descartes’s view 
+of reason (nor, I suspect, that of any other prominent pre-Humean philosopher). 
+And from an interpretative point of view, if Hume mistakenly thought that the 
+Regress Argument did provide a cogent reductio , then apparently this could only 
+be because he himself failed to see the argument’s faults, in which case the reductio  
+interpretation loses most of its point.
+Quite apart from the difficulty of identifying some prior view of reason that 
+provides a plausible target for a would-be reductio , Hume’s text gives the clear 
+impression that he himself indeed views the problematic obligation of reason as 
+entirely genuine, and accordingly accepts the Regress Argument as a cogent chal -
+lenge. Passages confirming this—either explicitly or implicitly—occur repeatedly 
+both in Treatise  1.4.1 and in two subsequent sections of Book 1 part 4 (emphasis 
+added in all cases):35
+we are oblig’d by our reason  to add a new doubt . . . of which . . . we cannot 
+avoid giving a decision. . . . When I . . . turn the scrutiny against every 
+successive estimation I make of my faculties, all the rules of logic require 
+a continual diminution, and at last a total extinction of belief and evidence . 
+(T 1.4.1.6; SBN 182–83)
+I have here prov’d, . . . I say, I have prov’d , that these same principles, . . . 
+must, by continually diminishing the original evidence, at last reduce it to 
+nothing, and utterly subvert all belief and opinion. . . . But as experience 
+will sufficiently convince any one, who thinks it worth while to try, that 
+tho’ he can find no error in the foregoing arguments , yet he still continues to 
+believe. (T 1.4.1.8; SBN 183–84)Hume Studies186 Peter Millican
+But here, perhaps, it may be demanded, how it happens, even upon my 
+hypothesis , that these arguments above-explain’d produce not a total 
+suspense of judgment, and after what manner the mind ever retains a 
+degree of assurance in any subject? (T 1.4.1.9; SBN 184)
+This sceptical doubt, both with respect to reason and the senses, is a 
+malady, which can never be radically cur’d. . . . ’Tis impossible upon any 
+system to defend  either our understanding  or senses; and we but expose them 
+farther when we endeavour to justify them in that manner. . . . Careless -
+ness and in-attention alone can afford us any remedy . (T 1.4.2.57; SBN 218)
+I have already shewn, that the understanding, when it acts alone, and according 
+to its most general principles, entirely subverts itself, and leaves not the lowest 
+degree of evidence in any proposition, either in philosophy or common life.  We 
+save ourselves from this total scepticism only by means of that . . . seem -
+ingly trivial property of the fancy, by which we enter with difficulty into 
+remote views of things, . . . [If we accept refin’d reasoning], we subvert 
+entirely the human understanding. (T 1.4.7.7; SBN 267–68)
+At T 1.4.1.6 (SBN 182–83), after asserting the supposed obligation of reason, Hume 
+implies that it is required by “all the rules of logic.” At T 1.4.1.8 (SBN 183–84), he 
+indicates that no error can be found in the Regress Argument. At T 1.4.1.9–10 (SBN 
+184–85), he recognises a challenge to explain on his own principles  why we do not 
+totally suspend belief in response to the argument, and his answer is not that the 
+argument is in any way faulty, nor that it is merely a reductio  of other philosophers’ 
+principles, but rather, that we psychologically lose focus after the first couple of 
+stages. In the last paragraph of T 1.4.2 (SBN 218), having finished his companion 
+discussion of “scepticism with regard to the senses,” Hume refers back to T 1.4.1 as 
+having shown that human reason is indefensible, and repeats that only “careless -
+ness and in-attention” enable us to avoid scepticism. Finally, in the concluding 
+section of Book 1, he again repeats both of these messages, shortly before going 
+on to draw from them “a very dangerous dilemma” (T 1.4.7.6, SBN 267) which is 
+crucial to the entire discussion of that section (and which we shall consider briefly 
+in section 10 below). Here the epistemic annihilation threatened by “scepticism 
+with regard to reason” seems to be posed as a serious problem  for Hume himself , 
+and one that bothers him greatly.36 In short, every one of the texts quoted above 
+indicates that Hume considers the Regress Argument to be entirely successful in 
+rational terms, and there is no text in the Treatise  that even suggests the reverse, 
+with the single exception of the passage at T 1.4.1.8 (SBN 183) which gives a hint 
+that the argument is not his own.Volume 44, Number 2, 2018187 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+8. A Reductio  of Rival Theories of Belief?
+What, then, are we to make of that passage from T 1.4.1.8, briefly quoted at the 
+beginning of the previous section, which seemed to suggest that Hume intends 
+his argument as a reductio ? Such an interpretation is indeed plausible, but if we 
+read further within the same paragraph, we find clear evidence that Hume’s likely 
+target here is not so much a rival theory of reasoning , as a rival theory of belief :
+If belief . . . were a simple act of the thought, without any peculiar manner 
+of conception, or the addition of a force and vivacity, it must infallibly 
+destroy itself, and in every case terminate in a total suspense of judgment. 
+But as experience will sufficiently convince any one . . . , that tho’ he can 
+find no error in the foregoing arguments, yet he still continues to believe, 
+and think, and reason as usual, he may safely conclude, that his reasoning 
+and belief is some sensation or peculiar manner of conception, which ’tis 
+impossible for mere ideas and reflections to destroy. (T 1.4.1.8; SBN 184)
+As we shall see, however, an interpretation in terms of this sort of reductio  fails to 
+defend Hume against the allegation of fallacy. For he could only reasonably con -
+sider the sceptical argument as a refutation of the offending theory of belief if he 
+takes that argument to be itself rationally  faultless: the supposed refutation arises 
+because our psychological belief fails to match up to genuine  rational requirements.
+Hume’s description of the rival theory is more explicit about what it does not 
+involve (namely, a “peculiar manner of conception” or “force and vivacity”) than 
+about its positive account (of belief as “a simple act of the thought”). Donald Ainslie 
+attempts to fill this out, identifying Hume’s target here as a conception of rational 
+belief developed by the ancient Stoics and revived by Descartes and Malebranche, 
+which relies on assent  or an act of will  (Ainslie, Hume’s True Scepticism , 27–28), thus 
+conceiving of belief as standardly self-conscious and deliberative:
+Where Hume models belief on the basis of our unreflective thinking, the 
+Stoics and their early-modern descendants take the opposite approach, 
+modelling belief on the self-conscious reasoning we undertake when 
+trying to be sure to get things right. And so they treat what Hume calls 
+the “reflex act of the mind,” whereby we consider whether a perceived 
+connection should be accepted, not as an option that we sometimes 
+exercise, but as necessary in every belief. (Ainslie, 30)
+This model of the mind portrays us as “standing over” the deliverances of our 
+mental faculties, and “takes us to be as it were superintendents of our mental pro -
+cesses, where the superintendent is different in kind and superior to that which Hume Studies188 Peter Millican
+it oversees . . . [with] the ability to withhold our cognitive commitments until all 
+the considerations have been properly taken into account” (Ainslie, 31).
+But this view of ourselves as overseers or superintendents of our mental 
+processes was by no means confined to Stoics and Cartesians, for it seems to be 
+implicit in the mental taxonomies that were widely accepted for most of the early 
+modern period. Arnauld and Nicole’s influential Port Royal Logic  describes “the four 
+principal operations of the mind: conceiving, judging, reasoning, and ordering ” (23). 
+John Locke gives a somewhat similar fourfold distinction: first, “the discovering 
+. . . of Proofs” (that is, intermediate ideas); second, “the laying [Proofs] in a clear 
+and fit Order, to make their Connexion and Force be plainly and easily perceived”; 
+third, “the perceiving their Connexion”; and fourth, “the making a right conclu -
+sion” ( Essay , IV xvii 3). Colin Drummond, who taught Hume logic at Edinburgh, 
+preferred a threefold taxonomy of apprehension, judgment , and discourse , explicitly 
+rejecting method  as overblown by the Cartesians.37 Hume himself, in a long foot -
+note at T 1.3.7.5 (SBN 96–97), challenges the “establish’d maxim . . . universally 
+receiv’d by all logicians [which] consists in the vulgar divisions of the acts of the 
+understanding, into conception, judgment  and reasoning .”38 This orthodoxy was 
+long-lived, as witnessed by Thomas Reid’s much later report that “[t]he intel -
+lectual powers [of the mind] are commonly divided into simple apprehension, 
+judgment, and reasoning” (I.vii, 65). All of these taxonomies treat judgment  as 
+distinct from reasoning , thus suggesting a structure in which the judgment stands 
+over  (Ainslie’s term) the deliverances of the other operations of reason in drawing 
+its conclusions. This kind of hierarchical structure is made even more explicit by 
+Francis Hutcheson, in a Latin teaching text published soon after Hume’s Treatise , 
+where he says that our “ senses  report to the understanding ,” and he explains the 
+function of memory as being to preserve for the mind “all the furniture of ideas 
+that the faculty of judging and reasoning makes use of” (1 12, 121). On the basis 
+of such passages, I have elsewhere described the dominant orthodoxy in terms 
+similar to Ainslie’s: the mental faculties form “a hierarchical structure, with . . . 
+various powers ‘reporting to’ an overseer  faculty—reason or the understanding 
+proper—which perceives and judges the deliverances of the subordinate faculties 
+in order to establish truth.”39
+Ainslie’s suggestion that Hume’s Regress Argument is targeting this view can 
+indeed help to make sense of the quotations from T 1.4.1.8 (SBN 183–84) above. 
+There, Hume contrasts his own “hypothesis, . . . that belief is  . . . an act of the sensi -
+tive . . . part of our natures  . . . [and involves a] peculiar manner of conception, or 
+the addition of a force and vivacity,” with the rival established theory that “belief 
+[is] a simple act of the thought, without any peculiar manner of conception.” And 
+Hume here particularly emphasises two related aspects of his theory which would 
+be in tension with the overseer model, namely that he sees belief as arising from 
+the causal operation of custom , and as doing so in a manner that “ ’tis impossible Volume 44, Number 2, 2018189 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+for mere ideas and reflections to destroy.” The previous paragraph (T 1.4.1.7; SBN 
+183) also stresses these same two points, in the course of explaining why the Re -
+gress Argument fails in practice to undermine our beliefs (even though, as noted 
+earlier, we can “find no error” in it):
+Nature, by an absolute and uncontroulable necessity has determin’d us to 
+judge as well as to breathe and feel; nor can we any more forbear viewing 
+certain objects in a stronger and fuller light, upon account of their custom -
+ary connexion with a present impression, than we can hinder ourselves 
+from thinking as long as we are awake, or seeing the surrounding bodies, 
+when we turn our eyes towards them in broad sun-shine.
+On Hume’s theory as developed in Treatise  1.3.6–12, the operation of custom auto -
+matically  enhances the vivacity of ideas, generating the “manner of conception” 
+or distinctive feeling  that constitutes belief,40 in a way that is entirely involuntary 
+and leaves no room for any supervisory “act of assent” by some faculty of rational 
+oversight.41 Thus if, as Hume suggests at T 1.4.1.8 (SBN 183–84), the point of the 
+Regress Argument is indeed to support his theory of belief, then it is plausible to 
+see it as doing so by providing a would-be reductio  of the overseer model.
+Understanding the Regress Argument as performing this role, however, can -
+not absolve Hume of its logical errors. For thus interpreted, Hume’s attack on the 
+overseer model of reason is based on an alleged mismatch with our actual doxastic 
+behaviour, and in particular, the fact that we continue to hold beliefs despite the 
+contrary imperative of the Regress Argument. The Humean challenge to that model 
+is thus empirical  rather than purely conceptual , and does not dispute the supposed 
+obligation of reason “to withhold our cognitive commitments until all the con -
+siderations have been properly taken into account” and hence to engage in the 
+iterated reflection that generates the sceptical regress (Ainslie, 31).42 Indeed, such 
+an attack can be effective only on the supposition that the obligation of reason is 
+genuine. For if it were not—if it turned out that we had no rational obligation to 
+enter the sceptical regress even if doing so were psychologically possible for us—
+then Hume’s attempt to show that the overseer model would lead to a complete 
+loss of belief would clearly fail. So to the extent that we have evidence—as Ainslie 
+plausibly provides—that the overseer model is indeed a significant Humean target  
+here, we have more justification (rather than less) for taking the supposed rational 
+obligation to be something that Hume accepts , at least in the Treatise . This was a 
+serious mistake on his part, as we have seen in sections 5 and 6 above. But I shall 
+now argue that he himself later recognised this mistake, and decisively corrected 
+it in the first Enquiry .Hume Studies190 Peter Millican
+9. Hume’s Abandonment of the Regress Argument
+Hume’s Regress Argument is, I have argued, fundamentally flawed, and there is 
+no way of saving it. But Hume is generally a much better philosopher—and far 
+more logically astute—than this fallacious argument would suggest, and I believe 
+that he himself soon came to see its flaws, most likely when attempting to spell 
+it out more clearly. After publishing the Treatise , Hume quickly started reviewing 
+both his philosophical positions and his presentation of them, and even before 
+Book 3 was published, the 1740 Abstract  shows him reassessing and reorganising 
+the material of Book 1 in the direction of what would become the first Enquiry  of 
+1748.43 Although the Enquiry  omits many topics that were covered in the Treatise  (for 
+example space and time, materialism and the soul, personal identity), and omits 
+or downplays the detailed associationist psychology (most notably in discussing 
+belief, probability, and the external world), nevertheless it tends to expand on, 
+rather than abbreviate, the most philosophically central discussions that it does 
+include (notably regarding induction, necessary connexion, free will, and attitudes 
+to scepticism). Also, and strikingly, the presentations in the Enquiry  are illustrated 
+with vastly more examples than those in the Treatise , and these examples are 
+typically more highly developed.44 Hence it seems very likely that when working 
+towards the Enquiry  and considering his treatment of scepticism within it, Hume 
+would have endeavoured to spell out his novel and shocking Regress Argument 
+more explicitly than he did in Treatise  1.4.1, illustrating it with some appropriate 
+example(s) to make its coherence and implications clear. I tried, unsuccessfully, 
+to do just this in sections 5–6 above, with my example of the quadratic equation, 
+and feel confident that Hume would likewise have failed. His argument purports 
+to apply to any reasoning whatever, but in reality, it is hard to invent even a single 
+case  in which iteration makes sense beyond a few stages.45 Even to the extent that 
+it does make sense, moreover, there is no compelling reason to expect that it will 
+lead towards “extinction of belief” (T 1.4.1.6; SBN 183). So if, in the early 1740s, 
+Hume attempted to polish his argument to the presentational standards of the 
+Enquiry —and, in particular, to elucidate it with examples—then he must surely 
+have recognised its inadequacies for himself.
+The consequences of this discovery for the overall development of Hume’s 
+philosophy are less evident, though we can hazard some plausible speculations, 
+corroborated by traces in the Enquiry  (despite the lack of any explicit mention of 
+the argument there). The Regress Argument was novel and ingenious, and might 
+also have particularly appealed to Hume as providing an attractive synthesis be -
+tween the Pyrrhonian “mode of infinite regress” and the probable appearances 
+accepted by Academic sceptics. If, however, its probabilistic ingenuities fail, then 
+all we seem to be left with is the relatively crude iterative requirement to question Volume 44, Number 2, 2018191 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+our sources of assurance, effectively reducing the argument to the second sceptical 
+mode of Agrippa, as expounded by Sextus Empiricus:46
+In the mode deriving from infinite regress, we say that what is brought 
+forward as a source of conviction for the matter proposed itself needs 
+another such source, which itself needs another, and so ad infinitum , so 
+that we have no point from which to begin to establish anything, and 
+suspension of judgement follows. ( Outlines of Scepticism , I.166, 41)
+Hume’s dismissive comment about the “trite topics, employed by the sceptics in 
+all ages” (EHU 12.6; SBN 151) suggests that he would not want to give weight to 
+such a crude and hackneyed sceptical argument. It seems obviously unanswerable 
+if one accepts the premise that any “source of conviction” must be backed up by 
+“another such source . . . ad infinitum .” And for anyone aspiring to achieve justified 
+belief, it accordingly serves as a reductio ad absurdum of that premise, demonstrating 
+that any serious epistemology must at least be prepared to take some “source of 
+conviction” for granted if it is to get off the ground. Based on this line of thought, 
+it is tempting to see, in the first Enquiry’ s forthright rejection of antecedent scepti -
+cism, an implicit acknowledgement of the Regress Argument’s failure:47
+There is a species of scepticism, antecedent  to all study and philosophy, 
+which is much inculcated by Des Cartes  and others, . . . It recommends 
+an universal doubt . . . of our very faculties; of whose veracity, say they, 
+we must assure ourselves, by a chain of reasoning, deduced from some 
+original principle, which cannot possibly be fallacious or deceitful. But 
+neither is there any such original principle, . . . Or if there were, could we 
+advance a step beyond it, but by the use of those very faculties, of which 
+we are supposed to be already diffident. The Cartesian  doubt, therefore, 
+were it ever possible to be attained by any human creature (as it plainly 
+is not) would be entirely incurable; and no reasoning could ever bring 
+us to a state of assurance and conviction upon any subject. (EHU 12.3; 
+SBN 149–50)
+Hume here interprets such scepticism as demanding prior  verification of our fac -
+ulties before we are permitted to rely on them, which plausibly fits both with the 
+sceptical mode’s iterating demand for a “source of conviction,” and the Regress 
+Argument’s iterating demand for probabilistic confirmation.48 He now rejects this 
+as obviously hopeless, in putting an onus on the believer to justify his epistemic 
+faculties against the sceptic ab initio . Far more appropriate is to accept the believer’s 
+reasonable default assumptions (plausible examples being that external objects exist, 
+that memory is broadly reliable, that clear and distinct conceivability implies possibil -Hume Studies192 Peter Millican
+ity, and that the future will resemble the past ), and to put an onus on the skeptic to 
+defeat these assumptions by showing “either the absolute fallaciousness of [our] 
+mental faculties, or their unfitness to reach any fixed determination” (EHU 12.5; 
+SBN 150). This strategy thus involves a rejection of antecedent  skepticism in favour 
+of what Hume here calls consequent  skepticism. Faced with such a challenge, the 
+skeptic cannot win by lazily iterating abstract doubts, as the skeptical mode or 
+the Regress Argument would prescribe; instead, he must actively present some 
+compelling objection  to our epistemic faculties, apparently in the form of either 
+some contradiction or incoherence (“absolute fallaciousness”), or else irremediable 
+empirical unreliability (“unfitness to reach any fixed determination”).
+Hume demonstrates the effectiveness of this strategy in his rejection of ex -
+treme skepticism later in section 12 of the Enquiry , notably in the central case of 
+induction. First, he dismisses the “ popular ” objections to “reasonings concerning 
+matter of fact”—those deriving from natural error and differences of opinion 
+according to circumstance—as “but weak” (EHU 12.21; SBN 158), just as he had 
+earlier rejected the “trite topics . . . against the evidence of sense ” (EHU 12.6; SBN 
+151). Such objections show only that we must rationally correct  our judgments and 
+take circumstances into account; they cannot realistically hope to persuade us to 
+disregard completely either sensory or inductive evidence. More substantial are 
+the “ philosophical  objections, which arise from more profound researches” (EHU 
+12.22; SBN 159), and in particular, Hume’s own skeptical argument of Enquiry  sec-
+tion 4 which he now puts into the mouth of the skeptic. That argument seems to 
+give the skeptic “ample matter of triumph; while he justly insists” on our lack of 
+rational grounding  for the assumption of uniformity which underlies all our infer -
+ence to unperceived matters of fact. But against this, the skeptic cannot point to any 
+advantage in our giving up that assumption : “On the contrary, he must acknowledge, 
+if he will acknowledge any thing, that all human life must perish” were we “uni -
+versally and steadily” to relinquish inductive inference (EHU 12.23; SBN 160). Nor 
+can he demonstrate any fundamental problem—such as logical inconsistency—in 
+the assumption of uniformity. So if we start from default acceptance  of our natural 
+faculty of inductive inference, then the skeptical argument is disarmed. Ultimately, 
+therefore, that argument “can have no other tendency than to show the whimsi -
+cal condition of mankind, who must act and reason and believe; though they 
+are not able, by their most diligent enquiry, to satisfy themselves concerning the 
+foundation of these operations.” But notice that our continuing in this whimsical 
+condition—that is, reasoning inductively without any foundational basis—can be 
+epistemologically  legitimate only because the traditional Cartesian onus of proof 
+has been shifted. And it is Hume’s dismissal of antecedent skepticism at EHU 12.3 
+(SBN 149–50) which has prepared the ground for this shift, enabling induction to 
+survive the skeptical onslaught undefeated, even though we would be unable to 
+establish its credentials in advance against the skeptic.Volume 44, Number 2, 2018193 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+There is another possible relic of the Regress Argument in the very next 
+paragraph of the Enquiry , where Hume approvingly mentions a “more moderate” 
+version of antecedent skepticism:
+To begin with clear and self-evident principles, to advance by timorous 
+and sure steps, to review frequently our conclusions, and examine ac -
+curately all their consequences; though by these means we shall make 
+both a slow and a short progress in our systems; are the only methods, 
+by which we can ever hope to reach truth, and attain a proper stability 
+and certainty in our determinations. (EHU 12.4; SBN 150)
+Here he retains from the Treatise  the acknowledgement that we are fallible, and 
+that checking is therefore desirable to maximise the reliability of our judgments. 
+But instead of iterating to progressively higher levels, he now advocates checking 
+at the base level only, taking care “to advance by timorous and sure steps, to review 
+frequently our conclusions, and examine accurately all their consequences.”49 
+This is in striking contrast to the method advocated in Treatise  1.4.1, and similar 
+in spirit to the views suggested near the beginning of section 6 above in rejecting 
+the Regress Argument, thus tending to confirm that Hume himself has, by now, 
+seen what is wrong with that argument. More evidence to the same effect comes 
+at EHU 12.18 (SBN 156), where he says that “The chief objection against all abstract  
+reasonings is derived from the ideas of space and time,” which would not be the 
+case if the Regress Argument worked. Taking all this together, we have good reason 
+to conclude that Hume omitted the Regress Argument from the Enquiry  not merely 
+for the sake of brevity, but because he had by 1748 recognised its failure.
+10. Conclusion: The Significance of Hume’s Regress Argument
+Although Hume’s Regress Argument is fallacious, it has an interpretative signifi -
+cance out of all proportion to its philosophical merits. When writing the Treatise , 
+Hume himself evidently found it epistemologically—though not psychologi -
+cally—compelling, and gave it pride of place at the very beginning of his extended 
+treatment of skepticism in Book 1, part 4. There it sets the tone for much of what 
+follows, emphasising both the extreme skeptical thrust of his philosophy, and the 
+strong divergence between his negative epistemological conclusions and his psy -
+chological compulsion to believe. Both of these themes come to a head briefly at 
+the end of section 1.4.2 (where Hume stresses commonalities between the first two 
+sections), and then in a far more sustained manner in the Conclusion of Book 1.
+In that concluding section 1.4.7, it is the disastrous upshot of his “scepticism 
+with regard to reason” that plays the crucial role in wrecking any prospect for a 
+rational resolution of Hume’s difficulties, by undermining the distinction that he Hume Studies194 Peter Millican
+had meanwhile prominently introduced at the beginning of his discussion “Of 
+the modern philosophy”:
+In order to justify myself, I must distinguish in the imagination betwixt 
+the principles which are permanent, irresistible, and universal; such as the 
+customary transition from causes to effects, and from effects to causes: And 
+the principles, which are changeable, weak, and irregular; . . . the former 
+are received by philosophy, and the latter rejected. (T 1.4.4.1; SBN 225)
+At T 1.4.7.7 (SBN 267), Hume characterises this distinction as being between, 
+on the one hand, “the general and more establish’d properties of the imagina -
+tion”—which he identifies with “the understanding”—and on the other hand, 
+“the trivial suggestions of the fancy.” By then the distinction has already been 
+put under some pressure from the discovery that there is “a direct and total op -
+position” between “those conclusions we form from cause and effect, and those 
+that persuade us of the continu’d and independent existence of body” (T 1.4.4.15, 
+recalled at T 1.4.7.4; SBN 231, 266). But the killer blow comes from what Hume calls 
+“a very dangerous dilemma” as to whether we should, in our reasonings, restrict 
+ourselves to the “general” and respectable principles while rejecting those that are 
+“trivial” and disreputable. There is an obvious argument in favour of doing so: “For 
+if we assent to every trivial suggestion of the fancy; beside that these suggestions 
+are often contrary to each other; they lead us into such errors, absurdities, and 
+obscurities, that we must at last become asham’d of our credulity.” (T 1.4.7.6; SBN 
+267). In response, however, the result of Treatise  1.4.1 makes an entrance, with 
+devastating effect:
+For I have already shewn, [Note: Sect. 1] that the understanding, when it 
+acts alone, and according to its most general principles, entirely subverts 
+itself, and leaves not the lowest degree of evidence in any proposition, 
+either in philosophy or common life. We save ourselves from this total 
+scepticism only by means of that singular and seemingly trivial prop -
+erty of the fancy, by which we enter with difficulty into remote views of 
+things, . . . (T 1.4.7.7; SBN 267–68)
+This last sentence alludes to T 1.4.1.10 (SBN 185), where Hume explained the Re -
+gress Argument’s failure to undermine our beliefs by appeal to our fortunate—but 
+“seemingly trivial”—incapacity to follow its intricacies beyond the first couple 
+of levels.50 Taking this as a model, we might then be tempted to “establish it for a 
+general maxim, that no refin’d or elaborate reasoning is ever to be receiv’d” (thus 
+perhaps elevating such a maxim to the “establish’d” side of Hume’s distinction), 
+but unfortunately this would both “cut off entirely all science and philosophy” Volume 44, Number 2, 2018195 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+and undermine the “refin’d and metaphysical” reasoning that has led us to this 
+very point. Summing up: “If we . . . condemn all refin’d reasoning, we run into 
+the most manifest absurdities. If we [accept refin’d reasoning], we subvert entirely 
+the human understanding. We have, therefore, no choice left but betwixt a false 
+reason and none at all. For my part, I know not what ought to be done” (T 1.4.7.7; 
+SBN 268). It is this dilemma that provokes the apparently genuine despair in the 
+next paragraph, where Hume declares that he is “ready to reject all belief and 
+reasoning, and can look upon no opinion even as more probable or likely than 
+another” (T 1.4.7.8; SBN 268–69). He famously moves forward from this despair 
+thanks to nature , which “cures me of this philosophical melancholy and delirium 
+.  .  . I dine, I play a game of back-gammon, I converse, and am merry with my 
+friends,” and this enables him to forget these speculations and later to reject them 
+as “cold, and strain’d, and ridiculous” (T 1.4.7.9; SBN 269). There is much debate 
+about how these and the following paragraphs should be interpreted, but this is 
+not the time to examine such a vexed question.51 What is entirely clear, however, 
+is that the problems with which Hume is grappling here are largely created—and 
+hugely intensified—by his skepticism with regard to reason and the Regress Argu -
+ment in particular.
+Given this context, it seems very likely that Hume’s philosophy—and in 
+particular his view on skepticism—would have changed significantly if he had 
+come to see that his Regress Argument was a failure. I argued in sections 5 and 6 
+above that it was indeed a failure, whose superficial plausibility evaporates under 
+close analysis, such as Hume himself might have been expected to undertake in 
+any future exposition, and in particular when composing the Philosophical Essays 
+which became the first Enquiry  (a work liberally supplied with persuasive illustra -
+tive examples which—in the case of the Regress Argument—seem impossible to 
+devise). In section 9, I corroborated this suggestion with textual evidence of Hume’s 
+having realised, at some stage before publishing this work in 1748, that the Regress 
+Argument is seriously flawed. Indeed the first Enquiry  manifests all the signs that we 
+might reasonably expect to result from such a realisation:52 neither the argument 
+itself, nor the difficulties to which it gave rise in the Treatise , is even mentioned 
+or alluded to; Hume’s judgments on the two varieties of antecedent skepticism 
+seem to rule out the need for higher-level iterative reflection and to recommend 
+instead mundane base-level checking; while the overall skeptical orientation set 
+out in the final section of the Enquiry  is explicitly “mitigated” (EHU 12.24–34; SBN 
+161–65), a description which cannot plausibly apply to the radical all-embracing 
+skepticism of Treatise  1.4.1, nor to the tortured skeptical conundrums of Treatise  
+1.4.7. Moreover, a crucial aspect of this mitigation involves a fundamental change 
+of perspective in which the onus is put on the skeptic rather than the believer, 
+a change which can very naturally be seen as a legacy of Hume’s rejection of the 
+“antecedent” skeptical spirit that motivated his Regress Argument.Hume Studies196 Peter Millican
+NOTES
+For helpful feedback on this paper, I am very grateful to Louis Loeb, Kevin Meeker, 
+Benjamin Nelson, David Owen, Hsueh Qu, the Editors and two anonymous referees 
+for Hume Studies .
+1  Hume explicitly refers to this argument no fewer than three times in other sections 
+of the Treatise  (T 1.3.13.5n24, 1.3.13.17n26, and 1.4.7.7n53; SBN 146, 153, 267), and 
+twice implicitly (in the first and last paragraphs of the following section, at T 1.4.2.1 and 
+1.4.2.57; SBN 187, 218). T 1.3.13.5 (SBN 146) talks of it as exhibiting a “very memorable” 
+point “which is of vast consequence” for the understanding, presumably alluding to 
+its huge significance in the Conclusion of Book 1. References to the Treatise  are indi -
+cated by “T” and given to Book, part, section and paragraph number. References to the 
+Enquiry concerning Human Understanding  are indicated by “EHU” and given to section 
+and paragraph number. The Norton edition of the Treatise  includes the Abstract  of 
+the Treatise  and the Appendix to the Treatise  (references indicated by “Abs” and “App” 
+respectively, and given to paragraph number). References to these works are also given 
+“SBN” page numbers, referring to the Clarendon Press editions by L. A. Selby-Bigge, 
+revised by P . H. Nidditch.
+2  Immerwahr, “A Skeptic’s Progress,” 234, from whom this quote is taken, draws 
+the reasonable conclusion that this gives good “reason for thinking that Hume is dis -
+satisfied with this argument.”
+3  Kemp Smith, Philosophy of David Hume , 447–9, quotes only a few extracts from 
+Treatise  1.4.1, ignoring the crucial argument; Penelhum, Hume , 198n7 and Stroud, 
+Hume,  268n14, barely mention the argument; while Capaldi and Flew fail to mention 
+it entirely. Many books from more recent years have also continued this pattern.These broader points regarding the development of Hume’s skeptical outlook 
+between the Treatise  and the Enquiry  have been touched on only briefly here, and 
+will be controversial. Indeed the standard assumption amongst Hume interpret -
+ers has been, to the contrary, that his skepticism underwent no major doctrinal 
+change in the 1740s, with most scholars either treating his work as a unified cor -
+pus, or else entirely neglecting the Enquiry , often apparently on the presumption 
+that its differences from the Treatise  are a result of the “shortening & simplifying” 
+that he mentioned in a letter of 1751 ( Letters , 1:158).53 Doctrinal continuity might 
+indeed be a natural default assumption, but I hope that the results of this paper 
+give reason to question it, and will encourage more scholars to examine whether 
+there are, in fact, significant theoretical  differences between Hume’s skepticism 
+in the Treatise  and in the Enquiry , including some that may be directly traceable 
+to his having become aware of the Regress Argument’s faults. If, as I expect, such 
+investigations prove fruitful,54 then this will confirm that although the argument 
+is philosophically a failure, it remains of huge interpretative significance for the 
+development of Hume’s epistemology.Volume 44, Number 2, 2018197 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+4  Wilson, “Hume’s Sceptical Argument,” 93, describes “the received opinion” as be -
+ing “that Hume’s inference is quite obviously  erroneous,” apparently taking the standard 
+objections (which he counters at 101–5) to be those of Prichard and MacNabb, “Hume.” 
+DeWitt, “Hume’s Probability Argument,” 136–7n3, includes only Popkin and Wilson 
+as being “clearly sympathetic” to the argument, notes Von Wright, Logical Problem , 
+153; cf. 223n15, as also accepting it, while listing Stove, Probability , 131–2, and Laird, 
+Hume’s Philosophy , 176 as strongly rejecting the argument, and six other commenta -
+tors as ambivalent. Morris, “Hume’s Scepticism,” 39, laments that “Even a sympathetic 
+recent commentator calls [the argument] a ‘morass,’ while another commentator . . . 
+regards the argument as ‘not merely defective, but one of the worst arguments ever to 
+impose itself on a man of genius’”—footnotes clarify that these references are to Fogelin, 
+Hume’s Skepticism , 16, and Stove, Probability , 132.
+5  Recent defenders include Dauer; Lynch; Lolordo; Garrett (“Hume’s Conclusion,” 
+160–63; Hume , 223–6); Wright, Hume’s Treatise , 133–35; Meeker, Hume’s Radical Scepti -
+cism , chap. 2–3; Owen; Nelson; Atkinson and Peijnenburg; and Garfield, Concealed 
+Influence,  chap. 8. In addition, Baier, Progress of Sentiments , 60–61; Allison, Custom and 
+Reason , chap. 8; Schmitt, Hume’s Epistemology , chap. 1 1; and Ainslie, Hume’s True Scepti -
+cism , chap. 1—like Morris—defend the argument in the role of a reductio  (of some rival 
+conception of either reason or belief: these approaches will be discussed in sections 7 
+and 8 below).
+6  See pages 102–8 of Arithmeticae et algebrae compendium. In usum juventutis 
+academicae , published in 1736 at Edinburgh by David Gregory, who was Professor of 
+Mathematics at St Andrews from 1739–64, and whose uncle James Gregory was Profes -
+sor of Mathematics at Edinburgh when Hume attended in 1721–5.
+7  For defence of this Sorites argument, see Meeker and Poston, “Skeptics without 
+Borders,” 227–9, who draw interesting comparisons with the structurally similar “anti-
+luminosity” argument influentially advanced by Williamson, Knowledge , chap. 4.
+8  As claimed, for example, by Garrett, ( Cognition and Commitment , 150, 253n8; 
+Hume , 304–6), in the context of discussing Hume’s argument against the credibility of 
+testimony for miracles.
+9  Fogelin, Hume’s Skepticism , 15, takes this point to be clear, but it is critically dis -
+cussed by Morris, “Hume’s Scepticism,” 43–6, and Allison, Custom and Reason , 214–9, 
+as well as by Meeker and Poston (see note 7 above).
+10  Hence the sceptical implications of the Regress Argument are intended to apply 
+to all beliefs derived from reasoning, whether initially demonstrative (as in the Uncer -
+tainty Argument) or probable.
+11  Despite Hume’s talk of our being “oblig’d by our reason” and “the rules of logic,” 
+Owen interprets Hume’s argument as being more descriptive  than normative , exhibiting 
+not so much a theoretical obligation as a practical risk: “The point is not that a belief, 
+with full force and vigor, is seen to be unjustified; rather, it is that because the force 
+and vigor continually decrease, the idea seems in danger of ceasing to be a belief at 
+all” (“Scepticism,” 1 13). Lolordo, likewise, while showing sympathy for the supposed 
+normative obligation (“Probability and Skepticism” , 433, 437, 442, 446), appears to 
+explain the regress in descriptive terms, as arising because we “feel compelled to add 
+considerations about the reliability of our faculties into the chain of reasoning leading Hume Studies198 Peter Millican
+to the original proposition” (437). Such descriptivist interpretations are empirically 
+implausible: most of us feel no such compulsion, and as Hume himself acknowledges 
+at T 1.4.1.7 (SBN 183), there is no practical  risk of our beliefs dissipating regressively 
+in anything like this way. So, if “total extinction of belief” (T 1.4.1.6; SBN 183) is sup -
+posed to be a prediction of a descriptive  psychological theory, rather than a normative  
+requirement, that descriptive theory would have to be rejected as an empirical failure. 
+It would then be hard to see why Hume should see this prediction as such a potent 
+epistemological  threat (most notably at Treatise  1.4.7.7; SBN 267–8).
+12  All this is not to deny that Hume often treats probability in a predominantly 
+psychological manner, with little regard to its quantitative aspects. But within Treatise  
+1.4.1 itself, it is clear that he is treating probabilities and degrees of evidence as compa -
+rable (“greater or less”) and subject to arithmetical reduction (at paragraphs 1, 3, 6, 8, 
+and 9; SBN 180–5). Hence any rigorous treatment of Hume’s Regress Argument has to 
+build on some explicit mathematical interpretation of Humean probabilities, and the 
+theory sketched here, I believe, provides the best combination of coherence and textual 
+fidelity. For its application to Hume’s Maxim on miracles (EHU 10.13; SBN 1 15–16), see 
+Millican, “Twenty Questions,” 162n12.
+13  Maher, “Probability,” 141, proposes a somewhat similar theory, except that his vi-
+vacities  cannot be negative, and hence are set to 0 in cases where my own method would 
+yield a negative credibility . This seems plausibly Humean, but too vague to provide the 
+basis of a useful calculus of probabilities. For example, the prediction that one tossed 
+coin will land heads-up would have vivacity  0, exactly the same as 100 tossed coins all 
+landing heads-up together, and more generally the vivacity  of a disjunction of exclusive 
+propositions would not be a well-defined function of the component vivacities .
+14  Keynes, Treatise  on Probability , 313, calls this “Bernoulli’s maxim,” citing Jacob 
+Bernoulli’s Ars Conjectandi , 215.
+15  To avoid any risk of confusion here, note that what Morris calls “the first stage 
+of assessment” is the first reflective  stage, which involves making what I am calling a 
+second-level  judgment. Enumerating the levels in this way means that our fourth-level 
+judgment will nicely coincide with what Hume at T 1.4.1.6 (SBN 182) calls the “fourth 
+doubt.”
+16  See, for example Dauer, “Hume’s Scepticism,” 214, who quotes Morris approvingly, 
+and Lynch, “Limits of Reason,” 96. Owen is less committal, remarking that “Our inher -
+ent fallibility is always a consideration, weakening the force with which the original 
+belief is held,” and “this sort of judgment can reiterate” (“Scepticism,” 1 13). For more 
+on Owen, see note 1 1 above.
+17  To be clear, there is no suggestion here that the availability of insurance changes 
+my epistemological  situation with regard to the equation’s solution: it simply gives my 
+estimate of error a practical significance.
+18  Or perhaps of solving quadratic equations that have similarly-sized coefficients, 
+or have solutions of the same type (real or complex), or that are similarly factorisable 
+(or not). Hume points out that the probability of error must be assessed relative to “the 
+simplicity or intricacy of the question” (T 1.4.1.1; SBN 180), but expresses no obvious 
+concerns about the difficulty of identifying an appropriate reference class, so we shall 
+ignore that complication here.Volume 44, Number 2, 2018199 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+19  MacNabb is credited, for example, by Loeb, Stability and Justification , 224; Allison, 
+Custom and Reason , 223; and Owen, “Scepticism,” 1 13–4. Allison and Owen find the 
+objection ultimately unconvincing, while Loeb appears to accept it, albeit with some 
+ambivalence.
+20  Loeb, Stability and Justification , 224–9, suggests a possible alternative explanation, 
+whereby Hume conflated estimates of likelihood with degrees of confidence , owing to his 
+interpretation of both in terms of vivacity of ideas: “Hume takes degree of confidence 
+to consist in degree of vivacity. But the only degree of vivacity in sight is the one that 
+constitutes [the] . . . estimate of likelihood. So Hume supposes we reduce that  vivacity, 
+thus initiating the series of reductions” (229).
+21  A zero limit is not strictly implied unless we add some upper bound (less than cer -
+tainty) on the relevant probabilities, for example, “each of which has a probability less 
+than 1–ε, where ε>0.” Reid, Essays , VII.iv, 569, presses this as an objection against Hume’s 
+argument, pointing out that “an infinite series of quantities decreasing in geometrical 
+proportion . . . amounts only to a finite sum.” Fogelin acknowledges Reid’s point, but 
+replies that Hume “need only argue that there is some finite degree of probability below 
+which the chance of error never falls” ( Hume’s Skepticism , 17, 174n4). This reply—which 
+is cited approvingly by Dauer, “Hume’s Scepticism,” 214, and Owen, “Scepticism,” 
+1 15—indeed seems reasonable, since in practice Hume’s reflective series would quickly 
+lead to judgments of which we are unlikely to feel anything like 100% certain. All this 
+mathematical detail, however, is irrelevant against the more fundamental objections 
+urged in the current paper.
+22  Precisely because Hume’s regress should be towards indifference  rather than certain 
+falsehood , the most coherent interpretations of his argument do not involve simple 
+multiplication of probabilities —a fault particularly evident in the reconstruction by 
+DeWitt, “Hume’s Probability Argument”—but instead successive undermining of 
+evidential force . Amongst recent scholars, Owen, “Scepticism,” 1 13–4, is most explicit 
+about this connection, but see also for example Morris, “Hume’s Scepticism,” 50–3; 
+Lynch, “Limits of Reason,” 94; Lolordo, “Probability and Skepticism,” 437–8; Garrett, 
+(“Hume’s Conclusions,” 162–3; Hume , 224–5); and Allison, Custom and Reason , 223–5.
+23  If any judgment is to be considered worthy of belief only if it is accompanied by a 
+higher-level judgment to the effect that the original judgment is well-founded— testify -
+ing, so to speak, to its credibility—then a sceptical iteration evidently results (of a form 
+that might plausibly be suggested by the analogy with chains of testimony). Dauer’s and 
+Garrett’s interpretations of Hume’s argument (sketched in note 46 below) take roughly 
+this form. Wilson, “Hume’s Sceptical Argument,” claims most explicitly that Hume’s 
+argument should indeed be understood “in the context of an analogy with a chain of 
+testimony” (105), basing this on Hume’s use of the word “authority” at T 1.4.1.5; SBN 
+182 (94). The word “testimony” occurs just once in T 1.4.1, but this is in the very first 
+paragraph when referring to the “testimony” of “our understanding” about a first -level 
+judgment (SBN 180); so this provides little support for Wilson’s interpretation.
+24  This point is familiar in the literature concerning Hume on miracles, since it 
+underlies a long-standing objection to him—going back to Babbage, Ninth Bridgewater 
+Treatise , and more recently urged by Earman, Abject Failure , chap. 18—based on the pos -
+sibility of convincing evidence for a miracle deriving from large numbers of independent  
+witnesses. Ahmed, “Independent Witnesses,” defends Hume, providing mathematical Hume Studies200 Peter Millican
+analysis to highlight the serious difficulty of knowing  (or even being confident), in any 
+situation that might be thought to be of this kind, that the witnesses are genuinely  
+independent in the appropriate sense.
+25  In recent years, a popular way of defending Hume’s argument against the Reid/
+MacNabb objection has been to interpret Hume’s regress not as involving a progressive 
+reduction of a particular probability (or credibility), but rather, an expanding “margin 
+of error”: see, for example, Lynch, “Limits of Reason,” 94; Bennett, Six Philosophers , 315; 
+Wright, Hume’s Treatise , 134–5; and Owen, “Scepticism,” 1 14–5. I find these proposals 
+technically problematic (for reasons that need not concern us here), and inconsistent 
+with Hume’s view of probabilities as having specific degrees corresponding to levels of 
+psychological vivacity of belief that are straightforwardly comparable  (that is, greater, 
+less, or equal). Atkinson and Peijnenburg, “Hume’s Treatise 1.4.1,” section 6, suggest 
+instead on Hume’s behalf that the point of the argument is diminution of the probabi -
+listic impact of successive iterations, but this seems hard to square with the significance 
+that Hume accords the argument. In any case, none of these approaches can defend 
+his argument against the more fundamental problems urged in section 6 below.
+26  In the case of a quadratic equation, for example, I might check how accurately 
+the standard formula has been applied, then also check that the solution(s) yielded by 
+the formula work correctly when plugged back into the equation, then even perhaps 
+try a range of further values of the quadratic function and sketch the corresponding 
+(parabolic) graph. If all these checks succeed and thus corroborate each other, this gives 
+strong evidence that the solution is correct.
+27  This is another point well made by Reid: “If he should afterwards find reason to 
+suspect his first judgment, . . . reason will direct him not to form such a series of estima -
+tions upon estimations, as this author requires, but to examine the evidence of his first 
+judgment carefully and coolly; and this review may very reasonably, according to its 
+result, either strengthen or weaken, or totally overturn his first judgment” ( Essays , VII.
+iv, 570). Reid thus alleges (without fully explaining) that Hume’s requirement to form 
+an iterative “series of estimations upon estimations” is bogus. The current section aims 
+to show in detail that this allegation is correct, something not previously achieved as 
+far as I am aware.
+28  This issue can be illuminated by considering how one might design a computer 
+program to implement such iterative reflection. At the first level, let us suppose, equa -
+tions are entered by the user and solved by formula. These results are then passed to 
+the second level, which checks them (presumably using some other method, cf. note 
+26 above) and collates statistics of accuracy. Then what? Even to attempt a third level 
+of checking, the program needs some way of assessing the accuracy of its second-level 
+assessments, and unless there is some outside “oracle” to give relevant input here, the 
+program can only do this assessment by relying on the same mathematical methods 
+that it has used at the first two levels. Thus third- and higher-level assessment looks 
+utterly pointless. Note also that faulty implementation of such higher-level processes 
+would have no impact whatever on the system’s accuracy at the first two levels, a moral 
+that seems to apply equally to the human case: excellence at arithmetic—and being 
+well aware of one’s excellence—need not require any skill in high-level reflective self-
+assessment.Volume 44, Number 2, 2018201 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+29  Moreover, given the host of alternative possible answers to such a problem (as -
+suming that it does not occur within a multiple choice exercise), switching from my 
+actual answer to guessing an alternative would be most unlikely to get me to the right 
+answer even if my reliability were very much lower.
+30  Hume’s statement at T 1.4.1.1 (SBN 180) that “Our reason must be consider’d as a 
+kind of cause” seems to be intended precisely to highlight that he is here applying his 
+method of “probability of causes” (T 1.3.12). This is the only occasion where he talks of 
+reason in such a way, and there is no comparable statement elsewhere in his writings.
+31  Hence I disagree with Garrett’s apparent view (“Hume’s Conclusions,” 161–3) 
+that Hume’s Regress Argument follows from consistent application of the method of 
+“probability of causes.” Hume’s discussion of that method in T 1.3.12 gave no hint of 
+the sort of aprioristic iterated reflective correction that we see in T 1.4.1, but on the 
+contrary was soon followed by the injunction to use experience-informed “general 
+rules,” notably those of T 1.3.15.
+32  In a similar spirit, Allison (also cited in section 4 above) explains Hume’s regress as 
+involving not “how a normal human reasoner ought to perform, but how a maximally 
+responsible but fallible reasoner would  proceed” ( Custom and Reason , 223): “Hume is 
+arguing counter-factually that if reason were to act alone . . . then the total extinction 
+of belief would occur. And, since this does not occur, it follows that our reason does 
+not operate in this way” (227). Schmitt likewise sees Hume as considering “a certain 
+counterfactual idealization of a human subject, one using reason unlimited by the imagi -
+nation ” (Hume’s Epistemology , 321).
+33  Morris indicates in an endnote that his phrase “rationally reflective epistemic 
+agents” (“Hume’s Scepticism,” 40) is intended to cover pre-Humean “‘Cartesian’ or 
+‘rationalist’” conceptions, but to be “forward-looking as well” (59n8). Baier refers to 
+“Book One’s reductio  ad absurdum  of Cartesian intellect” ( Progress of Sentiments , 21), and 
+says that in part 4, “It is Cartesian-style justification that is sought, and found missing” 
+(106), though she admits in an endnote to having “done Descartes an injustice by using 
+him as the fall guy in this exposition of Hume’s moves, since the actual Cartesian posi -
+tion gives the passions of the soul a vital role to play in the search for truth” (298n16). 
+This reductio  line of interpretation was also anticipated by Passmore, Hume’s Intentions , 
+135: “Hume, it must be remembered, is working within the Cartesian tradition; and 
+within that tradition his argument is effective ad hominem .”
+34  This is related to another characteristic of Descartes’s method, that its main focus 
+is on avoiding falsehood rather than maximising truth. The Regress Argument, by con -
+trast, is directed against those who are comfortable with accepting some  probability of 
+falsehood, but would not wish to see that probability raised to the point of indifference.
+35  There is also a passage in the 1740 Abstract  which appears to be endorsing Hume’s 
+scepticism with regard to reason: “Philosophy would render us entirely Pyrrhonian , were 
+not nature too strong for it.” (Abs 27; SBN 657).
+36  Some scholars—for instance, Baier, Progress of Sentiments , chap. 1; Singer, “Hume’s 
+Extreme Skepticism”; and Garrett, ( Cognition and Commitment , chap. 10; “Hume’s Con -
+clusions”)—interpret the apparent dismay in Treatise  1.4.7 as portraying the drama of a 
+train of thought, rather than expressing enduring anxieties, and accordingly consider 
+Hume’s text to be carefully choreographed and under control. Loeb, Stability and Jus -Hume Studies202 Peter Millican
+tification , 16) instead sees genuine destruction, but “delight in the result,” “relish” and 
+even “glee” within the chaos. Durland, “Extreme Skepticism,” offers a systematic (but 
+ultimately pessimistic) survey and analysis of the various ways in which scholars have 
+attempted to reconcile the tensions in this section of the Treatise . See also note 51 below.
+37  See Stewart, “Hume’s Intellectual Development,” 13–14. For further relevant ref -
+erences to other logicians and writers of the period, see the note on T 1.3.7.5 n. 20 in 
+Norton and Norton, Treatise vol. 2, 742.
+38  Perhaps significantly, Hume appends this footnote to his own definition of belief 
+as “A lively idea related to or associated with a present impression ,” thus po -
+tentially corroborating the connection that Ainslie proposes between Hume’s theory 
+of belief and his rejection of the “superintendent” or “overseer” model.
+39  Millican, “Hume’s ‘Scepticism’ about Induction,” 81, emphasis added. I am en -
+couraged to find that Ainslie’s discussion has converged on a similar position from a 
+quite different direction, since my own principal focus at the time was Hume’s views 
+on induction .
+40  From the Abstract  and Appendix  onwards, Hume frequently refers to belief as a 
+certain feeling , for example, T 1.3.10.10; App 2–4, 7–8; Abs 22–24; EHU 5.1 1–12; SBN 
+630–31, 623–25, 627, 654–55, 48–50. For an insightful discussion of the development 
+of these views, see Broackes, “Hume, Belief, and Personal Identity.”
+41  However, there is some tension between T 1.4.1.7 (SBN 183), which suggests that 
+custom compels belief immediately, without any opportunity for rational oversight, 
+and T 1.4.1.10 (SBN 185), which explains that the Regress Argument fails to eliminate 
+our beliefs because beyond the first two stages , “the action of the mind becomes forc’d and 
+unnatural, and the ideas faint and obscure.” The latter suggests that we can reflectively 
+“supervise” our beliefs up to a point. And this fits with Hume’s emphasis elsewhere on 
+reflectively disciplined  inductive inference using general rules (for example, T 1.3.10.12, 
+1.3.13.1 1–12; SBN 632, 149–50), and in particular his “rules by which to judge of causes 
+and effects” (T 1.3.15). Hence his opposition to the overseer model is not as straightfor -
+ward as might initially appear.
+42  Ainslie’s own discussion of how “the process of checking iterates” ( Hume’s True 
+Scepticism , 23) gives the impression that he—like Hume—accepts that the rational 
+obligation would apply if the overseer model were correct. Thus we would apparently 
+be displaying rational weakness when we fail to follow it through and “soon give up 
+the argument, surrendering to our natural inclination to believe our reasoning” (24).
+43  The clear parallels between these two works are set out in Millican, Reading Hume , 
+52–63. Regarding scepticism, however, the Abstract  provides only one paragraph (Abs 
+27; SBN 657), which seems more in line with the Treatise  than with the Enquiry , since 
+it appears to endorse Hume’s “scepticism with regard to reason” (see note 35 above).
+44  Thus the discussion of the idea of necessary connexion in the Treatise  barely men -
+tions the examples of billiard balls (T 1.3.14.18; SBN 164), a couple of mathematical 
+relations (T 1.3.14.23; SBN 166), and a blind man’s false suppositions that scarlet is like 
+a trumpet sound and light like solidity (T 1.3.14.27; SBN 168); while the parallel discus -
+sion in the Enquiry  mentions billiard balls repeatedly (EHU 7.6, 21, 28, 30; SBN 63, 70, 
+75, 78), heat and flame (EHU 7.8; SBN 64), the influence of the will on our limbs and Volume 44, Number 2, 2018203 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+other organs (EHU 7.9, 12, 14; SBN 64, 65, 66), a man struck with palsy (EHU 7.13; SBN 
+66), our power to raise up a new idea (EHU 7.16; SBN 67), the effects of sickness, time 
+of day, and food (EHU 7.19; SBN 68), descent of bodies, growth of plants, generation, 
+and nourishment (EHU 7.21; SBN 69), and vibration of a string causing a sound (EHU 
+7.29; SBN 77). In the case of induction, the contrast is even starker, with T 1.3.6 briefly 
+mentioning only one example (flame and heat at T 1.3.6.2; SBN 87), while EHU section 
+4 contains over twenty, some of which are developed extensively (for example, billiard 
+balls at EHU 4.8–10; SBN 28–30; momentum at EHU 4.13, 16; SBN 31,33; the nourishing 
+qualities of bread at EHU 4.16, 21; SBN 33–4, 37).
+45  If this claim is disputed, I offer a Humean challenge: you “have only one, and that 
+an easy method of refuting it; by producing” an example where deep iteration makes 
+good sense. “I cannot find, I cannot imagine any such [example]. But I keep my mind 
+still open to instruction, if any one will vouchsafe to bestow it on me.” (Quotations are 
+from EHU 2.6 and 4.20; SBN 19, 36; cf. also EHU 4.16, 23; SBN 34, 39.) To quality as a 
+plausible example, it is not enough just to give some formal recipe for iteration—as is 
+done, for example, by Garrett (“Hume’s Conclusions,” 162–63; Hume , 224–5) and Atkin -
+son and Peijnenburg (“Hume’s Treatise 1.4.1,” sections 3–5)—there must also be some 
+explanation of why iteration can reasonably be expected to improve our judgments and 
+thus can plausibly be considered a rational obligation. For a comment on Garrett, see 
+note 46 below. Atkinson and Peijnenburg provide an iterative sequence of tautological 
+(and to that extent unobjectionable) formulae, but we are given no explanation why 
+ascending the sequence might be helpful , since the formulae are calculable only on the 
+implausible (and unargued) assumption that the relevant conditional probabilities are 
+available to us at every level. Moreover, since the formulae involve an arbitrary threshold 
+of ¾, it seems that the approach can work for this value only if it works for all values, 
+thus requiring—again very implausibly—that the relevant probability distributions 
+are identical at every level.
+46  See also the “Two Modes” of “the more recent Sceptics” that Sextus presents at 
+Outlines  I.178–9. Despite the apparent relative crudity of these sceptical modes, Dauer, 
+“Hume’s Scepticism,” 214, 223, and Garrett, Hume , 223–6, understand Hume’s Regress 
+Argument in ways that are structurally similar, demanding an infinite hierarchy of in -
+creasingly high-level judgments to the effect that the previous judgment in the series 
+is respectively “OK” (that is, founded on reasoning that contains no illegitimate steps) 
+or “seemly” (that is, not overconfident). This sort of reading makes the argument much 
+simpler than Hume’s text suggests, removing any reference to specific or varying prob -
+abilities, and treating the issue at each level as simply binary (that is, either OK/seemly, 
+or not). But technically this approach may give the best chance of making sense of the 
+iterative reduction that Hume claims, because it focuses on a single positive  judgment at 
+each level, making it relatively plausible that weakening at any point in the hierarchy 
+would iterate downwards. Even if it can thus evade the problems discussed in section 
+5 above, however, it still fails to the more fundamental objections in section 6.
+47  This tempting speculation is strikingly corroborated by Thomas Reid’s discussion 
+of Hume’s Regress Argument, which ultimately leads along this same path, making 
+points against antecedent scepticism that are very similar to Hume’s in the Enquiry : 
+“If the Sceptic can seriously doubt of the truth and fidelity of his faculty of judging 
+when properly used, and suspend his judgment upon that point till he finds proof, his 
+scepticism admits of no cure by reasoning . . . until he have new faculties given him, Hume Studies204 Peter Millican
+which shall have authority to sit in judgment upon the old. . . . The Sceptic has here 
+got possession of a strong hold which is impregnable to reasoning, and we must leave 
+him in possession of it, till Nature, by other means, makes him give it up . . . no rea -
+soning can prove the truth and fidelity of our faculties. . . . For it is evident, that every 
+argument offered to prove the truth and fidelity of our faculties, takes for granted the 
+thing in question” ( Essays , VII.iv, 571).
+48  Hume’s description of “antecedent” scepticism might seem to imply that he takes 
+such scepticism to be  by definition  entirely a priori, in which case it would not encompass 
+the argument of Treatise  1.4.1, since that starts from the empirical observation that “our 
+fallible and uncertain faculties are very apt to . . . fall into error” (T 1.4.1.1; SBN 180). 
+Such an interpretation, however, seems inconsistent with Hume’s taking “Cartesian 
+doubt” as a paradigm, given that Descartes’s own sceptical arguments start from his 
+empirical awareness of “the large number of falsehoods that I had accepted as true,” his 
+finding that “the senses deceive,” and his appeal to the possibility of dreaming which is 
+also empirically based ( First Meditation,  12–3). Passmore, in Hume’s Intentions,  appears 
+to favour the a priori interpretation, while acknowledging that “the ‘scepticism with 
+regard to reason’ which Hume presents in the Treatise  . . . is there commingled, as it is 
+in Descartes, with what Hume calls ‘consequent scepticism’—the scepticism which 
+arises out of our discovery that our faculties not only might, but do in fact, lead us into 
+error” (134).
+49  Meeker, Hume’s Radical Scepticism , 91–96) argues that this “more moderate” scepti -
+cism of EHU 12.4 (SBN 150) could be just as radical as that of the Treatise , highlighting 
+the stated requirements to begin with self-evident principles and to examine  all the 
+consequences  of our conclusions (though Meeker acknowledges that these are hyper -
+bolic and not to be taken literally). But his main point—that reviewing and examining 
+consequences would naturally lead back to the Regress Argument—clearly fails if Hume 
+had by then seen the fatal flaws in that argument. Hence, Meeker’s reasoning would 
+tend to confirm that Hume had indeed seen these flaws, given that the Enquiry  describes 
+this scepticism as “more moderate,” and does not follow through to draw such extreme 
+consequences.
+50  Note that disciplined causal reasoning using general rules such as those of T 1.3.15 
+counts as one of the “general and more establish’d properties of the imagination,” to be 
+ascribed to “our judgment” or understanding rather than to the imagination or fancy 
+(T 1.3.13.1 1; SBN 149). If my argument of section 6 above is correct, then such reasoning 
+would have given Hume ample means for avoiding his dangerous dilemma without 
+relying on “trivial suggestions of the fancy.” That he did not see this way out—or, if he 
+did see it, did not pursue it—somewhat corroborates Loeb’s suggestion, alluded to in 
+note 36 above, that Hume in the Treatise  “is predisposed to secure a destructive result 
+. . . part of Hume wants to undo what he constructs, at least in its application to the 
+reflective person” ( Stability and Justification , 16). Hume’s calm defence of mitigated 
+scepticism in the first Enquiry , however, presents a very different outlook.
+51  Discussions that are especially relevant to the current paper are those by Morris, 
+“Hume’s Conclusion”; Loeb, Stability and Justification , 215–29; Meeker, Hume’s Radical 
+Scepticism , 70–81; and Ainslie, Hume’s True Scepticism , chap. 7; some others are men -
+tioned in note 36 above. Meeker puts particular emphasis on the strong influence of 
+Treatise  1.4.1, and the extent to which Hume’s position implies “epistemic egalitarian -Volume 44, Number 2, 2018205 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+ism” (that “all beliefs are equal, epistemically speaking,” 17). The first four chapters of 
+his book build a strong case for Hume’s being an epistemic egalitarian in Book 1 of the 
+Treatise , based mainly on the Regress Argument.
+52  It would be unreasonable to expect the Enquiry  to include an explicit retraction 
+of the Regress Argument. Hume very rarely discussed changes in his views, and by 
+his own account (in the 1775 Advertisement to the second volume of his Essays and 
+Treatises on Several Subjects ), the Treatise  was a “juvenile work, which the Author never 
+acknowledged”; hence reference back to it from the Enquiry  would be even less likely.
+53  I was struck by the dominance of this orthodoxy when compiling the section on 
+scepticism in my “Critical Survey of the Literature on Hume and the First Enquiry ” in 
+2000 (“Millican, Reading Hume , 461–72). At that time, nearly all of the discussions of 
+Hume’s scepticism that I was able to find focused on the Treatise  rather than the Enquiry , 
+and few even considered the differences between them. Those most sympathetic to such 
+a difference were by Noxon, Immerwahr, and Penelhum, “Hume’s Skepticism,” but the 
+most explicit comparative discussion included in the survey, McCormick, “A Change 
+in Manner,” argues that “there is no substantial difference” between the scepticism of 
+the Treatise  and of the Enquiry  (433), for brief summaries see Millican, Reading Hume , 
+422–3, 469).
+54  My own perspective on these matters is outlined in Millican, “Hume’s Chief 
+Argument,” which attempts to sketch a coherent narrative of Hume’s philosophical 
+development, starting from a strong interest in causation associated with various 
+topics of religious relevance (notably the Causal Maxim, materialism, and free will). 
+Lockean conceptual empiricism provided Hume with an attractive way of addressing 
+these topics, ultimately leading to his “chief argument” (so described in the subtitle of 
+his Abstract  of 1740), which then largely structures his first Enquiry  of 1748. From this 
+perspective, the extreme scepticism of Treatise  1.4 is something of a distraction from 
+Hume’s main purposes, where he is led off course by conceptual complications and 
+ingenious arguments—most notably the one discussed in the current paper—which he 
+later sees to be far less persuasive. A more detailed account of Hume’s “epistemological 
+evolution” between the Treatise  and Enquiry  is provided by Qu’s recent book (2020), 
+which considers both the scholarly and philosophical issues in considerable depth, 
+and draws illuminating comparisons with contemporary epistemology (tending to 
+confirm the strength of the Enquiry ’s approach). Qu’s account and my own are very 
+much in the same spirit, though he takes Treatise  1.4.7 to be more philosophically 
+coherent than I do, while I see Hume’s development as driven especially by the recog -
+nition that Treatise  1.4.1 is fatally flawed (and a consequent realisation that extreme 
+“antecedent scepticism” is hopeless). But Qu’s book nicely illustrates how systematic 
+comparison between Hume’s two rich and complex works can shed valuable light on 
+both of them, as well as opening new lines of study regarding Hume’s development. 
+There is huge scope here for both philosophical and historical investigation, and fertile 
+ground—hitherto largely neglected—for future scholars to explore.Hume Studies206 Peter Millican
+WORKS CITED
+Primary Works
+Arnauld, Antoine, and Pierre Nicole. Logic or the Art of Thinking  [The Port-Royal Logic, 1662]. 
+Translated by Jill Vance Buroker. Cambridge: Cambridge University Press, 1996.
+Bernoulli, Jacob. Ars Conjectandi, Opus Posthumum . Basel: Thurneysen Brothers, 1713.
+Descartes, René. Meditations on First Philosophy [1641]. Translated by John Cottingham. 
+In The Philosophical Writings of Descartes , vol. 2. Translated and edited by John 
+Cottingham, Robert Stoothoff, and Dugald Murphy, 3–62. Cambridge: Cambridge 
+University Press, 1984.
+Hume, David. A Treatise of Human Nature: A Critical Edition , vol. 1 [1739/40]. Edited by 
+David Fate Norton and Mary J. Norton. Oxford: Clarendon Press, 2007.
+Hume, David. An Enquiry Concerning Human Understanding  [1748]. Edited by Peter Mil -
+lican. Oxford: Oxford University Press, 2007.
+Hume, David. The Letters of David Hume , 2 vols. Edited by J. Y . T. Greig. Oxford: Clar -
+endon Press, 1932.
+Hutcheson, Francis. Synopsis of Metaphysics [1744]. In Logic, Metaphysics, and the Natural 
+Sociability of Mankind . Translated by Michael Silverthorne, 57–187. Indianapolis: 
+Liberty Fund, 2006.
+Locke, John. An Essay Concerning Human Understanding [1690]. Edited by P . H. Nidditch. 
+Oxford: Clarendon Press, 1975. (References indicated by “ Essay ” and given by book, 
+chapter and section number).
+Reid, Thomas. Essays on the Intellectual Powers of Man [1785]. Edited by Derek R. Brookes 
+and Knud Haakonssen. Edinburgh: Edinburgh University Press, 2002.
+Sextus Empiricus. Outlines of Scepticism [c. 200]. Translated and edited by Julia Annas 
+and Jonathan Barnes. Cambridge: Cambridge University Press, 2000.
+Secondary Works
+Ahmed, Arif. “Hume and the Independent Witnesses,” Mind  124 (2015): 1013–44.
+https://doi.org/10.1093/mind/fzv076
+Ainslie, Donald C. Hume’s True Scepticism . Oxford: Oxford University Press, 2015.
+Allison, Henry E. Custom and Reason in Hume . Oxford: Clarendon Press, 2008.
+Atkinson, David and Jeanne Peijnenburg. “Till at last there remain nothing: Hume’s 
+Treatise  1.4.1 in Contemporary Perspective,” Synthese , 2018.
+https://doi.org/10.1007/s1 1229-018-1883-8
+Babbage, Charles. Ninth Bridgewater Treatise , 2nd ed. London: John Murray, 1838.
+Baier, Annette. A Progress of Sentiments . Cambridge, MA: Harvard University Press, 1991.
+Bennett, Jonathan. Learning from Six Philosophers , vol. 2. Oxford: Clarendon Press, 2001.
+Broackes, Justin. “Hume, Belief, and Personal Identity.” In Reading Hume on Human 
+Understanding . Edited by Peter Millican, 187–210. Oxford: Clarendon Press, 2002.
+Capaldi, Nicholas. David Hume: The Newtonian Philosopher . Boston: Twayne Publish -
+ers, 1975.Volume 44, Number 2, 2018207 Hume’s Pivotal Argument, and His Supposed Obligation of Reason
+Dauer, Francis. “Hume’s Scepticism with Regard to Reason: A Reconsideration,” Hume 
+Studies  22 (1996): 21 1–30.
+DeWitt, Richard. “Hume’s Probability Argument of I iv 1,” Hume Studies  1 1 (1985): 
+125–40. https://doi.org/10.1353/hms.201 1.0582
+Durland, Karánn. “Extreme Skepticism and Commitment in the Treatise ,” Hume Studies  
+37 (201 1): 65–98. https://doi.org/10.1353/hms.201 1.0650
+Earman, John. Hume’s Abject Failure: The Argument Against Miracles . Oxford: Oxford 
+University Press, 2000.
+Flew, Antony. David Hume: Philosopher of Moral Science . Oxford: Blackwell, 1986.
+Fogelin, Robert. Hume’s Skepticism in the Treatise of Human Nature . London: Routledge 
+and Kegan Paul, 1985.
+Garfield, Jay L. The Concealed Influence of Custom: Hume’s Treatise from the Inside Out . 
+New York: Oxford University Press, 2019.
+Garrett, Don. Cognition and Commitment in Hume’s Philosophy . New York: Oxford Uni -
+versity Press, 1997.
+Garrett, Don. “Hume’s Conclusions in ‘Conclusion of this Book.’” In The Blackwell 
+Guide to Hume’s Treatise . Edited by Saul Traiger, 151–75. Oxford: Blackwell, 2006.
+Garrett, Don. Hume . New York: Routledge, 2015.
+Immerwahr, John. “A Skeptic’s Progress: Hume’s Preference for the First Enquiry. ” In 
+McGill Hume Studies . Edited by David Fate Norton, Nicholas Capaldi, and Wade L. 
+Robison, 227–38. San Diego: Austin Hill Press, 1979.
+Kemp Smith, Norman. The Philosophy of David Hume . London: Macmillan, 1941.
+Keynes, John Maynard. A Treatise on Probability . London: Macmillan, 1921.
+Laird, John. Hume’s Philosophy of Human Nature . London: Methuen, 1932.
+Loeb, Louis E. Stability and Justification in Hume’s Treatise . Oxford: Oxford University 
+Press, 2002.
+Lolordo, Antonia. “Probability and Skepticism about Reason in Hume’s Treatise ,” British 
+Journal for the History of Philosophy  8 (2000): 419–46.
+https://doi.org/10.1080/096087800442129
+Lynch, Michael P . “Hume and the Limits of Reason,” Hume Studies  22 (1996): 89–104.
+https://doi.org/10.1353/hms.201 1.0152
+MacNabb, D. G. C. David Hume: His Theory of Knowledge and Morality . London: Hutchin -
+son, 1951.
+MacNabb, D. G. C. “Hume.” In Encyclopedia of Philosophy . Edited by Paul Edwards, IV: 
+74–90. New York: Macmillan, 1967.
+Maher, Patrick. “Probability in Hume’s Science of Man,” Hume Studies  7 (1981): 137–53.
+https://doi.org/10.1353/hms.201 1.0599
+McCormick, Miriam. “A Change in Manner: Hume’s Scepticism in the Treatise  and the 
+First Enquiry ,” Canadian Journal of Philosophy  29 (1999): 431–47.
+https://doi.org/10.1080/00455091.1999.10717520
+Meeker, Kevin. Hume’s Radical Scepticism and the Fate of Naturalized Epistemology . Bas -
+ingstoke: Palgrave Macmillan, 2013.
+Meeker, Kevin and Ted Poston. “Skeptics without Borders,” American Philosophical 
+Quarterly  4 (2010): 223–37. https://doi.org/10.1057/9781 137025555
+Millican, Peter, ed. Reading Hume on Human Understanding . Oxford: Clarendon Press, 2002.Hume Studies208 Peter Millican
+Millican, Peter. “Twenty Questions about Hume’s ‘Of Miracles.’” In Philosophy and 
+Religion: Royal Institute of Philosophy Supplement 6 8. Edited by Anthony O’Hear, 
+151–92. Cambridge: Cambridge University Press, 201 1.
+https://doi.org/10.1017/S13582461 1 1000105
+Millican, Peter. “Hume’s ‘Scepticism’ about Induction.” In The Bloomsbury Companion to 
+Hume . Edited by Alan Bailey and Dan O’Brien, 57–103. London: Continuum, 2012.
+Millican, Peter. “Hume’s Chief Argument.” In The Oxford Handbook of David Hume . Edited 
+by Paul Russell, 82–108. New York: Oxford University Press, 2016.
+Morris, William Edward. “Hume’s Scepticism about Reason,” Hume Studies  15 (1989): 
+39–60. https://doi.org/10.1353/hms.201 1.0478
+Morris, William Edward. “Hume’s Conclusion,” Philosophical Studies  99 (2000): 89–1 10.
+https://doi.org/10.1023/A:1018783526215
+Nelson, Benjamin M. Hume’s “Of Scepticism with regard to Reason,” University of 
+Connecticut Doctoral Dissertations , 2017. https://opencommons.uconn.edu/  
+dissertations/1458/ .
+Norton, David Fate and Mary J. Norton. A Treatise of Human Nature: A Critical Edition , 
+vol. 2. Oxford: Clarendon Press, 2007.
+Noxon, James. Hume’s Philosophical Development . Oxford: Clarendon Press, 1973.
+Owen, David. “Scepticism with Regard to Reason.” In The Cambridge Companion to 
+Hume’s Treatise . Edited by Donald C. Ainslie and Annemarie Butler, 101–34. New 
+York: Cambridge University Press, 2015.
+Passmore, John. Hume’s Intentions , 3rd ed. London: Duckworth, 1980.
+Penelhum, Terence. Hume , London: Macmillan, 1975.
+Penelhum, Terence. “Hume’s Skepticism and the Dialogues .” In McGill Hume Studies . 
+Edited by David Fate Norton, Nicholas Capaldi, and Wade L. Robison, 253–78. San 
+Diego: Austin Hill Press, 1979.
+Popkin, Richard H. “David Hume: His Pyrrhonism and His Critique of Pyrrhonism,” 
+Philosophical Quarterly  1 (1951): 385–407. https://doi.org/10.2307/221631 1
+Prichard, H. A. “History of the Theory of Knowledge: Hume.” In Knowledge and Percep -
+tion , 174–99. Oxford: Clarendon Press, 1950.
+Qu, Hsueh M. Hume’s Epistemological Evolution . Oxford: Oxford University Press, 2020.
+Schmitt, Frederick F . Hume’s Epistemology in the Treatise: A Veritistic Interpretation . Oxford: 
+Oxford University Press, 2014.
+Singer, Ira. “Hume’s Extreme Skepticism in Treatise  I IV 7,” Canadian Journal of Philosophy  
+25 (1995): 595–622. https://doi.org/10.1080/00455091.1995.10717428
+Stewart, M. A. “Hume’s Intellectual Development, 171 1–52.” In Impressions of Hume . Ed-
+ited by Marina Frasca-Spada and P . J. E. Kail, 1 1–58. Oxford: Clarendon Press, 2005.
+Stove, D. C. Probability and Hume’s Inductive Scepticism . Oxford: Clarendon Press, 1973.
+Stroud, Barry. Hume . London: Routledge and Kegan Paul, 1977.
+Von Wright, Georg Henrik. The Logical Problem of Induction , 2nd revised edition. Oxford: 
+Blackwell, 1957.
+Williamson, Timothy. Knowledge and Its Limits . Oxford: Oxford University Press, 2000.
+Wilson, Fred. “Hume’s Sceptical Argument Against Reason,” Hume Studies  9 (1983): 
+90–129. https://doi.org/10.1353/hms.201 1.0551
+Wright, John P . Hume’s “A Treatise of Human Nature”: An Introduction . Cambridge: Cam -
+bridge University Press, 2009.

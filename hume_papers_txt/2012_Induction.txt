@@ -1,0 +1,4049 @@
+57     3 
+ HUME’S ‘SCEPTICISM’ 
+ABOUT INDUCTION
+Peter Millican   
+   ‘Is Hume a sceptic about induction?’ This 
+might seem to be a fairly straightforward 
+question,  but its appearance is misleading,  and 
+the appropriate response is not to give a direct 
+answer , but instead to move to a more funda-
+mental question which is suggested by Hume 
+himself at the beginning of his definitive dis-
+cussion of scepticism in  Enquiry   Section 12: 
+‘What is meant by a sceptic?’ (EHU 12.2 / 
+159).  His point here is that ‘sceptic’ can mean 
+many things,  and what counts as ‘sceptical’ 
+will often depend on the relevant contrast.  
+Someone who is sceptical about morality or 
+the existence of God,  for example,  need not 
+be sceptical about the external world.  And 
+someone who is sceptical about the  rational 
+basis  of inductive inference need not be scep-
+tical at all – in the sense of dismissive or crit-
+ical – about the practice itself.  
+ This crucial point about the varieties of 
+scepticism is often overlooked in discussions 
+of Hume on induction,  generating a great 
+deal of misunderstanding.  Commonly , the 
+debate will be framed in terms of a simple 
+contest between ‘sceptical’ and ‘non-scep-
+tical’ interpretations.  Then on the one side,  
+a case is made drawing on Hume’ s famous 
+negative argument which apparently denies 
+induction any basis in ‘reason’.  1   Meanwhile,  on the other side,  appeal is made to Hume’ s 
+writings as a whole – including the  Treatise , 
+ Essays ,  Enquiries ,  Dissertations ,  History   
+and  Dialogues  – which display a clear com-
+mitment to induction,  and even reveal their 
+author to be a fervent advocate of inductive 
+science.  The evidence on each side is then 
+judiciously weighed,  and an appropriate con-
+clusion drawn depending on which way the 
+balance falls.  But this whole procedure is mis-
+directed,  because once we recognize the varie-
+ties of scepticism,  it becomes clear that  these 
+two bodies of evidence are not in conflict .  
+  1. A SCEPTIC AL ARGUMENT , WITH 
+A NON-SCEPTIC AL OUTCOME 
+ In this chapter , I shall maintain that Hume’ s 
+argument concerning induction is indeed a  
+sceptical argument,  in the sense of showing  
+that inductive extrapolation from observed  
+to unobserved lacks any independent rational  
+warrant.  To avoid any misunderstanding  
+on the way , however , it will help to be clear  
+from the start that this is entirely compatible  
+with his wholehearted endorsement of such  
+extrapolation as the only legitimate method  
+9780826443595_Ch03_Final_txt_print.indd   579780826443595_Ch03_Final_txt_print.indd   57 4/17/2012   3:58:28 PM4/17/2012   3:58:28 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+58for reaching conclusions about ‘any matter  
+of fact,  which lies beyond the testimony of  
+sense or memory’ (EHU 12.22 / 159).  The 
+two may initially seem incompatible,  but if  
+so, this is because we are taking for granted  
+that a method of inference is to be relied upon  
+ only  if it can be given an independent rational  
+warrant.  And one of the central messages of  
+Hume’ s philosophy is that this assumption is  
+itself a rationalist prejudice that we should  
+discard,  even though it is shared by both  
+the Cartesian dogmatist and the extreme  
+‘Pyrrhonian’ sceptic.  In the contest between  
+those two extremes,  the Pyrrhonist ‘seems  
+to have ample matter of triumph’ while he  
+‘justly’ urges Hume’ s own ‘sceptical doubts’ of  
+ Enquiry  4 (the famous argument which is then  
+summarized at EHU 12.22 / 159).  However , 
+the appropriate response,  as Hume himself  
+explains,  is not to follow the dogmatist in  
+vainly attempting to challenge the argument  
+that yields these doubts,  but rather to ask the  
+Pyrrhonist: ‘ What his meaning is? And what  
+he proposes b y all these curious researc hes? ’ 
+(EHU 12.23 / 159).  What,  after all,  does he  
+really expect us to do in response to this scep-
+tical argument,  even if we fully accept it? Is  
+he seriously proposing that we should stop  
+drawing inferences about the unobserved?  
+That would obviously be absurd:
+  a  Pyrrhonian  . . . must acknowledge,  if 
+he will acknowledge any thing,  that all 
+human life must perish,  were his princi-
+ples universally and steadily to prevail.  
+All discourse,  all action would immedi-
+ately cease; and men remain in a total 
+lethargy , till the necessities of nature,  
+unsatisfied,  put an end to their miserable 
+existence.  (EHU 12.23 / 160)   
+ Theoretically , the Pyrrhonist might try to 
+deny any such disastrous consequences,  on 
+the ground that if induction is unwarranted,  then we have no good reason for supposing 
+that human life will indeed perish in these cir -
+cumstances.  But Hume suggests that even the 
+Pyrrhonist – whatever his theoretical commit-
+ments – will be quite unable to insulate him-
+self from such common-sense beliefs: ‘Nature 
+is always too strong for principle.  . . . the first 
+and most trivial event in life will put to flight 
+all his doubts and scruples,  and leave him the 
+same,  in every point of action and specula-
+tion’ with the rest of us (EHU 12.23 / 160).  
+ Hume cannot,  of course,   prove  that 
+putting total scepticism into practice will lead 
+inevitably to disaster , at least not to the sat-
+isfaction of the Pyrrhonist who consistently 
+refrains from induction.  Nor can he  prove  
+that common life will always trump scepti-
+cal principle.  But  if in f act  Hume’ s inductive 
+conclusions about human psychology are 
+correct,  then he does not need to prove these 
+points to any such opponent:
+  Nature,  by an absolute and uncontroula-
+ble necessity has determin’d us to judge 
+as well as to breathe and feel; nor can 
+we any more forbear [making inductive 
+inferences],  than we can hinder ourselves 
+from thinking as long as we are awake,  
+or seeing the surrounding bodies,  when 
+we turn our eyes towards them in broad 
+sunshine.  Whoever has taken the pains to 
+refute the cavils of this  total  scepticism,  
+has really disputed without an antagonist,  
+and endeavour’d by arguments to estab-
+lish a faculty , which nature has anteced-
+ently implanted in the mind,  and render’d 
+unavoidable.  (THN 1.4.1.7 / 183)   
+ So  if in f act  the sceptic’ s doubts will be spon-
+taneously ‘put to flight’ as soon as common 
+life intrudes,  then Hume’ s point is practic-
+ally successful even if theoretically unproved.  
+And recall again that  Hume himself need 
+not be committed to accepting onl y what is 
+9780826443595_Ch03_Final_txt_print.indd   589780826443595_Ch03_Final_txt_print.indd   58 4/17/2012   3:58:28 PM4/17/2012   3:58:28 PM59HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+theoreticall y prov able  – that is the very preju-
+dice which he is aiming to undermine.  
+ Hume’ s subtle approach to scepticism 
+is made harder to appreciate by the vigour 
+and rhetoric of some of his negative argu-
+ments and conclusions (especially in the 
+ Treatise , where his ultimate position on 
+scepticism remains relatively obscure),  but 
+also, I suspect,  by the widespread tradition 
+of approaching scepticism initially through 
+Descartes’ s  Meditations . Descartes sees the 
+sceptic as an opponent to be refuted out-
+right,  through rational argument of such 
+overwhelming force as to be immune to any 
+possible doubt.  He thus takes on the onus of 
+providing an ultimate justification of human 
+reason,  with any ineradicable doubt telling 
+in favour of his sceptical opponent.  Hume 
+succinctly points out the fundamental flaw 
+in this approach immediately after having 
+raised the question ‘What is meant by a scep-
+tic?’ at the beginning of  Enquiry  Section 12:
+  There is a species of scepticism,   anteced-
+ent  to all study and philosophy , which 
+is much inculcated by  Des C artes  . . . 
+It recommends an universal doubt .  . . 
+of our very faculties; of whose verac-
+ity . . . we must assure ourselves,  by a 
+chain of reasoning,  deduced from some 
+original principle,  which cannot possibly 
+be fallacious or deceitful.  But neither is 
+there any such original principle,  which 
+has a prerogative above others,  that are 
+self-evident and convincing: Or if there 
+were,  could we advance a step beyond 
+it, but by the use of those very faculties,  
+of which we are supposed to be already 
+diffident.  The  Cartesian  doubt,  there-
+fore, were it ever possible to be attained 
+by any human creature (as it plainly is 
+not) would be entirely incurable; and no 
+reasoning could ever bring us to a state 
+of assurance and conviction upon any 
+subject.  (EHU 12.3 / 149–50)    Such  antecedent scepticism  is utterly unwork-
+able, because in refusing to trust our facul-
+ties from the start,  we are denying ourselves 
+the only tools that could possibly provide 
+any solution.  The proper alternative,  Hume 
+seems to be saying,  is to accord our faculties 
+some initial default authority , and to resort 
+to practical scepticism about them only ‘ con-
+sequent  to science and enquiry’,  in the event 
+that those investigations reveal their ‘falla-
+ciousness’ or ‘unfitness’ (EHU 12.5 / 150).  
+Thus the onus is shifted onto the sceptic to 
+give reasons for mistrusting our faculties,  
+and in the case of induction,  that onus is at 
+most only partially fulfilled.  Admittedly ,
+  The sceptic .  . . seems to have ample mat-
+ter of triumph; while he justly insists,  
+that all our evidence for any matter of 
+fact, which lies beyond the testimony of 
+sense or memory , is derived entirely from 
+the relation of cause and effect; that we 
+have no other idea of this relation than 
+that of two objects,  which have been 
+frequently  conjoined  together;  2   that we 
+have no argument to convince us,  that 
+objects,  which have,  in our experience,  
+been frequently conjoined,  will likewise,  
+in other instances,  be conjoined in the 
+same manner; and that nothing leads us 
+to this inference but custom or a certain 
+instinct of our nature; which it is indeed 
+difficult to resist,  but which,  like other 
+instincts,  may be fallacious and deceitful.  
+(EHU 12.22 / 159)   
+ But this result – as we have seen – gives no 
+practical basis for scepticism.  Certainly it 
+raises a ground for theoretical concern,  and 
+highlights ‘the whimsical condition of man-
+kind,  who must act and reason and believe; 
+though they are not able,  by their most 
+diligent enquiry , to satisfy themselves con-
+cerning the foundation of these operations’ 
+9780826443595_Ch03_Final_txt_print.indd   599780826443595_Ch03_Final_txt_print.indd   59 4/17/2012   3:58:29 PM4/17/2012   3:58:29 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+60(EHU 12.23 / 160).  But unless we are in the 
+grip of the rationalist prejudice that Hume 
+rejects,  we should not see this lack of theoret-
+ical satisfaction as sufficient reason to aban-
+don our only respectable method of inference 
+about the unobserved.  That would be to take 
+the sceptical considerations to a ridiculous 
+(and anyway unachievable) extreme.  Instead,  
+the appropriate response is less dramatic but 
+far more valuable: to recognize our ‘whimsi-
+cal condition’ as a ground for modesty about 
+the depth and extent of our powers,  and to 
+adopt a ‘mitigated scepticism’ which is cor -
+respondingly diffident and cautious (EHU 
+12.24 / 161–2),  and which confines our atten-
+tion to the subjects of common life,  ‘avoiding 
+distant and high enquiries’:
+  While we cannot give a satisfactory rea-
+son, why we believe,  after a thousand 
+experiments,  that a stone will fall,  or 
+fire burn; can we ever satisfy ourselves 
+concerning any determination,  which we 
+may form,  with regard to the origin of 
+worlds,  and the situation of nature,  from,  
+and to eternity? (EHU 12.25 / 162)   
+ This sentence is Hume’ s last word on the 
+question of inductive scepticism,  and rep-
+resents the conclusion of a coherent line of 
+thought which can be traced from the begin-
+ning of  Enquiry  Section 12,  his most clear and 
+explicit – and repeatedly refined –  treatment 
+of scepticism as a whole.  So far , then,  we have 
+a clear outline of his mature position.   
+  2. HUME’S SCEPTIC AL ARGUMENT 
+ The main aim of this chapter is to understand 
+the logic and significance of Hume’ s famous 
+argument,  and in particular its implications for his notion of ‘reason’ and for the rational 
+status of inductive inference.  These issues 
+are far from straightforward,  partly because 
+the argument appears three times in Hume’ s 
+works,  with many differences between the 
+three presentations – some of them highly 
+significant – and clear evidence of a system-
+atic development in his views.  But for our 
+purposes,  it will be enough here just to high-
+light the most salient points.  
+   2.1 T HE ARGUMENT  OF THE  TREATISE  
+ In the  Treatise , the famous argument occurs 
+within the context of Hume’ s rather ram-
+bling search for the origin of the idea of 
+ necessary connexion , which he has previ-
+ously (THN 1.3.2.11 / 77) identified as the 
+key component of our idea of causation.  Not 
+having ‘any certain view or design’ on how 
+to trace the impression(s) that could account 
+for this crucial idea,  he sets off to ‘beat about 
+all the neighbouring fields’ in the hope that 
+something will turn up (THN 1.3.2.12–13 
+/ 77–8).  His first such ‘field’ concerns the 
+basis of the Causal Maxim ‘that  whatev er 
+begins to exist,  must hav e a cause of exist-
+ence ’ (THN 1.3.3.1 / 78),  but after conclud-
+ing that this Maxim cannot be ‘intuitively or 
+demonstratively certain’,  3   he quickly moves 
+on to a related question,  ‘ Why we conclude,  
+that suc h particular causes must necessar -
+ily hav e suc h particular effects,  and wh y we 
+form an inference from one to another?  ’ 
+(THN 1.3.3.8–9 / 82).  He soon narrows his 
+focus onto what he considers the paradigm 
+case of a causal inference,  from a sensory 
+ impression  of one ‘object’ (for example,  we 
+see a flame),  to forming a belief – a lively 
+ idea  – of its effect or cause (for example,  we 
+expect heat).  He then analyses such an infer -
+ence into its component parts: ‘ First , The 
+original impression.   Secondl y , The transition 
+9780826443595_Ch03_Final_txt_print.indd   609780826443595_Ch03_Final_txt_print.indd   60 4/17/2012   3:58:29 PM4/17/2012   3:58:29 PM61HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+to the idea of the connected cause or effect.  
+ Thirdl y , The nature and qualities of that 
+idea’ (THN 1.3.5.1 / 84).  The remainder of 
+Section 1.3.5 discusses the first component,  
+then 1.3.6,  entitled ‘Of the Inference from the 
+Impression to the Idea’,  comes to the second 
+component,  the causal inference itself.  4   
+ Hume’ s first move,  in discussing this 
+paradigm causal inference,  is to insist that it 
+cannot be made a priori,  simply from obser -
+vation of the cause:
+  There is no object,  which implies the 
+existence of any other if we consider 
+these objects in themselves,  and never 
+look beyond the ideas which we form of 
+them.  Such an inference .  . . wou’d imply 
+the absolute contradiction and impossi-
+bility of conceiving any thing different.  
+But as all distinct ideas are separable,  
+’tis evident there can be no impossibil-
+ity of that kind.  When we pass from a 
+present impression to the idea of any 
+object,  we might possibly have separated 
+the idea from the impression,  and have 
+substituted any other idea in its room.  
+(THN 1.3.6.1 / 86–7)   
+ Here Hume is appealing to the principle that 
+if an inference is to be a priori,  there must 
+be an  absolute contr adiction and impossi-
+bility  of conceiving things as turning out 
+differently: an a priori inference has to yield 
+total certainty . He also seems to be taking for 
+granted that such a contradiction in concep-
+tion implies a contradiction in fact,  which is 
+closely related to his Conceivability Principle 
+that  whatev er we concei ve is possible  (this 
+makes a more explicit entrance shortly , at 
+THN 1.3.6.5 / 89).  Note also his appeal to 
+what is commonly called his Separability 
+Principle,  that ‘all distinct ideas are separ -
+able’ (cf.  THN 1.1.3.4 / 10,  1.1.7.3 / 18–19,  
+1.3.3.3 / 79–80),  which plays a major role in the  Treatise  but disappears from his later 
+writings.  5   
+ Hume has now established one of the 
+most important results of his philosophy: 
+‘’Tis . . . by  experience  only , that we can 
+infer the existence of one object from that of 
+another .’ (THN 1.3.6.2 / 87).  And he imme-
+diately goes on to explain that the kind of 
+experience which prompts such a causal 
+inference is repeated conjunctions of pairs of 
+‘objects .  . . in a regular order of contiguity 
+and succession’.  Where we have repeatedly 
+seen  A  closely followed by  B , ‘we call the 
+one  cause  and the other  effect , and infer the 
+existence of the one from that of the other’.  
+Hume enthusiastically trumpets this relation 
+of  constant conjunction  as the sought-for key 
+to the crucial notion of necessary connexion,  
+with a clear allusion back from THN 1.3.6.3 
+/ 87 to 1.3.2.11 / 77,  6   and he celebrates the 
+progress of his rambling journey of discov-
+ery. Admittedly there is still some way to go,  
+because mere repetition of conjunctions does 
+not seem to generate ‘any new original idea,  
+such as that of a necessary connexion’.  But 
+the line of investigation seems clear:
+  having found,  that after the discovery of  
+the constant conjunction  of any objects,  
+we always draw an inference from one  
+object to another , we shall now examine  
+the nature of that inference .  . . Perhaps  
+’twill appear in the end,  that the neces-
+sary connexion  depends on the inference,  
+instead of the inference’ s depending on the  
+necessary connexion.  (THN 1.3.6.3 / 88)    
+ This last sentence provides an elegant 
+ epitome of the link between Hume’ s theories 
+of induction and causation,  anticipating the 
+eventual outcome of his quest for the elusive 
+impression of necessary connexion (which 
+will come much later , at THN 1.3.14.20 / 
+164–5).  For present purposes,  however , we 
+9780826443595_Ch03_Final_txt_print.indd   619780826443595_Ch03_Final_txt_print.indd   61 4/17/2012   3:58:29 PM4/17/2012   3:58:29 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+62can forget about that quest,  and focus on the 
+nature of inductive inference.  
+ Having established that causal inference 
+‘from the impression to the idea’ (e.g.  from 
+seeing  A  to expecting  B ) depends on experi-
+ence,  Hume goes on to pose the central ques-
+tion that his argument aims to answer , namely 
+which  mental f aculty  is responsible for the 
+inference: ‘the next question is,  Whether 
+experience produces the idea by means of the 
+understanding or imagination; whether we 
+are determin’d by reason to make the tran-
+sition,  or by a certain association and rela-
+tion of perceptions?’ (THN 1.3.6.4 / 88–9).  
+  If the faculty of  reason  were responsible,  
+Hume says,  this would have to be on the basis  
+of an assumption of similarity between past  
+and future,  commonly called his Uniformity  
+Principle: ‘If reason determin’d us,  it wou’d  
+proceed upon that principle,   that instances,  of 
+which we hav e had no experience,  must resem-
+ble those,  of whic h we hav e had experience,  
+and that the cour se of nature continues alw ays 
+uniforml y the same. ’ (THN 1.3.6.4 / 89).    So 
+the next stage is to see whether there is any 
+argument by which reason could establish 
+this principle,  and if there is not,  then Hume 
+will conclude that reason cannot be the basis 
+for our inductive inferences.  
+ Following the standard categoriza-
+tion deriving from John Locke,  7   just two 
+types of argument are potentially available,  
+ demonstr ative  and  probable , and Hume 
+now eliminates each in turn.  First,   demon-
+strative  arguments proceed with absolute 
+certainty based on self-evident (‘intuitive’) 
+relationships between the ideas concerned; 
+these sorts of argument are capable of yield-
+ing ‘knowledge’ in the strict sense,  and are 
+mostly confined to mathematics.  8   But no such 
+argument can possibly prove the Uniformity 
+Principle,  because that would mean the prin-
+ciple is absolutely guaranteed,  which the Conceivability Principle shows it cannot be: 
+‘We can at least conceive a change in the 
+course of nature; which sufficiently proves,  
+that such a change is not absolutely impos-
+sible.  To form a clear idea of any thing,  is an 
+undeniable argument for its possibility , and 
+is alone a refutation of any pretended dem-
+onstration against it’ (THN 1.3.6.5 / 89).  As 
+for  probable  arguments (that is,  arguments in 
+which we draw conclusions – typically about 
+things in the world of our everyday experi-
+ence – with less than total certainty),  these 
+must be based on causal relations,  because 
+causation is ‘The only .  . . relation of objects 
+. . . on which we can found a just inference 
+from one object to another’ (THN 1.3.6.7 / 
+89).  9   But Hume has just argued that causal 
+inference is ‘founded on the presumption of a 
+resemblance betwixt those objects,  of which 
+we have had experience,  and those,  of which 
+we have had none’ (an argument that he reca-
+pitulates at THN 1.3.6.6–7 / 89–90,  echoing 
+the discussion of THN 1.3.4.1–4 / 82–9).  10   
+And since probable inference relies on causal 
+relations,  ‘’tis impossible this presumption 
+[of the Uniformity Principle] can arise from 
+probability’,  on pain of  circularity .  11   So 
+neither demonstrative nor probable argu-
+ments can provide any solid basis for the 
+Uniformity Principle,  and Hume quickly 
+concludes that  reason  cannot be responsible 
+for causal inference:  12  
+  Thus not only our reason fails us in the 
+discovery of the  ultimate connexion  of 
+causes and effects,  but even after experi-
+ence has inform’d us of their  constant con-
+junction , ’tis impossible for us to satisfy 
+ourselves by our reason,  why we shou’d 
+extend that experience beyond those 
+particular instances,  which have fallen 
+under our observation.  We suppose,  but 
+are never able to prove,  that there must 
+be a resemblance betwixt those objects,  
+9780826443595_Ch03_Final_txt_print.indd   629780826443595_Ch03_Final_txt_print.indd   62 4/17/2012   3:58:30 PM4/17/2012   3:58:30 PM63HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+of which we have had experience,  and 
+those which lie beyond the reach of our 
+discovery . (THN 1.3.6.11 / 91–2)   
+ Instead,  such inference must derive from asso-
+ciative principles in the  imagination  (THN 
+1.3.6.12 / 92),  and in particular , from a mech-
+anism which Hume calls  custom  (e.g.  THN 
+1.3.7.6 / 97,  1.3.8.10 / 102) or  habit  (e.g.  
+THN 1.3.10.1 / 118).  Experience of constant 
+conjunction between  A  and  B  establishes an 
+associative connexion between them,  mak-
+ing our mind habitually move easily from 
+the idea of one to the idea of the other . When 
+we then see an  A , the ‘force and vivacity’ of 
+that sense impression is transferred through 
+the associative link to our idea of  B , enliven-
+ing it into a belief.  Hume accordingly goes on 
+to define a belief as ‘ a livel y idea rela ted 
+to or a ssocia ted with a present impres-
+sion ’ (THN 1.3.7.5 / 96),  and to expand on 
+this theory of belief formation over the sub-
+sequent sections.   
+   2.2 F ROM THE  TREATISE   TO THE  ABSTR ACT 
+ Given the fame that it has subsequently 
+enjoyed,  Hume’ s argument in  Treatise  1.3.6 
+is surprisingly inconspicuous.  It occurs within 
+a detour (at THN 1.3.3.9 / 82) from a ram-
+ble through fields (THN 1.3.2.13 / 77–8); the 
+core of it occupies only six fairly short para-
+graphs (1–2 / 86–7 and 4–7 / 88–90); and its 
+primary role seems to be to identify  custom  
+as the ground of causal belief – as a compo-
+nent in Hume’ s larger theory of belief – rather 
+than to emphasize its own apparently scep-
+tical conclusion.  He does later remark on the 
+striking nature of this conclusion:  13  
+  Let men be once fully perswaded of these 
+two principles,   that there is nothing in 
+any object,  consider’ d in itself , whic h can afford us a reason for dr awing a conclu-
+sion be yond it; and,  that ev en after the 
+observ ation of the frequent or constant 
+conjunction of objects,  we hav e no rea-
+son to dr aw an y inference concerning an y 
+object be yond those of whic h we hav e had 
+experience  ; . . . and this will throw them 
+so loose from all common systems,  that 
+they will make no difficulty of receiving 
+any, which may appear the most extraor -
+dinary . (THN 1.3.12.20 / 139)   
+ But this again is within a context where his 
+aim is to develop his theory of belief,  now 
+focusing on inferences involving  probability  
+where the relevant past conjunctions are not 
+constant.  
+ Books 1 and 2 of the  Treatise  were pub-
+lished at the end of January 1739,  but well 
+before the end of that year , Hume seems to 
+have radically reassessed the significance of 
+his philosophy . By then he had written his 
+ Abstr act  of the  Treatise , which appeared 
+in print in March 1740,  and which devotes 
+8 paragraphs out of 35 (paragraphs 8 and 
+10–16) to the famous argument.  From being 
+a very small part of a much larger system,  
+suddenly it becomes the prime focus of 
+his philosophy , as it remained in the first 
+ Enquiry  of 1748,  which can indeed be seen 
+as mainly constructed around the argument 
+and its implications.  
+ The declared purpose of the argument in 
+the  Abstr act  is to understand ‘all reasonings 
+concerning  matter of f act ’ (Abs.  8 / 649),  
+rather than limiting discussion to the para-
+digm case of a causal inference – ‘the infer -
+ence from the impression to the idea’ – which 
+had been the topic of  Treatise  1.3.6.  But 
+Hume then immediately states that all such 
+ factual reasonings   (to coin a shorthand term) 
+‘are founded on the relation of cause and 
+effect’,  thus making clear that causal infer -
+ence is still the focus.  However , this initial 
+9780826443595_Ch03_Final_txt_print.indd   639780826443595_Ch03_Final_txt_print.indd   63 4/17/2012   3:58:30 PM4/17/2012   3:58:30 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+64move is helpful in both emphasizing the gen-
+erality of the argument and also streamlining 
+it, avoiding the need for the recapitulation of 
+his treatment of causal reasoning which had 
+occupied THN 1.3.6.6–7 / 89–90.  Now , in 
+proving that all causal reasoning presupposes 
+the Uniformity Principle,  he will have proved 
+at the same time that ‘all reasoning concern-
+ing  matter of f act ’ – and hence all  probable  
+reasoning – has such a dependence.  14   
+ To facilitate discussion,  Hume introduces 
+the simple example of one billiard ball strik-
+ing another and causing it to move (Abs.  9–10 
+/ 649–50).  He then presents a vivid thought-
+experiment,  imagining the first man Adam,  
+newly created by God,  and confronted with 
+such an imminent collision:
+  without experience,  he would never be 
+able to infer motion in the second ball 
+from the motion and impulse of the 
+first. It is not any thing that reason sees 
+in the cause,  which makes us  infer  the 
+effect.  Such an inference,  were it possi-
+ble, would amount to a demonstration,  
+as being founded merely on the compari-
+son of ideas.  But no inference from cause 
+to effect amounts to a demonstration.  
+Of which there is this evident proof.  The 
+mind can always  concei ve  any effect to 
+follow from any cause,  and indeed any 
+event to follow upon another: what-
+ever we  concei ve  is possible,  at least in a 
+metaphysical sense: but wherever a dem-
+onstration takes place,  the contrary is 
+impossible,  and implies a contradiction.  
+There is no demonstration,  therefore,  
+for any conjunction of cause and effect.  
+(Abs.  11 / 650–1)   
+ Compared to the equivalent passage in the 
+ Treatise  (THN 1.3.6.1 / 86–7),  this is clearer 
+and more straightforward,  proving by dir -
+ect appeal to the Conceivability Principle 
+a general lesson which he states even more forthrightly elsewhere: ‘that to consider the 
+matter  a priori , any thing may produce any 
+thing’ (THN 1.4.5.30 / 247,  cf. 1.3.15.1 / 
+173, EHU 12.29 / 164).  
+ So experience is necessary to ground any 
+causal inference (and hence any inference 
+‘concerning  matter of f act ’). And Hume goes 
+on to explain that the type of experience rel-
+evant to his thought-experiment would be of 
+‘several instances’ (Abs.  12 / 651) in which 
+Adam saw the collision of one ball into 
+another followed by motion in the second 
+ball. Such experience would condition him 
+‘to form a conclusion suitable to his past 
+experience’,  and thus to expect more of the 
+same.  ‘It follows,  then,  that all reasonings 
+concerning cause and effect,  are founded 
+on experience,  and that all reasonings from 
+experience are founded on the supposition,  
+that the course of nature will continue uni-
+formly the same’.  (Abs.  13 / 651).  So as in 
+the  Treatise , we reach Hume’ s Uniformity 
+Principle,  and he now proceeds accordingly 
+to consider what rational basis this principle 
+could be given:
+  ’Tis evident,  that  Adam  . . . would never 
+have been able to  demonstr ate , that the 
+course of nature must continue uni-
+formly the same,  and that the future 
+must be conformable to the past.  What 
+is possible can never be demonstrated to 
+be false; and ’ tis possible the course of 
+nature may change,  since we can con-
+ceive such a change.  (Abs.  14 / 651)   
+ As in the  Treatise , we have an appeal to 
+the Conceivability Principle to show that a 
+change in the course of nature is possible,  
+which in turn implies that uniformity cannot 
+be demonstrated.
+  Nay, . . . [  Adam ] could not so much as  
+prove by any  probable  arguments,  that the  
+9780826443595_Ch03_Final_txt_print.indd   649780826443595_Ch03_Final_txt_print.indd   64 4/17/2012   3:58:30 PM4/17/2012   3:58:30 PM65HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+future must be conformable to the past.  
+All probable arguments are built on the  
+supposition,  that there is this conformity  
+betwixt the future and the past,  and there-
+fore can never prove it.  This conformity is  
+a  matter of f act , and if it must be proved,  
+will admit of no proof but from experi-
+ence. But our experience in the past can  
+be a proof of nothing for the future,  but 
+upon a supposition,  that there is a resem-
+blance betwixt them.  This therefore is a  
+point,  which can admit of no proof at all,  
+and which we take for granted without  
+any proof.  (Abs.  14 / 651–2)    
+ Here the logical circularity of attempting to  
+give a probable argument for the Uniformity  
+Principle is more explicitly spelled out than  
+in the  Treatise.  With both demonstrative and  
+probable argument eliminated,  Hume briskly  
+concludes that ‘We are determined by  custom  
+alone to suppose the future conformable to the  
+past. . . . ’Tis not,  therefore,  reason,  which is the  
+guide of life,  but custom’ (Abs.  15–16 / 652).  15    
+   2.3 T HE ARGUMENT  OF THE  ENQUIRY  
+ In the  Enquiry concerning Human  
+Under standing  of 1748,  the famous negative  
+argument occupies virtually all of Section 4,  
+with the positive account in terms of  custom   
+appearing in Section 5.  Compared with the  
+versions in the  Treatise  and  Abstr act , the 
+argument is clarified and greatly expanded,  
+leaving little doubt that Hume considers this  
+his definitive presentation.  
+ Section 4 starts with an important dis-
+tinction now commonly known as ‘Hume’ s 
+Fork’,  between  relations of ideas  – that is,  
+propositions (notably from mathematics) 
+that can be known to be true a priori,  just by 
+examining and reasoning with the ideas con-
+cerned – and  matter s of f act  – that is,  propo-
+sitions whose truth or falsehood depends on how the world is,  and so can be known (if at 
+all) only through experience.  Some matters of 
+fact we learn directly by perception,  and can 
+later recall.  16   But what of the rest? Hume sets 
+himself to address this key question: ‘what 
+is the nature of that evidence,  which assures 
+us of any real existence and matter of fact,  
+beyond the present testimony of our senses,  
+or the records of our memory’ (EHU 4.3 / 
+26)? On what basis do we infer from what we 
+perceive and remember , to conclusions about 
+further , unobserved,  matters of fact? 
+ Hume calls such inferences ‘reasonings 
+concerning matter of fact’ (EHU 4.4 / 26),  
+a term we saw introduced just once in the 
+ Abstr act  but which now becomes his stand-
+ard way of referring to what he had pre-
+viously called ‘probable arguments’.  The 
+reason for this terminological adjustment 
+seems to be to avoid the infelicity of calling 
+such inferences merely ‘probable’ even when 
+they are based on vast and totally uniform 
+past experience that yields complete ‘moral 
+certainty’ (that is,  practical assurance).  In a 
+footnote to the heading of Section 6,  Hume 
+will accordingly draw a distinction – within 
+the class of ‘reasonings concerning matter of 
+fact’ – between  probabilities  and  proofs , the 
+latter being ‘such arguments from experience 
+as leave no room for doubt or opposition’,  as 
+when we conclude that ‘all men must die,  or 
+that the sun will rise to-morrow’.  17   
+ In  Enquiry  4, the famous argument now  
+proceeds much as it had in the  Abstr act , albeit  
+greatly filled out.  The appendix to this chap-
+ter lays out a structure diagram involving 20  
+stages,  18   with the stages numbered accord-
+ing to the logic of the argument.  The same  
+numbers will be followed here,  within square  
+brackets,  to enable easy cross-referencing.  
+First,  we learn that [2] ‘All reasonings concern-
+ing matter of fact seem to be founded on the  
+relation of  Cause and Effect  ’ (EHU 4.4 / 26),  
+9780826443595_Ch03_Final_txt_print.indd   659780826443595_Ch03_Final_txt_print.indd   65 4/17/2012   3:58:30 PM4/17/2012   3:58:30 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+66since [1] ‘By means of that relation alone we  
+can go beyond the evidence of our memory  
+and senses’.  As in the  Abstr act , starting in this  
+way has the virtue of streamlining the argu-
+ment that follows,  so that conclusions then  
+drawn about  causal  reasoning will automati-
+cally apply to the entire class of  factual  reason-
+ing. The first of these conclusions,  as before,  is 
+that [5] all knowledge of causal relations must  
+be founded on experience: ‘the knowledge  
+of this relation [i.e.  causation] is not,  in any  
+instance,  attained by reasonings  a priori ; but 
+arises entirely from experience,  when we find,  
+that any particular objects are constantly con-
+joined with each other’.  (EHU 4.6 / 27).  Again  
+we get a thought-experiment involving Adam,  
+but this time with water and fire,  illustrat-
+ing the general truth that [3] ‘No object ever  
+discovers [i.e.  reveals],  by the qualities which  
+appear to the senses,  either the causes which  
+produced it,  or the effects which will arise  
+from it’.  This is relatively easy to see when the  
+phenomena are untypical or unfamiliar , such  
+as the unexpected adhesion between smooth  
+slabs of marble,  the explosion of gunpow-
+der, or the powers of a (magnetic) lodestone,  
+where we have no temptation to imagine  
+that we could have predicted these effects  
+in advance (EHU 4.7 / 28).  But with com-
+monplace occurrences,  such as the impact of  
+billiard balls (EHU 4.8 / 28–9),  we might sup-
+pose that the effect was foreseeable a priori.  
+To prove that this is an illusion,  Hume asks us  
+to imagine how we could possibly proceed to  
+make such an a priori inference,  arguing that  
+we could not,  on the grounds that the effect is  
+a quite distinct event from the cause (EHU 4.9  
+/ 29),  while many different possible effects  
+are equally conceivable (EHU 4.10 / 29–30).  
+Summing up [4]:
+  every effect is a distinct event from 
+its cause.  It could not,  therefore,  be discovered in the cause,  and the first 
+invention or conception of it,   a priori , 
+must be entirely arbitrary . And even after 
+it is suggested,  the conjunction of it with 
+the cause must appear equally arbitrary; 
+since there are always many other effects,  
+which,  to reason,  must seem fully as con-
+sistent and natural.  (EHU 4.11 / 30)   
+ Note the strong emphasis on  arbitr ariness , 
+making clear that it is not just the  concei v-
+ability  – or mere theoretical possibility – of 
+alternative outcomes which makes any a pri-
+ori inference from cause to effect impossible; 
+it is the fact that from an a priori point of 
+view, there is nothing to suggest one outcome 
+over another .  19   
+ If causal relations cannot be known a pri-
+ori, then factual inference cannot be a pri-
+ori either (given [2] that factual inference is 
+founded on causation).  [6] ‘In vain,  therefore,  
+should we pretend to determine any single 
+event .  . . without the assistance of observation 
+and experience’.  Hume now brings Part 1 of 
+Section 4 to a close,  with two very impor -
+tant corollaries for his philosophy of science.  
+The first is that since we cannot aspire to a 
+priori insight into why things work as they 
+do, the appropriate ambition for science is 
+instead to aim more modestly for  systemati-
+zation  of those cause and effect relationships 
+that experience reveals: ‘to reduce the prin-
+ciples,  productive of natural phænomena,  to 
+a greater simplicity , and to resolve the many 
+particular effects into a few general causes,  
+by means of reasonings from analogy , experi-
+ence,  and observation’.  (EHU 4.12 / 30).  Then 
+follows Hume’ s most explicit account of 
+applied mathematics (which he calls ‘mixed 
+mathematics’),  emphasizing that although 
+mathematical relationships are a priori,  the 
+laws through which they are applied to the 
+world – his example is the Newtonian law of 
+9780826443595_Ch03_Final_txt_print.indd   669780826443595_Ch03_Final_txt_print.indd   66 4/17/2012   3:58:30 PM4/17/2012   3:58:30 PM67HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+conservation of momentum – remain unam-
+biguously a posteriori: ‘the discovery of the 
+law itself is owing merely to experience,  and 
+all the abstract reasonings in the world could 
+never lead us one step towards the knowl-
+edge of it’ (EHU 4.13 / 31).  20   
+ Part 2 starts by summarizing Hume’ s 
+results so far , and anticipating his eventual 
+conclusion [20]:
+  When it is asked,   What is the nature 
+of all our reasonings concerning mat-
+ter of f act?  the proper answer seems to 
+be, that they are founded on the rela-
+tion of cause and effect.  When again it 
+is asked,   What is the foundation of all 
+our reasonings and conclusions concern-
+ing that relation?  it may be replied in one 
+word,   Experience . But if we still carry 
+on our sifting humour , and ask,   What is 
+the foundation of all conclusions from 
+experience?  this implies a new question 
+. . . I shall content myself,  in this section,  
+with an easy task,  and shall pretend [i.e.  
+aspire] only to give a negative answer to 
+the question here proposed.  I say then,  
+that, even after we have experience of 
+the operations of cause and effect,  our 
+conclusions from that experience are  not  
+founded on reasoning,  or any process of 
+the understanding.  (EHU 4.14–15 / 32)   
+ Having established that experience is required 
+for any factual inference,  Hume goes on to 
+explain how experience plays that role:
+  we always presume,  when we see like sen-
+sible qualities,  that they have like secret 
+powers,  21   and expect,  that effects,  simi-
+lar to those which we have experienced,  
+will follow from them.  . . . But why [past] 
+experience should be extended to future 
+times,  and to other objects,  which for 
+aught we know , may be only in appear -
+ance similar; this is the main question  .  . . 
+(EHU 4.16 / 33–4; emphasis added)    This passage seems to be saying that [7] when 
+we draw conclusions from past experience,  
+we presuppose a resemblance between the 
+observed and the unobserved,  extrapolating 
+from one to the other .  22   Later , when appar -
+ently referring back to this passage,  Hume 
+confirms such a reading: ‘We have said,  . . . 
+that all our experimental conclusions pro-
+ceed upon the supposition,  that the future 
+will be conformable to the past’ (EHU 4.19 / 
+35). So his ‘main question’ at EHU 4.16 / 
+34 concerns,  in effect,  the foundation of the 
+Uniformity Principle.  23   He repeats (cf.  EHU 
+4.6 / 27) that [3] ‘there is no known con-
+nexion between the sensible qualities and 
+the secret powers’ of any object,  and infers 
+from this that [9] ‘the mind is not led to form 
+such a conclusion concerning their con-
+stant and regular conjunction,  by any thing 
+which it knows of their nature’ (EHU 4.16 / 
+33). So the Uniformity Principle cannot be 
+established on the basis of anything that we 
+learn directly through sense perception,  in 
+which case [10] any foundation for it will 
+have to draw on past experience,  which for 
+the sake of the argument can here be taken 
+as infallible:  ‘As to past  Experience , it can be 
+allowed to give  direct  and  certain  informa-
+tion of those precise objects only , and that 
+precise period of time,  which fell under its 
+cognizance.  . . . (EHU 4.16 / 33).  The ‘main 
+question’ is then urged: how to justify the 
+step from past experience to the assumption 
+of future resemblance?
+  These two propositions are far from 
+being the same,   I hav e found that suc h 
+an object has alw ays been attended with 
+such an effect , and  I foresee,  that other 
+objects,  whic h are,  in appear ance,  simi-
+lar, will be attended with similar effects.   
+I shall allow , if you please,  that the one 
+proposition may justly be inferred from 
+the other: I know in fact,  that it always is 
+9780826443595_Ch03_Final_txt_print.indd   679780826443595_Ch03_Final_txt_print.indd   67 4/17/2012   3:58:31 PM4/17/2012   3:58:31 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+68inferred.  But if you insist,  that the infer -
+ence is made by a chain of reasoning,  I 
+desire you to produce that reasoning.  
+The connexion between these propos-
+itions is not intuitive.  There is required 
+a medium,  which may enable the mind 
+to draw such an inference,  if indeed it 
+be drawn by reasoning and argument.  
+(EHU 4.16 / 34)   
+ So because [11] the inference from past 
+experience to future resemblance is not  intui-
+tive  (i.e. not immediately  self-evident ), [12] 
+there must be some  medium , some ‘connect-
+ing proposition or intermediate step’ (EHU 
+4.17 / 34) if indeed the inference is ‘drawn by 
+reasoning and argument’.  24   
+ The long paragraph that we have just 
+been discussing (EHU 4.16 / 32–4) includes 
+steps that have no parallel in the  Treatise  
+and  Abstr act , where,  as we saw , Hume sim-
+ply takes for granted that if the Uniformity 
+Principle is to be rationally well founded,  
+then this must be on the basis of some chain 
+of reasoning,  either demonstrative or prob-
+able. Here in the  Enquiry , he explicitly rules 
+out both  sense     experience  and  intuition  as 
+sources of foundation for the Uniformity 
+Principle,  and only then comes to consider 
+ demonstr ation  and  probability , which are in 
+turn dismissed in the familiar way , but again 
+with the structure of the argument made 
+somewhat more explicit:
+  [13] All reasonings may be divided into 
+two kinds,  namely demonstrative reason-
+ing, or that concerning relations of ideas,  
+and moral reasoning,  or that concerning 
+matter of fact and existence.  25   [15] That 
+there are no demonstrative arguments 
+in the case,  seems evident; since [14] it 
+implies no contradiction,  that the course 
+of nature may change,  . . . Now what-
+ever is intelligible,  and can be distinctly 
+conceived,  implies no contradiction,  and can never be proved false by any demon-
+strative argument or abstract reasoning  a 
+priori . (EHU 4.18 / 35)   
+ As in the  Treatise  and  Abstr act , Hume appeals 
+to the Conceivability Principle,  though 
+slightly differently: here he expresses it as the 
+principle that what is conceivable  implies no 
+contr adiction , rather than saying that what is 
+conceivable  is possible .  26   Moving on now to 
+ probability :
+  [16] If we be,  therefore,  engaged by 
+arguments to put trust in past experi-
+ence,  and make it the standard of our 
+future judgment,  these arguments must 
+be probable only , or such as regard mat-
+ter of fact and real existence,  . . . But 
+. . . there is no argument of this kind,  
+. . . We have said,  that [2] all arguments 
+concerning existence are founded on the 
+relation of cause and effect; that [5] our 
+knowledge of that relation is derived 
+entirely from experience; and that [7] all 
+our experimental conclusions proceed 
+upon the supposition,  that the future 
+will be conformable to the past.  [17] To 
+endeavour , therefore,  the proof of this 
+last supposition by probable arguments,  
+or arguments regarding existence,  must 
+be evidently going in a circle,  and taking 
+that for granted,  which is the very point 
+in question.  (EHU 4.19 / 35–6)   
+ Note in passing how Hume just assumes  
+here some obvious inferences,  linking [2]  
+with [5] to deduce that [6] all factual infer -
+ences (‘probable arguments’,  ‘arguments  
+concerning existence’) are founded on  
+experience,  and then combining this with  
+[7] to deduce in turn that [8] all factual  
+inferences ‘proceed upon the supposition’  
+of the Uniformity Principle.  27   He also now  
+leaves the reader to piece together the final  
+9780826443595_Ch03_Final_txt_print.indd   689780826443595_Ch03_Final_txt_print.indd   68 4/17/2012   3:58:31 PM4/17/2012   3:58:31 PM69HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+stages of his argument.  28   First,  that since the  
+Uniformity Principle cannot be established  
+by either demonstrative or factual inference,  
+it follows that [18] there is no good argu-
+ment for the Uniformity Principle.  Secondly , 
+that therefore (given [12]),  29   it follows that  
+[19] the Uniformity Principle cannot be  
+founded on reason,  and finally , that since  
+[8] all factual inferences are founded on the  
+Uniformity Principle,  it follows that [20] no  
+factual inference (i.e.  no ‘reasoning concern-
+ing matter of fact and existence’) is founded  
+on reason.  Hume had anticipated this con-
+clusion at EHU 4.15,  quoted earlier:  30   ‘I say 
+then,  that,  even after we have experience  
+of the operations of cause and effect,  our 
+conclusions from that experience are  not  
+founded on reasoning,  or any process of the  
+understanding’ (EHU 4.15 / 32).  Also in the  
+following section – most of which is devoted  
+to sketching his theory of belief as based on  
+‘ Cust om  or  Habit ’ (EHU 5.5 / 43) – Hume  
+refers back to this argument and states its  
+conclusion explicitly , once purely negatively  
+and once alluding to his positive theory:  
+‘we .  . . conclude .  . . in the foregoing sec-
+tion, that,  in all reasonings from experience,  
+there is a step taken by the mind,  which is  
+not supported by any argument or process  
+of the understanding; .  . .’ (EHU 5.2 / 41);  
+‘All belief of matter of fact or real exist-
+ence .  . . [is due merely to] .  . . a species of  
+natural instincts,  which no reasoning or  
+process of the thought and understanding is  
+able, either to produce,  or to prevent’ (EHU  
+5.8 / 46–7).   
+  2.4 T HE ESSENTIAL  CORE OF HUME’S 
+SCEPTICAL  ARGUMENT  
+ We can now distil the essence of Hume’ s 
+argument from these three different presen-
+tations,  into eight main stages:     (A)     The argument concerns all inferences 
+to matters of fact that we have not 
+observed: what the  Enquiry  calls ‘rea-
+sonings concerning matter of fact’ (here 
+ factual inferences  for short).  Although 
+the  Treatise  version starts with a nar -
+rower focus on causal inference ‘from 
+the impression to the idea’,  it later 
+requires the lemma that  all f actual 
+inferences are based on causal relations  
+(stated at THN 1.3.6.7 / 89).  So the 
+argument is improved both structur -
+ally and philosophically by starting with 
+all factual inferences,  as in the  Abstr act  
+and the  Enquiry , and then deriving this 
+lemma as its fi  rst main stage (Abs.  8 / 
+649; EHU 4.4 / 26–7).   
+  (B)     Hume next argues that  causal relations 
+cannot be known a priori,  and hence 
+are discov erable onl y through experi-
+ence  (THN 1.3.6.1 / 86–7,  Abs. 9–11 
+/ 649–51; EHU 4.6–11 / 27–30).  This 
+is a major principle of his philosophy , 
+wielded signifi  cantly elsewhere (e.g.  
+THN 1.3.15.1 / 173,  1.4.5.30 / 247–8; 
+EHU 12.29 / 164).   
+  (C)     From this principle,  together with the 
+lemma from (A),  Hume concludes that 
+ all factual inferences are founded on 
+experience , the relevant experience 
+being of those  constant conjunctions   
+ through which we discover causal rela-
+tionships (THN 1.3.6.2 / 87,  Abs. 12 / 
+651; EHU 4.16 / 33).   
+  (D)     Factual inferences thus involve  extrapo-
+lation from observ ed to unobserv ed, 
+based on an assumption of resem-
+blance  between the two.  Initially in the  
+ Treatise , Hume seems to suggest that  
+such an assumption of resemblance –  
+ commonly called his Uniformity  
+Principle (UP) – would be necessarily  
+implicated only if  reason  were respon-
+sible for the inference (THN 1.3.6.4 /  
+88–9).  But his settled view , expressed in  
+all three works (see note 10 above),  is 
+that  UP is presupposed b y all f actual  
+9780826443595_Ch03_Final_txt_print.indd   699780826443595_Ch03_Final_txt_print.indd   69 4/17/2012   3:58:31 PM4/17/2012   3:58:31 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+70inferences ,  31   simply in virtue of their  
+taking for granted a resemblance  
+between observed and unobserved.   
+  (E)     Hume now proceeds to investigate criti-
+cally the basis of UP itself.  In the  Treatise   
+(THN 1.3.6.4 / 88–9) and  Abstr act  
+(Abs.  14 / 651–2),  he appears to assume  
+immediately that any foundation in reason  
+would have to derive from some  demon-
+strative  (i.e. deductive) or  probable  (i.e. 
+factual) inference.  In the  Enquiry , how-
+ever – which hugely expands this part of  
+the argument from the cursory treatment  
+in the earlier works – he considers demon-
+strative and factual inference only after  
+fi rst (EHU 4.16 / 32–4) explicitly ruling  
+out any foundation in  sensory aw areness  
+of objects’ pow ers , or in immediate  intu-
+ition  (i.e. self-evidence).  32    
+  (F)     Any demonstrative argument for UP is 
+ruled out because a change in the course 
+of nature is clearly conceivable and there-
+fore possible (THN 1.3.6.5 / 89; Abs. 
+14 / 651–2,  EHU 4.18 / 35).  Any factual 
+argument for UP is ruled out because,  
+as already established at (D),  such argu-
+ments inevitably presuppose UP , and 
+hence any purported factual inference 
+to UP would be viciously circular (THN 
+1.3.6.7 / 89–90; Abs. 14 / 651–2; EHU 
+4.19 / 35–6).   
+  (G)     The upshot of this critical investigation 
+is that  UP has no satisf actory founda-
+tion in reason , though Hume expresses 
+this in various ways:    
+ ’tis impossible to satisfy ourselves by 
+our reason,  why we shou’d extend 
+[our] experience beyond those par -
+ticular instances,  which have fallen 
+under our observation.  We suppose,  
+but are never able to prove,  that there 
+must be a resemblance betwixt those 
+objects,  of which we have had experi-
+ence,  and those which lie beyond 
+the reach of our discovery . (THN 
+1.3.6.11 / 91–2)  This [resemblance between past and  
+future] is a point,  which can admit of  
+no proof at all,  and which we take for  
+granted without proof.  (Abs.  14 / 652)  
+ it is not reasoning which engages us 
+to suppose the past resembling the 
+future,  and to expect similar effects 
+from causes,  which are,  to appear -
+ance,  similar . (EHU 4.23 / 39)    
+   (H)     Since UP is presupposed  by all factual  
+inferences (D),  and UP has no foundation  
+in reason (G),  Hume fi  nally concludes  
+that  factual inference itself has no foun-
+dation in reason . Again he expresses this  
+conclusion in various ways (and note  
+here the narrower focus of the  Treatise  on 
+ causal  inference ‘from the impression to  
+the idea’,  as pointed out at (A) above):     
+ When the mind .  . . passes from the idea  
+or impression of one object to the idea  
+or belief of another , it is not determin’d  
+by reason (THN 1.3.6.12 / 92)  
+ ’Tis not,  therefore,  reason,  which is the 
+guide of life,  but custom.  That alone 
+determines the mind .  . . to suppose 
+the future conformable to the past.  
+However easy this step may seem,  
+reason would never , to all eternity , be 
+able to make it.  (Abs.  16 / 652) 
+ I say then,  that,  . . . our conclusions 
+from .  . . experience are  not  founded 
+on reasoning,  or any process of the 
+understanding.  (EHU 4.15 / 32) 
+ in all reasonings from experience,  there  
+is a step taken by the mind,  which is not  
+supported by any argument or process  
+of the understanding (EHU 5.2 / 41)    
+ Note also that two of these quotations – from 
+Abs. 16 / 652 and EHU 5.2 / 41 – could just 
+as appropriately have been cited as illustra-
+tions of (G),  because both refer to that ‘step’ 
+9780826443595_Ch03_Final_txt_print.indd   709780826443595_Ch03_Final_txt_print.indd   70 4/17/2012   3:58:31 PM4/17/2012   3:58:31 PM71HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+which is precisely the presupposition of the 
+Uniformity Principle.  Since factual inference 
+operates by extrapolation from past to future,  
+Hume takes it to be obvious that the founda-
+tion of such inference must be the same as the 
+foundation of the principle of extrapolation.  
+Hence he does not consistently distinguish 
+between (G) and (H),  making the last stages 
+of his argument less explicit than one might 
+wish (cf.  the end of section 2.3 above).    
+  3. THE N ATURE OF HUME’S 
+SCEPTIC AL CONCLUSION 
+ Hume usually expresses the conclusion of his  
+famous argument in a way that seems to imply  
+some  incapacity  on the part of human reason.  
+The Uniformity Principle is something that we  
+‘are never able to prove’ (THN 1.3.6.11 / 92),  
+and which indeed ‘can admit of no proof at  
+all’ (Abs.  14 / 652).  Because of this,  ‘’tis impos-
+sible to satisfy ourselves by our reason’ (THN  
+1.3.6.11 / 91) concerning the inferential step  
+from past to future,  a step which ‘reason  
+would never , to all eternity , be able to make’  
+(Abs.  16 / 652) and ‘which is not supported by  
+any argument or process of the understand-
+ing’ (EHU 5.2 / 41).  Hume also frequently  
+uses similar terms within the argument itself,  
+when saying that various would-be proofs  
+of UP are impossible,  refutable,  circular or  
+lack any ‘just foundation’ (THN 1.3.6.5 / 89,  
+1.3.6.7 / 89–90,  1.3.6.10 / 91; EHU 4.18 / 35,  
+19 / 35–6,  21 / 37–8),  denying that human  
+knowledge ‘can afford .  . . an argument’ that  
+‘supports the understanding’ (EHU 4.17 / 34)  
+in reasoning from past to future,  and conse-
+quently denying that our factual inferences  
+‘are built on solid reasoning’ (THN 1.3.6.8  
+/ 90).  In both the  Treatise  (see section 2.2  
+above) and  Enquiry  (see section 1),  he later  glosses the conclusion of the argument in  
+apparently very negative terms,  as showing  
+that ‘ we hav e no reason ’ to draw any factual  
+inference (THN 1.3.12.20 / 139),  and that  
+‘we cannot give a satisfactory reason,  why we  
+believe,  after a thousand experiments,  that a  
+stone will fall,  or fire burn’ (EHU 12.25 / 162).  
+In this light,  it seems entirely appropriate that  
+he should entitle  Enquiry  Section 4 ‘Sceptical  
+Doubts concerning the Operations of the  
+Understanding’,  and describe it as appearing  
+to give the sceptic ‘ample matter of triumph’  
+(EHU 12.22 / 159).  
+ As discussed earlier , however , the issue 
+of Hume’ s inductive ‘scepticism’ is not so 
+straightforward,  and it is far from clear that 
+he sees the acknowledged incapacity of rea-
+son to ‘prove’ or ‘support’ the Uniformity 
+Principle as any sort of genuine  problem . 
+Certainly he does not infer from it (either 
+in the  Treatise , the  Abstr act  or the  Enquiry ) 
+that induction is  unreasonable  in any prag-
+matic sense.  And indeed the line of thought 
+sketched in Section 1 above,  drawing on 
+Section 12 of the  Enquiry , somewhat sug-
+gests that he considers it inevitable that our 
+most basic principles of inference – precisely 
+because they are so basic – will lack any ulti-
+mate justification  beyond their fundamental 
+place in our mental economy . That being so,  
+the central upshot of Hume’ s argument might 
+be simply to identify the Uniformity Principle 
+as a basic principle of this kind,  and the scep-
+tical flavour of his reasoning – in demonstrat-
+ing reason’ s incapacity to prove UP – need 
+not carry over at all into the theory of human 
+inference that he draws from it.  Nevertheless,  
+the sceptical flavour of the famous argu-
+ment itself would remain,  in denying UP a 
+source of rational support that more opti-
+mistic philosophers might have expected it 
+to enjoy . And although the argument also 
+delivers the important positive principle that 
+9780826443595_Ch03_Final_txt_print.indd   719780826443595_Ch03_Final_txt_print.indd   71 4/17/2012   3:58:32 PM4/17/2012   3:58:32 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+72 the Uniformity Principle is presupposed b y 
+all factual inference  (D), even in the  Enquiry  
+we have to wait until the final section to see 
+this wielded as part of an effective  theoretical  
+defence against the ‘Pyrrhonian’ sceptic.  33   
+  3.1 D EBATES  ABOUT  HUMEAN  ‘REASON ’ 
+ What we get much sooner , of course,  and in  
+all three works,  is Hume’ s positive account of  
+how our inductive inferences operate through  
+ custom  or  habit  – what he calls in the title of  
+ Enquiry  Section 5 his ‘sceptical solution’ to the  
+earlier ‘sceptical doubts’.  But as David Owen  
+observes,  it seems odd to suppose that a  psy-
+chological  account of how belief functions  
+could in any way ‘solve’ genuine  epistemo-
+logical    doubts; Owen accordingly suggests  
+that the famous argument is itself best under -
+stood as exclusively concerned with psycho-
+logical mechanisms,  and as having nothing  
+to do with ‘the warrant of probable reason-
+ing or the justification of belief ’.  34   The argu-
+ment’ s conclusion,  that factual inference is not  
+founded on  reason , may initially seem unam-
+biguously normative,  but Owen interprets  
+‘reason’ here as signifying what he takes to  
+be a Lockean conception of  the mec hanism  
+by whic h human reasoning oper ates , namely , 
+through stepwise inference via  intermediate  
+ideas . Thus he is able to read Hume’ s conclu-
+sion that factual inference ‘is not determin’d  
+by reason’ as purely descriptive: as denying  
+that we actually draw factual inferences in the  
+stepwise,  mediated manner that Locke suppos-
+es.  35   The famous argument accordingly serves  
+to  reject  this Lockean conception of probable  
+reasoning in favour of the more immediate  
+and instinctive Humean model,  thus providing  
+a contribution to empirical psychology , rather  
+than an exercise in sceptical epistemology . 
+ Owen is by no means the first to read 
+Hume’ s famous argument as designed to  reject  some non-Humean notion of reason; 
+indeed this style of interpretation became 
+extremely popular in the 1980s.  Before then,  
+the general image of Hume was of a highly 
+destructive sceptic,  intending through his 
+famous argument to maintain that induc-
+tive arguments lack all rational justifica-
+tion. Barry Stroud wittily expressed what 
+he took to be Hume’ s conclusion: ‘As far as 
+the competition for degrees of reasonable-
+ness is concerned,  all possible beliefs about 
+the unobserved are tied for last place’.  36     
+Some of these extreme sceptical interpreta-
+tions – most influentially those of Antony  
+Flew  37   and David Stove  38   – took Hume to  
+be starting from the assumption of  deduc-
+tivism , that an inference is rationally justi-
+fied only if it is logically guaranteed.  39   But 
+deductivism sits very uneasily with the (fal-
+lible but reasonable) empirical judgements  
+that abound within Hume’ s contributions to  
+‘the science of human nature’,  for example  
+his discussions of the passions,  his  Essays  
+on politics and economics,  and his vari-
+ous pieces on religion.  The ‘wise man’ of  
+ Enquiry  10.4 / 110,  who ‘proportions his  
+belief to the [empirical] evidence’,  clearly  
+cannot be a deductivist; hence Flew , in dis-
+cussing ‘Of Miracles’,  was forced to accuse  
+Hume of ‘flagrant and embarrassing’ incon-
+sistency .  40   Even more flagrantly inconsist-
+ent, from this perspective,  were the passages  
+in which Hume,  after his famous argument  
+had apparently denied causal,  factual infer -
+ence a place within the realm of ‘reason’,  
+then quite explicitly treated it as one of rea-
+son’s central operations,  for example:  41   
+ with regard to reason .  . . The only con-
+clusion we can draw from the existence 
+of one thing to that of another , is by 
+means of the relation of cause and effect 
+(THN 1.4.2.47 / 212) 
+9780826443595_Ch03_Final_txt_print.indd   729780826443595_Ch03_Final_txt_print.indd   72 4/17/2012   3:58:32 PM4/17/2012   3:58:32 PM73HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+ reason,  in a strict and philosophical 
+sense,  can have an influence on our con-
+duct .  . . by informing us of the existence 
+of something which is a proper object 
+of [a passion]; or when it discovers the 
+connexion of causes and effects,  so as to 
+afford us means of exerting any passion.  
+(THN 3.1.1.12 / 459)   
+ But such gross inconsistency was hard to 
+credit,  and given Hume’ s evident commit-
+ment to inductive moral science (and to its 
+reasonableness in comparison with ‘super -
+stition’),  it seemed to most later scholars far 
+more plausible to interpret his famous argu-
+ment not as genuinely sceptical,  but instead 
+as a way of  rejecting  or  undermining  the 
+deductivist notion of reason on which it was 
+thought to be based (by revealing its com-
+plete incapacity to underwrite any factual 
+inference).  From this it would follow that 
+Hume must use the term ‘reason’ in at least 
+two distinct senses: one narrowly deductiv-
+ist or ‘rationalistic’ notion within the famous 
+argument,  and a broader , more ‘naturalistic’ 
+notion elsewhere,  such as in his discussions 
+of the passions and morality . 
+ This  anti-deducti vist  style of interpretation  
+was pioneered in 1975 by Tom Beauchamp  
+and Thomas Mappes,  42   whose work was  
+quickly followed by numerous variations on  
+the theme.  43   However it lost favour after I  
+and Don Garrett (independently , in 1995 and  
+1997)  44   pointed out the implausibility , under  
+careful analysis,  of reading Hume’ s argument  
+as employing a deductivist notion of rea-
+son. Deductivism proves very hard to square  
+with the argument’ s logic,  45   and it also seems  
+strange – if Hume’ s purpose is to wield the  
+argument in order to  reject  the notion of reason  
+that it employs – that he should then continue  
+to assert its sceptical conclusion in the appar -
+ently sincere terms we saw earlier .  46   My own  proposed  alternative was to see the argument  
+as presupposing  a  perceptual  model of reason,  
+according to which we draw inferences through  
+the perception of evidential connexions.  
+This had the virtue of identifying a plausible  
+(and substantial) target of Hume’ s argument,  
+namely , Locke’ s view – complacently assumed  
+and stated in his  Essay concerning Human  
+Under standing   47   but never worked out in any  
+detail – that probable reasoning is founded  
+on the  perception  of probable connexions  . 
+Against this,  Hume’ s rival model of probable  
+inference based on  custom  – and introduced  
+immediately after his famous argument had  
+refuted the alternative – stood out as a radi-
+cal (and highly sceptical) departure.  Moreover  
+the ubiquitous hold of the traditional percep-
+tual view of reason,  which goes back to the  
+ancients and was shared by Hume’ s contem-
+poraries,  could help to make sense of his own  
+apparent assessment of the famous argument  
+as having a significant sceptical impact.  A mere  
+denial that induction has  deducti ve  force,  or 
+yields  total  certainty , would hardly be worthy  
+of notice in the wake of Locke.  48   But denying  
+that induction is founded  on perception  of an y 
+good reason whatev er  would have vastly more  
+sceptical significance.  
+ Garrett’ s approach was quite different,  
+and in context more radical.  He insisted – 
+against the prevailing orthodoxy – that 
+Hume employs but a single sense of ‘reason’,  
+taking this to be Hume’ s name for ‘the gen-
+eral faculty of making inferences or produ-
+cing arguments – just as it was for Locke’.  49   
+Leaving aside the (debatable) attribution to 
+Locke,  50   the obvious advantage of this inter -
+pretation was precisely its lack of any need to 
+posit an ambiguity in ‘reason’:
+  Hume .  . . [is] making a specific claim,  
+within cognitive psychology , about the 
+relation between our tendency to make 
+9780826443595_Ch03_Final_txt_print.indd   739780826443595_Ch03_Final_txt_print.indd   73 4/17/2012   3:58:32 PM4/17/2012   3:58:32 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+74inductive inferences and our inferential/
+argumentative faculty: he is arguing that 
+we do not adopt induction on the basis 
+of recognizing an  argument  for its reli-
+ability , for the utterly sufficient reason 
+that there  is  no argument (‘reasoning’ 
+or ‘process of the understanding’) that 
+could have this effect.  . . . this does not 
+mean that inductive inferences are not 
+themselves  instances  of argumentation 
+or reasoning .  . . His point is rather that 
+they are reasonings that are not them-
+selves produced by any piece of higher 
+level reasoning: there is no argument 
+that could lead us to accept the conclu-
+sion that inductive reasonings will be 
+reliable if we did not  alread y  accept that 
+conclusion in practice.  Hence,  in just 
+this sense,  they are a class of ‘reasonings’ 
+(inferences or arguments) that ‘reason’ 
+(the faculty of making inferences or giv-
+ing arguments) does not itself ‘determine’ 
+(cause) us to make.  51     
+ Like Owen,  Garrett saw Hume’ s argu-
+ment as an exercise in descriptive psych-
+ology rather than normative epistemology , 
+delivering a result about the  causation  of 
+inductive inference rather than its ‘eviden-
+tiary value’.  However , this sat uneasily with  
+Garrett’ s emphasis (as in the quotation  
+above) on the recognition of higher -level  
+arguments  for the reliability  of induction,  
+and under challenge,  he modified his ori-
+ginal reading of Hume’ s conclusion to make  
+it more general.  Here are the relevant parts  
+of the passage above,  edited to reflect the  
+adjusted reading:  52  
+  Hume .  . . [is] making a specific claim,  
+. . . about the underlying causal mechan-
+ism that gives rise to inductive inferences: 
+namely , that it is not itself dependent on 
+any reasoning or inference.  . . . His point is . . . that [inductive inferences] are rea-
+sonings which are not themselves  caused  
+by any piece of reasoning (including,  of 
+course,  themselves).  Inductive inferences 
+require that we bridge a gap between 
+observation and prediction,  and for 
+someone not already disposed by nature 
+to bridge that gap,  no argument for doing 
+so would be persuasive.  Hence,  . . .  53     
+ One surprising effect of this change was to  
+bring Garrett’ s interpretation rather close to  
+Owen’ s, because his detailed analysis of how  
+mediated inferences operate made them  ipso 
+facto  inferences that are ‘determin’d by rea-
+son’. On this account,  a demonstrative infer -
+ence from  A  to  D , mediated by the intuitive  
+connexions of  A  to  B ,  B  to  C , and  C  to  D , will 
+include as part of its processing the intermedi-
+ate inference connecting  B  to  D .  54   This makes  
+the latter inference,  according to Garrett,  a 
+ cause  of the overall inference from  A  to  D ; 
+hence that overall inference is ‘determin’d by  
+reason’ in the sense of being  caused  by another  
+inference.  Thus Garrett agrees with Owen  
+that Hume’ s conclusion involves a denial  
+that induction proceeds by  stepwise r atiocin-
+ation . All this may seem somewhat artificial,  
+and increasingly distant from anything to be  
+found in Hume’ s text,  but it has the nice fea-
+ture of accommodating a genuinely Humean  
+point – that probable inference is characteris-
+tically immediate and instinctive rather than  
+mediated and reflective – within a framework  
+which,  unlike Owen’ s, avoids any need to treat  
+the notion of ‘reason’ that is operative in the  
+famous argument as one that Hume  rejects . 
+Garrett has consistently urged this last point  
+against rival interpretations: that Hume’ s 
+famous argument gives little internal clue that  
+he is employing some special notion of reason  
+which he aims to reject.  And although both  
+Owen and I sought to mitigate the impact of  
+9780826443595_Ch03_Final_txt_print.indd   749780826443595_Ch03_Final_txt_print.indd   74 4/17/2012   3:58:32 PM4/17/2012   3:58:32 PM75HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+this criticism on our interpretations (by stress-
+ing that we saw Hume’ s response to the argu-
+ment as changing not the  scope  of his notion  
+of reason,  but rather its  presumed method  
+of oper ation ),  55   the lack of any obvious and  
+deliberate ambiguity or equivocation on  
+Hume’ s part has remained by far the strongest  
+weapon in Garrett’ s armoury . 
+ Garrett’ s interpretation has also seemed 
+attractive for a more specious reason,  
+namely , the extent to which Hume expresses 
+his conclusion in terms of the impossibility 
+of founding induction on ‘reasoning’ (e.g.  
+THN 1.3.6.8 / 90; EHU 4.15 / 32,  4.16 / 34,  
+4.23 / 39),  ‘proof ’ (e.g.  THN 1.3.6.11 / 92; 
+Abs. 14 / 651–2),  or ‘argument’ (e.g.  Abs. 15 
+/ 652; EHU 4.16–17 / 34–5,  4.21–3 / 38–9,  
+5.2 / 41).  Today we read these terms as sig-
+nifying complex inference involving inter -
+mediate steps,  but in Hume’ s day they were 
+understood rather differently . Johnson’ s dic-
+tionary of 1756 tells us that ‘reasoning’ is 
+derived from ‘reason’,  and defines it simply 
+as ‘argument’.  56   The first sense of ‘argument’ 
+is given as ‘A reason alleged for or against any 
+thing’,  and Johnson implicitly confirms that 
+he takes this as its primary sense in specify-
+ing – as one of the  non-discur sive  senses of 
+‘reason’ – ‘Argument; ground of persuasion; 
+motive’.  Likewise the first sense of ‘proof ’ 
+is given as ‘Evidence; testimony; convincing 
+token’,  supplemented in later editions by 
+the clauses ‘convincing argument; means of 
+conviction’.  The words that Johnson favours 
+for stepwise inference are ‘deduction’ and 
+‘ratiocination’,  57   as in the specification of 
+the two  discur sive  senses of ‘reason’: ‘The 
+power by which man deduces one propos-
+ition from another , or proceeds from prem-
+ises to consequences’,  and ‘Ratiocination; 
+discursive power’.  These both contrast with 
+‘intuition’,  which is ‘Knowledge not obtained 
+by deduction of reason’,  and ‘intuitive’,  which means ‘Having the power of discov-
+ering truth immediately without ratiocin-
+ation’.  All this seems to fit with Hume’ s own 
+usage: he refers to ‘deductions’ and ‘ratiocin-
+ation’ in contexts where stepwise argument 
+is clearly intended (e.g.  THN 1.3.14.2 / 156,  
+EHU 5.22 / 55,  EPM 1.4 / 170; EHU 4.23 
+/ 39, 12.17 / 155),  and he is happy to refer 
+to ‘arguments’,  ‘inference’ and ‘proof ’ that 
+are ‘intuitive’,  and hence do not proceed in 
+a stepwise fashion (THN 1.3.14.35 / 173,  
+2.3.2.2 / 408; EHU 4.21 / 37,  8.22n18 / 94n,  
+LDH 1.187,  91).  58   Overall,  therefore,  the lan-
+guage in which Hume expresses his famous 
+conclusion is no argument ( sic .) in favour of 
+Garrett’ s interpretation.  
+ Perhaps the most serious problem for 
+Garrett’ s interpretation,  as for Owen’ s, has 
+been in making sense of the logic of Hume’ s 
+famous argument.  For as we have seen,  that 
+argument does not in fact put much emphasis 
+on  a gener al absence of stepwise processing 
+or ratiocination   within inductive inference.  59   
+Instead,  it focuses on the very specific step of 
+extrapolation from observed to unobserved – 
+that is,  the supposition of the Uniformity 
+Principle (UP) – and then it attacks in turn 
+the props on which that principle ‘may be 
+suppos’d to be founded’,  showing that none 
+of them can ‘afford any just conclusion of this 
+nature’ (THN 1.3.6.4 / 90).  This move makes 
+perfect sense on an  epistemological   interpret-
+ation of the argument,  because if  any  essen-
+tial evidential step in an inductive inference 
+lacks a ‘just foundation’,  then the inference 
+as a whole will,  apparently , be undermined.  60   
+On the Garrett/Owen style of  psychological   
+interpretation,  however , the move looks 
+almost irrelevant –  even if  it sufficed to show 
+that UP is not itself reached through mediated 
+ratiocination,  that would not exclude such 
+ratiocination from playing some  other   role 
+within inductive inference.  This objection can 
+9780826443595_Ch03_Final_txt_print.indd   759780826443595_Ch03_Final_txt_print.indd   75 4/17/2012   3:58:32 PM4/17/2012   3:58:32 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+76be sharpened by posing a dilemma over what 
+role UP itself is supposed to play here.  61   If 
+Hume is saying that UP functions as an inter -
+mediate step in inductive inference,  then it 
+looks as though he thinks inductive inference 
+ does  involve stepwise ratiocination ( via  UP 
+itself),  in which case he is contradicting the 
+very conclusion that Owen takes him to be 
+drawing from the argument.  If, on the other 
+hand,  Hume is denying that UP can play any 
+psychological role within inductive inference 
+(on the basis that it has no ‘just foundation’),  
+then it is unclear why he should take this to 
+imply anything further about the actual psy-
+chological mechanism of inductive inference.  
+The only apparently plausible answer here is to 
+see Hume as placing a conditional constraint 
+on how stepwise ‘reason’  could   work: ‘ If  rea-
+son determin’d us,  it w ou’d proceed upon’ 
+UP (THN 1.3.6.4 / 89; emphasis added).  But 
+this conditional statement appears  only  in the 
+ Treatise  presentation,  and even there,  it is fol-
+lowed three paragraphs later by the uncondi-
+tional statement that ‘probability  is  founded 
+on the presumption of ’ UP (THN 1.3.6.7 / 
+90; emphasis added).  62   Owen largely builds 
+his interpretation around the conditional,  63   
+but it is straining credibility to rely so heav-
+ily on one statement in the  Treatise , when we 
+have seen so much evidence in sections 2.1–3 
+above that the versions in the  Abstr act  and 
+(especially) the  Enquiry  are more carefully 
+crafted.  
+ On a psychological interpretation,  more-
+over, Hume should not be so confident that 
+mediated ratiocination for a factual conclu-
+sion can proceed only via UP .  64   At best,  he 
+can claim that any  rationall y sufficient  rea-
+soning for such a conclusion must involve 
+UP. And likewise,  his argument seems com-
+pletely inadequate to show that UP itself 
+could not be believed on the basis of some 
+mediated ratiocination.  At best,  again,  he has shown that UP has no ‘just’ foundation 
+in demonstrative or factual reasoning.  65   But 
+why should this be thought to exhaust the 
+possibilities  of relevant reasoning? Hume 
+quite often refers to ‘arguments’ or ‘rea-
+soning’ that he considers ‘absurd’,  ‘falla-
+cious’,  or ‘sophistical’ (e.g.  THN 1.2.4.11 / 
+43, 1.4.5.30 / 247; DNR 9.189–92); on a 
+ psychological  interpretation of the famous 
+argument,  these should be as relevant to his 
+theory as the ‘just’ reasonings that he is able 
+to rule out.  66   Suppose,  for example,  it were 
+suggested that induction can be founded on 
+the principle that every change must have a 
+cause,  and hence the  ultimate  causal laws 
+must be consistent over time.  This would 
+bring into play the attempted demonstra-
+tions of the Causal Maxim that Hume 
+refutes at THN 1.3.3.4–8 / 80–2: even if 
+fallacious,  they could still be contenders as 
+ psychological  explanations of our induct-
+ive assumptions.  In short,  Hume has done 
+nothing to refute the hypothesis that UP 
+may be believed on the basis of an  invalid  
+demonstrative argument; hence on the inter -
+pretations of Owen and Garrett,  his famous 
+argument is hopelessly incomplete.  67   
+ But things are even worse than this,  for yet 
+another strategy that remains open on their 
+readings was actually used by Hume’ s friend 
+and correspondent Richard Price in the 
+first chapter of his  Review of the Principal 
+Questions in Mor als . Price claims that the 
+Causal Maxim is known intuitively , ‘nothing 
+being more clearly absurd and contradict-
+ory, than the notion of a change without a 
+ changer ’.  68   Then,  in a footnote a few pages 
+later, he explains how this can provide a 
+basis for inferring future events from past 
+regularity:
+  The conviction produced by experience  
+is built on the same principle,  with that  
+9780826443595_Ch03_Final_txt_print.indd   769780826443595_Ch03_Final_txt_print.indd   76 4/17/2012   3:58:33 PM4/17/2012   3:58:33 PM77HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+which assures us,  that there must be a  
+cause of every event .  . . Because we see  
+intuitively , that there being some reason  
+or cause of this  constanc y of ev ent , it must  
+be derived from causes regularly and con-
+stantly operating .  . . And the more fre-
+quently and uninterruptedly we knew this  
+had happened,  the stronger would be our  
+expectation of its happening again,  . . .   69     
+ Hume produced no fewer than seven editions 
+of his  Enquiry  after Price published this,  and 
+it would be astonishing if he did not know 
+of it, given that the  Enquiry  itself – under its 
+original title  Philosophical Essa ys  – is men-
+tioned twice within the vicinity of these quo-
+tations (in footnotes on pages 12 and 41).  As 
+interpreted by Owen and Garrett,  however , 
+Hume’ s famous argument completely fails to 
+engage with Price’ s justification of induction.  
+That justification starts from what Hume 
+would no doubt claim to be a fallacious ‘intu-
+ition’,  but again there is no obvious  psycho-
+logical     obstacle to erecting an argument on a 
+fallacy: humans do it all the time! 
+ Another related issue concerns the intended 
+scope of the famous argument: is it supposed 
+to be proving something about  every indi-
+vidual  factual inference,  or about the genesis 
+of our  gener al practice  of factual inference? 
+When developing his interpretation,  Owen 
+writes repeatedly as though it were the latter , 
+for example:
+  If the uniformity principle were some-
+thing we knew or believed,  prior to our 
+engaging in probable reasoning,  70   we 
+could explain probable reasoning as 
+being based on reason.  . . . [P]rior to our 
+engaging in probable reasoning,  we .  . . 
+neither know nor believe the uniform-
+ity principle.  . . . Hume’ s argument .  . . 
+has more to do with the failure of reason 
+to account for why we have the beliefs we do than with why those beliefs are 
+unjustified.  71     
+ But when articulating Hume’ s conclusion,  
+Owen apparently moves towards a claim 
+about the functioning of all individual 
+inductive inferences,  and strongly contrasts 
+this with the alternative view as ascribed to 
+Garrett:
+  Hume is here denying that such infer -
+ences can be explained as an activity of 
+the faculty of reason conceived as func-
+tioning by the discovery of intermedi-
+ate ideas .  . . Garrett says that Hume ‘is 
+denying only that we come to engage 
+in this species of reasoning as a result 
+of any piece of reasoning  about  it’.  72  . . . 
+My main objection to Garrett’ s inter -
+pretation is that he treats Hume as ask-
+ing about the cause of our engaging in 
+probable reasoning .  . . Hume’ s question 
+is not what Garrett takes it to be.  Hume’ s 
+question is: how is it that we manage to 
+make these inferences?  73     
+ As we have seen already , however , Garrett’ s 
+interpretation in his 1997 book was  
+quickly modified (in his 1998 debate with  
+me), at which point he clarified that,  like 
+Owen,  he took Hume’ s conclusion to be  
+one that applies to all individual inductive  
+inferences:
+  [From] Cognition and Commitment . . . , 
+Millican understandably infers that on my  
+interpretation ‘it is only the  gener al practice   
+of induction that fails to be determined by  
+reason,  and each of our  particular  inductive  
+inferences is itself an instance of the oper -
+ation of our reason. ’ . . . The crucial dis-
+tinction for Hume,  however , is . . . between  
+an inference being an  instance  of reason-
+ing and the same inference being  caused     by  
+(another instance of) reasoning.  74     
+9780826443595_Ch03_Final_txt_print.indd   779780826443595_Ch03_Final_txt_print.indd   77 4/17/2012   3:58:33 PM4/17/2012   3:58:33 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+78 The significance of this point is that the 
+bulk of Hume’ s argument,  and especially 
+his conclusion – in both the  Treatise  and 
+the  Enquiry  – seems to intend a result about 
+ every particular f actual inference   (cf. sec-
+tion 2.4 [H] above).  But on the interpret-
+ations of Owen and Garrett,  the argument 
+seems to lead far more plausibly to a result 
+about  factual inference in gener al . Note,  for 
+example,  that Hume takes many induct-
+ive inferences to be reflective and mediated,  
+especially those that involve ‘inferences from 
+contrary phænomena’ (THN 1.3.12.7 / 133) 
+or the application and balancing of ‘general 
+rules’ (THN 1.3.13.7–12 / 146–50,  1.3.15 / 
+173–5).  Moreover , inductive inferences from 
+‘only one experiment of a particular effect’ 
+can – Hume says – be mediated by explicit 
+reflection on a principle which looks very 
+similar to UP (THN 1.3.8.14 / 104–5).  75   
+Owen is well aware of this,  76   but he does 
+not apparently recognize the threat to his 
+own interpretation,  under which such medi-
+ated inferences become counterexamples to 
+Hume’ s conclusion,  at least if that is read 
+(as Hume’ s own words seem to require) as a 
+claim about each and every factual inference.  
+ Garrett is also aware that ‘not all probable 
+inferences are immediate’,  but he endeavours 
+to explain how nevertheless Hume’ s conclu-
+sion can be seen to apply even to those that 
+are mediated:
+  it may well happen,  as Millican notes,  
+that one piece of probable reasoning is 
+part of another piece of probable rea-
+soning .  . . But as Hume states his con-
+clusion .  . . , it is that ‘in all reasonings 
+from experience,  there is  a  step taken by 
+the mind which is not supported by any 
+argument or process of the understand-
+ing’ [EHU 5.2 / 41; emphasis added].  
+Where a piece of probable reasoning 
+does occur as part of a second piece of probable reasoning,  it will involve 
+a crucial step that is not supported by 
+any argument .  . . ; that is the point of 
+Hume’ s discovery . Reasoning cannot 
+cause the crossing of an inductive gap.  77     
+ However , my objection to which this was a 
+response referred not to the situation where 
+‘one piece of probable reasoning is  part  of 
+another piece of probable reasoning’,  but 
+rather , where one inductive inference’ s  con-
+clusion  (e.g.  ‘a general principle of uniform-
+ity’ as at THN 1.3.8.14 / 104–5) is then given 
+‘the role of a  premise  in further inductive 
+inference’.  78   Garrett’ s response thus preserves 
+what he takes to be Hume’ s conclusion,  as 
+universally applicable to factual inferences,  
+only by stipulatively treating  the inference 
+which was used to establish a proposition   
+as itself a part of  the further inference whic h 
+then tak es that proposition as a premise . In 
+the context of discussing the  epistemolog y  
+of induction,  this might seem reasonable 
+enough: if the proposition in question has a 
+problematic foundation,  then those problems 
+will be inherited by any further inference 
+built on it.  But if Hume’ s famous argument 
+is to be interpreted as involving the  psycho-
+logical mec hanism of indi vidual inducti ve 
+inferences  – as Garrett intends – then the 
+move looks artificial and  ad hoc , smudging 
+over the manifest difference between  argu-
+ing  for some proposition and  taking it as 
+assumed or established  (on the basis of pre-
+vious argument).  
+ To sum up so far , we have yet to find an  
+interpretation that is genuinely satisfying.  Any 
+extreme sceptical reading leaves Hume’ s phil-
+osophy hopelessly inconsistent.  The  anti-de-
+ducti vist  reading and that of Owen both have  
+serious difficulty making sense of the logic of  
+his argument,  and also have to rely on the text-
+ually questionable claim that Hume’ s notion of  
+9780826443595_Ch03_Final_txt_print.indd   789780826443595_Ch03_Final_txt_print.indd   78 4/17/2012   3:58:33 PM4/17/2012   3:58:33 PM79HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+‘reason’ within the argument is a target rather  
+than sincere (a problem which also beset my  
+own previous interpretation).  79   Garrett’ s read-
+ing has the significant merit of avoiding this  
+last pitfall,  but again has difficulty squaring  
+with the argument’ s text and logic,  and has  
+been forced to adapt accordingly over time.  
+Initially , Garrett understood Hume’ s conclu-
+sion as the straightforward claim that ‘we do  
+not adopt induction on the basis of recogniz-
+ing an  argument  for its reliability’.  80   This soon 
+changed into the more complex claim that ‘the 
+underlying causal mechanism that gives rise to  
+inductive inferences .  . . is not itself dependent  
+on any reasoning or inference’.  81   Meanwhile,  
+since the  Enquiry  argument clearly ranges  
+beyond narrow ‘reasoning or inference’,  
+Garrett suggested that here Hume ‘expands  
+the famous conclusion to rule out any “rea-
+soning  or process of the under standing ,” 
+thereby eliminating such non-inferential proc-
+esses of the understanding as intuition or the  
+perception of a probable connection between  
+even a single “proof”  and a conclusion’.  82   But 
+pushing in the opposite direction,  his recog-
+nition that Hume acknowledges the role of  
+explicit (and sometimes complex) ratiocin-
+ation within some inductive inferences has led  
+to a narrowing of the supposed conclusion,  to 
+focus on the very specific logical step which is  
+‘the crossing of an inductive gap’.  83   Even after  
+all this,  as we have seen,  Garrett’ s defence of  
+the interpretation looks suspiciously  ad hoc , 
+holding that conclusion to be true even of an  
+inductive inference which  explicitl y  argues  
+across the inductive gap using an anteced-
+ently established Uniformity Principle,  sim-
+ply on the basis that some  previous  inference  
+was required to establish that principle.  But 
+by now the interpretation has been diluted  
+beyond recognition,  and we seem to have lost  
+any focus on the actual psychological mech-
+anism of individual inductive inferences – this  is looking far more like a discussion of the  
+epistemology of our general presumption of  
+uniformity .  
+  3.2 ‘R EASON ’ AS THE COGNITI VE FACULTY  
+ One promising route towards a better under -
+standing of Humean ‘reason’ is to look at the 
+usage of Hume’ s contemporaries in Scotland 
+and England,  and especially those who – 
+unlike Locke – were enthusiastic about the 
+language of ‘faculties’ and relatively con-
+sistent in their usage.  84   Francis Hutcheson,  
+Professor of Moral Philosophy at Glasgow 
+and correspondent with Hume from 1739,  
+provides the closest spatio-temporal match 
+to the Treatise,  having published in 1742 no 
+fewer than four works containing an out-
+line of the faculties,  at least one of which – 
+ Philosophiae Mor alis Institutio Compendiaria   
+(later translated as  A Short Introduction to 
+Moral Philosoph y ) – he sent to Hume.  85   This,  
+like the  Synopsis Metaph ysicae  ( Synopsis of 
+Metaph ysics )  86   was a Latin teaching text,  and 
+contains a discussion of ‘The parts or pow-
+ers of the soul’.  87   The other two works were 
+ An Essa y on the Nature and Conduct of the 
+Affections  and  Illustr ations on the Mor al 
+Sense , published together as a third edition 
+of both.  To the former , Hutheson added a 
+footnote on the faculties,  88   and to the latter , 
+a new paragraph:
+  Writers on these Subjects should 
+remember the common Divisions of 
+the Faculties of the Soul.  That there is 
+1.  Reason  presenting the natures and 
+relations of things,  antecedently to any 
+Act of  Will  or  Desire : 2. The  Will , . . . 
+or the disposition of Soul to pursue 
+what is presented as good,  and to shun 
+Evil. . . . Both these Powers are by the 
+Antients included under the Λόγος or 
+λογικò ν μέρος.  Below these they place 
+9780826443595_Ch03_Final_txt_print.indd   799780826443595_Ch03_Final_txt_print.indd   79 4/17/2012   3:58:33 PM4/17/2012   3:58:33 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+80two other powers dependent on the 
+Body , the  Sensus , and the  Appetitus 
+Sensiti vus , in which they place the par -
+ticular Passions: the former answers to 
+the  Under standing , and the latter to 
+the  Will . But the Will is forgot of late,  
+and some ascribe to the  Intellect , not 
+only  Contemplation  or Knowledge,  but 
+ Choice ,  Desire ,  Prosecuting ,  Loving .  89     
+ It is clear from his alternation between 
+‘ Reason ’ and ‘the  Under standing ’ that 
+Hutcheson takes these to be one and the 
+same; indeed his  Essay ’s new footnote says as 
+much.  90   This equivalence is also asserted (or 
+manifested through the same sort of elegant 
+variation of terminology that we see above) 
+by various other writers known to Hume,  for 
+example Shaftesbury , Butler and Price,  91   so it 
+was evidently commonplace,  though writers 
+in the Scottish common-sense school later 
+preferred to use ‘reason’ more narrowly , in 
+much the way that Garrett favours.  92   Hume 
+himself,  however , is clearly aligned with 
+the former group,  interchanging between 
+‘reason’ and ‘the understanding’ dozens of 
+times – purely for the sake of stylistic vari-
+ation – just as he does between ‘the fancy’ 
+and ‘the imagination’:  93   
+ the mind .  . . is not determin’d by  reason , 
+but by certain principles,  which associate 
+together the ideas of these objects,  and 
+unite them in  the imagination  . Had ideas 
+no more union in  the fancy  than objects 
+seem to have to  the under standing , . . . 
+(THN 1.3.6.12 / 92; emphasis added) 
+ There are no principles either of  the 
+under standing  or  fancy , which lead 
+us directly to embrace this opinion .  . . 
+The .  . . hypothesis has no primary rec-
+ommendation either to  reason  or  the 
+imagination  . . . (THN 1.4.2.46 / 211; 
+my emphasis)  This sceptical doubt,  both with respect 
+to  reason and the senses  . . . ’Tis impos-
+sible upon any system to defend either 
+ our under standing or senses  . . . ’ (THN 
+1.4.2.57 / 218; emphasis added)   
+ Consider also the following two footnotes,  
+the first of which was expanded and moved 
+to create the second: 
+ when it [the imagination] is oppos’d 
+to  the under standing , I understand the 
+same faculty , excluding only our demon-
+strative and probable reasonings.  (THN 
+2.2.7.6n / 371n; emphasis added) 
+ when I oppose it [the imagination] to 
+ reason , I mean the same faculty , exclud-
+ing only our demonstrative and prob-
+able reasonings.  (THN 1.3.9.19n22 / 
+117–18n; emphasis added)   
+ Again,  the switch from ‘the understanding’ 
+to ‘reason’ looks purely stylistic,  perhaps 
+prompted by the clumsiness of ‘. . . the under -
+standing,  I understand .  . . ’. 
+ There is thus overwhelming textual evi-
+dence that Hume generally treats ‘reason’ 
+and ‘the understanding’ as one and the 
+same.  And virtually all major writers of the 
+period take ‘the understanding’ to refer to 
+our principal cognitive faculty , usually draw-
+ing a general division between it and ‘the 
+will’.  94   This division between the domains 
+of  the under standing   and  the will  is indeed 
+essentially the same as the modern distinc-
+tion between  cogniti ve  and  conati ve  mental 
+functions,  a dichotomy whose fundamental 
+nature is often now expressed in terms of a 
+‘direction of fit’ between world and mind: 
+ the under standing  aims to conform our 
+beliefs to the way the world is,  while  the will  
+aims to change the world to conform to our 
+desires.  Reid characterizes this in terms of a 
+9780826443595_Ch03_Final_txt_print.indd   809780826443595_Ch03_Final_txt_print.indd   80 4/17/2012   3:58:34 PM4/17/2012   3:58:34 PM81HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+distinction between our  intellectual  (or  con-
+templati ve ) and  active  powers:
+  We shall .  . . take that general division 
+which is the most common,  into the pow-
+ers of  under standing  and those of  will . 
+Under the will we comprehend our active 
+powers,  and all that lead to action,  or 
+influence the mind to act; such as,  appe-
+tites, passions,  affections.  The under -
+standing comprehends our contemplative 
+powers; by which we perceive objects; by 
+which we conceive or remember them; 
+by which we analyse or compound them; 
+and by which we judge and reason con-
+cerning them.  . . . The intellectual powers 
+are commonly divided into simple appre-
+hension,  judgment,  and reasoning.  95     
+ Although Reid is somewhat critical of this 
+framework,  which he takes to be ‘of a very 
+general reception’,  his clear account of it is 
+helpful in setting the scene for Hume,  whose 
+understanding of it – though again critical – 
+seems to be very similar .  96   
+ The earlier quotation from Hutcheson’ s 
+ Illustr ations on the Mor al Sense  likewise  
+recognizes this ‘common Division of the  
+Faculties of the Soul’ between ‘ Reason ’ (or ‘the 
+ Under standing ’) and ‘The  Will ’, while suggest-
+ing a hierarchical structure in which the senses  
+‘answer to’ the understanding,  and the passions  
+to the will.  His  Short Introduction to Mor al 
+Philosoph y , however , paints a cruder picture  
+which is closer to that outlined by Reid above:
+  The parts or powers of the soul .  . . are all  
+reducible to two classes,  the  Under standing   
+and the  Will . The former contains all the  
+powers which aim at knowledge; the  
+other all our desires.  . . . [Of] the several  
+operations of the understanding .  . . The 
+first in order are the  senses  . . . Senses are  
+either  external , or  internal .  97      This treats the senses themselves as ‘oper -
+ations of the understanding’,  a tendency  
+common enough for Price to make a point  
+of criticizing it.  98   But Hutcheson’ s  Synopsis  
+of Metaph ysics , within two sentences,  first  
+implicitly places the senses within the under -
+standing and then gives them a subordinate  
+reporting role,  which suggests that the former  
+placement is just a shorthand way of indicat-
+ing that the senses fall within the understand-
+ing’s sphere of influence:  
+we might reasonably reduce [the powers 
+of the mind] to two,  namely , the faculty 
+of  under standing  and the faculty of  will-
+ing , which are concerned respectively 
+with knowing things and with render -
+ing life happy . The  senses  report to the 
+ under standing , . . .   99   
+The  Synopsis  goes on to give Hutcheson’ s 
+most detailed account of his faculty frame-
+work,  with  Chapter 1  of Part II devoted to a  
+categorization of the powers associated with  
+the understanding,  including  external sensa-
+tion  (sect.  3),  internal senses or consciousness   
+(sect.  4),  reflexi ve or subsequent sensations   
+(sect.  5),  memory , the pow er of reasoning  and 
+ imagination  (sect.  6).  100   This again suggests a  
+hierarchical structure,  with these various pow-
+ers ‘reporting to’ an overseer faculty – reason  
+or the understanding  proper – which perceives  
+and judges the deliverances of the subordin-
+ate faculties in order to establish truth.  Thus  
+‘Reason is understood  to denote our  Power of 
+finding out true Propositions ’.  101   Price talks  
+in a similar spirit of ‘the power within us that  
+ under stands ; . . . the faculty .  . . that discerns  
+ truth , that views,  compares,  and  judges  of all  
+ideas and things’.  102   And a similar conceptual  
+linkage between  reason  or  the under standing   
+and the search for  truth  is common to many  
+other writers.  103   
+9780826443595_Ch03_Final_txt_print.indd   819780826443595_Ch03_Final_txt_print.indd   81 4/17/2012   3:58:34 PM4/17/2012   3:58:34 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+82 We are now in a position to appreciate the 
+significance of Hume’ s repeated statements 
+that align him strongly with this general con-
+ception of  reason  as  cognition :  104   
+ Reason is the discovery of truth or fal-
+shood.  (THN 3.1.1.9 / 458); 
+ That faculty , by which we discern 
+Truth and Falshood,  . . . (EHU 1.4n – 
+1748/1750 editions);  105   
+ Thus the distinct boundaries and offices 
+of reason and of taste are easily ascer -
+tained.  The former conveys the knowl-
+edge of truth and falsehood: .  . . (EPM 
+App. 1.21 / 294); 
+ reason,  in a strict sense,  as meaning the 
+judgment of truth and falsehood,  . . . 
+(DIS 5.1 / 24; cf.  THN 2.3.3.8 / 417).    
+ In all these contexts,  Hume is stressing that 
+reason,  since it is purely  cogniti ve , cannot 
+also be  conati ve : that is,  it cannot be contrary 
+to any passion or – by itself – provide any 
+motive to action or the will.  This is the crux 
+of one of Hume’ s three most famous argu-
+ments concerning the incapacity of reason,  
+which concludes that ‘Since morals .  . . have 
+an influence on the actions and affections,  it 
+follows,  that they cannot be deriv’d from rea-
+son’ (THN 3.1.1.6 / 457).  For the purpose of 
+this argument,  it is enough that  reason  is con-
+fined to the domain of truth and falsehood,  
+though Hume’ s talk of  discov ery ,  discern-
+ment  and  knowledge  suggests a normative 
+bias towards truth rather than falsehood.  
+This normative flavour is far more explicit 
+in another of the three famous arguments,  
+this time concerning the external world (the 
+third,  of course,  concerns induction): 
+ The vulgar confound perceptions and 
+objects .  . . This sentiment,  then,  as it is entirely unreasonable,  must proceed 
+from some other faculty than the under -
+standing.  . . . Even after we distinguish 
+our perceptions from our objects,  ’twill 
+appear presently , that we are still incap-
+able of reasoning from the existence of 
+one to that of the other: So that upon 
+the whole our reason neither does,  nor is 
+it possible it ever shou’d,  . . . give us an 
+assurance of the continu’d and distinct 
+existence of body . (THN 1.4.2.14 / 193) 
+ ’tis a false opinion that any of our .  . . 
+perceptions,  are identically the same 
+after an interruption; and consequently 
+. . . can never arise from reason,  . . . 
+(THN 1.4.2.43 / 209) 
+ we may observe a conjunction or a rela-
+tion of cause and effect betwixt differ -
+ent perceptions,  but can never observe 
+it betwixt perceptions and objects.  ’Tis 
+impossible,  therefore,  that from the exist-
+ence or any of the qualities of the former , 
+we can ever form any conclusion con-
+cerning the existence of the latter ,  106   or 
+ever satisfy our reason in this  particular . 
+(THN 1.4.2.47 / 212)   
+ It might appear strange that in one of these 
+arguments,   reason   seems to embrace both 
+truth and falsehood,  whereas in the other , it 
+is normatively connected with  truth . But this 
+sort of linguistic variation is commonplace,  
+and it is worth noting that an unambiguous 
+identification of  reason  with  the cogniti ve 
+faculty  is consistent with a fairly wide range 
+of nuances of meaning.  Given such an iden-
+tification,  ‘reason’ might most naturally be 
+used to refer to the human (or animal) fac-
+ulty of truth-apprehension,   however w ell 
+and b y whatev er processes it oper ates  (as, 
+for example,  when Hume compares the ‘rea-
+son’ of people and animals at THN 3.3.4.5 / 
+610).  But sometimes there might be debate 
+over these processes,  in which case we could 
+9780826443595_Ch03_Final_txt_print.indd   829780826443595_Ch03_Final_txt_print.indd   82 4/17/2012   3:58:34 PM4/17/2012   3:58:34 PM83HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+find ourselves referring to  processes that are 
+commonl y tak en to be inv olved in truth-
+apprehension , even if they turn out not to 
+be truth-conducive (as suggested by Hume’ s 
+‘scepticism with regard to reason’ of  Treatise   
+1.4.1).  Alternatively , we might wish to apply 
+a stricter criterion under which ‘reason’ 
+would be confined to processes that  operate 
+successfull y to apprehend truth  (thus giving 
+the normative flavour of the passages from 
+ Treatise  1.4.2 quoted above).  107   A differ -
+ent strict usage is to refer to  the faculty of 
+truth-apprehension acting entirel y alone , 
+independently of other faculties such as the 
+senses or memory (this seems to be Hume’ s 
+intention at THN 3.1.2.1 / 470).  108   Finally , 
+there is in the early modern period a com-
+mon metonymy , under which ‘reason’ is used 
+to refer to its  product , namely true belief as 
+successfully achieved using our rational fac-
+ulty (hence the pairing of ‘truth and reason’ 
+at THN 2.3.3.5 / 415,  3.1.1.15 / 461,  and 
+THN App.  1 / 623; cf.  also note 84 above).  
+Notice that acknowledgement of all these 
+nuances is quite different from supposing an 
+ ambiguity  in ‘reason’,  because they all arise 
+naturally from the core meaning,  and there 
+need be no suggestion that the word has been 
+coincidentally assigned two or more distinct 
+meanings.  With this understood,  much of the 
+evidence that has previously been adduced 
+for the ambiguity of ‘reason’ is significantly 
+undermined,  and it becomes more plausible 
+to suggest that the term has,  for Hume,  a sin-
+gle core meaning,  namely what we now call 
+ cognition .  
+  3.3 R EASON  AND THE IMAGINATION  
+ If  reason , for Hume,  is just our overall cogni-
+tive faculty , and if his general epistemological 
+approach is – as set out in Section 1 above – 
+to begin by ascribing default authority to our natural faculties,  then one would expect 
+that his arguments about reason’ s capabili-
+ties would start from a relatively straightfor -
+ward and conventional understanding of our 
+cognitive functions.  Coming from a Lockean 
+background,  it is no surprise to find Hume 
+recognizing the cognitive faculties of  the 
+senses ,  memory ,  intuition , and  demonstr ative  
+and  probable reasoning .  109   The  senses  can 
+be either  external  (i.e.  sight ,  touch ,  hearing , 
+ smell , gustatory  taste ) or  internal  (i.e.  reflec-
+tion ) – these provide the  impressions  from 
+which our  ideas  are copied,  and those ideas 
+are represented to us either through  the mem-
+ory  or  the imagination . It follows that all of 
+our thinking,  except in so far as it confines 
+itself to memory , must involve representation 
+of ideas in the imagination,  which is appar -
+ently to be thought of as something like a 
+multi-layered or multi-dimensional canvas 
+on which sense-copied ideas appear , with dif-
+ferent degrees of ‘force and vivacity’ and ‘in a 
+perpetual flux and movement’  (THN 1.4.6.4 
+/ 252).  110   Thus our faculties of  intuition ,  dem-
+onstr ation , and  probable reasoning  must 
+inevitably act on our imagination,  through 
+such processes as bringing ideas into mind,  
+dismissing others,  or – most importantly 
+given Hume’ s analysis of belief (summarized 
+at the end of section 2.1 above) – changing 
+their degrees of force and vivacity . Even when 
+we make judgements about the deliverances 
+of our  senses   and  memory , it is their force 
+and vivacity in the imagination which appar -
+ently constitutes our assent to them.  111   Hence 
+Hume’ s comment,  leading into the sceptical 
+anxieties of the Conclusion of  Treatise   Book 
+1, that: ‘The memory , senses,  and understand-
+ing are,  therefore,  all of them founded on the 
+imagination,  or the vivacity of ideas’ (THN 
+1.4.7.3 / 265).  This comment might be read as 
+suggesting that the imagination is itself active,  
+but earlier in the same paragraph,  Hume 
+9780826443595_Ch03_Final_txt_print.indd   839780826443595_Ch03_Final_txt_print.indd   83 4/17/2012   3:58:35 PM4/17/2012   3:58:35 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+84makes clear that he is talking of  principles   
+(namely  experience  and  habit ) that ‘operate 
+upon the imagination’.  The initial framing of 
+his discussion of induction in the  Treatise   (as 
+quoted earlier in section 2.1) may give a differ -
+ent impression: ‘the next question is,  Whether 
+experience produces the idea by means of the 
+understanding or imagination; whether we 
+are determin’d by reason to make the tran-
+sition,  or by a certain association and rela-
+tion of perceptions?’ (THN 1.3.6.4 / 88–9).  
+But Hume’ s answer to his own question – 
+repeated numerous times – will be that our 
+causal reasoning is  determined b y custom ,  112   
+and he never says that it is  determined b y the 
+imagination  itself.  So at least in this context,  
+the imagination is apparently only the virtual 
+stage on which the mind’ s various principles – 
+either of reason or custom – orchestrate their 
+dance of perceptions.  113   
+ In other contexts,  however , the imagination 
+does appear as an active agent,  having  the lib-
+erty to tr anspose and c hange its ideas   (THN 
+1.1.3.4 / 10,  1.1.4.1 / 10–11,  1.3.5.3 / 85,  
+1.3.7.7 / 97; EHU 2.4 / 18,  5.10 / 47–8,  5.12 
+/ 49),  to  distinguish  and  separ ate them  (THN 
+1.2.4.3 / 40,  1.2.5.3 / 54–5,  1.3.3.3 / 79–80,  
+1.4.5.5 / 233),  to  suggest  (THN 1.1.7.15 / 
+23–4) or  raise them up  (THN 1.2.1.3 / 27),  
+and to generate  fictions  (THN 1.1.6.2 / 16,  
+1.4.2.29 / 200–1,  1.4.2.36 / 205,  1.4.2.43 
+/ 209,  1.4.2.52 / 215,  1.4.3.3–5 / 220–1,  
+1.4.3.11 / 224–5,  1.4.6.6–7 / 253–5).  114   The 
+distinction between the two classes of oper -
+ation seems to be explained by the footnote at 
+THN 1.3.9.19 / 117 which we encountered in 
+section 3.2 above:
+  In general we may observe,  that as 
+our assent to all probable reasonings 
+is founded on the vivacity of ideas,  it 
+resembles many of those whimsies and 
+prejudices,  which are rejected under the opprobrious character of being the 
+offspring of the imagination.  By this 
+expression it appears that the word,  
+ imagination , is commonly us’d in two 
+different senses; and tho’ nothing be 
+more contrary to true philosophy , than 
+this inaccuracy , yet in the following rea-
+sonings I have often been oblig’d to fall 
+into it.  When I oppose the imagination to 
+the memory , I mean the faculty , by which 
+we form our fainter ideas.  When I oppose 
+it to reason,  115   I mean the same faculty , 
+excluding only our demonstrative and 
+probable reasonings.  (THN 1.3.9.19n22 
+/ 117–18n)   
+ This note was inserted by means of a ‘cancel’ 
+leaf, prepared by Hume while the  Treatise  
+was going through the press,  and I believe 
+he saw the need for this on rereading the end 
+of THN 1.3.9.4 / 108:  116   ‘All this,  and every 
+thing else,  which I believe,  are nothing but 
+ideas; tho’ by their force and settled order , 
+arising from custom and the relation of 
+cause and effect,  they distinguish themselves 
+from the other ideas,  which are merely the 
+offspring of the imagination’.  A related pas-
+sage is at THN 1.4.4.1 / 225,  where Hume 
+addresses the complaint that he has criticized 
+‘the antient philosophers’ for being guided by 
+imaginative fancies,  whilst building his own 
+philosophy on principles of the imagination:
+  In order to justify myself,  I must dis-
+tinguish in the imagination betwixt the 
+principles which are permanent,  irresist-
+ible, and universal; such as the custom-
+ary transition from causes to effects,  and 
+from effects to causes: And the principles,  
+which are changeable,  weak,  and irregu-
+lar; such as those I have just now taken 
+notice of [e.g.  the ‘inclination in human 
+nature to bestow on external objects 
+the same emotions,  which it observes 
+in itself ’, as attributed to the ‘antient 
+9780826443595_Ch03_Final_txt_print.indd   849780826443595_Ch03_Final_txt_print.indd   84 4/17/2012   3:58:35 PM4/17/2012   3:58:35 PM85HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+philosophers’].  The former are the foun-
+dation of all our thoughts and actions,  so 
+that upon their removal human nature 
+must immediately perish and go to ruin.  
+The latter are neither unavoidable to 
+mankind,  nor necessary , or so much as 
+useful in the conduct of life .  . .   
+ All three passages point to a distinction 
+drawn within the class of principles that 
+‘operate on the imagination’ – that is,  which 
+affect our thinking.  Some of these are ‘the 
+foundation of all our thoughts and actions’,  
+the ‘permanent,  irresistible,  and universal’ 
+principles that ground ‘our demonstrative 
+and probable reasonings’,  and are therefore 
+appropriately dignified with the name of  rea-
+son  or  the under standing . The other princi-
+ples are those that we more naturally think of 
+as belonging to the  imagination  itself: those 
+that ground our free play of ideas,  fictions,  
+whimsies and prejudices.  Hence in this nar -
+rower sense  the imagination  is in opposition 
+to  reason , though both sets of principles per -
+form on the same stage –  the imagination  in 
+the broader sense – where all our non-mem-
+ory ideas are represented.  It is this broader 
+sense which enables Hume to refer , without 
+paradox,  to ‘the understanding,  that is,  . . . 
+the general and more establish’d properties 
+of the imagination’ (THN 1.4.7.7 / 267).  117    
+  3.4 A N OPER ATION  OF REASON  WHIC H IS 
+‘NOT DETERMIN ’D BY REASON ’ 
+ Equipped with this understanding of the 
+Humean faculties,  let us now try to clarify 
+the significance of his famous argument.  In 
+the  Treatise  , he considers a paradigm causal 
+inference ‘from the impression to the idea’; 
+in the  Abstr act  and  Enquiry , he widens this 
+to any factual inference ‘beyond the present 
+testimony of our senses,  or the records of our memory’ (EHU 4.3 / 26).  He then iden-
+tifies the crucial step of such inference: the 
+extrapolation from observed to unobserved 
+which is encapsulated in his Uniformity 
+Principle.  If this is to qualify as founded on 
+ reason , then there must be some cognitive 
+operation that grounds it,  and which does 
+so through genuine  cognition  (rather than 
+some fallacy or confusion).  In the  Treatise   
+and  Abstr act , Hume apparently takes it to be 
+obvious that the only plausible contenders 
+here are  demonstr ative reasoning   and  prob-
+able  (i.e.  moral  or  factual )  reasoning . In the 
+ Enquiry  he is more thorough,  and rules out 
+also both  intuition  and  sensory knowledge   
+as sources of foundation for the Uniformity 
+Principle.  Since  memory   is taken for granted 
+in the experiential observations from which 
+the inference starts,  this exhausts all the 
+standardly recognized sources of evidence 
+with which reason might operate.  It is there-
+fore no coincidence that the four sources 
+considered – and rejected – in Hume’ s argu-
+ment in the 1748  Enquiry  match up exactly 
+with those itemized in his 1745  Letter from 
+a Gentleman : ‘It is common for Philosophers 
+to distinguish the Kinds of Evidence into 
+ intuiti ve ,  demonstr ative ,  sensible ,  and mor al ; 
+. . .’ (LFG 22).  If  reason  is understood by 
+Hume in the standard contemporary way – 
+as the overall cognitive faculty – then we 
+should indeed expect it to embrace all four 
+‘Kinds of Evidence’.  
+ Notice that this way of reading Hume’ s 
+argument has the clear implication that 
+inductive (i.e.  probable,  moral,  factual) 
+inference is being treated as an operation of 
+reason throughout,  which at least strongly 
+suggests that it would be a mistake to inter -
+pret Hume’ s conclusion – that such inference 
+is ‘not determin’d by reason’ – as deposing 
+it from that status.  (For if that were indeed 
+his intention,  one might reasonably expect 
+9780826443595_Ch03_Final_txt_print.indd   859780826443595_Ch03_Final_txt_print.indd   85 4/17/2012   3:58:35 PM4/17/2012   3:58:35 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+86such an apparently paradoxical move to 
+be far more clearly signalled.) So we need 
+to understand how Hume,  as a result of 
+his famous argument,  can coherently view 
+induction as  an oper ation of reason whic h is 
+not ‘determin’ d by’ reason .  118   
+ The obvious answer , given both our inter -
+pretation of reason and the structure of 
+Hume’ s argument,  is that he views induction 
+ as a cogniti ve process whic h depends on a 
+non-cogniti ve sub-process  . So he is think-
+ing at two levels,  with inductive inference 
+being a manifest operation of our conscious 
+reason,  causally driven by a subconscious 
+process that involves the customary enliven-
+ment of our ideas.  This underlying process 
+is of a type which is naturally categorized as 
+‘imaginative’ rather than ‘rational’,  because 
+it works through an associative mechanism 
+which automatically and mindlessly extrapo-
+lates beyond anything that we have perceived 
+or otherwise detected in the world (whether 
+objective events,  or evidence).  It is therefore 
+in sharp contrast with the underlying pro-
+cess hypothesized by Locke,  who supposed 
+inductive (i.e.  probable) inference to be 
+driven by a  perceptual  process,  namely the 
+rational apprehension of objective probable 
+connexions.  Locke therefore saw induction 
+as  a cogniti ve process whic h depends on a 
+cogniti ve sub-process  – apparently ‘cognitive 
+all the way down’ because it is ultimately 
+founded on direct perception of evidential 
+connexions.  Hume’ s argument destroys this 
+illusion by showing that there is no plausible 
+source for such perception: it cannot derive 
+from examining relations of ideas (because it 
+depends on the experienced world),  but nor 
+can it derive from experience,  either current 
+(because the senses detect no such evidential 
+connexions) or remembered (because induct-
+ive extrapolation is the very process whose 
+perceptual basis we are seeking).   A similar theme can be seen in the other of 
+Hume’ s most famous arguments that assigns 
+a vital role to the imagination,  on ‘Scepticism 
+with Regard to the Senses’ (THN 1.4.2 / 
+187–218).  Here he takes on the natural and 
+naive assumption that external objects – dis-
+tinct from us and continuous over time – are 
+directly and straightforwardly  perceived 
+through the senses.  To refute this,  he shows 
+that identification  of objects over time 
+requires a process that goes beyond anything 
+we perceive,  latching onto patterns of ‘con-
+stancy’ and ‘coherence’ in our distinct impres-
+sions,  and smoothing over gaps and changes 
+to generate an illusion of continuity . Again 
+the process involved is naturally categorized 
+as ‘imaginative’,  and so Hume describes 
+his argument as showing that our ‘assur -
+ance of the continued and distinct existence 
+of body .  . . must be entirely owing to the 
+ imagina tion ’ (THN 1.4.2.14 / 193).  Like 
+his argument concerning induction,  there-
+fore, this can be seen as making a significant 
+contribution to  both  cognitive science  and  
+epistemology , by highlighting how the infor -
+mational processes that are implicit in the 
+temporal identification of physical objects 
+go well beyond anything that is directly per -
+ceived.  Indeed modern-day cognitive science,  
+through the development of ‘artificial  intel-
+ligence’ visual systems,  has provided striking 
+vindication of Hume,  by showing how even 
+the identification of physical objects  at a time  
+requires ‘imagination-like’  processes of edge-
+detection,  region identification,  shadow and 
+texture interpretation,  and so forth.  So far 
+from being merely passive,  visual perception 
+involves many active – albeit unconscious – 
+processes,  without which the manifold of our 
+sensory impressions would be completely 
+incomprehensible.  
+ This interpretation of Hume involves 
+understanding his talk of faculties as 
+9780826443595_Ch03_Final_txt_print.indd   869780826443595_Ch03_Final_txt_print.indd   86 4/17/2012   3:58:36 PM4/17/2012   3:58:36 PM87HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+descriptive of  types of process   rather than as 
+references to parts of the mind,  and indeed 
+this seems anyway to be required in the light 
+of his general scepticism about any faculty 
+language that pretends to be more than a 
+functional description (THN 1.4.3.10 / 224; 
+DNR 4.162–3).  For Hume,  as for Locke,  a 
+faculty just names a power .  119   Nevertheless,  
+at least in the  Treatise , he has an unfortunate 
+tendency to talk of faculties in the way that 
+Locke rightly deplored,  as ‘so many distinct 
+Agents’.  120   Taking such language literally , his 
+famous argument paints the absurd picture 
+of  reason  attempting in vain to make an 
+inductive inference,  and needing  the imagi-
+nation  to step in to lend a hand.  But induc-
+tion is such a central cognitive process that 
+it ought  by definition  to be an operation of 
+ reason  (just as remembering is by definition 
+an operation of  memory ); hence if we think 
+of faculties as distinct agents or areas of the 
+mind,   custom  – as the underlying process 
+that drives induction – should itself be part 
+of  reason . Presumably it is this sort of con-
+sideration that led Hume,  in the wake of his 
+famous argument,  to reassign ‘the general 
+and more establish’d properties of the imagi-
+nation’ – which must surely include custom – 
+to  reason  or  the under standing  (THN 1.4.7.7 
+/ 267,  cf. section 3.3 above).  121   But then we 
+get into a muddle if we want to hold on to 
+his conclusion that inductive inference is ‘not 
+determin’d by reason’,  given the frequency 
+with which he says that inductive inference is 
+indeed determined by custom.  Little wonder , 
+perhaps,  that both Hume and his interpreters 
+sometimes seem to exhibit confusion of the 
+faculties! 
+ As so often,  the  Enquiry  brings consid-
+erable improvement,  and in a number of 
+respects.  Now the faculties are rarely spo-
+ken of as agents in their own right,  with the 
+harmless exception of those passages that stress the liberty of the imagination (EHU 
+2.4 / 18,  5.10 / 47–8,  and 5.12 / 48–50).  The 
+contrast is especially striking in the case of 
+ reason , because whereas the  Treatise  speaks 
+of reason itself as a determining cause (e.g.  
+THN 1.3.6.4 / 88–9,  1.3.6.12 / 92,  1.3.7.6 
+/ 97, 1.4.1.1 / 180),  the  Enquiry  never does 
+so. In the later work,  Hume’ s preference is 
+to talk instead of reasoning  processes  (e.g.  
+EHU 4.23 / 39,  5.4 / 42,  9.6 / 108),  which 
+were never mentioned as such in the  Treatise . 
+Meanwhile,   custom  in the  Enquiry  is said 
+to  act on  the imagination (EHU 5.11 / 48,  
+9.5 / 106–7) and is never said (or implied) 
+to be itself an operation of the imagination,  
+thus avoiding the complications that arise 
+from trying to place it consistently within the 
+conventional faculty structure.  122   Moreover , 
+Hume no longer refers to custom as a prin-
+ciple of association of ideas (cf.  THN 1.3.7.6 
+/ 97),  123   but says instead that it is a process 
+ analog ous  to the association of ideas,  which 
+‘is of a similar nature,  and arises from simi-
+lar causes’ (EHU 5.20 / 53–4).  He continues,  
+however , to draw a contrast between cus-
+tom and reason (EHU 5.5 / 43,  5.20 / 53–4),  
+thereby retaining the core of his theory that 
+inductive inference is determined by a sub-
+process which is not itself  cogniti ve .   
+  4. CONCLUSION: SCEPTICISM AND 
+RATION AL FOUND ATIONS 
+ After all this,  how sceptical is Hume’ s pos-
+ition? His famous argument has shown 
+that inference from past to future crucially 
+involves a process of extrapolation that can-
+not be independently justified by anything 
+within our cognitive grasp.  This crucial step 
+is instead due to a mechanical associative 
+process in the mind,  whereby past experience 
+9780826443595_Ch03_Final_txt_print.indd   879780826443595_Ch03_Final_txt_print.indd   87 4/17/2012   3:58:36 PM4/17/2012   3:58:36 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+88raises certain ideas about the future and enli-
+vens them into beliefs.  Such a process – given 
+its automatic,  non-reflective nature,  and its 
+lack of any rational insight or apprehension 
+of reality – is naturally classified as ‘imagina-
+tive’ rather than ‘cognitive’,  and Hume’ s 
+faculty language is best interpreted accord-
+ingly, as a way of categorizing types of pro-
+cess, rather than as a theory of distinct agents 
+within our minds.  So when he claims that the 
+ imagination  plays a crucial role in inductive 
+inference,  he should be understood as saying 
+simply that our process of making inductive 
+inferences  itself  crucially involves an  imagi-
+nation-lik e  sub-process.  
+ As we have seen (in section 3.1 above),  
+Hume is well aware that many inductive infer -
+ences also involve  reason-lik e  sub-processes,  
+as for example when we consciously take 
+into account the ‘rules by which to judge of 
+causes and effects’ of  Treatise  1.3.15 / 173–6,  
+or attempt to identify underlying mathemat-
+ical patterns (e.g.  EHU 4.13 / 31,  7.29n17 
+/ 77n).  But he is clearly far more interested 
+in the crucial  imaginati ve  step,  even to the 
+extent of describing it as solely responsible 
+for the inference: 
+ When the mind .  . . passes from the idea 
+or impression of one object to the idea 
+or belief of another , it is not determin’d 
+by reason,  . . . The inference .  . .  depends 
+solely  on the union of ideas.  (THN 
+1.3.6.12 / 92; emphasis added) 
+ all reasonings are  nothing but   the effects 
+of custom; .  . . (THN 1.3.13.11 / 149; 
+emphasis added; cf.  EHU 5.5–6 / 43–4)   
+ Similarly with his argument concerning our 
+belief in the continued and distinct existence 
+of body (which aims to show that it depends 
+crucially on various associative processes,  
+constructing ‘fictions’ from the passing show of impressions),  he expresses his conclusion 
+in a way that ignores the obvious and essen-
+tial role of the senses:
+  That opinion must be  entirel y owing  to 
+the  imagina tion  (THN 1.4.2.14 / 193; 
+emphasis added).    
+ Hume seems to be assuming here that even 
+one  imaginati ve  step is sufficient to charac-
+terize the entire process of which it is a part 
+as one that is determined by  the imagination  
+(rather than by  reason  or  the senses ), just as 
+one invalid step within a sequential inference 
+typically renders the entire inference invalid.  
+Such a focus when speaking of inferential 
+processes is indeed quite natural,  since we 
+are typically interested in the  weakest  link in 
+any chain of support rather than the  strong-
+est . The same applies to other supportive or 
+foundational relationships:  thus a climber can 
+properly be described as ‘supported only by a 
+rope’,  whether that rope itself is secured to a 
+mountain,  a building,  a heavy vehicle or any 
+other relatively reliable anchor .  124   Likewise,  
+an argument or legal case which crucially 
+depends on some imaginative fabrication,  
+even if it  also  depends on numerous points 
+that are logically unassailable,  can appro-
+priately be said to be ‘founded on fantasy’.  
+But if we follow through this line of thought,  
+then since inductive inference depends on a 
+sub-process of ‘imaginative’ extrapolation 
+which itself has no rational grounding,  we 
+seem forced to conclude that any proposition 
+that can be established only by such infer -
+ence must apparently in turn be disqualified 
+from counting as founded on reason.  Yet as 
+we have seen in sections 3.1 and 3.4 above,  
+Hume continues to treat induction as a legit-
+imate operation of reason.  125   There is,  at the 
+least,  a sceptical tension here: can we really 
+suppose that he would consider a process 
+9780826443595_Ch03_Final_txt_print.indd   889780826443595_Ch03_Final_txt_print.indd   88 4/17/2012   3:58:36 PM4/17/2012   3:58:36 PM89HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+genuinely  rational  which rests on a purely 
+ mechanical ,  non-reflecti ve  sub-process? 
+ To address this worry , suppose that Hume 
+were to take the alternative view , that any 
+rational process must have a rational foun-
+dation.  It would then immediately follow 
+that for anything to be founded on reason 
+at all,  it must be founded on reason ‘all the 
+way down’ (i.e.  it would have to be solidly 
+founded on evidence or principles,  which 
+are either immediately apprehended by 
+reason,  or else themselves solidly founded 
+on evidence or principles which are either 
+immediately apprehended by reason or .  . . , 
+etc.). Hume would thus be committed to a 
+strongly rationalistic notion of reason,  the 
+demands of which would be impossible to 
+fulfil without abandoning the heart of his 
+philosophy . At no point would he be able to 
+halt the foundational regress by acknowledg-
+ing that ultimately the principles of our rea-
+son can (legitimately) be grounded on basic 
+psychological mechanisms.  So the only pos-
+sible outcomes would be either rationalism 
+or incurable scepticism.  Some interpreters 
+have indeed seen Hume as impelled towards 
+radical scepticism by precisely this kind of 
+regressive train of thought.  126   But it would 
+be completely at odds with his efforts to 
+ground a conception of reason on the con-
+tingent operations of the human mind,  and 
+flatly incompatible – in the light of his own 
+investigations – with treating induction as a 
+genuine operation of reason.  
+ As we saw in section 3.4 above,  Locke 
+implicitly follows the path that Hume rejects,  
+by attributing probable reasoning to the per -
+ception of probable connexions.  And indeed 
+direct  perception  – conceived of as a process 
+of transparent apprehension – seems to be a 
+paradigm of what reason requires if it is to 
+be ‘cognitive all the way down’.  Such percep-
+tion could at once provide both a rational foundation for belief and also a cause.  By 
+contrast,  ‘imagination-like’  processes such 
+as custom may  cause  belief,  but they cannot 
+at the same time provide a cognitive  foun-
+dation : that is indeed precisely why they do 
+not qualify as processes of reason.  127   Hume 
+seems to have embraced this distinction,  if 
+not perhaps immediately , for his language in 
+the  Abstr act  and  Enquiry  (though not in the 
+ Treatise ) precisely fits it.  In the  Treatise , he 
+repeatedly talks about custom (or the prin-
+ciples of the imagination) as providing a 
+ foundation  for inductive inference.  128   In the 
+ Abstr act  and  Enquiry , by contrast,  he never 
+does,  but there are no fewer than 19 passages 
+that describe the influence of custom in terms 
+that are either explicitly  causal , or naturally 
+interpretable as such.  129   This strongly sug-
+gests that Hume himself came to recognize a 
+firm distinction between what in the  Enquiry  
+he calls a foundation,  and what he there calls 
+a determining cause.  Thus understood,  it is 
+clear that  custom  qualifies only as a  cause , 
+whereas reasoning processes or sources of 
+information can potentially provide a cogni-
+tive  foundation .  130   
+ All this brings the possibility of posing 
+coherent but unanswerable questions,  such 
+as that which introduces Hume’ s discussion 
+in Part 2 of  Enquiry  Section 4: ‘if we still 
+carry on our sifting humour , and ask,   What 
+is the foundation of all conclusions from 
+experience?  this implies a new question .  . .’ 
+(EHU 4.14 / 32).  If  custom  cannot qualify 
+as a  foundation , then Hume’ s ultimate con-
+clusion that ‘All inferences from experience 
+. . . are effects of custom,  not of reasoning’ 
+(EHU 5.5 / 43) excludes any foundation at 
+all. For in competing successfully for the 
+ causal explanatory  role,  custom effectively 
+excludes anything else from the  foundational  
+role (which it is nevertheless unable to fulfil 
+itself).  Perhaps,  then,  there is hidden depth 
+9780826443595_Ch03_Final_txt_print.indd   899780826443595_Ch03_Final_txt_print.indd   89 4/17/2012   3:58:36 PM4/17/2012   3:58:36 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+90  APPENDIX: HUME’S ARGUMENT CONCERNING INDUCTION 
+(FROM SECTION  4  OF THE  ENQ UIRY CONCERNING HUMAN UNDERST ANDING )    in Hume’ s declaration of intent: ‘I shall con-
+tent myself,  in this section,  with an easy 
+task, and shall pretend only to give a nega-
+tive answer to the question here proposed’ 
+(EHU 4.15 / 32).  The upshot is that ‘if we still 
+carry on our sifting humour’ in the search 
+for ultimate foundations,  we hit rock bot-
+tom with something that has a  cause  but no 
+ foundation . And that is the tendency , rooted 
+in our animal nature,  to infer from past to 
+future,  from experienced to not-yet-expe-
+rienced.  This is radically different from the 
+kind of perceptual foundation presupposed 
+by traditional conceptions of reason,  differ -
+ent enough to make Hume’ s position seem 
+outrageously sceptical by comparison.  But in 
+reality it is quite the reverse: he is providing 
+an account of reason  which mak es inducti ve inference possible for human beings  , despite 
+the sceptical impact of his famous argument 
+which shows that it cannot be founded in any 
+of the ways that previous tradition would 
+countenance.  131   He reveals how we  actu-
+ally  reason inductively , rather than falling 
+back on the aprioristic supposition that this 
+can only be through the rational perception 
+of evidential connexions.  That traditional 
+notion is decisively refuted by his sceptical 
+argument,  but his own position is very far 
+from sceptical.  On the contrary , as we saw in 
+section 1 above,  Hume sees very good reason 
+to accept our faculty of inductive inference 
+as it is (at least when suitably disciplined by 
+general rules etc.),  and no good reason to 
+reject it.  We have,  indeed,  no alternative,  nor 
+any compelling reason for desiring one.  132    
+    Hume’ s Own Statement of the Propositions 
+Identified in the Structure Diagr am  
+  1.      By means of [ Cause and Effect ] alone 
+can we go beyond the evidence of our 
+memory and senses.  (EHU 4.4 / 26)  
+  2.      All reasonings concerning matter of fact 
+seem to be founded on the relation of 
+ Cause and Effect.  (EHU 4.4 / 26) 
+    . . . all arguments concerning existence 
+are founded on the relation of cause and 
+effect .  . . (EHU 4.19 / 35) 
+    . . . all our evidence for any matter of 
+fact, which lies beyond the testimony 
+of sense or memory , is derived entirely 
+from the relation of cause and effect .  . . 
+(EHU 12.22 / 159)  
+  3.      No object ever discovers,  by the quali-
+ties which appear to the senses,  either 
+the causes which produced it,  or the 
+effects which will arise from it .  . . (EHU 
+4.6 / 27)     It is allowed on all hands,  that there is 
+no known connexion between the sen-
+sible qualities and the secret powers .  . . 
+(EHU 4.16 / 33)  
+  4.     . . . every effect is a distinct event from its 
+cause.  It could not,  therefore,  be discov-
+ered in the cause,  and .  . . the conjunc-
+tion of it with the cause must appear .  . . 
+arbitrary; since there are always many 
+other effects,  which,  to reason,  must 
+seem fully as consistent and natural.  
+(EHU 4.11 / 30)  
+  5.     . . . the knowledge of [cause and effect] 
+is not,  in any instance,  attained by rea-
+sonings  a priori ; but arises entirely from 
+experience .  . . (EHU 4.6 / 27) 
+   . . .  causes and effects are discov er-
+able, not b y reason,  but b y experience   
+. . . (EHU 4.7 / 28) 
+   In vain,  therefore,  should we pretend 
+to . . . infer any cause or effect,   without 
+9780826443595_Ch03_Final_txt_print.indd   909780826443595_Ch03_Final_txt_print.indd   90 4/17/2012   3:58:37 PM4/17/2012   3:58:37 PM91HUME’S ‘SCEPTICISM’ ABOUT INDUCTION(1) Only the relation of cause and
+effect can tak e us be yond the
+evidence of our memor y and senses
+(2) All f actual inf erences to the
+unobser ved are f ounded on the
+relation of cause and eff ect
+(6) All f actual inf erences to the
+unobser ved are f ounded on
+experience(4) An y effect is quite distinct from
+its cause , and man y different eff ects
+are equally conceiv able
+(5) Causal relations cannot be kno wn
+a priori, but can only be disco vered
+by experience
+(11) The inf erence  from past
+uniformity to  future  uniformity
+is not intuitiv efrom (13) T wo kinds of  argument are
+availab le (for pro ving UP):
+demonstr ative and  factual
+(16) If there  is a good  argument
+for UP , it m ust be  a factual
+inference
+(18) There is no good
+argument  of an y kind f or UP (20) CONCLUSION
+No factual inf erence  to the
+unobser ved is f ounded  on
+reason   
+(3) Sensor y perception of an y object
+does not re veal either its causes or its
+effects, and there is no kno wn
+conne xion betw een the sensib le
+qualities and its ‘secret po wers’
+(9) UP is not f ounded on an ything
+that w e lear n through the senses
+about objects’  ‘secret po wers’
+(10) UP can be f ounded  on reason
+only if it is f ounded  on e xperience
+(of unif ormity)(14) A change  in the  course of
+nature  can be distinctly
+conceiv ed, and  hence  is possib le
+(15) Future unif ormity cannot
+be inf erred  demonstr atively
+past unif ormity  
+(17) An y factual  inference  to
+UP w ould be circular 
+(19) UP is not f ounded  on reason(7)  All reasonings  from  experience
+are founded  on the Unif ormity
+Principle (UP)  
+(8) All f actual inf erences  to the
+unobser ved are f ounded  on UP  
+(12) UP can  be founded  on
+reason  only if it is f ounded  on
+argument  (via some  medium
+enab ling it to be inf erred  from
+past experience of unif ormity)
+9780826443595_Ch03_Final_txt_print.indd   919780826443595_Ch03_Final_txt_print.indd   91 4/17/2012   3:58:37 PM4/17/2012   3:58:37 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+92the assistance of observation and experi-
+ence.  (EHU 4.11 / 30) 
+   . . . our knowledge of that relation [of 
+cause and effect] is derived entirely from 
+experience .  . . (EHU 4.19 / 35)  
+  6.     . . . nor can our reason,  unassisted by 
+experience,  ever draw any inference 
+concerning real existence and matter of 
+fact .  . . (EHU 4.6 / 27) 
+   In vain,  therefore,  should we pretend 
+to determine any single event .  . . with-
+out the assistance of observation and 
+experience.  (EHU 4.11 / 30)  
+  7.     . . . we always presume,  when we see 
+like sensible qualities,  that they have like 
+secret powers,  and expect,  that effects,  
+similar to those which we have experi-
+enced,  will follow from them .  . . (EHU 
+4.16 / 33) 
+   We have said,  that .  . . all our experi-
+mental conclusions proceed upon the  
+supposition,  that the future will be con-
+formable to the past .  . . (EHU 4.19 / 35)  
+   . . . all inferences from experience sup-
+pose,  as their foundation,  that the future 
+will resemble the past,  and that similar 
+powers will be conjoined with similar 
+sensible qualities .  . . (EHU 4.21 / 37)  
+  8.     [This proposition is implicit in the infer -
+ential sequence:] We have said,  that all 
+arguments concerning existence are 
+founded on the relation of cause and 
+effect; that our knowledge of that rela-
+tion is derived entirely from experience; 
+and that all our experimental conclu-
+sions proceed upon the supposition,  
+that the future will be conformable to 
+the past.  (EHU 4.19 / 35)  
+  9.     . . . the mind is not led to form such a 
+conclusion concerning [sensible quali-
+ties and secret powers’] constant and 
+regular conjunction,  by any thing which 
+it knows of their nature .  . . (EHU 4.16 
+/ 33)  
+  10.     [This proposition is implicit in Hume’ s 
+transition from considering ‘a priori’ 
+evidence for the Uniformity Principle to considering experiential arguments 
+for it:] As to past  Experience , it can be 
+allowed to give  direct  and  certain  infor -
+mation of those precise objects only , 
+and that precise period of time,  which 
+fell under its cognizance: but why this 
+experience should be extended to future 
+times,  and to other objects,  which for 
+aught we know , may be only in appear -
+ance similar;  this is the main question 
+on which I would insist.  (EHU 4.16 / 
+33–4)  
+  11.     The connexion between these proposi-
+tions [ I hav e found that suc h an object 
+has alw ays been attended with suc h an 
+effect and I foresee,  that other objects,  
+which are,  in appear ance,  similar , will 
+be attended with similar effects  ] is not 
+intuitive.  (EHU 4.16 / 34)  
+  12.     There is required a medium,  which may 
+enable the mind to draw such an infer -
+ence,  if indeed it be drawn by reasoning 
+and argument.  (EHU 4.16 / 34)  
+  13.     All reasonings may be divided into two 
+kinds,  namely demonstrative reasoning,  
+or that concerning relations of ideas,  
+and moral reasoning,  or that concern-
+ing matter of fact and existence.  (EHU 
+4.18 / 35)  
+  14.     . . . it implies no contradiction,  that the 
+course of nature may change .  . . May I 
+not clearly and distinctly conceive [such 
+a thing]? (EHU 4.18 / 35)  
+  15.     That there are no demonstrative  argu-
+ments in the case,  seems evident .  . . (EHU  
+4.18 / 35)  
+   . . . whatever is intelligible,  and can be 
+distinctly conceived,  implies no contra-
+diction,  and can never be proved false by 
+any demonstrative argument or abstract 
+reasoning  a priori  . . . (EHU 4.18 / 35)  
+  16.     If we be,  therefore,  engaged by arguments 
+to put trust in past experience,  and make 
+it the standard of our future judgment,  
+these arguments must be probable only , 
+or such as regard matter of fact and real 
+existence .  . . (EHU 4.19 / 35)  
+9780826443595_Ch03_Final_txt_print.indd   929780826443595_Ch03_Final_txt_print.indd   92 4/17/2012   3:58:39 PM4/17/2012   3:58:39 PM93HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+  17.     To endeavour , therefore,  the proof [that 
+the future will be conformable to the 
+past] by probable arguments,  or argu-
+ments regarding existence,  must be evi-
+dently going in a circle,  and taking that 
+for granted,  which is the very point in 
+question.  (EHU 4.19 / 35–6)  
+  18.     . . . it may be requisite .  . . to shew , that 
+none of [the branches of human knowl-
+edge] can afford such an argument .  . . 
+(EHU 4.17 / 35) 
+   . . . we have no argument to convince  
+us, that objects,  which have,  in our experi-
+ence, been frequently conjoined,  will like-
+wise, in other instances,  be conjoined in  
+the same manner .  . . (EHU 12.22 / 159)   
+  19.     . . . it is not reasoning which engages us  
+to suppose the past resembling the future,  
+and to expect similar effects from causes,  
+which are,  to appearance,  similar .  . . 
+(EHU 4.23 / 39)  
+   . . . nothing leads us to [expect con-
+stant conjunctions to continue] but cus-
+tom or a certain instinct of our nature 
+. . . (EHU 12.22 / 159)  
+  20.     I say then,  that,  even after we have expe-
+rience of the operations of cause and 
+effect,  our conclusions from that experi-
+ence are  not  founded on reasoning,  or 
+any process of the understanding.  (EHU 
+4.15 / 32) 
+   . . . in all reasonings from experience,  
+there is a step taken by the mind,  which  
+is not supported by any argument or pro-
+cess of the understanding.  (EHU 5.2 / 41)  
+   All belief of matter of fact or real 
+existence [is due merely to] a species of 
+natural instincts,  which no reasoning or 
+process of the thought and understand-
+ing is able,  either to produce,  or to pre-
+vent. (EHU 5.8 / 46–7)      
+    NOTES 
+  1     The argument appears in  Treatise  1.3.6 / 
+86–94,   Abstr act  8–16 / 649–52,  and  Enquiry  4 / 25–39,  and is outlined in Sections 2.1–4 below . 
+In discussions of induction it is commonly 
+referred to as ‘Hume’ s famous argument’,  a 
+convenient shorthand that I shall adopt.  Note 
+also that ‘induction’ is the modern term for the 
+topic of his argument; he himself never uses the 
+word in this sense.   
+  2     This is the summary of the Section 4 argument 
+alluded to earlier . Note,  however , that the pre-
+vious clause brings in a point from the Section 
+7 discussion of the idea of necessary connexion,  
+which does not feature in Section 4 itself.   
+  3     Hume does not  reject  the Causal Maxim,  but 
+says that it ‘must .  . . arise from observation  and 
+experience’  (THN 1.3.3.9 / 82),  hinting that he 
+will return to it later (though he never does).  For 
+detailed discussion,  see Peter Millican,  ‘Hume’ s 
+Determinism’,   Canadian  Journal of Philosoph y  
+40 (2010),  pp. 611–42,  sects II,  IV, VI.  
+  4     Section 1.3.7 will in due course move on to the 
+third component,  ‘the nature and qualities’ of 
+the belief-idea.   
+  5     Hume continues to mention the  imagination’ s 
+power to mix and separate its ideas (e.g.  
+Abs. 35 / 662,  EHU 5.10 / 47–8),  but the 
+Separability Principle as such is never again 
+invoked as it had been,  very signifi  cantly , in the 
+ Treatise  (e.g. THN 1.1.7.3 / 18–9,  1.2.3.10 / 
+36–7,  1.2.5.3 / 54–5),  arguably sometimes with 
+absurd results (e.g.  THN 1.4.3.7 / 222,  1.4.5.5 / 
+233, 1.4.5.27 / 245–6,  App. 12 / 634).   
+  6     At THN 1.3.2.11 / 77,  Hume had stressed 
+that (single-case)  contiguity  and  succession  
+are insuffi  cient to characterize a cause and 
+effect relationship,  pointing out that ‘There 
+is a  necess ary connexion  to be taken into 
+consideration’.  Now at THN 1.3.6.3 / 87,  he 
+reminds us that ‘Contiguity and succession are 
+not suffi  cient to make us pronounce any two 
+objects to be cause and effect’,  and he expresses 
+satisfaction at having unexpectedly ‘discover’d 
+a new relation .  . . This relation is their  con-
+stant conjunction ’. The link between the 
+passages is evident both from the content and 
+the capitalization.   
+  7     John Locke,   An Essa y concerning Human 
+Under standing , ed. Peter H.  Nidditch,  (Oxford: 
+Clarendon Press,  1975),  IV.xv.1, IV.xvii.2.   
+  8     Humean  demonstr ation  corresponds to what 
+is now called  deducti ve  reasoning,  in the 
+informal sense of an argument whose premises 
+9780826443595_Ch03_Final_txt_print.indd   939780826443595_Ch03_Final_txt_print.indd   93 4/17/2012   3:58:39 PM4/17/2012   3:58:39 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+94conceptually guarantee the truth of the conclu-
+sion. For more on this,  see Peter Millican,  
+‘Humes Old and New: Four Fashionable 
+Falsehoods,  and One Unfashionable Truth’,  
+ Proceedings of the Aristotelian Society , supp.  
+vol. 81 (2007),  pp. 163–99,  sect.  V.  
+  9     This result comes from Hume’ s theory of  
+relations,  at THN 1.3.2.1–3 / 73–4 (for criti-
+cism,  see Peter Millican,  ‘Hume’ s Fork,  and 
+His Theory of Relations’,  forthcoming in  
+ Philosoph y and Phenomenological Researc h ). 
+In brief,  THN 1.1.5 / 13–15 enumerates what  
+Hume takes to be the seven different kinds  
+of relation,  which THN 1.3.1.1 / 69–70 then  
+divides into two classes.  The four relations ‘that 
+depend solely on ideas’ are the sources of strict  
+‘knowledge’,  with  resemblance ,  contr ariety  and 
+ degrees in quality  amenable to intuition (THN  
+1.3.1.2 / 70),  and  proportions in quantity or  
+number  the basis for demonstration.  Of the  
+three ‘inconstant’ relations,   identity  and  rela-
+tions of time and place  are amenable to percep-
+tion (THN 1.3.2.2 / 73–4),  leaving  causation   
+as ‘the only one,  that can be trac’d beyond our  
+senses,  and informs us of existences and objects,  
+which we do not see or feel’ (THN 1.3.2.3 /  
+74). Hume thus identifi  es  probable  with  causal   
+reasoning,  and the rest of Book 1,  Part 3,  
+entitled ‘Of Knowledge and Probability’,  is 
+accordingly devoted to ‘the idea of  causation   
+. . . tracing it up to its origin’ (THN 1.3.2.4 /  
+74–5).  Strangely , the word ‘probability’ does not  
+appear at all in this Part before THN 1.3.6.4  
+/ 89, except in the title of the Part itself and of  
+Section 1.3.2: ‘Of Probability; and of the Idea of  
+Cause and Effect’.   
+  10     Notice that causal inference is categorically 
+stated to be founded on that presumption – 
+there is no suggestion here of the conditional-
+ity that we had at THN 1.3.6.4 / 89: ‘ If  reason 
+determin’d us,  it wou’d proceed upon that 
+principle .  . .’ (emphasis added).  Nor is there 
+any such conditionality at THN 1.3.6.11 / 
+91–2,  or in either the  Abstr act  (Abs.  13–14 / 
+651) or the  Enquiry  (EHU 4.19 / 35–6,  4.21 / 
+36–7,  5.2 / 41–2).   
+  11     THN 1.3.6.7 / 90 expresses the circularity in 
+causal terms: ‘The same principle cannot be 
+both the cause and effect of another’,  appar -
+ently in order to make a joke: ‘and this is,  
+perhaps,  the only proposition concerning that relation,  which is either intuitively or demon-
+stratively certain’.  The  Abstr act  and  Enquiry  
+make clear that the circularity is logical.   
+  12     Before drawing this conclusion,  Hume adds 
+(what I have called) a ‘coda’ to his argument 
+(THN 1.3.6.8–10 / 90–1),  dismissing an 
+attempt to get round it by appeal to objects’ 
+powers.  This attempt is refuted by the simple 
+observation that induction needs to be presup-
+posed to enable us to draw an inference from 
+the powers of past objects to the powers of 
+future objects.  For discussion of this coda and 
+its implications,  see Peter Millican,  ‘Hume’ s 
+Sceptical Doubts concerning Induction’,  in 
+Peter Millican (ed.),   Reading Hume on Human 
+Under standing  (Oxford: Clarendon Press,  
+2002),  pp. 107–73,  sects 9–9.2.   
+  13     He also refers back to it in a footnote at THN 
+1.3.14.17 / 163,  feeding into his discussion of 
+the idea of necessary connexion.   
+  14     For discussion of some of the nuances of termi-
+nology for referring to this kind of reasoning,  
+see Millican,  ‘Hume’ s Sceptical Doubts con-
+cerning Induction’,  sect.  3.1, which distin-
+guishes between  probable inference ,  factual 
+inference ,  factual inference to the unobserv ed , 
+and  inducti ve inference . Hume generally takes 
+for granted that all of these coincide.   
+  15     The argument from THN 1.3.6.8–10 / 90–1 is 
+also very briefl  y summarized,  in the last two 
+sentences of paragraph 15.  For more on this 
+‘coda’,  see note 12 above.   
+  16     Notice that Hume seems entirely happy to 
+take perception and memory for granted here,  
+fi tting with the strategy described in Section 1 
+above,  of allowing default authority to our 
+faculties.  Scepticism regarding the senses is 
+addressed at THN 1.4.2–4 / 187–231 and 
+EHU 12.6–16 / 151–5,  but Hume’ s ultimate 
+attitude to it remains far less clear than his 
+position on induction.   
+  17     This notion of a  proof  plays a signifi  cant role 
+in Hume’ s argument concerning miracles in 
+Section 10 of the  Enquiry .  
+  18     This is taken from Millican,  ‘Hume’ s Sceptical 
+Doubts concerning Induction’.   
+  19     Thus there is no evidence here,  as infl  uentially 
+claimed by David Stove,   Probability and 
+Hume’ s Inducti ve Scepticism  (Oxford: Oxford 
+University Press,  1973),  p. 50, that Hume’ s 
+method of argument shows him to be a 
+9780826443595_Ch03_Final_txt_print.indd   949780826443595_Ch03_Final_txt_print.indd   94 4/17/2012   3:58:40 PM4/17/2012   3:58:40 PM95HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+‘deductivist’,  presupposing that only deduc-
+tively valid arguments are legitimate.  A similar 
+point,  though less obvious,  can be made about 
+the  Abstr act  (‘The mind can always  concei ve  
+any effect to follow from any cause,  and 
+indeed any event to follow upon another’,  
+Abs. 11 / 650) and the  Treatise  (‘When we pass 
+from a present impression to the idea of any 
+object,  we might possibly .  . . have substituted 
+any other idea in its room’,  THN 1.3.6.1 / 87).   
+  20     This case of applied mathematics (cf.  also 
+THN 2.3.3.2 / 413–14) shows that Hume 
+is quite comfortable with demonstrative,  
+mathematical reasoning being applied to a pos-
+teriori premises.  For discussion of this point,  
+see Millican,  ‘Humes Old and New’,  sect.  V.  
+  21     Hume’ s talk of ‘secret powers’ is new in the 
+ Enquiry , and seems to refl  ect a more sophis-
+ticated understanding of scientifi  c reasoning 
+than is evident in the  Treatise  and  Abstr act . 
+In the  Treatise , science is generally treated 
+as involving predictions of discrete types of 
+event based on previous patterns of conjunc-
+tion or difference (as in the ‘rules by which to 
+judge of causes and effects’ of THN 1.3.15 / 
+173–6).  The  Enquiry , by contrast,  evinces an 
+awareness (e.g.  at EHU 4.13 / 31 and EHU 
+7.29n17 / 77n) that science more typically 
+deals with events having continuously vary-
+ing characteristics – such as the velocity of a 
+billiard ball – whose prediction involves the 
+interplay of mathematically determined forces.  
+For more on this,  see Peter Millican,  ‘Against 
+the New Hume’,  in Rupert Read and Kenneth 
+A. Richman (eds),   The New Hume Debate: 
+Revised Edition  (London: Routledge,  2007),  
+pp. 211–52,  at pp.  232–3.   
+  22     Hume obviously means us to infer accord-
+ingly – though he does not explicitly state – 
+that [8] all factual reasoning,  since it has to 
+be founded on experience,  presupposes such a 
+resemblance (i.e.  the Uniformity Principle).  See 
+also note 27 below .  
+  23     In EHU 4.16 / 33–4 itself,  Hume oscillates 
+between reference to the activity of  inference  
+from observed to unobserved,  and to the 
+ presupposition  of resemblance on which such 
+inference is based.  Indeed it seems that he takes 
+the foundation of the  inference  to be the same 
+as the foundation of the  presupposition  that it 
+manifests.  This supports an interpretation of the Uniformity Principle as implicit rather than 
+explicit,  a principle we  exhibit  by our infer -
+ential behaviour rather than one we always 
+consciously consider . Such an interpretation 
+nicely squares Hume’ s repeated commitment 
+to the Principle’ s role in all inductive inference 
+(see note 10) with his clear recognition at THN 
+1.3.8.13 / 103–4 that we characteristically 
+‘draw inferences from past experience,  without 
+refl ecting on .  . . that principle’.  See also note 
+31 below .  
+  24     This suggests that if the inference  were  intui-
+tive, it would count as ‘reasoning and argu-
+ment’ notwithstanding the lack of a ‘medium’.  
+Indeed,  as we shall see later (section 3.1),  in 
+Hume’ s day the terms ‘reasoning’ and ‘argu-
+ment’ did not imply complex ratiocination.   
+  25     Hume is fond of elegant variation,  frequently  
+using a variety of terms for the same concept.  
+‘Moral reasoning’,  ‘reasoning concerning  
+matter of fact and real existence’,  ‘probable  
+arguments’ and ‘arguments concerning exist-
+ence’ are all ways of referring to what we are  
+here calling  factual  reasoning.  See note 14  
+above.   
+  26     That he takes these to be equivalent was 
+made clear by EHU 4.2 / 25–6,  where he fi  rst 
+explained the notion of a matter of fact.   
+  27     For an earlier occurrence of this last implicit 
+inference,  see note 22 above.   
+  28     As in the  Treatise  (note 12 above) and  Abstr act  
+(note 15 above),  Hume rounds off the argu-
+ment in the  Enquiry  with a coda (EHU 4.21 
+/ 36–8) in which he refutes the attempt to 
+circumvent his argument by appeal to objects’ 
+powers.  He also adds a parting shot at EHU 
+4.23 / 39 which emphasises the unlikelihood 
+that peasants,  infants or ‘brute beasts’ should 
+form their inductive expectations on the basis 
+of ‘any process of argument or ratiocination’.  
+Though the point is well made,  however , its 
+philosophical signifi  cance is less clear , because 
+those who take induction to be rationally 
+founded need not be committed to supposing 
+that animals (etc.) function purely ration-
+ally – see Millican,  ‘Hume’ s Sceptical Doubts 
+concerning Induction’,  sect.  9.3.  
+  29     Recall that [12] is the claim that ‘There is 
+required a medium,  which may enable the 
+mind to draw such an inference,  if indeed 
+it be drawn by reasoning and argument’.  
+9780826443595_Ch03_Final_txt_print.indd   959780826443595_Ch03_Final_txt_print.indd   95 4/17/2012   3:58:40 PM4/17/2012   3:58:40 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+96(EHU 4.16 / 34) – that is,  because the 
+Uniformity Principle cannot be established 
+directly through sensory perception or intui-
+tion, if it is to be established by reason at all,  
+then this must be on the basis of some step-
+wise argument or ratiocination.   
+  30     The other implicit fi  nal stages are also stated 
+explicitly elsewhere: [18] ‘we have no argu-
+ment to convince us,  that objects,  which have,  
+in our experience,  been frequently conjoined,  
+will likewise,  in other instances,  be conjoined 
+in the same manner’ (EHU 12.22 / 159); [19] 
+‘it is not reasoning which engages us to sup-
+pose the past resembling the future,  and to 
+expect similar effects from causes,  which are,  
+to appearance,  similar’ (EHU 4.23 / 39).   
+  31     See note 23 above for the nature of this 
+presupposition,  which need not be conscious,  
+but is implicitly  manifested  by the making of 
+the inference.  So UP need not take any very 
+explicit or determinate form (contrary to the 
+impression given by THN 1.3.6.4 / 88–9),  and 
+is best understood as something like a general 
+principle of  evidential relev ance  between 
+observed and unobserved,  more in line with 
+the expression of the  Enquiry : ‘we . . . put trust 
+in past experience,  and make it the standard 
+of our future judgment’ (EHU 4.19 / 35); we 
+take ‘the past [as a] rule for the future’ (EHU 
+4.21 / 38).  This seems right: in taking such an 
+inference to be better informed than an a priori 
+inference,  we are  ipso f acto  presuming that 
+what happened in the past provides evidence 
+that is positively relevant to what will happen 
+in the future.  For more on the Uniformity 
+Principle and its presupposition,  see Millican,  
+‘Hume’ s Sceptical Doubts concerning 
+Induction’,  sect.  3.2 and especially sect.  10.2.   
+  32     Moreover this sequence of argument seems to 
+be entirely deliberate,  because it occurs very 
+explicitly twice,  fi rst within the main argument 
+at EHU 4.16 / 32–4,  and then again in the 
+coda at EHU 4.21 / 37.   
+  33     In the conclusion of Book 1 of the  Treatise , 
+Hume’ s attempt to meet the sceptical challenge 
+says very little about the issue of induction,  
+except as part of a general concern regarding 
+the role of ‘the imagination,  or the vivacity 
+of our ideas’ (THN 1.4.7.3 / 265).  There the 
+more pressing problems are those that threaten 
+inevitable error and contradiction (notably the existence of body , the metaphysics of 
+causation,  and the self-annihilation of reason),  
+which the simple assumption of uniformity 
+never does.  The  Enquiry ’s response to the 
+Pyrrhonian sceptic,  starting from a rejection 
+of extreme  antecedent  scepticism,  would not 
+be nearly as effective against varieties of  con-
+sequent  scepticism that bring to light genuine 
+contradictions – rather than simply lack of 
+ultimate grounding – in our faculties,  and this 
+might explain why Hume very much down-
+plays these more problematic topics in the 
+ Enquiry . His attitude to them seems to be that 
+they are best left alone: for example,  meta-
+physical enquiries into the nature of matter 
+are likely to lead to contradiction or unin-
+telligibility (EHU 12.14–15 / 153–5) unless,  
+perhaps,  we fall back on a notion of matter so 
+empty as to be unexceptionable (EHU 12.16 
+/ 155).  Hume’ s fi nal recommendation is for a 
+ mitig ated  scepticism that inspires a suitable 
+degree of ‘doubt,  and caution,  and modesty’ 
+(EHU 12.24 / 162),  and which also focuses our 
+enquiries on ‘such subjects as are best adapted 
+to the narrow capacity of human understand-
+ing’ (EHU 12.25 / 162),  notably those where 
+we are able to progress either through math-
+ematical demonstration (EHU 12.27 / 163) or 
+induction from experience (EHU 12.28–31 / 
+163–6).   
+  34     David Owen,   Hume’ s Reason  (Oxford: Oxford 
+University Press,  1999),  p. 136.   
+  35     Ibid.,  p. 132.   
+  36     Barry Stroud,   Hume  (London: Routledge & 
+Kegan Paul,  1977),  p. 54.  
+  37     Antony Flew,  Hume’ s Philosoph y of Belief  
+(London: Routledge & Kegan Paul,  1961).   
+  38     Stove,   Probability and Hume’ s Inducti ve 
+Scepticism .  
+  39     Stroud himself ( Hume , pp. 56–7) reacted 
+against this,  suggesting that what he saw as 
+Hume’ s extreme scepticism could more plau-
+sibly be attributed to a ‘potentially regressive 
+aspect of the notion of reason or justifi  cation’ 
+whereby evidence  E  can count as a reason 
+for believing  P  only if one has some reason  R  
+for taking  E  as a reason.  If we then ask about 
+the basis for  R  in turn,  and continue in this 
+way, we get a regress which can apparently 
+be terminated only by ‘something we could 
+not fail to be reasonable in believing’ (ibid.,  
+9780826443595_Ch03_Final_txt_print.indd   969780826443595_Ch03_Final_txt_print.indd   96 4/17/2012   3:58:40 PM4/17/2012   3:58:40 PM97HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+p. 62), such as an immediate experience or self-
+evident truth.  Hume’ s invoking of UP within 
+his argument is indeed somewhat in this spirit,  
+but when considering UP’ s own foundation,  he 
+seems content to stop with (fallible) sensa-
+tion or memory , not only with the certainty of 
+intuition or demonstration,  while the appeal 
+to factual inference generates a circle rather 
+than an infi  nite regress.  Nevertheless Stroud’ s 
+account is illuminating,  in stressing the seduc-
+tive assumption that justifi  cation is required at 
+each step if scepticism is to be resisted.  Hume’ s 
+strategy outlined in Section 1 above rejects this 
+by shifting the onus onto the sceptic.   
+  40     Flew,  Hume’ s Philosoph y of Belief , p. 171.   
+  41     For some other passages in a similar spirit,  see 
+note 125 below .  
+  42     Tom Beauchamp and Thomas Mappes,  ‘Is 
+Hume Really a Sceptic about Induction?’,  
+ American Philosophical Quarterl y  12 (1975),  
+pp. 119–29.   
+  43     Barbara Winters,  ‘Hume on Reason’,   Hume 
+Studies  5 (1979),  pp. 20–35 was perhaps most 
+infl uential in promoting the idea that Hume’ s 
+notion of reason is ambiguous in this way . 
+Tom Beauchamp and Alexander Rosenberg,  
+ Hume and the Problem of Causation  
+(Oxford: Oxford University Press,  1981); 
+N. Scott Arnold,  ‘Hume’ s Skepticism about 
+Inductive Inference’,   Journal of the History 
+of Philosoph y  21 (1983),  pp. 31–55; Janet 
+Broughton,  ‘Hume’ s Skepticism about Causal 
+Inferences’,   Pacifi c Philosophical Quarterl y  
+64 (1983),  pp. 3–18; and Annette C.  Baier ,  A 
+Progress of Sentiments: Refl  ections on Hume’ s 
+Treatise  (Cambridge MA: Harvard University 
+Press,  1991) all gave slightly different anti-
+deductivist readings,  some of the nuances of 
+which are discussed by Don Garrett,   Cognition 
+and Commitment in Hume’ s Philosoph y  
+(Oxford: Oxford University Press,  1997),  
+pp. 83–91.   
+  44     Peter Millican,  ‘Hume’ s Argument concerning 
+Induction: Structure and Interpretation’,  in 
+Stanley Tweyman (ed.),   David Hume: Critical 
+Assessments  (London: Routledge,  1995),  
+vol. 2, pp. 91–144; Garrett,   Cognition and 
+Commitment .  
+  45     Most obviously , the famous argument treats 
+ probable  argument as a potential founda-
+tion for the Uniformity Principle,  whereas a deductivist must consider any merely probable 
+argument as evidentially worthless from the 
+start.  If Hume were a deductivist,  indeed,  
+then he could dismiss induction in a single 
+step with his Conceivability Principle.  For 
+more detail on all this,  see Millican,  ‘Hume’ s 
+Argument concerning Induction’,  pp. 123–4,  
+136; ‘Hume’ s Sceptical Doubts concerning 
+Induction’,  pp. 155–6; Garrett,   Cognition and 
+Commitment , pp. 86–8).   
+  46     See in particular the passages quoted near the 
+end of the fi  rst paragraph of Section 3 above.  
+These and others are cited in this connexion 
+by Millican,  ‘Hume’ s Argument concerning 
+Induction’,  pp. 127,  136; ‘Hume’ s Sceptical 
+Doubts concerning Induction’,  pp. 161–2; 
+Garrett,   Cognition and Commitment , 
+pp. 85–6.   
+  47     Locke,   Essay , IV.xvii.2.   
+  48     e.g. Locke,   Essay , IV.xv.2.  
+  49     Garrett,   Cognition and Commitment , p. 92.  
+  50     Locke’ s usage is somewhat variable,  though I 
+consider  perception  to be more fundamental to 
+Lockean reason than  inference  (see my ‘Hume’ s 
+Argument concerning Induction’,  p. 137,  or for 
+more detail,  ‘Hume’ s Sceptical Doubts concern-
+ing Induction’,  sect.  2). Note that both of these 
+are distinct from the  intermediate idea  charac-
+teristic which Owen considers fundamental to 
+Lockean reason.   
+  51     Garrett,   Cognition and Commitment , pp. 
+91–2.   
+  52     The modifi  ed interpretation fi  rst appeared in 
+Don Garrett,  ‘Ideas,  Reason and Skepticism: 
+Replies to My Critics’,   Hume Studies  24 
+(1998),  pp. 171–94,  but his 2002 piece ‘The 
+Meaning of Hume’ s Conclusion concerning 
+“Inductive”  Inferences’ (in Peter Millican,  
+ Reading Hume on Human Under standing , 
+pp. 332–4) was based directly on the two 
+relevant sections of his 1997 book ( Cognition 
+and Commitment ), reworded accordingly .  
+  53     Garrett,  ‘The Meaning of Hume’ s Conclusion’,  
+p. 333.   
+  54     Or, presumably ,  A  to  C . Garrett’ s suggestion 
+(‘Ideas,  Reason and Skepticism’,  pp. 182–3) 
+is that in attempting to infer from  A  to  D , we 
+fi rst observe that  A  implies  B  intuitively (i.e.  
+self-evidently),  leaving a gap between  B  and 
+ D . We then set out to fi  ll that gap,  by noticing 
+that  B  implies  C , and  C  implies  D . We put 
+9780826443595_Ch03_Final_txt_print.indd   979780826443595_Ch03_Final_txt_print.indd   97 4/17/2012   3:58:40 PM4/17/2012   3:58:40 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+98these last two implications together , deducing 
+that  B  implies  D  (this is Garrett’ s intermedi-
+ate inference).  Now from  A implies B  and  B 
+implies D , we can deduce that  A implies D .  
+  55     See, for example,  Peter Millican,  ‘Hume on 
+Reason and Induction: Epistemology or 
+Cognitive Science?’,   Hume Studies  24 (1998),  
+pp. 141–60,  at pp.  145–7,  and David Owen,  ‘A 
+Reply to My Critics’,   Hume Studies  26 (2000),  
+pp. 323–37,  at pp.  329–30.   
+  56     Samuel Johnson,   A Dictionary of the English 
+Language  (London,  1756).   
+  57     ‘To deduce’ is defi  ned in three clauses: ‘1. 
+To draw in a regular connected series.  2. 
+To form a regular chain of consequential 
+propositions.  3. To lay down in regular order’.  
+‘Ratiocination’ is defi  ned in just one clause: 
+‘The act of reasoning; the act of deducing 
+consequences from premises’.   
+  58     Also,  of course,  Hume’ s own theory of induct-
+ive inference implies that it typically does not 
+proceed in a stepwise manner , but essentially 
+reduces to  conception  (see THN 1.3.7.5n20 / 
+96–7n); yet he never hints that terms such as 
+‘argument’,  ‘inference’,  ‘proof ’ or ‘reasoning’ 
+are thereby rendered inappropriate to these 
+transitions of thought.  So it is hard to see how 
+he could consistently refuse to apply them – on 
+grounds of immediacy – to ‘intuitive inference’.   
+  59     Such an emphasis comes later , with the positive 
+account in terms of instinctive custom (e.g.  at 
+THN 1.3.8.13 / 103–4 and EHU 5.8 / 46–7).   
+  60     At least,  this looks like a plausible implication,  
+just as one invalid step within a mathemat-
+ical proof is enough to render the entire proof 
+invalid.  But as we shall see later (section 4),  
+things are not quite so straightforward here.   
+  61     For another way of sharpening this sort of 
+objection,  see Millican,  ‘Humes Old and New , 
+sect. VI, which expands on Millican,  ‘Sceptical 
+Doubts concerning Induction’,  pp. 158–60.  
+There I focus on the very last step of Hume’ s 
+argument,  whereby he concludes that because 
+factual inference is founded on UP , and UP is 
+not founded on reason,  it follows that factual 
+inference is not founded on reason.  This step 
+looks very dubious if ‘reason’ here is supposed 
+to mean stepwise ratiocination (or , indeed,  
+higher -level argument).   
+  62     See note 10 above for equivalent passages in 
+the  Abstr act  and  Enquiry  versions.     63     See for example Owen,   Hume’ s Reason , 
+pp. 9–10,  120–2,  127–30,  141,  148.  The books  
+of both Owen and Garrett present only the  
+ Treatise  version of the argument,  and indeed  
+Owen’ s analysis hardly mentions the  Abstr act  
+or  Enquiry . Garrett takes relevant quotations  
+from the later works,  but states without analysis  
+that ‘the structure and language of the other ver -
+sions of the argument are parallel’ to that in the  
+ Treatise  ( Cognition and Commitment , p. 82).  
+  64     Descartes’ s  Meditations , for example,  presents 
+the Ontological Argument for the existence 
+of a perfect God,  and then appeals to God’ s 
+non-deceptive nature to vindicate various 
+factual beliefs about the unobserved,  all appar -
+ently without any essential reference to the 
+Uniformity Principle.   
+  65     Or – if we take the  Enquiry  version – in any 
+deliverance of the senses or intuition.   
+  66     This objection goes back to my ‘Hume on 
+Reason and Induction’,  sect.  VII (1998),  and is 
+also discussed by Garrett,  ‘Ideas,  Reason and 
+Skepticism’,  p. 187; Millican ‘Hume’ s Sceptical 
+Doubts concerning Induction’,  pp. 157–8; 
+Louis Loeb,  ‘Psychology , Epistemology , 
+and Skepticism in Hume’ s Argument about 
+Induction’,   Synthese  152 (2006),  pp. 321–38,  
+at pp.  328–9; and Abraham Sesshu Roth,  
+‘Causation’,  in Saul Traiger (ed.),   The 
+Blackwell Guide to Hume’ s Treatise  (Oxford: 
+Blackwell,  2006),  pp. 95–113,  at pp.  108–11.   
+  67     The case of faulty  factual  arguments (e.g.  in 
+Hume’ s coda at  THN  1.3.6.10 / 91 and  EHU  
+4.21 / 36–8) is less clear , because if they pre-
+suppose UP , then the famous argument – as 
+interpreted by Garrett and Owen – can still 
+get a purchase on them.  For critical discus-
+sion, see Loeb,  ‘Psychology , Epistemology , and 
+Skepticism’ (p.  329),  who goes on to suggest 
+his own explanation of why Hume fails to 
+consider faulty arguments here: ‘The answer 
+must be that Hume imposes an epistemic 
+constraint on any causal explanation of induct-
+ive inference: the explanation of our making 
+inductive inferences must be compatible with 
+their being justifi  ed’ (p.  330).  Helen Beebee,  
+ Hume on Causation  (London: Routledge,  
+2006),  pp. 55–6,  takes a similar line,  and both 
+are discussed in my ‘Humes Old and New’,  
+pp. 186–8.  In brief,  I fi nd their approach text-
+ually unsupported and also in tension with 
+9780826443595_Ch03_Final_txt_print.indd   989780826443595_Ch03_Final_txt_print.indd   98 4/17/2012   3:58:40 PM4/17/2012   3:58:40 PM99HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+the sceptical tone of Hume’ s famous argument 
+and of his later references to it.  A far simpler 
+solution is to see ‘reason’ as referring to our 
+ cogniti ve  faculty – see section 3.2 below .  
+  68     Richard Price,   A Review of the Principal 
+Questions and Diffi  culties in Mor als  (London: 
+1758),  p. 34.  
+  69     Ibid.,  p. 40n.   
+  70     Owen also adds a note at this point: ‘The 
+qualifi  cation,  “prior to our engaging in 
+probable reasoning”,  is important,  because 
+Hume thinks that once we are engaged in 
+the practice of probable reasoning,  we come 
+to believe the uniformity principle and use it 
+in probable  reasoning.  . . . This requires an 
+account of how we fi  rst engage in probable 
+reasoning,   before  the principle is available to 
+us’. ( Hume’ s Reason , p. 128n30)  
+  71     Owen,   Hume’ s Reason , pp. 128–30.   
+  72     Garrett,   Cognition and Commitment , p. 94.  
+  73     Owen,   Hume’ s Reason , pp. 132–4.   
+  74     Garrett,  ‘Ideas,  Reason and Skepticism’,  
+pp. 180–1.   
+  75     Unlike Garrett and Owen,  however , I do not 
+take the principle in question,  ‘ that lik e objects,  
+plac’d in lik e circumstances,  will alw ays 
+produce lik e effects ’, to be identical to the 
+Uniformity Principle.  The former concerns the 
+ consistenc y  of events within our experience,  
+whereas UP concerns the  evidential relev ance  
+of observed to unobserved.  Without UP , 
+experienced consistency (or , indeed,  any other 
+experienced pattern) could not be extrapolated 
+from past to future.   
+  76     Owen,   Hume’ s Reason , pp. 131,  170–1.   
+  77     Garrett,  ‘Ideas,  Reason and Skepticism’,  p. 184  
+  78     Millican,  ‘Hume on Reason and Induction’,  
+p. 153.   
+  79     This is the main respect in which my own 
+views have changed over time,  largely in 
+response to Don Garrett’ s criticisms.  Most 
+other aspects of my previous interpretation 
+remain in place; for example it will become 
+clear in Section 4 below that a  perceptual  
+notion of reason makes a highly plausible 
+Humean target,  even if we do not suppose that 
+he was employing such a notion himself within 
+the famous argument.   
+  80     Garrett,   Cognition and Commitment , p. 92.  
+  81     Garrett,  ‘The Meaning of Hume’ s Conclusion’,  
+p. 333.     82     Garrett,  ‘Ideas,  Reason and Skepticism’,  p. 184.   
+  83     Ibid. It seems to be a  logical  rather  than  psycho-
+logical  point that some such step must be pre-
+sent in every inductive  inference,  given that – as  
+Garrett  acknowledges  – the ‘supposition  of UP’  
+that it exhibits  can be entirely  unconscious.   
+  84     Locke starts his chapter ‘Of Reason’ ( Essay , 
+IV.xvii) with the remark that ‘ The W ord 
+Reason  in the  English  Language  has different 
+Signifi  cations : sometimes it is taken for true,  
+and clear Principles: Sometimes for clear , and 
+fair deductions from those Principles: and 
+sometimes for the Cause,  and particularly the 
+fi nal Cause’.  He then goes on to say that his 
+chapter concerns yet another signifi  cation,  
+for that ‘Faculty in Man .  . . whereby Man is 
+supposed to be distinguished from Beasts,  and 
+wherein it is evident he much surpasses them’.  
+Earlier , at  Essay  II.xxi.17–20,  Locke ridi-
+cules the language of ‘faculties’ as a source of 
+philosophical error . For more on his view , see 
+Millican,  ‘Hume’ s Sceptical Doubts concerning 
+Induction’,  sect.  2, and cf.  note 50 above.   
+  85     As acknowledged in Hume’ s letter of 
+10 January 1743 (LDH 1.45,  19).  
+  86     Francis Hutcheson,   Synopsis of Metaph ysics  
+(1744),  trans.  Michael Silverthorne,  in Francis 
+Hutcheson,   Logic,  Metaph ysics,  and the 
+Natur al Sociability of Mankind  (Indianapolis: 
+Liberty Fund,  2006)  
+  87     Francis Hutcheson,   A Short Introduction to 
+Moral Philosoph y  (1747),  ed. Luigi Turco 
+(Indianapolis: Liberty Fund,  2007),  p. 25.  
+  88     Francis Hutcheson,   An Essa y on the Nature 
+and Conduct of the Affections.  With 
+Illustr ations on the Mor al Sense , 3rd edn 
+(London: 1742),  pp. 30–1.   
+  89     Ibid.,  pp. 219–20.   
+  90     Note that the quoted paragraph also treats 
+‘the  Intellect ’ as just another elegant variation 
+on ‘ Reason ’ and ‘the  Under standing ’. Hume 
+does the same,  albeit more rarely (DNR 3.153,  
+3.156),  though he quite often refers in a simi-
+lar spirit to the ‘intellectual faculties’ (THN 
+1.3.12.20 / 138,  2.3.8.13 / 437; EHU 5.5n8 / 
+43–4n,  9.6 / 108; EPM 1.9 / 173,  EPM App. 
+1.11 / 290,  13 / 291,  18 / 293,  3.9 / 307; ‘Of 
+the Standard of Taste’,  E 240–1).  Garrett talks 
+of Hume as giving ‘an argument against the 
+intellect’ ( Cognition and Commitment , p. 20), 
+but this is misleading unless ‘the intellect’ here 
+9780826443595_Ch03_Final_txt_print.indd   999780826443595_Ch03_Final_txt_print.indd   99 4/17/2012   3:58:41 PM4/17/2012   3:58:41 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+100is understood to mean ‘the intellect  concei ved 
+of as a f aculty of non-sensory ideas ’ (a con-
+ception that Garrett traces through Descartes,  
+Spinoza and Leibniz,  but is not shared by 
+Locke,  Berkeley or Hume).   
+  91     See, for example,  Anthony Ashley Cooper , 
+Lord Shaftesbury ,  Char acteristic ks of Men,  
+Manner s, Opinions,  Times , 3 vols,  3rd edn [the 
+edition purchased by Hume in 1726] (London,  
+1723),  vol. 2, II.ii, p. 118; Joseph Butler ,  The 
+Analog y of Religion,  Natur al and Rev ealed,  
+to the Constitution and Cour se of Nature , 
+2nd edn,  corrected (London,  1736),  I.vi, 
+p. 174; Price,   Review , I ii, p. 23.  
+  92     See, for example,  Henry Home,  Lord Kames,  
+ Essays on the Principles of Mor ality and 
+Natur al Religion , 2nd edn (London,  1758),  
+essay VII, p. 268n,  and James Beattie,   An 
+Essay on the Nature and Immutability 
+of Truth; in Opposition to Sophistry and 
+Scepticism  (Edinburgh,  1770),  I.i, pp. 37–8.  
+James Oswald,   An Appeal to Common Sense 
+in Behalf of Religion  (Edinburgh,  1766),  
+I.ii.1,  p. 80 and Thomas Reid,   Essays on the 
+Intellectual P owers of Man  (Edinburgh,  1785),  
+VII.i,  p. 671 are likewise keen to insist on a 
+narrow use of ‘reasoning’,  distinguished from 
+‘judging’,  though they allow both operations 
+to be subsumed under ‘reason’.   
+  93     For other relevant passages from the  Treatise , 
+see, for example,  THN 1.3.6.4 / 88–9,  
+1.3.13.12 / 149–50,  1.4.1.1 / 180,  1.4.1.12 
+/ 186–7,  1.4.2.14 / 193,  1.4.7.7 / 267–8,  
+2.3.3.2–6 / 413–6,  3.1.1.16–18 / 462–3,  
+and 3.1.1.26 / 468–9.  For passages from the 
+ Abstr act , see Abs. 11 / 650–1,  27 / 657,  and 
+from the  Enquiry  , EHU 4.0–1 / 25,  5.5 / 43,  
+5.22 / 55,  7.28 / 76 and 9.0–1 / 104.  Further 
+examples may be found in Hume’ s other works.   
+  94     Together with Hume himself (EHU 1.14 / 
+13–14,  8.22 / 93),  see, for example,  René 
+Descartes,   Fourth Meditation , in  The 
+Philosophical Writings of Descartes , trans.  
+John Cottingham,  Robert Stoothoff and 
+Dugald Murdoch (Cambridge: Cambridge 
+University Press,  1984),  vol. 2, pp. 39–40; 
+Locke,   Essay , II.vi.2; George Berkeley , 
+ A Treatise concerning the Principles of 
+Human Knowledge , ed. Jonathan Dancy 
+(Oxford: Oxford University Press,  1998),  
+I.27. References to Hume’ s contemporaries 
+Hutcheson,  Price and Reid will follow .    95     Reid,   Intellectual P owers , I.vii,  pp. 67–8.   
+  96     Note,  for example,  the general division 
+within the  Treatise  between Book 1 ‘Of the 
+Understanding’ and Book 2 ‘Of the Passions’ 
+(including Part 3 ‘Of the will and direct 
+passions’),  and also the footnote at THN 
+1.3.7.5n20 / 96,  where Hume criticizes the 
+‘universally receiv’d’ threefold ‘division of the 
+acts of understanding’ which Reid describes.   
+  97     Hutcheson,   A Short Introduction to Mor al 
+Philosoph y , pp. 25–6.   
+  98     Price deprecates ‘the division which has  
+been made by some writers,  of all the  
+powers of the soul into understanding  and 
+will; the former comprehending under it,  
+all the powers of external and internal  
+sensation,  as well as those of judging and  
+reasoning’.  By contrast,  he says,  ‘I all along  
+speak of the understanding,  in the most  
+confi ned and proper sense of it .  . . and 
+distinguished  from the powers of sensation’  
+( Review , I.ii, p. 20n).  Note,  however , that 
+Price implicitly equates  the under standing   
+with  reason  (ibid.,  p. 23) thus using ‘reason’  
+in a broader sense than those such as Kames  
+(cf. note 92 above) who exclude   intuition   
+from its scope.   
+  99     Hutcheson,   Synopsis of Metaph ysics , p. 112.  
+The original Latin of the fi  nal clause is ‘Ad 
+ Intellectum , referentur  Sensus ’.  
+  100     Sect. 6 ends with a short paragraph on 
+‘Natural associations of ideas’,  which 
+Hutcheson sees as playing an important role 
+in both imagination and memory; sect.  7 
+briefl y discusses what is pleasing or distress-
+ing to the senses,  and our consequent judge-
+ments (of good and evil) and passions; then 
+sect. 8 discusses habit,  and sect.  9 relative 
+ideas and judgements.   
+  101     Hutcheson,   Illustr ations on the Mor al Sense , 
+I, p. 215.   
+  102     Price,   Review , pp. 19–20.   
+  103     For example Locke: ‘the  under standing  
+. . . is the most elevated Faculty of the Soul 
+. . . Its searches after Truth, are a sort of .  . . 
+Hunting’ ( Essay , Epistle to the Reader , para-
+graph 1); David Hartley: ‘The  Under standing  
+is that Faculty , by which we .  . . pursue Truth, 
+and assent to,  or dissent from,  Propositions’.  
+( Observ ations on Man,  His Fr ame, His Duty , 
+and His Expectations , Bath and London,  
+1749,  vol. 1, Introduction,  p. iii).  
+9780826443595_Ch03_Final_txt_print.indd   1009780826443595_Ch03_Final_txt_print.indd   100 4/17/2012   3:58:41 PM4/17/2012   3:58:41 PM101HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+  104     Other passages that identify reason with the 
+discovery of truth,  though usually less expli-
+citly, are at THN 2.3.3.3 / 414,  2.3.3.5–6 
+/ 415–6,  2.3.3.8 / 417,  3.1.1.4 / 456–7,  
+3.1.1.19n69 / 464n,  3.1.1.25–7 / 467–70,  
+3.2.2.20 / 496,  THN App. 1 / 623; EPM 1.7 
+/ 172,  EPM App. 1.6 / 287.  All of these occur 
+in a context where Hume is contrasting 
+ reason  (or  the under standing ) with conative 
+rather than cognitive notions,  thus corrob-
+orating its identifi  cation as the overarching 
+cognitive faculty .  
+  105     This note (which can be found as a Textual 
+Variant on p.  177 of my edition of Hume’ s 
+ Enquiry concerning Human Under standing , 
+Oxford World’s Classics,  2007) is of particu-
+lar interest because it credits Hutcheson with 
+distinguishing between ‘the Understanding’ 
+and ‘That Faculty .  . . by which we perceive 
+Vice and Virtue’,  although Hutcheson himself 
+considered the moral sense to be one of the 
+‘refl exive or subsequent sensations’,  thus fall-
+ing within the domain of the understanding.  
+Price,   Review , p. 12n,  mentions Hume’ s note 
+in the course of criticizing Hutcheson.   
+  106     Notice that Hume is implying that  if  we 
+could observe a conjunction of cause and 
+effect,   then  we could form such a ‘conclu-
+sion .  . . concerning .  . . existence’ and ‘satisfy 
+our reason in this particular’.  So as in the 
+famous argument concerning morals (cf.  the 
+quotation from THN 3.1.1.12 / 459 near 
+the beginning of section 3.1 above),  Hume is 
+clearly here treating causal,  factual inference 
+as an operation of reason.   
+  107     Such nuances can apply with many words that  
+are associated with some  achievement . For 
+example,  a  cure  that does not work is strictly a  
+contradiction in terms,  but it is fairly natural to  
+say, in appropriate circumstances,  ‘that cure is  
+useless and ought to be banned’.   
+  108     An analogy here would be to an  accounting 
+error  within a company , which on a broad 
+interpretation could refer to any error in the 
+accounts (including faulty data from external 
+sources),  but on a narrower interpretation 
+would mean an error due to the accountants 
+themselves.   
+  109     On the conative side,  Hume hardly ever 
+speaks of ‘faculties’,  explicitly referring to ‘the 
+will’ and ‘the passions’ as faculties just once each (at THN 2.3.3.9 / 417–8 and 2.2.2.16 / 
+339 respectively).  Judgemental ‘taste’ is called 
+a faculty in ‘Of the Standard of Taste’,  E 
+240–1,  and spoken of as having ‘a product-
+ive faculty’ in a famous passage at EPM App. 
+1.21 / 294.   
+  110     The model of a canvas is obviously most 
+appropriate to visual ideas,  which indeed 
+seem to dominate Hume’ s thought,  although 
+ideas may correspond to any of the senses – 
+including internal ‘refl ection’ – and only the 
+ideas of sight and touch will be spatially 
+arranged (not necessarily within a single 
+space).  Note that he takes  all  of our ideas to 
+be sense-copied; hence as Garrett observes (cf.  
+note 90 above),  Hume denies any separate 
+faculty that can take a ‘pure and intellectual 
+view’ of ‘refi n’d and spiritual’ ideas,  unsullied 
+by sensory input (THN 1.3.1.7 / 72).   
+  111     At least,  this seems to be what Hume is saying 
+in THN 1.4.7.3 / 265.  At THN 1.3.9.3 / 
+107–8,  he appears instead to take the force 
+and vivacity of the ‘impressions or ideas of 
+the memory’ – like that of ‘an immediate 
+impression’ – as itself constituting assent,  
+thus providing a basis for explaining the 
+assent that derives from causal inference.  
+The relationship between memory and the 
+imagination remains somewhat obscure,  
+though Hume’ s talk of ‘impressions of 
+the memory’ (‘somewhat intermediate 
+betwixt an impression and an idea’,  THN 
+1.1.3.1 / 8) suggests that the memory is 
+furnishing ideas that are suffi  ciently fi  rm 
+and vivid – suffi  ciently impression-like – to 
+establish copy-ideas in the imagination: 
+‘The impressions of the memory never 
+change in any considerable degree; and 
+each impression draws along with it a 
+precise idea,  which takes its place in the 
+imagination,  as something solid and real,  
+certain and invariable’.  (THN 1.3.9.7 / 110).  
+If this is right,  then all the ideas that are 
+actually involved in  thinking  lie within the 
+imagination,  and the role of the senses and 
+memory is to supply the ‘impressions’ from 
+which those ideas derive.   
+  112     See THN 1.3.7.6 / 97,  1.3.9.3 / 107–8,  
+1.3.11.11 / 128,  1.3.14.1 / 155–6,  1.3.14.31 / 
+169–70; and for references from the  Abstr act  
+and  Enquiry  see note 129 below .  
+9780826443595_Ch03_Final_txt_print.indd   1019780826443595_Ch03_Final_txt_print.indd   101 4/17/2012   3:58:41 PM4/17/2012   3:58:41 PMHUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+102  113     I call it a ‘virtual’ stage to refl  ect Hume’ s 
+comment at THN 1.4.6.4 / 253 that ‘The 
+comparison of the theatre must not mislead 
+us. They are the successive perceptions only , 
+that constitute the mind’.   
+  114     THN 1.4.2.22 / 198 gives a case intermedi-
+ate between passivity and activity , in which  
+the imagination,  having been ‘set into any  
+train of thinking,  is apt to continue even  
+when its object fails it,  and,  like a galley  
+put in motion by the oars,  carries on its  
+course without any new impulse’.  Note that  
+the listed references involving  fi ctions   are 
+confi ned to those that involve characteristic  
+Humean fi  ctions of philosophical interest,  
+rather than arbitrary combinations of ideas  
+(i.e. ‘mere fi ctions of the imagination’ as at  
+THN 1.3.5.4–5 / 85,  1.3.7.7 / 97,  1.3.9.3 /  
+108, 1.4.3.1 / 219; EHU 5.12–13 / 49–50,  
+6.3 / 57).   
+  115     Recall from Section 3.2 that the replaced 
+footnote at THN 2.2.7.6n / 371n said ‘the 
+understanding’ here instead of ‘reason’.   
+  116     It is striking,  for example,  that these are the 
+only two occurrences in Hume’ s writings 
+of the phrase ‘offspring of the imagina-
+tion’.  Presumably he was forced to place the 
+footnote at the end of the section to minimize 
+type resetting.   
+  117     The understanding is also identifi  ed with 
+the imagination at THN 1.3.8.13 / 104 and 
+2.3.9.10 / 440.   
+  118     Don Garrett,   Cognition and Commitment , 
+p. 92, was,  I believe,  the fi  rst to note this 
+possibility , which is crucial if Hume’ s use of 
+‘reason’ within his argument is to be under -
+stood as sincere rather than a target.  But of 
+course Garrett’ s interpretation of ‘determin’d 
+by reason’ is very different from my own.   
+  119     See, for example,  EHU 1.13–14 / 13–14 for 
+the equation of ‘faculties’ with ‘powers’,  and 
+also THN Intro.  4 / xv , 1.3.10.9 / 123.  The 
+same equation is repeatedly found in Locke,  
+e.g.  Essay  II.vi.2,  II xxi 15,  17, 20.  
+  120     Locke,   Essay , II.xxi.20.   
+  121     In a recent debate (Don Garrett and Peter 
+Millican,   Reason,  Induction and Causation in 
+Hume’ s Philosoph y , IASH Occasional Paper 
+19, Edinburgh: Institute for Advanced Studies 
+in the Humanities,  University of Edinburgh,  
+2011),  Don Garrett argues that in inductive inference,  ‘the imagination in the narrow 
+sense is performing the customary transition’ 
+(p. 22), thus denying that  custom  is reassigned 
+to  reason  along with ‘our demonstrative 
+and probable reasonings’.  Hence he sees the 
+distinction alluded to at THN 1.3.9.19n22 / 
+117–18 as quite distinct from that drawn at 
+THN 1.4.4.1 / 225,  a position I fi  nd rather 
+implausible,  given that their stated rationale 
+is so similar , namely , to distinguish within 
+the imagination between the principles that 
+‘are the foundation of all our thoughts and 
+actions’ and those that give rise to ‘whimsies 
+and prejudices’.   
+  122     Even in the  Treatise , Hume never says in so 
+many words that custom is a process of the 
+imagination,  though THN 1.3.6.4 / 88–9 and 
+1.3.7.6 / 97 strongly suggest this.   
+  123     In the  Enquiry , unlike the  Treatise  (e.g. THN 
+1.3.6.16 / 94,  1.3.8.6 / 100–1),  Hume is care-
+ful to distinguish between the associational 
+relation of causation (discussed at EHU 
+5.18–19 / 53) and custom (EHU 5.20 / 53–4).   
+  124     We would not usually describe the climber as 
+‘supported only by’ a rock to which the rope 
+is attached unless the rock was considered 
+potentially  less  secure than the rope (e.g.  
+suppose the attachment is to a spur of rock 
+that is in imminent danger of cracking – 
+we might well then say that the climber is 
+‘supported only by the spur’).   
+  125     Together with those quoted earlier , relevant 
+passages include: ‘. . . our reason .  . . or, more 
+properly speaking,  . . . those conclusions 
+we form from cause and effect .  . .’ (THN 
+1.4.4.15 / 231); ‘. . . these emotions extend 
+themselves to the causes and effects of that 
+object,  as they are pointed out to us by rea-
+son and experience .  . .’ (2.3.3.3 / 414); ‘. . . 
+the operations of human understanding .  . . 
+[include] the inferring of matter of fact .  . .’ 
+(3.1.1.18 / 463).   
+  126     Both Barry Stroud ( Hume , pp. 60–2) and 
+John Kenyon (‘Doubts about the Concept 
+of Reason’,   Proceedings of the Aristotelian 
+Society , supp.  vol. 59, 1985,  pp. 249–67,  
+at pp.  255–7) attribute this to Hume in the 
+context of his argument concerning induction,  
+but neither justifi  es the attribution,  and there 
+is little evidence of it in Hume’ s text (cf.  note 
+39 above).   
+9780826443595_Ch03_Final_txt_print.indd   1029780826443595_Ch03_Final_txt_print.indd   102 4/17/2012   3:58:42 PM4/17/2012   3:58:42 PM103HUME’S ‘SCEPTICISM’ ABOUT INDUCTION
+  127     This assumes the internalist perspective  
+which dominated the early modern period.  A 
+modern Humean might well take an externalist  
+approach,  but given Hume’ s explicit response  
+to the sceptic in  Enquiry  12 (as described  
+in section 1 above),  I am not persuaded by  
+Louis Loeb’ s claim that ‘In light of the massive  
+evidence that Hume is not a skeptic about  
+induction,  he must reject [the] internalist way  
+of thinking’.  (‘Psychology , Epistemology , and 
+Skepticism’,  p. 333).  Kenneth Winkler empha-
+sizes how Enquiry 12 supports a more sceptical  
+reading of Enquiry 4: see ‘Hume’ s Inductive  
+Skepticism’,  in Margaret Atherton (ed.),  
+The Empiricists (Lanham,  MD: Rowman &  
+Littlefi  eld, 1999),  pp. 183–212,  at pp.  193–200.   
+  128     At THN 1.3.9.19 / 117,  1.3.13.9 / 147,  
+1.3.14.21 / 165,  1.4.4.1 / 225,  and 1.4.7.3 / 
+265.  
+  129     At Abs. 15 / 652,  16 / 652,  21 / 654 (twice),  
+25 / 656; EHU 5.4–5 / 42–3,  5.5 / 43 (twice),  
+5.8 / 46,  5.11 / 48,  5.20 / 54,  5.21 / 54–5,  
+6.4 / 58,  7.29 / 76–7,  8.5 / 82,  8.21 / 92,  9.5 
+/ 106,  9.5n20 / 107,  and 12.22 / 159.  Note 
+that this contrast cannot be accounted for in 
+terms of Hume’ s moving away from the foun-
+dational metaphor more generally . On the 
+contrary , he says that induction is ‘founded’ 
+on the relation of cause and effect,  or experi-
+ence,  or the Uniformity Principle,  and that it 
+is  not  ‘founded’ on reasoning,  argument,  or any process of the understanding,  signifi  -
+cantly more in the  Enquiry  – EHU 4.4 / 26,  
+4.14 / 32 (twice),  4.15 / 32,  4.21 / 37,  9.5 / 
+106 and 12.29 / 164) – than he does in the 
+ Treatise  – THN 1.3.6.4 / 88 and 1.3.6.7 / 
+89–90 (twice).   
+  130     Other aspects of the logic of Hume’ s foun-
+dational relation are explored in Millican,  
+‘Hume’ s Sceptical Doubts concerning 
+Induction’,  sect.  10.1.   
+  131     There is a thematic parallel here with Hume’ s 
+account of causation,  which is also commonly 
+thought of as sceptical,  but in fact provides 
+him with a positive basis for applying causal 
+explanation to the human world.  For more 
+on this,  see Peter Millican,  ‘Hume,  Causal 
+Realism,  and Causal Science’,   Mind  118 
+(2009),  pp. 647–712.   
+  132     For numerous discussions  on the topics of 
+reason and induction,  I am extremely grateful 
+to Louis Loeb,  David Owen and especially 
+Don Garrett,  as well as many other members 
+of the Hume Society at its various conferences.  
+I am also grateful to Henry Merivale,  Hsueh 
+Qu and especially Dan O’Brien for comments 
+on this paper , and to the Edinburgh Illumni 
+for providing the David Hume Fellowship  at 
+Edinburgh,  thus giving me the opportunity to 
+work in the delightful context of the Institute 
+for Advanced Studies in the Humanities,  over -
+lapping with Don Garrett’ s tenure there.       
+9780826443595_Ch03_Final_txt_print.indd   1039780826443595_Ch03_Final_txt_print.indd   103 4/17/2012   3:58:42 PM4/17/2012   3:58:42 PM

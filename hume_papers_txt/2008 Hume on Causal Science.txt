@@ -1,0 +1,1313 @@
+Hume, Causal Realism, and Causal Science 
+Peter Millican, Hertford College, University of Oxford 
+ 
+The most prominent controversy in Hume scholarship over the last couple of decades has been the so-
+called “New Hume” debate, concerning whether or not Hume is a realist about Causal  powers (the 
+capitalised term signifying a “thick” connexion that goes beyond his famous two “definitions of cause”).
+1  The long-familiar “Old Hume” takes very seriously his “Copy Principle” (in Treatise  1.1.1 
+and Enquiry  2) that all simple ideas are copies of impressions, from which they derive both their 
+existence and their significance.  Our thoughts are confined within the scope of our ideas, and hence any coherent thought must ultimately be constituted entirely by impression-copy content.  But Hume’s search for the source of our idea of power or necessary connexion (in Treatise  1.3.14 and Enquiry  7) 
+notoriously reveals it as being copied from a subjective  impression – a feeling, or perhaps more 
+precisely a reflexive awareness,
+2 of making customary inferences in response to observed constant 
+conjunctions.  Such an idea cannot possibly represent coherently any objective thick connexion, and so this Old Hume position denies even the coherence of any would-be thought about such connexions: the question of their real existence, therefore, cannot even arise.  Causation is reduced to being a 
+matter of regularity or “constant conjunction”, together with the accompanying tendency of the mind 
+to draw inferences accordingly.  But exactly how these two elements – and the two definitions that capture them – are supposed to combine together in yielding a single “idea of necessary connexion” is far from clear.  So it is not surprising that a variety of Old Humean readings have been proposed, ranging from straightforward regularity reductionism to subtle forms of “projectivism” or “quasi-realism”.
+3  What they all have in common, and what sharply distinguishes them from the various New 
+Humean interpretations, is their denial that causal necessity involves any objective “thick” connexion.  For the Old Hume, causal necessity in the objects is a function of regular patterns of behaviour (“regularity all the way down”), and we are unable even to conceive of any kind of objective causal necessity that goes beyond this.  New Humeans, by contrast, see Hume as more accepting of thick causal necessity, taking him at least  to acknowledge its conceivability and real possibility, and indeed 
+often suggesting that he takes for granted, or even has a firm and committed belief in, such (upper-
+                                                  
+ 
+1 The term “New Hume” was coined by Ken Winkler in his eponymous paper of 1991, which is reprinted along with 
+most of the other best-known papers in Read and Richman (2007). 
+2 For this suggestion, see Millican (2007b) §2.5, especially p. 249 n. 26.  §2.2 of the same paper discusses the 
+significance of Hume’s equation of “power”, “necessary connexion”, “energy” etc. within his argument – here the 
+equation will be taken for granted without comment. 
+3 For a brief survey of the literature up to 2000, see Millican (2002c) §7.  For a more detailed discussion of the 
+interpretations of Stroud, Garrett, Robinson, Beauchamp and Rosenberg, and Wilson, see Beebee (2006) §5.3 (in 
+chapter 6 Beebee develops her own “projectivist” account of Hume’s position in the Treatise ).  The “quasi-realist” 
+interpretation is particularly associated with Blackburn (1990), who coined the term.  2case) Causation.  They accordingly see the point of his argument concerning necessary connexion as 
+being not to deny the existence of thick causal necessity, but to demonstrate our inability to understand it through a full-blooded idea.  This position is often referred to as “sceptical realism”.
+4 
+ In this paper I start with an overview of the current state of the New Hume debate, before 
+focusing on the main considerations that look likely to settle it.  The thrust of my initial argument (in 
+§1 and §2) is that very general considerations – regarding such things as Hume’s use of causal language, his advocacy of causal investigation, or the nature of his scepticism – provide little basis for deciding the issue.  The debate must hinge instead on the detailed text and logic of his arguments, the most obviously relevant of which are his extended discussions “of the idea of necessary connexion” in Treatise  1.3.14 and Enquiry  7.  In §3, I accordingly draw attention to some of the passages from these 
+sections that have frequently been adduced in favour of the Old Hume, and sketch how New Humeans have responded to them.  The general themes of all this are by now very well known, having been rehearsed numerous times in the literature.  Although I add a few new points to the familiar mix, and 
+draw a few morals regarding the state of the debate (and the appropriate onus of proof), my aim here is 
+primarily to set the scene for what follows. 
+ In §4 and §5 I move on to address two very specific textual points that have increasingly come 
+to be seen as central pillars of the New Humean case, while the influence of the more general considerations has correspondingly declined.  Though initially appearing quite strong, I argue that neither of these two points – concerning respectively Hume’s two definitions and his comments about them, and his constraints on the impression of necessity – ultimately carries much weight.  By contrast, in §§6-8 I present two much stronger arguments on the other side, which have only recently become the focus of debate.  The first of these centres on Hume’s famous Conceivability Principle, 
+which seems to count strongly against the view that he could be a Causal realist.  Of the New 
+Humeans only Peter Kail has addressed this problem directly, and in §6 I maintain that his attempt to neutralise it fails.  The second – and even more decisive – argument concerns Hume’s use of his analysis of the idea of necessary connexion to draw important philosophical conclusions about mental causation and free will (discussed in §7 and §8 respectively).  Here the charge against the New Humean readings is that they cannot make sense either of Hume’s overall argumentative strategy in connecting these topics together, nor of the specific logical moves that he makes in the relevant texts.  My overall conclusion in §9 and §10 is that the outlook for the New Hume interpretation is extremely bleak: all of the strongest arguments in its favour can be plausibly answered, but the strongest arguments against it look more powerful than ever.  Moreover it is not just wrong in detail: it mistakes 
+                                                  
+ 
+4 This term, coined by John Wright, is not ideal as a general label because a New Humean need not take Hume to be a 
+committed realist (as stressed by Kail (2003b): 511-12 who considers Wright, Craig and Strawson).  New Humeans 
+also differ in their detailed understanding of Humean powers and necessity, as discussed by Beebee (2006) §7.4 (who 
+examines the views of Wright, Strawson and Buckle).  Whilst recognising the variety within both the Old and the New 
+camps, I shall for simplicity usually refer below to “the Old Hume interpretation” and “the New Hume interpretation”.  3the entire purpose of Hume’s “Chief Argument”, and presents him as holding some of the very 
+positions he is arguing most strongly against.  We have every reason, therefore, to reject the New Hume root and branch, to return to reading Hume’s key texts in the most natural Old Humean way, and thus to reinstate them to their traditional place within the philosophical canon: as monumentally 
+seminal arguments against  “thick” necessity or (upper-case) Causal realism. 
+1.  Hume’s Advocacy of Causal Science 
+Much ink has been spilled on the New Hume debate, with many interesting and illuminating 
+contributions on both sides, which have between them demonstrated that many of Hume’s texts can reasonably be read in either an “Old” or a “New” way.  But perhaps the primary motivation for the New Humeans has been to make natural sense of the many passages (especially in the Enquiry ) where 
+Hume seems to refer to “secret powers” or underlying objective causes of phenomena, for example:
+5 
+“the ultimate cause of any natural operation … that power, which produces any single effect in the 
+universe … the causes of these general causes … ultimate springs and principles”  ( E 4.12); 
+“the secret powers [of bodies] … those powers and principles on which the influence of … objects 
+entirely depends”  ( E 4.16); 
+“those powers and forces, on which this regular course and succession of objects totally depends”  
+(E 5.22); 
+“the power or force, which actuates the whole machine”  ( E 7.8). 
+Galen Strawson in particular (e.g. 1989, p. 185) forthrightly claims that such quotations are decisive in 
+showing that Hume is an upper-case Causal  realist, but the response of Old Humeans is to argue that 
+at most they show him to be a lower-case causal  realist.  There is indeed little dispute that he is a 
+realist in the latter sense, because in many places he evinces an enthusiasm for causal science (of both 
+the physical and moral worlds), and even formulates explicit “rules by which to judge of causes and 
+effects”, which he introduces in straightforwardly realist terms: 
+“Since therefore ’tis possible for all objects to become causes or effects to each other, it may be proper 
+to fix some general rules, by which we may know when they really are so.”  (T 1.3.15.1) 
+Nor should Hume’s advocacy of causal science be the least bit surprising, given his repeated insistence 
+that causal relations are the foundation of all factual inference beyond the memory and senses: 
+ “The only connexion or relation of objects, which can lead us beyond the immediate impressions of our 
+memory and senses, is that of cause and effect …”  ( T 1.3.6.7) 
+“All reasonings concerning matter of fact seem to be founded on the relation of Cause and Effect.”  
+(E 4.4, see also A 8, E 7.29) 
+                                                   
+5 See for example Kemp Smith (1941): 88-92; Wright (1983): 145-50; Broughton (1987): 226-8; Costa (1989): 178, 
+180; Strawson (1989) chapters 14-20; Strawson (2000): 35, 42-6; Wright (2000): 88; Yolton (2000): 117-24; Kail 
+(2007a): 80; Kail (2007b): 260.  4Humean science aims to systematise the causal laws that govern observed phenomena, aiming for 
+simplicity and comprehensiveness within a broadly deterministic framework.6  Where phenomena 
+seem superficially to be erratic or chancy, we should search for underlying causal mechanisms that can explain this variability by appeal to uniform laws, encouraged by the success of past attempts to do so: 
+“philosophers, observing, that, almost in every part of nature, there is contained a vast variety of springs 
+and principles, which are hid, by reason of their minuteness or remoteness, find, that it is at least 
+possible the contrariety of events may not proceed from any contingency in the cause, but from the secret operation of contrary causes.  This possibility is converted into certainty by farther observation; when they remark, that, upon an exact scrutiny, a contrariety of effects always betrays a contrariety of causes, and proceeds from their mutual oppos ition.”  (E 8.13, copied from T 1.3.12.5) 
+But there are practical limits to our investigations, which must at some point come to a halt: 
+“the utmost effort of human reason is, to reduce the principles, productive of natural phaenomena, to a 
+greater simplicity, and to resolve the many particular effects into a few general causes, by means of 
+reasonings from analogy, experience, and observation.  But as to the causes of these general causes, we should in vain attempt their discovery; nor shall we ever be able to satisfy ourselves, by any particular explication of them.  These ultimate springs and principles are totally shut up from human curiosity and enquiry.  Elasticity, gravity, cohesion of parts, communication of motion by impulse; these are probably the ultimate causes and principles which we shall ever discover in nature; and we may esteem ourselves sufficiently happy, if, by accurate enquiry and reasoning, we can trace up the particular phaenomena to, or near to, these general principles.”  ( E 4.12) 
+New Humeans will naturally take such references to “ultimate springs and principles” as indicative of 
+a belief in thick Causal powers, but this is by no means the only interpretative possibility.7  Both Old 
+and New Humeans can agree that Hume is firmly committed to this form of causal science, and it seems that his remarks about it are consistent with a range of views about the status of that science and the causal metaphysics that underlies it.  Hume himself would have been well aware of this point 
+given the example of Berkeley’s instrumentalism, described in the 1710 Principles of Human 
+Knowledge  in terms that somewhat anticipate the first sentence of the paragraph just quoted above: 
+If … we consider the difference there is betwixt natural philosophers and other men, with regard to their 
+knowledge of the phenomena , we shall find it consists, not in an exacter knowledge of the efficient 
+cause that produces them, for that can be no other than the will of a spirit , but only in a greater largeness 
+of comprehension, whereby analogies, harmonies, and agreements are discovered in the works of Nature, and the particular effects explained, that is, reduced to general rules, see Sect.  62,
+8 which rules 
+grounded on the analogy, and uniformness observed in the production of natural effects, are most agreeable, and sought after by the mind; for that they extend our prospect beyond what is present, and near to us, and enable us to make very probable conjectures, touching things that may have happened at 
+very great distances of time and place, as well as to predict things to come …  ( Principles  i 105) 
+Berkeley is quite explicit that what we take to be natural causes have absolutely no real power, since 
+only a spirit can be a genuine cause.  Nevertheless he happily insists that science has a legitimate and 
+                                                   
+6 I say “broadly” deterministic to accommodate Hume’s recognition – in both the Treatise  and the Enquiry  – of 
+“probability of chances” and “probability of causes” in cases where the causal basis of phenomena remains unknown 
+or too complex to calculate.  For a fu ll account of the overwhelming evidence that Hume is indeed a determinist, see 
+Millican (forthcoming). 
+7 See Millican (2007b) §§3.2-5 for a discussion of the various Old Humean options here. 
+8 Berkeley’s instrumentalism is spelt out most explicitly at Principles  i 60-6 and i 101-9.  5indeed valuable role in searching for patterns that are “hid as it were behind the scenes”, and which 
+“have a secret operation in producing those appearances which are seen on the theatre of the world” (Principles  i 64).  He is also happy to refer – in the same instrumentalist spirit – to forces in bodies 
+that account for their motion ( Principles  Intro 11; i 113, 115), thus accommodating the science of 
+Newton’s “justly admired treatise” ( Principles  i 110) within his system.
+9  If even an immaterialist can 
+give such a role to what we think of as hidden physical causes and forces, then a similar trick should present no difficulty for an Old Humean.
+10  Given this historical context, therefore, it is very 
+implausible to insist that only an upper-case Causal realist Hume could use (lower-case) causal language.  There may superficially seem to be a tension between upper-case Causal anti-realism and lower-case causal science.  But this tension is apparent only, as indeed will be strongly emphasised later when we see (in §§6-8) that Hume repeatedly presents important arguments that use the one to support  the other. 
+2.  General Considerations within the New Hume Debate 
+The brief discussion above shows that by themselves Hume’s apparent references to underlying causes 
+in nature – despite Strawson’s claims to the contrary – are quite insufficient to settle the New Hume 
+debate.  Nor are any of the other very general considerations adduced in the debate’s literature at all decisive.  For example, New Humeans are keen to stress parallels between Hume’s view of causation and his attitude (of apparent realism) towards external objects, whereas Old Humeans focus instead on similarities with his (apparently anti-realist) ontology of moral and aesthetic values.  Both rival comparisons can seem persuasive, but both of them depend on controversial interpretations of other areas of Hume’s thought, and neither can be supported with unequivocal authorial statements to adjudicate between them.
+11  Appeal to historical interpretative tradition is likewise indecisive, because 
+although it seems to be the case that those closest to Hume took him to be a Causal anti-realist,12 their 
+understanding of his position was apparently rather crude, and he never responded very explicitly to them.  Kames in his essay “Of our Idea of Power” (1751), for example, accuses Hume’s Enquiry  of 
+blatant inconsistency in combining anti-realism with reference to hidden causes.  And although a footnote to the second edition of the Enquiry  seems to be intended to answer this criticism (in a way 
+                                                  
+ 
+9 In his own Treatise  Hume seems to take no account of this aspect of contemporary science, but in the Enquiry  he 
+shows far more awareness of the central role of quantitative powers and forces.  I believe that this is what accounts for 
+the latter work’s apparently more “realist” language – see Millican (2007b) pp. 232-3 for further discussion. 
+10 This is not intended to imply that there are no potential philosophical  difficulties in adopting either a Berkeleian or 
+Old Humean position.  The question here is whether they are interpretatively  plausible as positions that could have 
+been considered seriously at the time.  And the simple fact is that there were in the eighteenth century a number of 
+occasionalists and immaterialists – Berkeley being the most prominent and one of the most explicit – who saw their 
+metaphysical beliefs in the inertness or even non-existence of matter as being no obstacle to a science of physical 
+causes.  Berkeley’s Principles , moreover, is one of the four works that in August 1737 Hume advised Michael Ramsay 
+to read to ‘make you easily comprehend the metaphysical Parts’ of the Treatise  (Mossner 1980: 626-7). 
+11 See Millican (2007b) §1.2. 
+12 See Winkler (1991) §6 and Millican (2007b) §3.1.  6congenial to the Old Hume interpretation),13 the evidence for reading it in such a way – though 
+striking – is circumstantial and potentially debatable. 
+ Other very general considerations featuring prominently in the debate concern the character of 
+Hume’s scepticism and the supposed implausibility of attributing Causal anti-realism to him.  But 
+again these fail to carry much weight.14  Appealing to the nature of Hume’s scepticism just begs the 
+question, since we have nothing to indicate what sceptical attitudes he took, beyond the very texts whose interpretation is under dispute.  And relying on our own judgements of plausibility seems perilous (to say the least), when applied to an age whose leading lights include such extravagant metaphysicians as Malebranche and Berkeley, and in particular to a philosopher like Hume, who is notorious for raising radical sceptical doubts about both the external world and personal identity, and even for arguing that “all the rules of logic require … a total extinction of belief and evidence” (T 1.4.1.6).  These other famously sceptical discussions give perspective to Hume’s declaration, 
+having presented his position on causation, 
+“that of all the paradoxes, which I have had, or shall hereafter have occasion to advance in the course of 
+this treatise, the present one is the most violent, and that ’tis merely by dint of solid proof and reasoning 
+I can ever hope it will have admission, and overcome the inveterate prejudices of mankind.  …  I am much afraid, that tho’ the foregoing reasoning appears to me the shortest and most decisive imaginable; yet with the generality of readers the biass of the mind will prevail, and give them a prejudice against the present doctrine.”  ( T 1.3.14.24). 
+This suggests, indeed, that we risk going badly astray if we allow our interpretation of Hume on 
+causation to be significantly conditioned by our own general judgements of philosophical plausibility.  
+To get clear on what he intends, we must look instead at the details of the “solid proof and reasoning” by which he reaches his apparently paradoxical conclusions, and it is here that the remainder of this paper will primarily focus. 
+3.  Hume’s Main Argument, and the Onus of Proof 
+Once we do start examining carefully the details of Hume’s reasoning, we find a wealth of 
+interpretative evidence, nearly all pointing in the same direction.  As already remarked, his main 
+argument regarding “the idea of necessary connexion” is entirely structured around a search for the idea’s impression-source, as implied by the Copy Principle.  That Principle itself is explicitly introduced as a tool for deciding questions of meaning (e.g. T 1.1.6.1, A 7, E 2.9), and so it is no 
+surprise that Hume explains both the point and the result of his quest for the impression of necessity in terms that explicitly emphasise issues of meaning  and definition .  Here, first, is the Treatise : 
+“… What is our idea of necessity, when we say that two objects are necessarily connected together?   
+Upon this head I repeat … that as we have no idea, that is not deriv’d from an impression, we must find 
+                                                   
+13 See Millican (2007b) §3.4. 
+14 For more on the points made in this paragraph, see Millican (2007b) §2.5 and §3.1.  7some impression, that gives rise to this idea of necessity, if we assert we have really such an idea.”  
+(T 1.3.14.1) 
+“I begin with observing that the terms of efficacy , agency , power , force , energy , necessity , connexion , 
+and productive quality , are all nearly synonimous; and therefore ’tis an absurdity to employ any of them 
+in defining the rest.  … instead of searching for the idea in these definitions, [we] must look for it in the 
+impressions, from which it is originally deriv’d.”  ( T 1.3.14.4) 
+“… when we talk of any being … as endow’d with a power or force … [or] necessary connexion … [or] 
+efficacy or energy …; in all these expressions, so apply’d , we have really no distinct meaning, and 
+make use only of common words, without any clear and determinate ideas.”  ( T 1.3.14.14) 
+“Necessity, then, … is nothing but an internal impression of the mind …  Without considering it in this 
+view, we can never arrive at the most distant notion of it, or be able to attribute it either to external or 
+internal objects … ( T 1.3.14.20) 
+“If we have really no idea of a power or efficacy in any object … ’twill be to little purpose to prove, 
+that an efficacy is necessary in all operations.  We do not understand our own meaning in talking so, but 
+ignorantly confound ideas, which are entirely distinct from each other.”  ( T 1.3.14.27) 
+The one-paragraph summary in the Abstract  faithfully reflects the same emphasis: 
+“The question is, what idea is annex’d to these terms [ power , or force , or energy ]?  …  Upon the whole, 
+… either we have no idea at all of force and energy, and these words are altogether insignificant, or they 
+can mean nothing but that determination of the thought, acquir’d by habit, to pass from the cause to its usual effect.”  ( A 26) 
+The Enquiry , though less strident in stating the subjectivist implications of Hume’s discussion, is even 
+more explicit on its aim, of clarifying the meaning  of our causal terms: 
+“There are no ideas, which occur in metaphysics, more obscure and uncertain, than those of power , 
+force , energy , or necessary connexion  …  We shall, therefore, endeavour, in this section, to fix, if 
+possible, the precise meaning of these terms …”  ( E 7.3) 
+“all our ideas are nothing but copies of our impressions, or, in other words, … it is impossible for us to 
+think  of any thing, which we have not antecedently felt, either by our external or internal senses.  …  
+Complex ideas may, perhaps, be well known by definition …  But  … [by] what invention can we throw light upon [simple] ideas, and render them altogether precise and determinate to our intellectual view?  Produce the impressions or original sentiments, from which the ideas are copied.”  ( E 7.4) 
+“… as we can have no idea of any thing, which never appeared to our outward sense or inward 
+sentiment, the necessary conclusion seems  to be, that we have no idea of connexion or power at all, and 
+that these words are absolutely without any meaning, when employed either in philosophical reasonings, or common life.”  ( E 7.26) 
+“When we say, therefore, that one object is connected with another, we mean only, that they have 
+acquired a connexion in our thought, and give rise to this inference, by which they become proofs of 
+each other’s existence …”  ( E 7.28) 
+ Thus in all three texts, the search for the crucial impression is connected explicitly with 
+questions of meaning or significance, and in all three, once the sought impression has been identified, 
+the apparently subjectivist implication is clearly stated.  In the Treatise  and Enquiry , moreover, the 
+discussion culminates with Hume’s famous two definitions of “cause”, intended to “define [the relevant terms], or fix their meaning” ( T 1.3.14.30).  Having presented these definitions in the 
+Enquiry , he sums up in a way that again reinforces the same message, connecting ideas (and hence the 
+impressions from which they are copied) with the limits of what we can mean:  8“We say, for instance, that the vibration of this string is the cause of this particular sound. But what do 
+we mean by that affirmation? We either mean, that this vibration is followed by this sound, and that all 
+similar vibrations have been followed by similar sounds:  Or, that this vibration is followed by this 
+sound, and that upon the appearance of one, the mind anticipates the senses, and forms immediately an idea of the other . We may consider the relation of cause and effect in either of these two lights; but 
+beyond these, we have no idea of it.”  ( E 7.29) 
+All this explains the traditional dominance of the Old Hume interpretation.  If we take Hume’s core 
+texts at face value – with their clear emphasis on “meaning” and “definition” – then we have no option but to interpret his conclusion as denying any understanding whatever of causal terms beyond the limits of his two definitions.  “Thick” necessity cannot be understood at all, even to the extent of our being able to think about it or refer to it: this seems to be what Hume is saying when he insists that we 
+cannot “attribute it either to external or internal objects” ( T 1.3.14.20). 
+ Generations of Hume’s readers have indeed taken this famous argument at face value, but 
+New Humeans are forced to read it very differently, requiring that terms such as “meaning” and “significance” should be interpreted as largely epistemological rather than primarily semantic.  Thus John Wright (1983: 129) claims that Hume employs a “special use of the term ‘meaning’ – where meaning is tied up with our sense-derived ideas”.  Strawson (1989: 121; 2000: 42) likewise states that “our understanding of words like ‘meaning’ and ‘unintelligible’ is not the same as Hume’s”, spelling out the distinction as follows: 
+“On the one hand, ‘mean’ means ‘positively-contentfully’ mean (and this is how Hume standardly uses 
+the word ‘mean’): a term can positively-contentfully mean something, according to Hume, only in so far as it has descriptive content, impression-derived, impression-copy content.  On the other hand, ‘mean’ means ‘refer to’.  …  We can successfully refer and genuinely talk about something, as Hume acknowledges in his use of the notion of a ‘relative’ idea, even though there is a sense in which we don’t know what we are talking about, or what we are saying.”  (Strawson 1989: 122-3) 
+Equally forthright is Peter Kail, who boldly insists that we should “view Hume’s talk about ‘meaning’ 
+as meaning ‘acquaintance with’, as opposed to ‘thinkable content’” (2001: 39).15  In short, the  New 
+Humean position requires that Hume’s remarks about our failure to “mean” anything beyond his two definitions, when we speak of “power” and “necessary connexion”, should be interpreted in terms of a special sense of “meaning” which has a strongly epistemological flavour.  This position leaves room for semantically meaningful reference  to something which has no “meaning” in this more demanding 
+special sense: bare reference, that is, can extend beyond the bounds of epistemological acquaintance.  It follows, therefore, that we can think about  (in the sense of meaningfully referring to) something of 
+which we have no impression-derived idea.  Of course this is somewhat in tension with Hume’s theory of ideas, which takes ideas to be the constituents of our thoughts, and trumpets the principle that all 
+ideas are impression-derived.  But here the New Humeans appeal to the notion of a “relative idea”, 
+                                                  
+ 
+15 Note in passing that this claim makes Hume’s (apparently empirical) arguments for the Copy Principle at T 1.1.1.8-9 
+and E 2.6-7 appear quite pointless.  If a term has “meaning” – by definition – only if it is associated with an idea 
+derived from “acquaintance with” a corresponding impression, then the Copy Principle follows trivially: no such 
+arguments should be necessary.  9mentioned briefly by Hume when discussing the idea of external existence, in terms which seem to 
+hint at a slight loosening of the theory: 
+“Now since nothing is ever present to the mind but perceptions, and since all ideas are deriv’d from 
+something antecedently present to the mind; it follows, that ’tis impossible for us so much as to conceive or form an idea of any thing specifically different from ideas and impressions.  …  The farthest we can go towards a conception of external objects, when suppos’d specifically  different from 
+our perceptions, is to form a relative idea of them, without pretending to comprehend the related 
+objects.  Generally speaking we do not suppose them specifically different; but only attribute to them 
+different relations, connexions and durations.”  ( T 1.2.6.9) 
+Hume never suggests that such “relative ideas” could play a role more generally (indeed he never even 
+uses the term in any other passage),16 and there are potentially serious objections to invoking them in 
+particular as a means of thinking about (upper-case) Causation as opposed to external objects.17  But 
+the main point I want to emphasise is that even if this move is possible , it is purely a defensive  move, 
+which clashes significantly with the overt thrust of Hume’s reasoning.  Nothing that he explicitly says about our thoughts of power or necessary connexion gives any suggestion that “relative ideas” of this kind might be in play, and as we have seen, some of his remarks seem to contradict even the minimal claim that bare reference is possible beyond the scope of our impression-derived ideas.  Without such ideas, Hume says, our words are “altogether insignificant” ( A 26) and “absolutely without any 
+meaning” ( E 7.26).  Unless we consider necessity in accordance with his definition, as “an internal 
+impression of the mind …, we can never … attribute it either to external or internal objects” (T 1.3.14.20).  To counterbalance the plain evidence of these texts requires strong interpretative 
+leverage, and so the onus of proof is very much on the New Humeans to present a sufficiently strong 
+case for reading such texts in any other than the natural way.  I have already argued that this onus 
+cannot be satisfied by appeal to Hume’s support for (lower-case) causal science, nor by other very general considerations such as appeal to philosophical plausibility or to the nature of his scepticism.  Only two significant weapons remain within the New Humean armoury, both concerned with very specific features of Hume’s texts.  We shall consider these in turn, in §4 and §5 respectively. 
+4.  Defective Definitions? 
+We have seen that the overall context and structure of Hume’s main argument in Treatise  1.3.14 and 
+Enquiry  7, as well as the language in which he expresses its conclusion, have a strongly Old Humean 
+                                                   
+16 The only possible counterexample is at E 7.29 n. 17, where Hume says that “the idea of power  is relative … [having] 
+reference to an effect …”.  But here the issue is measurement rather than reference to something of a completely 
+unknown nature: we use “power” to refer to “the unknown  circumstance of an object, by which the degree or quantity 
+of its effect is fixed and determined”, but such a “circumstance” is nothing essentially mysterious – see §4 below. 
+17 An external object may perhaps be thought of indirectly in terms of its causal role, as “whatever caused  these 
+perceptions”.  But it is hard to see how this sort of indirect thought could be used to give content to the notion of 
+causation  itself (see Winkler (1991): 63; Millican (2007b) §2.1 and note 12, p. 248).  If Hume saw this as a possibility, 
+moreover, then it would seem to undermine his objection to Locke’s account of the origin of the idea of power 
+(T 1.3.14.5, E 7.8 n. 12), which apparently treats it as a relative idea of something that is capable of producing “new 
+productions in matter”.  10flavour.  But there are nevertheless two specific points within that argument – especially in its Enquiry  
+version – that superficially at least can seem to support the New Hume interpretation, and have often been adduced as significant evidence in its favour.  The first of these (to be discussed in §5 below) concerns Hume’s method of argument in Enquiry  7 Part i, whereby he disqualifies numerous putative 
+impressions of necessary connexion, apparently on the ground that they fail to license a priori 
+inference.  The second – and better known – point concerns his comments about the two “definitions of cause” with which the argument culminates, comments which can be read as suggesting that he views these definitions as inadequate to the causal reality.
+18  Recently this suggestion has often been 
+backed up with the even more familiar point that the two definitions do not seem to be co-extensive, and therefore arguably cannot be seen as genuine conceptual analyses.
+19 
+ Here is the relevant passage from the Treatise , which starts immediately after Hume’s 
+presentation of the first definition, and straddles the second: 
+“If this definition [i.e. the first] be esteem’d defective, because drawn from objects foreign to the cause, 
+we may substitute this other [i.e. the second].  Shou’d this definition also be rejected for the same reason, I know no other remedy, than that the persons, who express this delicacy, should substitute a juster definition in its place.  But for my part I must own my incapacity for such an undertaking.”  (T 1.3.14.31) 
+Nothing here suggests that Hume himself is dissatisfied with his two definitions, though he obviously 
+recognises that others might well be.  But his tone is admittedly less complacent in the corresponding passage from the Enquiry : 
+“Yet so imperfect are the ideas which we form concerning [the relation of cause and effect], that it is 
+impossible to give any just definition of cause, except what is drawn from something extraneous and foreign to it.  … we may define a cause to be an object, followed by another, and where all the objects, 
+similar to the first, are followed by objects similar to the second .  … We may … form another 
+definition of cause; and call it, an object followed by another, and whose appearance always conveys 
+the thought to that other .  But though both these definitions be drawn from circumstances foreign to the 
+cause, we cannot remedy this inconvenience, or attain any more perfect definition, which may point out that circumstance in the cause, which gives it a connexion with its effect.  We have no idea of this connexion; nor even any distinct notion what it is we desire to know, when we endeavour at a conception of it.”  ( E 7.29) 
+Having discussed this specific issue at some length elsewhere,20 I shall here make only four brief 
+comments on it.  First, as Don Garrett (1997: 113-4) points out, there is nothing in this passage which is directly contrary to the regularity account – Hume seems simply to be remarking on an “inconvenience” regarding two definitions which he nevertheless considers “just”.  Secondly, the 
+                                                  
+ 
+18 This point is one of the most popular in the New Humean literature, e.g. Wright (1983): 25, 130-1; Costa 
+(1989): 181; Strawson (1989): 208-12; Strawson (2000): 46-8; Wright (2000): 90-1; Buckle (2001): 206-9; Kail 
+(2007a): 121; Kail (2007b): 264.  In the final sentences of the introduction to his 2008 collection, Strawson criticises 
+Old Humeans for failing to address it, and ends with a challenge to them “to explain why this does not definitively and 
+forever refute their view” (2008: 18).  Interesting responses have in fact been provided by Winkler (1991): 68-9 and 
+Bell (2000): 135-6, while I hope that §3.6 of my 2007b might be seen as comprehensively answering this challenge. 
+19 See for example Buckle (2001): 208; Beebee (2007): 417; Kail (2007a): 121. 
+20 See Millican (2007b) §3.6.  11“inconvenience” in question is straightforward and metaphysically unproblematic: it is that Hume’s 
+definitions allow a cause to be defined only in terms of other  “objects”, either the sequence of constant 
+conjunctions or the inferring mind.  Thirdly, this passage concerns Hume’s definitions of cause , which 
+he distinguishes quite clearly from his definitions of necessary connexion ,21 thus indicating that the 
+primary aim of these definitions is not to capture the nature of causal necessity as such, but instead to 
+specify what it is for some particular “object” to be a cause.  Finally, and related to this, the key phrase seized upon by New Humeans as allegedly referring to (upper case) Causal power – “that circumstance in the cause, which gives it a connexion with its effect” – need be nothing of the kind.
+22  
+Indeed the footnote to this very paragraph suggests quite the reverse, apparently implying that “the unknown  circumstance of an object, by which the degree or quantity of its effect is fixed and 
+determined” could be something as ordinary as a body’s “velocity, or the square of its velocity” (E 7.29 n. 17, original emphasis).
+23  It seems, therefore, that despite any initial appearances to the 
+contrary, the passage can make perfect sense within the Old Humean interpretation, and loses any force as an objection against it. 
+ Before leaving the two definitions, however, it is worth commenting on another objection to 
+their supposed adequacy as characterisations of “cause”, namely, that they seem not to coincide with 
+each other either intensionally or extensionally.  This very familiar mismatch has recently been adduced by New Humeans as corroborating their claim that both definitions are “defective”, a claim that we have already seen reason to dismiss.  But even if both definitions are accepted as “just” from Hume’s point of view, the mismatch between them might by itself appear to provide evidence against the Old Humean tendency to read them as constituting a would-be semantic analysis.  Recently this point has indeed been urged – independently of the “defective definitions” objection – by both Helen Beebee (2007: 430) and Peter Kail (2007b: 266).  It will be helpful, in advance of addressing their broader discussions in detail (in §9 and §10 below), to deal with this issue now. 
+ A complex literature has built up on the interpretation of the two definitions, and it would be 
+inappropriate to attempt a comprehensive treatment here, so I shall confine myself to an outline of 
+what I consider to be the most promising approach.
+24  To start with, it is not entirely clear that Hume 
+himself would see the two definitions as differing in extension, since it is plausible that he intends them to be understood from the perspective of an idealised  observer (i.e. one who knows all the 
+relevant facts and avoids inappropriate judgements).  This view has been argued very effectively by 
+                                                  
+ 
+21 As both Hume’s main text and his index to the Enquiry  make clear – see Millican (2007b): 243.  Note in particular 
+that Hume gives no indication of any comparable “inconvenience” in respect of his definitions of necessary connexion 
+at E 8.5 and E 8.27. 
+22 New Humeans who take this phrase to support their case include Strawson (1989: 209) and Wright (2000: 91). 
+23 See Millican (2007b) pp. 232-3 for a discussion of Hume’s treatment of quantitative powers, which he seems to 
+view as fitting fairly straightforwardly within the broad framework of his analysis of necessary connexion.  Much of 
+Hume’s talk of hidden powers in the Enquiry  is consistent with the supposition that he is thinking along these lines. 
+24 For a useful review of options and opinions, see Garrett (1997): 97-101.  12Don Garrett,25 and coheres well with Hume’s emphasis on adopting a general and fully informed point 
+of view when making judgements in morals and aesthetics.26  Particularly illuminating is the 
+comparison with Hume’s definitions of virtue in the second  Enquiry  (cf. T 2.1.7.4, 3.3.1.30, 3.3.4.3): 
+“… PERSONAL MERIT  consists altogether in the possession of mental qualities, useful  or agreeable  to the 
+person himself  or to others .  …  The preceding delineation or definition of PERSONAL MERIT  must still 
+retain its evidence and authority:  It must still be allowed, that every quality of the mind, which is useful  
+or agreeable  to the person himself  or to others , communicates a pleasure to the spectator, engages his 
+esteem, and is admitted under the honourable denomination of virtue or merit.”  ( M 9.1, 9.12) 
+“The hypothesis which we embrace is plain.  It maintains, that morality is determined by sentiment.  It 
+defines virtue to be whatever mental action or quality gives to a spectator the pleasing sentiment of 
+approbation ; and vice the contrary.  We then proceed to examine a plain matter of fact, to wit, what 
+actions have this influence …  And thence endeavour to extract some general observations with regard to these sentiments.”  ( M Appendix 1.10) 
+There seems here to be a very clear parallel with the two definitions of cause, in that the first definition 
+in each case sets out the characteristic (objective) conditions for applying a term whose distinctive (subjective) content is specified by the second.  Without any relevant impression – here a sentiment of moral approbation – there would be no corresponding idea to be applied at all (see T 3.1.2.1-3), and 
+this fundamental point is captured by the second definition.  But having once acquired the idea, we can then observe and systematise the cases that typically generate the corresponding sentiment, and thus formulate the first definition with the aim of specifying idealised conditions of application for that idea.  In the case of causation, however, the first definition apparently gives only a general outline – 
+Hume’s “rules by which to judge of causes and effects” spell out the desired conditions more fully. 
+ The approach just described seems entirely faithful to Hume’s procedure in the moral case, 
+which is particularly explicit in the second Enquiry  but al so  c le ar i n  the  Treatise .  And the parallel 
+with the two definitions of cause indeed seems very close.  If this is the correct way of understanding the paired definitions, however, then they should not be seen as rival  analyses of the relevant concept, 
+or rival  specifications of necessary and sufficient conditions for the concept’s application.  On the 
+contrary, the two definitions capture complementary  parts of an overall account, and work together 
+rather than in competition.  Moreover the apparent reason why two definitions are needed tells strongly in the Old Humean direction.  For it seems that the system of causes, like the system of 
+virtues, is essentially being read into the world rather than being read off it.  Causal judgements are not 
+perceptual, nor are they straightforward subjective responses to what we perceive.  Rather, they involve a process of systematisation, in which our judgements – made in accordance with rules themselves “form’d on the nature of our understanding” ( T 1.3.13.11) – are “spread on external 
+objects” ( T 1.3.14.25) to create a “system of realities” which we join to those realities that we directly 
+                                                  
+ 
+25 See Garrett (1997) chapter 5.  Garrett has a distinctive approach to the two definitions based on Hume’s theory of 
+abstract ideas, which gives the prospect of dissolving also the problem of intensional equivalence.  But his points about 
+the extensional equivalence of the idealised definitions can stand independently.  Beebee (2006) §4.5 provides an 
+interesting discussion of Garrett’s treatment. 
+26 See for example T 3.2.2.24, 3.3.1.15, 3.3.3.2; M 1.9, 5.42, 9.6-9; “Of the Standard of Taste”, Essays  pp. 239-42.  13perceive ( T 1.3.9.3-5).  In this way the mind, by “gilding or staining natural objects with the colours, 
+borrowed from internal sentiment, raises, in a manner, a new creation” ( M Appendix 1.21).  The 
+nature of this new creation cannot be understood without grasping the relevant idea, copied from the initial impression or sentiment.  Accordingly, the point of the second definition is to identify this 
+impression.  But the phenomenal character of the idea itself, as derived from the relevant impression – 
+whether of moral approbation or customary inference – is insufficient to determine the appropriate criterion of application.  Accordingly, the point of the first definition is to specify that criterion.  Taken together, therefore, the two definitions answer the two questions that characterise this new creation, namely: “What is being applied?”, and “To what?”.  Answers to both questions are required for a full understanding (hence two “definitions” are indeed necessary), but beyond these two questions, there is nothing further to be understood, no unknown objective “essence” to be sought.  And the reason in each case is exactly the same: because our ideas are being read into the world, not read off it. 
+ Hume’s two “definitions of cause” can thus be seen as together  aiming to capture a general 
+understanding of what it is for an object to be (appropriately judged as) a cause.  Moreover if this is 
+correct, then it seems that the definitions’ lack of equivalence might not after all be a significant problem, even if Garrett’s idealisation move seems questionable.  An idealised observer – it might be urged against him – is one whose faculties work well and who is free of inappropriate biases etc.  That falls far short of what is required for reconciling Hume’s two definitions, given the complexities of his “rules by which to judge of causes and effects”, his injunctions to search for hidden causes, and so forth.  Refining our causal judgements in these ways – it might plausibly be said – seems a very long way from observation , and hence far too distant, for Garrett’s needs, from the sort of phenomenal 
+reaction to observation that forms the heart of the second definition.  On the account I have sketched above, however, all this might be readily admitted.  The second definition – perhaps – does not aspire to specify necessary and sufficient conditions for an appropriate causal judgment, even from the 
+standpoint of an idealised observer .  What it does instead is to specify a paradigm situation within 
+which the crucial “impression” of power or necessity arises, enabling that impression – and the corresponding idea – to be identified, clarified, and legitimated.  It thus satisfies the demands of the Copy Principle, and shows how the distinctive conceptual content that characterises causal judgements (i.e. the element of connexion or consequentiality) is derived.  Once we have acquired that concept, however, we are free to apply it in a far more disciplined way than our natural instinctive reactions alone could achieve.  It is, indeed, only natural to try to “methodize and correct” ( E 12.25) our 
+judgements in something like this sort of way, which is why Hume’s rules can plausibly be described 
+as “form’d on the nature of our understanding”.  But what his philosophy of causal reasoning does is to point out the implications of following this through, applying such systematisation to judgements of probability, the search for hidden causes, and so forth.  By doing so we in a sense “raise a new creation” as an extension of our natural judgements.  This may end up going far beyond those judgements, pushing the two definitions apart.  But since the two definitions are not anyway claiming to specify necessary and sufficient conditions, such a divergence between them simply need not  14matter.  The role of the second definition, to repeat, is not to specify such analytical conditions, but 
+instead to identify the particular “impression” from which the crucial idea derives.  That is exactly what is required by Hume’s theory of meaning, and provides the explicit purpose of the quest that leads to the two definitions.  Nothing in his theory of meaning demands that an idea – once acquired – 
+should continue to be confined to the circumstances that originally produced it.  His second definition, 
+in short, reflects his genetic  perspective on meaning, and makes no claim to be analytic .  Hence there 
+is no requirement that it should be co-extensive with the first definition. 
+ The significance of all this for the New Hume debate is to undermine any argument from the 
+divergence of the two definitions to a denial that they could be intended by Hume to be semantic .  If 
+they could be genuinely semantic only by providing a modern-style analysis  in terms of necessary and 
+sufficient conditions, then such an argument might go through.  But in Hume’s genetic theory of meaning, no such argument can work: meaningfulness of an idea derives primarily from its historic impression-source, not from the rules for its application.  We may now deplore this theory – 
+philosophy of language has come a lot further than epistemology since Hume – but that is obviously 
+irrelevant to the interpretation of a philosopher who is so clearly committed to it.  And although the first “definition of cause” can be seen as moving significantly in a more analytic direction, the second is firmly rooted in the genetic approach.  Hume apparently sees both definitions as necessary for a full understanding of causal concepts, but also as sufficient,  and the account I have sketched above 
+explains why this should be so.  Beyond the two definitions, there is nothing more to be grasped, for they together capture the very essence  of the causal necessity “which we ascribe” ( E 8.5).
+27 
+5.  A Priori Powers within Hume’s Argument 
+The final major prop of the New Hume interpretation is the claim that Hume crucially employs – 
+within his main argument concerning the idea of necessary connexion – a concept of causal power that 
+itself violates the strictures of his two definitions.  Hence although the overt thrust of that argument seems to outlaw any “thick” notion of necessity, the suggestion is that Hume’s own reasoning implicitly presupposes such a notion.  In a very recent paper, Peter Kail spells out this line of thought, giving centre stage to what he calls “the reference-fixer for ‘power’” or “RFP”: 
+“there are some formidable challenges to the very possibility of a thought regarding causal powers.  
+How is such a thought available to Hume?  …  To cut a long story short, the thought … relevant to 
+Hume’s realism about causation expresses itself in how Hume understands what it would be to have a genuine  impression of power.  If we were to perceive power – have an impression of it – we would be 
+(a) able to ‘read off’ what effect some object must have and (b) find it impossible to conceive of the 
+                                                   
+27 Hume repeatedly talks of “the very essence” of causation, power, or necessity in relation to the two definitions, in 
+the Treatise  at 1.3.14.16, 1.4.5.33, 2.3.1.10, and 2.3.2.2, and in the Enquiry  at E 8.22 n. 18 and 8.25 n. 19.  It is highly 
+significant that all but the first of these references occur in sections where Hume is applying  his definitions, namely 
+“Of the Immateriality of the Soul” ( Treatise  1.4.5, discussed in §7 below) and “Of Liberty and N ecessity” (discussed 
+in §8 below).  As we shall see later, these arguments can work only if the two definitions are indeed understood as 
+specifying true essences: they would fail if the definitions captured only causation “so far as we know it” or whatever.  15cause without the effect.  So when asked what is one thinking of when one thinks of power, the 
+appropriate answer is that which, were we to grasp it, would furnish the capacity for such ‘a priori’  
+inference and close down our powers of conception.  Call this the reference-fixer for ‘power’ (RFP).  The RFP is not an idea of necessity or a relative idea of necessity.  We have no understanding of what 
+feature it is that would yield those consequences.  …  It is a thought of a kind that manifests itself in Hume’s argumentative strategy.”  (Kail 2007b: 256) 
+Kail’s RFP is a refinement of Strawson’s more familiar “AP property”, a term which has the 
+advantage of interpretative neutrality: 
+“[Hume’s] conception of what something would have to be like in order to count as an idea or 
+impression of Causation or power or necessary connexion in the objects is … something which has the following property: if we could really detect it … then we could get into a position in which we could make valid causal inferences a priori; …  I will say that on Hume’s view Causation has the ‘a-priori-inference-licensing property’, or ‘AP property’, for short: that is, it has the property that genuine 
+detection of it brings with it the possibility of making a priori certain causal inferences .”  (Strawson 
+1989: 110-11) 
+Having explained his RFP notion, Kail acknowledges that it is in some tension with familiar elements 
+of the Humean package.  It contradicts Hume’s apparent limitation of thoughts to the realm of our 
+ideas, it seems potentially to conflict with his Conceivability Principle (a point to which we return in §6 below), and its role in Hume’s argument might anyway be suspected of being ad hominem  rather 
+than sincere.  Kail’s answers to these problems, attempting to reconcile them within the New Humean perspective, can of course be debated.
+28  But my narrower concern here is with possible difficulties for 
+the Old Humean  account: is it in fact the case, as Kail claims, that “Hume’s argumentative strategy” 
+can only properly be understood as manifesting a sincere AP-style conception of “power” that transgresses Old Humean boundaries? 
+ The crucial passages occur mainly in Enquiry  7 Part i, though there is one prominent 
+anticipation of the same move within the Treatise  version of the argument.  The context in the Treatise  
+is that Hume has already denied the possibility of acquiring a specific  impression of power from any 
+single instance of the operations of matter or mind.
+29  He then goes on to point out the implication that 
+no general  idea can be acquired in this way either: 
+“general or abstract ideas are nothing but individual ones taken in a certain light …  If we be possest, 
+therefore, of any idea of power in general, we must also be able to conceive some … particular being as 
+endow’d with a real force and energy, by which such a particular effect necessarily results from its operation.  We must distinctly and particularly conceive the connexion betwixt the cause and effect, and be able to pronounce, from a simple view of the one, that it must be follow’d or preceded by the other.  This is the true manner of conceiving a particular power in a particular body: and a general idea being impossible without an individual; where the latter is impossible, ’tis certain the former can never exist.  Now nothing is more evident, than that the human mind cannot form such an idea of two objects, as to … imply the absolute impossibility for the one object not to follow, or to be conceiv’d not to follow upon the other: Which kind of connexion has already been rejected in all cases.”  ( T 1.3.14.13) 
+                                                   
+28 I engage in such debate in a forthcoming paper, “Hume on Liberty and Necessity: Answering Beebee and Kail”, 
+which is due to appear in a collection edited by Tom Stoneham arising from the “Causation: 1500-2000” conference at 
+the University of York in March 2008. 
+29 The case of mind is dealt with in a paragraph inserted with the 1740 Appendix , namely T 1.3.14.12.  16Within the Enquiry  a similar style of argument is used repeatedly, first to prove that we cannot acquire 
+an impression of power from single instances of the interactions of external objects: 
+“From the first appearance of an object, we never can conjecture what effect will result from it.  But 
+were the power or energy of any cause discoverable by the mind, we could foresee the effect, even without experience; and might, at first, pronounce with certainty concerning it, by the mere dint of thought and reasoning.  …  It is impossible, therefore, that the idea of power can be derived from the contemplation of bodies, in single instances of their operation; because no bodies ever discover any 
+power, which can be the original of this idea.”  ( E 7.7-8) 
+Then the same sort of move is applied no fewer than six times to show that the impression of power 
+cannot be derived from single instances of the operations of our own will, on either the organs of our 
+body or our own minds.  This section of the argument occupies paragraphs 9 to 19 of Section 7, but for present purposes a couple of short extracts will do: 
+“… if by consciousness we perceived any power or energy in the will, we must know this power; we 
+must know its connexion with the effect; we must know the secret union of soul and body, and the 
+nature of both these substances; by which the one is able to operate, in so many instances, upon the 
+other.”  ( E 7.11) 
+“… were we conscious of a power …  We should then perceive, independent of experience, why the 
+authority of will over the organs of the body is circumscribed within such particular limits.”  ( E 7.12) 
+On each of these occasions Hume’s argument – either spelled out or implied – starts from the premise 
+that if an impression of power were apparent in individual cases of A causing B, then we should be 
+able to predict B from the perception of A “even without experience … by the mere dint of thought 
+and reasoning”.  But such aprioristic prediction is never possible, even in principle.  And hence there cannot be any impression of power in these cases. 
+ New Humeans see these arguments as presupposing an understanding of power that is 
+somehow deeper and more fundamental – more genuine  – than what is revealed by Hume’s quest for 
+the impression of necessary connexion.  Thus Wright claims that for Hume, “a genuine apprehension of causal power would involve an understanding of the necessary or conceptual connection of cause and effect” (2000: 92).  Likewise Kail in the quotation above talks about “how Hume understands w h a t  i t  w o u l d  b e  t o  h a v e  a  genuine  impression of power” (his emphasis), and in his subsequent 
+argument goes on to refer repeatedly to “genuine necessity”, “genuine causation”, “veridical experience of power” and so forth.
+30  But this is far too quick, for at least three reasons.  First, it is 
+very doubtful whether Hume thinks that anything could – even in principle – satisfy the demands of “genuine power” understood in this AP fashion, and if he does not, then such an understanding would inevitably make him some sort of anti-realist about causal power (most likely an error-theorist), rather 
+than a realist.  This is an issue that Kail addresses, and we shall return to it in §6 below.  Secondly, we 
+have been given little reason to privilege this particular understanding of power as more “genuine” 
+than the alternative regularity account that Hume himself develops through his argument and 
+                                                  
+ 
+30 See also for example Wright (1983): 139-40; Strawson (1989): 109-11; Kail (2007a): 83-7.  17encapsulates in his two definitions.  He repeatedly emphasises that these definitions give “the essence” 
+of necessity,31 so we should demand very strong evidence before accepting that he sees “genuine” 
+necessity as being something quite different.  But in fact direct evidence in favour of the rival AP account is very meagre, and by far the nearest that Hume comes to explicitly endorsing it is the 
+Treatise  passage quoted earlier, when he says that it provides “the true manner of conceiving a 
+particular  power in a particular  body” ( T 1.3.14.13, my emphasis).  This is clearly a far cry from 
+saying that it is the true manner of conceiving power quite generally, and in any case he immediately goes on to comment – in the very next sentence – that this (AP) “kind of connexion has already been rejected in all cases” as impossible.
+32  So relying on this paragraph will not lead us forward to Causal 
+realism, but instead back to anti-realism.  Overall, therefore, the direct textual evidence for Hume’s endorsing a realist AP conception of power is negligible, against a significant catalogue of explicit statements that say quite the reverse. 
+ The third problem with taking the AP understanding of power as definitive concerns the extent 
+of the argument within which Hume makes use of it, because in fact he appeals to it only while 
+considering putative single-instance impressions of power or necessity .  When he later moves on to 
+consider repeated instances, and ultimately tracks down his own favoured candidate for the “impression of necessary connexion”, he makes no mention of any AP-style criterion.  And this omission cannot easily be put down to mere incompleteness or oversight, because his candidate impression – the customary determination of the mind in response to repeated observations – is itself very obviously  incapable of satisfying the AP constraint.  Edward Craig, in one of the seminal 
+contributions on the New Hume side, highlights this apparent oddity in Hume’s argument: 
+“This is extremely curious.  Over the last ten pages Hume has argued repeatedly that there is no 
+impression of power that is observed when we move our bodies or call up ideas in our minds.  Now it 
+turns out that after all there is some such feeling of connexion … when an idea arises involuntarily by virtue of its association with another idea (or impression) which is already present to consciousness.  Nothing is said as to how this can be, how this case can differ from the ones previously dismissed.  One would have thought that both types of argument used then could be used again with the same effect.  First, that there is no third impression of reflection, but just the impression of one idea followed by that of the other.  Secondly, the ‘feeling’, if it occurs, does not allow us a priori insight into the necessity of this particular succession of ideas – which was earlier deemed enough to show that no impression of power is found.  So careless is he about the detail of the conceptual branch of his theory, and that at the very moment of climax when the elusive impression is (supposedly) finally being revealed.”  (Craig 2002: 221, adapted from 1987: ch. 2 §3) 
+Craig accordingly views the argument as “a muddle” (2002: 219), and takes Hume’s carelessness as 
+evidence that his real interests are epistemological rather than conceptual (a moral very congenial to 
+the New Hume perspective).  But this is all rather unsatisfactory, and it would clearly be preferable to 
+                                                   
+31 See the references in note 27 above, and also T 1.3.14.22, 2.3.1.4; A 32. 
+32 The apparent corollary, that it is impossible truly to “conceive a particular power in a particular body”, may connect 
+with Hume’s comments on the “inconvenience” of his two definitions, as discussed above.  No doubt we would like to 
+have a just definition that enables us to understand powers in this way, but unfortunately, none is to be had, because 
+the requirements are impossible to fulfil.  18find an interpretation that can eliminate the apparent carelessness and muddle in Hume’s argument, an 
+argument which he continued to maintain from 1739 until his death in 1776, through the Treatise , the 
+Abstract , and numerous revised editions of the Enquiry . 
+ In an effort to do this,33 let us consider whether there might be some special reason why Hume 
+would take the AP account (or something like it) to provide “the true manner of conceiving a 
+particular  power in a particular  body”, a reason that does not extend to his treatment of repeated 
+instances.  Recall that in the first part of his main argument, he is asking whether in any single 
+instance  of a cause-effect relationship A-B, some impression of power or connexion is available to 
+yield a corresponding idea.  The impression in question cannot, of course, be an abstract idea of power or connexion in general , for the reason quoted above from T 1.3.14.13: on Hume’s principles, “general 
+… ideas are nothing but individual ones taken in a certain light”.  So it must be an impression specifically of A’s power to produce B , or of a connexion between A and B .  What would such an 
+impression have to be like?  Presumably it would have to do something to connect  A with B, and since 
+it is an impression  of such connexion – a mental item present to consciousness – this connexion must 
+be to some extent manifest in its experiential nature.  Thus the impression in question must somehow provide a conscious link from A to B, and this seems almost equivalent to requiring that it provide a 
+ground of inference  from one to the other.  But at this stage of the argument, Hume is focusing only on 
+impressions that can arise in single instances, and this adds another – very demanding – constraint.  It means that anything capable of counting as a single-instance impression of power or connexion between A and B must provide some basis for inference from A to B, founded on observation of A 
+alone .  What sort of inference would this have to be?  That question is answered very explicitly by the 
+author of the Treatise  in a different context: 
+“There is no object, which implies the existence of any other if we consider these objects in themselves, 
+and never look beyond the ideas which we form of them.  Such an inference wou’d amount to 
+knowledge, and wou’d imply the absolute contradiction and impossibility of conceiving any thing different.”  ( T 1.3.6.1) 
+Likewise the Abstract : 
+“It is not any thing that reason sees in the cause, which makes us infer  the effect.  Such an inference, 
+were it possible, would amount to a demonstration, as being founded merely on the comparison of 
+ideas.”  ( A 11) 
+These passages come from the beginning of Hume’s argument concerning induction, where his focus 
+is on potential grounds of factual inference rather than the origin of ideas.  And they clearly manifest 
+an assumption that a priori inference, if it is legitimate, must have demonstrative force.34 
+                                                   
+33 In what follows I develop a line of thought hinted at in Millican (2002a): 12-13 n. 11, and sketched briefly in 
+Millican (2007b) §3.3. 
+34 The Humean notion of apriority in play here is slightly different from the standard modern usage, since it 
+accommodates inference based on direct perception.  See Millican (2002b) §4.1.  19 We thus have a very plausible explanation of why Hume would have been led to equate a 
+single-instance impression of connexion between A and B with an a priori basis of inference from A to 
+B (and hence an inference with demonstrative force).  The explanation starts from the minimal 
+requirement that anything worth counting as a conscious impression of connexion  between A and B 
+must actually do something to connect  them consciously; this seems hard to deny.  Far more 
+philosophically questionable is the move from such a connexion to demonstrative certainty and the “absolute contradiction and impossibility of conceiving any thing different”.  But this move is explicitly endorsed by Hume more than once, and also taken for granted at other points in his writings, for example when he presumes that any merely “probable” evidence must be founded on experience.
+35  
+So Hume’s imposition of an AP-style constraint within Enquiry  7 Part i is entirely explicable on his 
+own principles, and in no way suggests any “muddle” in his thinking here. 
+ It is worth noting that the requirement of demonstrative inexorability within this constraint, 
+perhaps surprisingly, derives not from any element of necessity  in the idea and impression of 
+“necessary connexion”, but instead from the element of connexion  and hence inference .36  The crucial 
+bridging assumption, as we have seen, is that any a priori inference – any inference “founded merely on the comparison of ideas” – must yield demonstrative certainty (and correspondingly all probable reasoning must be a posteriori).  So a vital wedge can be driven between inference from single instances and inference founded on repetition: only the former has to be a priori and hence demonstrative in force.  Inference founded on repetition, by contrast, supplies an a posteriori alternative through the operation of custom, which Hume then enthusiastically seizes upon as the key to his investigation.  Customary inference thus provides a viable inferential link after A and B have 
+been repeatedly conjoined, and hence can yield an “impression” of (probable) connexion between them, while avoiding any requirement of demonstrative certainty. 
+ All this is not to deny that further objections can be raised against Hume’s argument, for 
+example Craig’s complaint against treating the customary “determination of the mind” as a “third 
+impression”.
+37  But the line of thought above completely absolves Hume from the charge of gross 
+muddle, by making it entirely comprehensible why he should insist on an AP-style constraint in the case of any putative single-instance “impression of necessary connexion”, but not in the case of a candidate “impression” that arises from repetition.  Interpreting the argument in this way also gives Hume’s impression-quest an underlying unity, with connexion in terms of inference  as the unifying 
+                                                  
+ 
+35 See for example T 1.3.11.2, 2.3.3.2; E 4.18-9. 
+36 This is a significant virtue of the account, given that the idea whose origin Hume seeks is most often described by 
+him as an idea of “power”, “force”, “energy” or “connexion” rather than “necessity”.  Millican (2007b) §2.2 advances 
+this and other reasons for taking connexion  (or consequentiality ) rather than necessity  to be the simple idea towards 
+which Hume’s quest is directed. 
+37 See footnote 2 above for references to a discussion of this point, where I suggest that the most consistent 
+development of Hume’s thought should treat the relevant “impression” as reflexive awareness of the inference, rather 
+than a feeling.  20factor.  Not that this should surprise us, given that he considers “inference of the understanding” to be 
+ultimately “the only connexion, that we can have any comprehension of” ( E 8.25).  From this 
+perspective, indeed, the outcome of his impression-quest looks almost inevitable: it could  only 
+terminate with some kind of inference, since no other putative connexion has enough mental intimacy 
+to qualify as a perception from which an idea could be copied. 
+ With this in mind, a final more speculative point can be made against the New Humean claim 
+that Hume’s argumentative strategy manifests an understanding of power or necessity – the AP conception – that violates the constraints of his two definitions.  For the AP conception is centrally based on the notion of inference , and I have suggested that in so far as it plays a role in Hume’s 
+argument, its associated element of demonstrative inexorability is not part of the core notion, but instead derives from Hume’s assumption that a priori inference cannot be merely probable.  So where this conception differs from the understanding of necessity in Hume’s second definition lies not in any additional factor, but rather in what it leaves out: AP inference is inference from perception of the 
+“cause” alone , whereas Humean custom is inference from perception of both “cause” and “effect” 
+through repeated experience .  As such, it is no longer clear that the AP conception – in so far as it 
+plays a role in Hume’s argument – anyway transgresses at all beyond the Old Humean boundaries that are ultimately set by his definitions.  If – per impossibile  – he were to allow that such aprioristic 
+inference is a possibility, then he could apparently acknowledge it as involving a form of necessity that falls within the scope of his own analysis.
+38 
+ The conclusions reached in this section completely undermine the New Humean claim that a 
+realist and essentially AP conception of power plays a central role in Hume’s thought about causation.  In so far as it features at all, its presence is due to the particular context (of single-instance inference) 
+where it occurs.  Its absence elsewhere indicates that it is not Hume’s core notion, while examination 
+of his main argument reveals a different core understanding of power or necessity, applicable throughout, of which the AP conception is a special case conditioned by the single-instance context.  Even within this context, moreover, Hume seems very dismissive of the possibility of such AP inference, making comments suggesting that the very notion is incoherent (an issue we return to in §6 below).  It clearly follows that the concept of causal power which he generally employs elsewhere, and which he accepts as legitimate, cannot be the AP notion.  It is this legitimate concept that he sets out to investigate in his main argument, ultimately leading to his analysis in terms of the two definitions, 
+                                                  
+ 
+38 This suggestion is corroborated by the (admittedly rather puzzling) passage at T 1.3.14.23, where Hume treats 
+mathematical necessity as similar in species to the causal necessity defined by his investigation, on the basis that “the 
+necessity, which makes two times two equal to four, or three angles of a triangle equal to two right ones, lies only in 
+the act of the understanding, by which we consider and compare these ideas”.  Again he seems to be treating inference 
+in the mind as the core notion, independently of whether or not that inference is based on experienced repetition.  
+Presumably he would apply the same treatment to the more general absolute or logical necessity that he sometimes 
+acknowledges (see §6 below), corresponding to his far more frequent recognition of absolute possibility as that which 
+does not imply a contradiction.  21which he then frequently endorses as revealing the essence  of power or necessity.  Hence there is no 
+justification for claiming that the AP notion is taken by Hume to encapsulate “true” or “genuine” causal power.  To refer to it as such lacks any significant textual support, and simply begs the question in favour of the New Hume interpretation. 
+6.  Conceivability and Possibility 
+In arguing against the claim that Hume takes the AP notion as defining “genuine” causal power, I have put to one side what might well seem to be the most obvious and overwhelming objection to it: that Hume would view any AP understanding of power or necessity – at least in respect of matters of fact and contingent existences – as utterly incoherent and without application.  This objection is indeed, I believe, both straightforward and ultimately decisive, but proving the case requires tackling two recent discussions by Peter Kail, who maintains that it can be resisted. 
+ Spelled out in more detail, the objection starts from what is generally known as Hume’s 
+Conceivability Principle.  As he puts it succinctly in the Abstract : 
+“The mind can always conceive  any effect to follow from any cause, and indeed any event to follow 
+upon another: whatever we conceive  is possible, at least in a metaphysical sense …”  ( A 11) 
+Quoting this passage and another from T 1.3.6.1, which explicates the relevant sense of conceivability 
+in terms of separable ideas, Kail (2003a: 47) explains the point as follows: 
+“These two passages appear to provide all the premises necessary to mount a conclusive argument 
+against necessary connection conceived along the lines of the AP property.  …  Since we can always 
+conceive some cause A independently of its effect B (and vice versa , and for any substitution of A and 
+B) it follows, by the [Conceivability Principle], that it is always metaphysically possible  for A to exist 
+independently of B.  … So … there can be  no such necessary connection between A and B.  The very 
+notion of necessary connection, so conceived, is incoherent.” 
+What makes the AP notion potentially vulnerable to this argument is that it characterises “genuine” 
+causal necessity and possibility in terms of apriority and hence what Hume sometimes calls absolute  
+or metaphysical  modality.39  The Old Humean account, by contrast, can evade the objection by 
+drawing a sharp distinction between causal  necessity (the topic of Hume’s analysis) and this absolute  
+(or broadly logical) notion.  The latter is the necessity of demonstrative reasoning and relations of ideas as revealed by the Conceivability Principle, which Hume sees as utterly incapable of revealing causal relations.
+40  So from the Old Humean perspective, the Conceivability Principle casts no doubt 
+on the existence of genuine causation: the conceivability of A without B does not imply that there can 
+be no causal  necessity between them; it only rules out an absolute  necessity (which is anyway 
+                                                   
+39 See for example T 1.3.6.1, 1.3.7.3, 1.3.14.13, 1.3.14.35; A 11.  Hume also sometimes uses the phrase “absolute 
+necessity” when talking about causation or human decisions ( T 1.3.14.33, 2.3.7.7, D 134), but here I shall use the term 
+only in the metaphysical, broadly logical, sense. 
+40 Except perhaps in excluding causal circularity, an exception expressed ironically in the final sentence of T 1.3.6.7.  22impossible between any potentially causally related “distinct existences”).  But on the New Humean 
+view, this same absolute necessity – though inaccessible to us – is what underlies “genuine” causal relations.  So taking the Conceivability Principle at face value would make such “genuine” causation not only inaccessible, but non-existent. 
+ Kail, as a committed New Humean, must therefore limit the application or force of Hume’s 
+Conceivability Principle.  In his earlier discussion, he relies heavily on the claim that Hume – when most careful – accepts the Conceivability Principle “only when our representations are ‘adequate’” (2003a: 49), backing this up with a single quotation: 
+“Wherever ideas are adequate representations of objects, the relations, contradictions and agreements of 
+the ideas are all applicable to the objects …  The plain consequence is, that whatever appears  
+impossible and contradictory upon the comparison of these ideas, must be really  impossible and 
+contradictory, without any farther excuse or evasion.”  ( T 1.2.2.1) 
+This interpretation, however, is extremely dubious, as I have pointed out elsewhere.41  To summarise, 
+the quotation Kail cites is the only passage in Hume’s writings which mentions a condition of 
+adequacy  in relation to the link between conceivability and possibility.  But what makes this 
+uniqueness so significant is that here Hume is not putting constraints on the implication from 
+conceivability to possibility, but from apparent impossibility  (i.e. inconceivability) to impossibility, 
+which is quite different.  It is not equivalent to the Conceivability Principle, but instead to the converse  
+principle: that possibility implies conceivability.  This is not a principle that Hume endorses elsewhere, and it is striking that in the unusual situation where he is considering the implication in this direction, he is careful to limit it very explicitly to adequate ideas.  Hence it is all the more significant that he never suggests such a limitation in the numerous cases where he is endorsing the implication from conceivability to possibility .  So far from supporting Kail’s case, therefore, the cited passage – 
+when seen in context – counts strongly against it. 
+ In his recent book, Kail repeats his claim about adequacy (2007a: 95), but treats this alongside 
+a far more plausible and frequent Humean restriction of the Conceivability Principle, to ideas that are clear  and/or distinct .
+42  He further motivates this response by illustrating how such restrictions are 
+required to avoid gross philosophical error, with the implied suggestion that Hume himself could reasonably be expected to recognise the need.  But in this respect Kail’s first such illustration – involving the conceivability of a scenario in which Hesperus is destroyed while Phosphorus survives – 
+is unconvincing.  Thoughts about identity statements involving co-referring terms came to prominence only with Frege, while the necessity of such statements involving rigidly designating names became 
+                                                  
+ 
+41 See Millican (2007b) §3.3.  Similar criticisms can also be made of Wright (1983): 88-9, 103, who like Kail appears 
+to ignore the distinction between inferring possibility  from conceivability  (which Hume generally endorses), and 
+inferring impossibility  from inconceivability  (which he seems to restrict to adequate ideas). 
+42 Kail  (2007a: 94) cites three passages from T 1.1.7.6, 1.2.2.8, and 1.2.4.11, all of which mention clarity and two of 
+which also mention distinctness.  Other relevant passages are at T 1.3.6.5, 1.4.5.5; E 4.18, 12.20; D 145, 189.  23orthodox only after Kripke.  It is therefore not surprising that Hume’s own treatment of the idea of 
+identity, which insists that it can be made sense of only in terms of unchangeability or continuation over time  (T 1.4.2.29 cf. 1.1.5.4), shows no awareness whatever of these sorts of considerations.  
+Kail’s second example (from William Kneale) concerns the conceivability of lightning without 
+thunder, and might well raise similar issues of co-reference in the minds of those trained by Kripke to 
+acknowledge a posteriori necessary identities, but Kail’s main ground for insisting that it should impress Hume harks back to his dubious requirement of adequacy : 
+“Hume … must really agree with Kneale.  For the official theory of impressions and ideas licenses one, 
+and only one, answer to the issue of what objects such as our representations are clear and adequate, 
+namely sensory experiences or impressions .  Given Hume’s qualifications regarding the scope of modal 
+knowledge revealed by conceivability, modal thought experiments … do not licence any inference about the modal properties of the putative objects  of impressions, unless impressions are themselves 
+clear, distinct or adequate representations of objects.  But there are no grounds whatsoever to think impressions are ‘clear’, ‘distinct’ or ‘adequate’ representations of external objects.  This means modal features of ideas cannot be said to reveal any modal properties of ‘objects’ when taken for in re  
+experience-independent things.”  (Kail 2007a: 96) 
+The appeal to adequacy here cannot help, for the reason explained above, but Kail hints that a 
+requirement of mere clarity (and perhaps distinctness) will suffice to do the job, by restricting the 
+application of Hume’s Conceivability Principle to “sensory experiences or impressions ”.  To make this 
+plausible as an interpretation of Hume, however, it needs to be shown – by relevant quotation and analysis – how such a restriction can be seen as playing a significant role in his own actual use of the Principle: without this, it is no more than a speculative “rational reconstruction” of a possible Humean line of thought.  Kail unfortunately provides very little supporting quotation, relying at this stage only on two main passages.  The first of these, from T 1.4.5.20, does not apply the Conceivability Principle 
+directly, but discusses the correspondence (or lack of it) between the relations of impressions and those of objects.  Hume’s conclusion here is that any “connexions” or “repugnances” (presumably necessities or impossibilities) that we discover between objects must apply also between impressions, 
+but that the inference in the reverse direction is not guaranteed.  Ignoring the distinction between 
+impressions and ideas for the moment, this comes down to saying that what is impossible  amongst 
+objects implies an impossibility of conception  (but that the converse does not apply).
+43  The 
+contrapositive equivalent of this statement is that what is possibly conceivable is possible amongst 
+objects  – which is essentially the same as the Conceivability Principle.  So Kail’s quotation does not 
+help his case at all: like the passage from T 1.2.2.1 earlier, it suggests a limitation on the converse  of 
+the Conceivability Principle, but not on the Principle itself. 
+ The second passage to which Kail appeals is the “coda” to Hume’s famous argument 
+                                                   
+43 Necessity is simply impossibility of the contrary, so dealing with impossibility covers both.  The context of this 
+passage from Treatise  1.4.5, “Of the Immateriality of the Soul”, is an argument in which Hume is claiming that all of 
+the difficulties alleged to apply to Spinoza’s account of the external world (according to which all objects are 
+modifications of one simple substance) apply equally to the traditional view of the internal world (according to which 
+all perceptions are modifications of a simple soul).  See §7 below for more on this section.  24concerning induction, at T 1.3.6.8-10 and E 4.21.44  Here Hume considers the hypothesis that the past 
+regular behaviour of objects might be a manifestation of causal powers, enabling induction to be justified on the basis that similar objects will have similar causal powers.  He then shows that even if the hypothesis of causal powers is allowed, this cannot provide a rational foundation for induction, 
+because induction must already be presupposed in making the inference that “ similar sensible qualities 
+will always be conjoined with similar secret powers ” (E 4.21).  Kail emphasises that both within this 
+passage and sometimes elsewhere in the same section ( E 4.16, 4.18), Hume’s consideration of a 
+change in the course of nature is couched in terms of a change of appearance : 
+“He says that ‘it implies no contradiction, that the course of nature may change, and that an object 
+seemingly like those  which we have experienced, may be attended with different or contrary effects’ 
+([E 4.18], my emphasis).  …  It seems … that ‘implies no contradiction’ has an epistemic sense here of 
+no contradiction being revealed  to the thinker, rather than it being metaphysically  possible that the 
+course of nature change.  …  Something appearing to be water, say, is like a notion exploited in Kripke (1980) to explain the illusion of contingency with respect to the n ecessity of identity between, for 
+example, water and H
+2O.  When we are imagining water being XYZ, we are not genuinely conceiving 
+water being XYZ (a metaphysical impossibility) but putting ourselves in an epistemic position wherein XYZ has all the relevantly similar surface characteristics (colourless, odourless liquid etc.).  Just so with 
+conceiving a change in the course of nature: we are not conceiving the kinds  which underwrite laws 
+being followed by different effects (a metaphysical impossibility), but putting ourselves in a position whereby something different, but with the same sensible qualities, is followed by such and such effects.”  (Kail 2007a: 97-8) 
+Kail takes this as indicating that “Hume thinks conceivability is restricted to the sensory” (p. 97), but it 
+is at most an illustration and provides very limited evidence.  We have no significant basis for 
+generalising this claim to other contexts, because there are obviously special reasons here – given that Hume’s topic is inductive inference from observed to not-yet-observed – why he should focus on the potential changeability of “sensible qualities”.  The same applies even more in the “coda” of his argument, whose fundamental point is that even if the hypothesis of underlying secret powers is 
+granted , this still does nothing to justify induction without circularity.  When arguing that point, Hume 
+has no option but to focus on manifest qualities rather than underlying powers.  This one illustration therefore tells us virtually nothing about his attitude to conceivability more generally. 
+ If we actually take the trouble to examine Hume’s wider appeals to the Conceivability 
+Principle, we find that he frequently violates Kail’s proposed limitation to the sensory.  For example, 
+he is apparently quite happy to infer from conceivability to absolute possibility in respect of the existence of a golden mountain ( T 1.2.2.8), real extension consisting of indivisible parts ( T 1.2.2.9), 
+the impact of billiard balls and other objects ( T 1.3.9.10, A 11, E 4.10), the loss of activity of matter or 
+spirit ( T 1.4.5.35), the rising or non-rising of the sun ( E 4.2), the behaviour of trees in winter and 
+summer ( E 4.18), the non-existence of various beings ( E 12.28), and matter’s having an inherent 
+principle of order or motion ( D 146, 182).  More generally, he insists on the conceivability of any 
+object whatever coming into existence without a cause ( T 1.3.3.3), and extends the Conceivability 
+                                                  
+ 
+44 For a discussion of this “coda”, which Kail calls Hume’s “switching argument”, see Millican (2002b) §§9-9.2.  25Principle to every cause and effect relationship, explicitly making the point that the modal status being 
+inferred is “possible … in a metaphysical sense”:  
+“The mind can always conceive any effect to follow from any cause, and indeed any event to follow 
+upon another: whatever we conceive is possible, at least in a metaphysical sense: but wherever a demonstration takes place, the contrary is impossible, and implies a contradiction. There is no demonstration, therefore, for any conjunction of cause and effect.”  ( A 11) 
+As we shall see very soon, there are also similar passages to this in the Treatise  and Enquiry , some 
+even more emphatic. 
+ It seems, therefore, that the evidence of Hume’s texts simply fails to match what Kail thinks 
+he ought to say.  According to Kail, as we saw earlier, “modal features of ideas cannot be said to 
+reveal any modal properties of ‘objects’ when taken for in re  experience-independent things”.  And 
+indeed this sounds very plausible: how could we – or Hume – reasonably expect our (admittedly inadequate) ideas of objects to reveal those objects’ essential nature?  But there is a vital nuance here, which is smudged over in Kail’s talk of “modal properties”.  “Revealing the modal properties of ‘objects’” embraces the discovery both of their necessities and of their possibilities, but Hume takes a 
+radically different attitude towards the two (corresponding to his general acceptance of the Conceivability Principle, but not of its converse).  At least as traditionally interpreted, he frequently states or presumes that the distinction between the necessary and the contingent is co-extensive with a number of other related distinctions, namely, between:  (a) “relations of ideas” and “matters of fact”;  (b) what can be known or demonstrated a priori and what cannot;  and (c) propositions whose contrary is inconceivable (because implying a contradiction) and those whose contrary is consistent and conceivable.  All of these come together in the locus classicus  of this familiar Old Humean view, the 
+first two paragraphs of Enquiry  4: 
+“Relations of Ideas  … [are] either intuitively or demonstratively certain.  …  Propositions of this kind 
+are discoverable by the mere operation of thought, without dependence on what is any where existent in 
+the universe.  …  Matters of fact … are not ascertained in the same manner; nor is our evidence of their truth, however great, of a like nature with the foregoing.  The contrary of every matter of fact is still possible; because it can never imply a contradiction, and is conceived by the mind with the same facility and distinctness, as if ever so conformable to reality.  …  We should in vain, therefore, attempt to 
+demonstrate its falsehood.  Were it demonstratively false, it would imply a contradiction, and could 
+never be distinctly conceived by the mind.” 
+What this straightforwardly implies is that all absolute necessity derives from relations of ideas, and 
+can have no application whatever to matters of fact.  Every  matter of fact is contingent – both possibly 
+true, and possibly false – and so to establish a proposition’s possibility , it is sufficient to show that it is 
+indeed a matter of fact, a role apparently played by Hume’s test of conceivability.  Hence the clear conceivability of a proposition can prove its possibility, and in this sense “the modal features of ideas” 
+can indeed  “reveal … modal properties of ‘objects’”.  The properties thus revealed, however, are very 
+far from the causal necessities beloved of rationalist metaphysicians: 
+“there are no objects, which by the mere survey, without consulting experience, we can determine to be 
+the causes of any other; and no objects, which we can certainly determine in the same manner not to be  26the causes.  Any thing may produce any thing.  Creation, annihilation, motion, reason, volition; all these 
+may arise from one another, or from any other object we can imagine.”  ( T 1.3.15.1, cf. 1.4.5.30, 
+1.4.5.32) 
+“All other enquiries of men regard only matter of fact and existence; and these are evidently incapable 
+of demonstration. Whatever is may not be .  No negation of a fact can involve a contradiction.  …  The 
+existence, therefore, of any being can only be proved by arguments from its cause or its effect; and these arguments are founded entirely on experience. If we reason à priori , any thing may appear able to 
+produce any thing.  …  It is only experience, which teaches us the nature and bounds of cause and effect, and enables us to infer the existence of one object from that of another.”  ( E 12.28-9) 
+In regard to matters of fact, therefore, all conceivable possibilities remain open, and it follows that the 
+very idea of an absolute  causal necessity is incoherent.  There are no such “modal properties of 
+‘objects’” to be revealed, either by consulting our ideas or in any other way.  So Hume is not being negligent when he uses his Conceivability Principle to deny that matters of fact are necessary without first establishing that his relevant ideas are “clear”, “distinct”, or “adequate” (e.g. T 1.3.3.3, 1.3.6.1).  
+And nothing that he himself says on the topic gives any serious suggestion that such necessities could become available to us if only our ideas were more perfect.
+45 
+ All this is not to defend  what I take to be Hume’s view, but only to expound  it.  Of course 
+objections can be raised against it, and those suggested by Kail – from the philosophy of language 
+inspired by Kripke – might be amongst the strongest.  But this gives no basis for arguing that the view 
+is dubious as an interpretation of Hume.  Its implications, as expressed in the quotations above, might seem extreme, and even ridiculous, for those attracted to essences and thick objective necessities.  But to claim that Hume could not really mean what he seems to say is both gratuitious and interpretatively implausible.  Many notable philosophers have been persuaded by Hume’s own arguments  to deny such 
+necessities in nature, and indeed this Humean view provided the orthodoxy for much of the twentieth century, as can easily be documented from major works of reference: 
+“The view that necessary truth always concerns relations of ideas does not quite entail the thesis that all 
+necessary truths are analytic …  Ye t the suppos ition that the view does entail the thesis is fundamental 
+to seventeenth and eighteenth century empiricism and has its counterpart in the theories of twentieth-century empiricists, where it is given a linguistic dress.”  (Hamlyn, 1967: 200) 
+“According to … our received notions about the gro unds of necessity … the traditional view, which 
+receives its paradigm formulation in Hume’s writings, there are no ‘necessary connections’ between 
+distinct existences.  …  according to Hume, whatever necess ities there are, are to be explained in terms 
+of ‘relations of ideas’.”  (Forbes 1997: 529) 
+Over the intervening years, Hume’s truth “concerning relations of ideas” had evolved into the notion 
+of analyticity  as understood by the logical positivists and others.46  This continued to be  seen as the 
+                                                   
+45 Here I discount the passages from Dialogues  Part ix that are often quoted by New Humeans as part of their case (and 
+discussed by Kail (2007a) at pp. 99-101), for two reasons.  First, they are not presented by Hume himself in propria 
+persona , but only as the words of characters in a dialogue.  Secondly, even within that dialogue, the key passages can 
+plausibly be read as playing an ad hominem  role.  However Causal realist in tone they might be, therefore, they carry 
+very little evidential weight for the interpretation of Hume. 
+46 As expressed by Ayer: “a proposition is analytic when its validity depends solely on the definitions of the symbols it 
+contains, and synthetic when its validity is determined by the facts of experience” (1971: 105).  27basis of the only legitimate type of absolute necessity, and even Quine (1953), who famously 
+championed opposition to analyticity as a “dogma of empiricism”, took for granted in his argument that necessity could only be understood in these terms.  Against this background, it is clearly anachronistic to suggest that post-Krikean objections, quite unnoticed by most earlier logicians, should 
+be allowed to cast doubt on Hume’s having taken a similar view.
+47 
+7.  Of the Immateriality of the Soul 
+We have now completed our examination of the specific texts, within the context of Hume’s main 
+discussions of the idea of necessary connexion, that have been cited as providing the strongest evidence in favour of the New Hume interpretation.  Our summary review of Hume’s comments about his two definitions of cause, and our discussion of how those definitions are to be interpreted, indicated no major difficulty for a traditional reading.  Then our investigation of the notion of a priori powers, so far from revealing any evidence for the New Hume interpretation, yielded quite the reverse, in the form of clear evidence that Hume’s Conceivability Principle must rule out the existence of any 
+such supposed  powers.  So if Hume believes in causes at all, then he cannot take “genuine” causation 
+to involve a priori powers.  This brings us back to where we started in §1 above, and Hume’s strong advocacy of causal science, another consideration that is commonly adduced in favour of the New Hume but which on further investigation – as we shall see – points in exactly the opposite direction. 
+ The brief discussion in §1 made plain that Hume is committed to causal science and causal 
+language, however these are to be interpreted.  It also emphasised that this commitment – though at first it might seem to point towards upper-case Causal realism, is in itself entirely consistent with a wide range of possible views about the metaphysics of causation, from AP-realism at one extreme to Berkeleian idealism at the other (and no doubt numerous intermediate possibilities).  I shall now take 
+this argument further, by investigating the point  of Hume’s analysis of causation, and showing that it 
+is precisely his commitment to causal science that strongly motivates his denial  of upper-case Causal 
+realism, and his advocacy of an understanding of causation as circumscribed by his two definitions. 
+ A striking peculiarity of the New Hume debate is how little reference has been made within it 
+to Hume’s purposes in pursuing his investigation of the idea of necessary connexion, culminating in his definitions of causation.  The Old Humean tradition of interpretation tended to see this as a matter of conceptual analysis for its own sake, something that from the twentieth-century analytic perspective 
+                                                  
+ 
+47 After introducing his first Kripkean example, involving the necessary identity of Hesperus and Phosphorus, Kail 
+remarks that “Considerations like these were in the air in the early modern period.  For Spinoza, for example, the 
+imagination can produce an illusion of contingency, an illusion explained [by] the conceivability of A without B owing 
+to a confused or inadequate understanding of, or our ignorance of, the essence of A (see e.g. Ethics  I 33 scholium 1, 
+II 31 corollary and II 44).” (p. 94).  He also mentions Arnauld’s objection regarding the adequacy of Descartes’ 
+conception of the mind (and the latter’s reply).  But the charge of anachronism remains, because none of these 
+examples involves anything like the Kripkean considerations regarding reference and rigid designation.  28needed no further justification.  Less anachronistically, Hume’s aim could be seen as that of fulfilling 
+the Lockean project, identifying the origin of our ideas in experience and thus incidentally revealing their semantic nature.  But against all this, the New Humeans have been keen to insist that Hume’s investigation and his resulting definitions are mainly epistemological rather than semantic, 
+characterising not the meanings of terms but rather “human understanding’s best take on [the] 
+phenomenon” of causation (Strawson 2000: 47, cf. Craig 2002: 226-7).  They too, however, seem to have viewed Hume’s investigation of causation as essentially self-standing, and again have largely ignored its place in his broader purposes. 
+ If, however, we raise the question of whether Hume’s analysis of causation and his two 
+definitions might have a wider role within his overall project, the answer is not difficult to find.  Searching for subsequent paragraphs in the Treatise  that mention the definition of “cause”, “power” or 
+“necessity” yields precisely three, namely 1.4.5.31 in the section on “The Immateriality of the Soul”, then 2.3.1.18 and 2.3.2.4 in the two sections on “Liberty and Necessity”.  The first of these three does 
+not explicitly mention Hume’s own definitions, but paragraphs 1.4.5.30-33 all talk very conspicuously 
+of “constant conjunction” (and cognate phrases), which again feature strongly in the sections on “Liberty and Necessity” but are almost completely absent from any other section of the Treatise  after 
+Book I Part iii.
+48  Similar searches in the Enquiry  point unambiguously to Section 8, “Of Liberty and 
+Necessity” as the place to look for implications of Hume’s analysis and definitions.49  O v e r a l l ,  
+therefore, we are left with only two main arguments that could hold the key to Hume’s broader purposes in pursuing his analysis of causation, one of these being contained in paragraphs 30 to 33 of Treatise  1.4.5, and the other in his discussions of “Liberty and Necessity”.  Let us examine these in 
+turn, in this section and the next. 
+ “Of the Immateriality of the Soul” is an unjustly neglected section of the Treatise , where 
+Hume turns his attention from the external world to “our internal perceptions, and the nature of the 
+mind” ( T 1.4.5.1).  He starts with an attack on the notions of substance and inherence (1.4.5.2-6), 
+based partly on his Copy Principle, concluding that “we do not so much as understand the meaning of the question … Whether perceptions inhere in a ma terial or immaterial substance ”.  He then goes on 
+to discuss a popular argument for the immateriality of the soul, based on the difficulty of ascribing physical location to thoughts or perceptions (1.4.5.7-16).  In the course of answering this, he draws an important distinction (1.4.5.9-10) between perceptions of “sight and feeling”, which have spatial location, and other perceptions (e.g. moral reflections, tastes, smells, or sounds) which do not.  
+                                                  
+ 
+48 Constant conjunction features fairly strongly in Treatise  1.3.15, containing the “rules by which to judge of causes 
+and effects” which spell out corollaries of Hume’s definitions.  Thereafter “constant union” is mentioned very briefly 
+in 1.4.1.2 and 1.4.3.2, but plays a major role in 2.3.1 (paragraphs 4, 11, 12 and 16) and 2.3.2 (paragraph 4). 
+49 Enquiry  10.5 mentions “constant and regular conjunction” as the ground of probable inference in relation to 
+testimony, but the only other relevant passages following the discussion of causation are in Section 8.  Echoes of 
+Treatise  1.4.5 remain in Hume’s later work within the essay “Of the Immortality of the Soul” (especially paragraph 4).  29However, when we encounter a taste or a smell co-existing and co-temporary with related spatial 
+perceptions (e.g. the colour and shape of a fig), our imagination naturally leads us to attribute location to it, ignoring the resulting “absurdity”.  Hume sketches an account of this tendency (1.4.5.12-14) in terms of our “endeavour to compleat an union, which is founded on causation, and a contiguity of 
+time, by attributing to the objects a conjunction in place”.
+50  Materialists, “who conjoin all thought 
+with extension”, are deceived by this sort of fallacy of the imagination into ascribing a location to impressions that are non-spatial, but their opponents too face equally serious problems in attempting to “incorporate a simple and indivisible subject with an extended perception [i.e. of sight or touch]” (1.4.5.15-16).  Even if an answer to this difficulty were possible, it would not defeat the materialists, because then they would be able to appeal to the same solution to “account for the union of our indivisible perceptions with an extended substance”. 
+ Hume pursues this theme, of turning the anti -materialists’ objections against themselves, 
+through a discussion of Spinoza’s “hideous hypothesis”, leading to the provocative claim that three 
+arguments commonly urged against Spinoza can equally be used against the hypothesis of a simple, 
+indivisible and immaterial soul ( T 1.4.5.23-5).  In short, if it objectionable to see material things as 
+modifications of one simple and indivisible universal substance, then it is equally objectionable – and for exactly parallel reasons – to see thoughts as modifications of one simple and indivisible soul.  The three arguments cannot, he argues, be evaded by considering thoughts as actions (rather than modifications) of the soul, but even if this did provide a way out, the same response would be available to the Spinozist in viewing “all the various objects in nature” as “actions of one simple substance” (1.4.5.26-8).  The upshot of Hume’s discussion in this section so far, therefore, is predominantly sceptical: both materialists and their opponents face major difficulties, and any argument against one side seems to be equally applicable against the other.
+51  Any attempt to 
+understand the substantial basis of thought thus seems doomed to failure. 
+ Hume now moves on from these largely negative discussions “concerning the substance  and 
+local conjunction  of our perceptions … to another [topic], which is more intelligible than the former, 
+and more important than the latter, viz. concerning the cause  of our perceptions” ( T 1.4.5.29).  The 
+section thus culminates with a critical examination of one of the most popular arguments of the age, 
+                                                   
+50 This discussion is – significantly – the destination of a forward reference to Treatise  1.4.5 from a footnote at 
+T 1.3.14.25 which follows the two sentences: “Thus as certain sounds and smells are always found to attend certain 
+visible objects, we naturally imagine a conjunction, even in place, betwixt the objects and qualities, tho’ the qualities 
+be of such a nature as to admit of no such conjunction, and really exist no where.  But of this more fully hereafter.”  He 
+then goes on: “Mean while ’tis sufficient to observe, that the same propensity is the reason, why we suppose necessity 
+and power to lie in the objects we consider, not in our mind, that considers them; notwithstanding it is not possible for 
+us to form the most distant idea of that quality, when it is not taken for the determination of the mind, to pass from the 
+idea of an object to that of its usual attendant.”  Together with the cross-reference, this constitutes a very explicit Old 
+Humean statement, particularly hard for New Humeans to explain away. 
+51 Because of this strategy of pitting opposing positions against each other, it can be unclear in the earlier parts of 
+Treatise  1.4.5 which doctrines Hume is committing himself to personally, and which he is adopting solely for the 
+purposes of the argument.  But fortunately there is no such ambiguity in the final part that we are about to consider.  30frequently employed against Hobbes and other materialists ever since Leviathan  had appeared in 1651, 
+to the effect that matter cannot possibly think.52  And as Hume’s words suggest, he no longer restricts 
+himself to sceptical denials of intelligibility or knowledge on all sides.  For this is where he appeals back to his analysis of power and necessary connexion, to deliver a major blow against a massively 
+influential and widely respected argument. 
+ The argument in question is essentially an appeal to the perennially seductive principle that 
+cause and effect must be fundamentally similar.  From this it follows that thought cannot possibly be caused by matter and motion, because changes in either produce “only a difference in the position and situation of objects” ( T 1.4.5.29), which are completely dissimilar in nature to perception, feeling, or 
+intellectual reflection.  “Few have been able to withstand the seeming evidence of this argument”, Hume remarks, “yet nothing in the world is more easy than to refute it”.  For he has already “prov’d at large … that to consider the matter a priori , any thing may produce any thing, and that we shall never 
+discover a reason, why any object may or may not be the cause of any other, however great, or 
+however little the resemblance may be between them” (1.4.5.30).  He goes on to illustrate this with an 
+example of two weights causing movement of a lever, insisting that from an a priori point of view “there is no more apparent connexion in [this] case than in the other”.  Only experience can tell us what causes what, and in fact we all have experience of motion producing thought, “since every one may perceive, that the different dispositions of his body change his thoughts and sentiments”.  To sum up, “we find … by experience, that [thought and motion] are constantly united; which being all the circumstances, that enter into the idea of cause and effect, when apply’d to the operations of matter, we may certainly conclude, that motion may be, and actually is, the cause of thought and perception”. 
+ The next paragraph goes on to reinforce the same conclusion by posing a dilemma, “either to 
+assert, that nothing can be the cause of another, but where the mind can perceive the connexion in its 
+idea of the objects: Or to maintain, that all objects, which we find constantly conjoin’d, are upon that account to be regarded as causes and effects.” ( T 1.4.5.31).  The first part of this dilemma is 
+unacceptable, for reasons which Hume briefly recalls from Treatise  1.3.14, though with a particular 
+emphasis here against Malebranche.  We never  perceive any connexion or efficacy in our ideas of 
+objects, even in our idea of God, and appealing to God to supply such efficacy also carries an additional risk of impiety, by making Him “the real cause of all our actions, bad as well as good, vicious as well as virtuous”.  “Thus”, Hume concludes, “we are necessarily reduc’d to the other side of 
+                                                  
+ 
+52 Those urging this style of argument against Hobbes (and later “Hobbists” such as Toland, Collins, and Strutt) 
+include Ward (1656): 29, More (1659): 37, Stillingfleet (1662): 412-15, Tenison (1670): 92-105, Cudworth (1678): 
+46-50, Glanvill (1682): 17, Bentley (1692): 13-18, Clarke (1705): 106-18 and Baxter (1733): 83-8.  For quotations and 
+other references from Ward to Glanvill, see Mintz (1970) chapters IV-V.  Locke (1690) also agreed that the motions of 
+matter could not alone generate perception or knowledge (using this principle at IV x 5 to prove God’s existence), 
+while suggesting – very controversially – that God’s omnipotence would have the power to “superadd to Matter a 
+Faculty of Thinking” ( Essay  IV iii 6).  An excellent discussion of the resulting controversy is provided by Yolton 
+(1983), who also quotes Cudworth, Bentley and Baxter at pp. 6-7, 20-21, and 95-7 respectively.  31the dilemma, viz. that all objects, which are found to be const antly conjoin’d, are upon that account 
+only to be regarded as causes and effects .  … it follows, that for aught we can determine by the mere 
+ideas, any thing may be the cause or effect of any thing; which evidently gives the advantage to the materialists above their antagonists.” (1.4.5.32, my emphasis).  In other words, there is no reason in 
+principle why the operations of material bodies should not cause thought.
+53 
+ This conclusion is of considerable value to Hume’s project, both facilitating a naturalistic 
+causal account of the mind, and simultaneously striking a major blow against one of the main contemporary props of aprioristic metaphysics, supernaturalism and theism.  But what is particularly significant for our purposes is the way in which his analysis of causation plays a vital role in enabling the conclusion to be drawn.  It is precisely because causation requires only constant conjunction, rather 
+than any sort of intelligible connexion, that the causes of thought can potentially be identified through observation and induction.  Thus Hume’s denial of “thick” connexions – his (upper-case) Causal anti-realism – serves the needs of his (lower-case) causal science: 
+“we find … by experience, that they are constantly united; which being all the circumstances, that enter 
+into the idea of cause and effect  … we may certainly  conclude, that motion may be, and actually is , the 
+cause of thought and perception.”  ( T 1.4.5.30, my emphasis) 
+“as the constant conjunction of objects constitutes the very essence of cause and effect , matter and 
+motion may often be regarded as the causes of thought, as far as we have any notion of that relation.”  
+(T 1.4.5.33, my emphasis) 
+Unfortunately the text of these paragraphs of the Treatise  is not entirely unambiguous, and contains 
+some passages that might encourage New Humeans to view the basis of the argument rather 
+differently, with an emphasis on our knowledge  of causal relations rather than their nature : 
+“we are never sensible of  any connexion betwixt causes and effects, and … ’tis only by our experience 
+of their constant conjunction, we can arrive at any knowledge  of this relation.  … we shall never 
+discover  a reason, why any object may or may not be the cause of any other ... there is no more 
+apparent  connexion in the one case than in the other.”  ( T 1.4.5.30, my emphasis) 
+“There seems only this dilemma left us … either to assert, that nothing can be the cause of another, but 
+where the mind can perceive  the connexion in its idea of the objects … ”  ( T 1.4.5.31, my emphasis) 
+Much depends on the interpretation of the key moral which Hume repeats almost verbatim : “all 
+objects, which are found to be constantly conjoin’d, are upon that account only to be regarded as 
+causes and effects”.  Especially with the word “only” inserted (as in paragraph 32), this is naturally read as stipulative: constant conjunction by itself suffices to determine conclusively  the existence of a 
+causal relation (and the word “certainly” in the first quotation from paragraph 30 above supports this 
+                                                  
+ 
+53 Wright (1983): 157 interprets Hume’s conclusion as implying an identity  between mental and material states, on the 
+ground that “materialism is the view that ‘all thought’ really is conjoined ‘with extension’”.  However the passage he 
+cites, from T 1.4.5.15, does not purport to be a definition  of materialism, and simply reflects the topic of an earlier part 
+of the section where Hume is concerned with conjunction in place between extended and unextended things.  From 
+1.4.5.29 onwards, his focus moves to whether the operations of matter can cause  thought, based – as we have seen – 
+on the principle that “that to consider the matter a priori , any thing may produce any thing”.  As this principle 
+emphasises, Hume understands causation as applying between distinct  existences, so no claim of identity  is implied.  32reading).  But New Humeans will instead prefer to read it as pragmatic: constant conjunction is 
+sufficient to justify regarding  the objects concerned as cause and effect, and thereby attributing a 
+genuine thick connexion to them.  From the New Humean perspective, however, any such judgement is incurably fallible: constant conjunction may constitute our best evidence of a causal link, but it is 
+the existence of a thick Causal connexion – forever inaccessible to us – that determines whether our 
+causal judgement is actually true or false. 
+ The problem with this New Humean interpretation of Treatise  1.4.5 lies not so much in the 
+specific words that Hume uses to express his conclusions, but rather, in the overall tenor and force of his argument.  For on this interpretation, Hume’s opponents are essentially correct about what a genuine causal relation involves: namely, an intelligible connexion between cause and effect such that full knowledge of the one would enable a priori inference of the other.  And this implies that Hume’s presentation of his dilemma is fundamentally misleading, in giving the impression of a difference over the understanding of causation, when in fact the only difference is over the required evidential 
+threshold (i.e. Hume is recommending that we should accept the existence of an unperceived AP 
+connexion whenever there is a constant conjunction, whereas his opponent supposedly insists that the intelligible connexion should be manifest to us).  Such a reading portrays Hume as uncharacteristically dogmatic: insisting in his dilemma either  that we should always demand full transparency to human 
+reason before admitting any causal link, or that we should always accept constant conjunction as 
+sufficient evidence for such a link, even though that evidence does almost nothing to establish the sort of connexion that genuine causation requires.
+54  Far more reasonable – from this perspective – would 
+be simply to insist on the lesson of total ignorance about causation, leaving the anti-materialist argument defeated (since for all we know matter and motion might  cause thought), but without 
+venturing the dubious claim that “motion … actually is … the cause of thought and perception”.  In flouting the bounds of sceptical ignorance, moreover, Hume is inviting an obvious response from his opponent: that since genuine causation involves an intelligible AP connexion, the best evidence for genuine causation comes not from observed constant conjunctions, but instead from our own (admittedly limited) grasp of the nature and extent of such intelligibility.  Hume might indeed be correct to deny that we achieve this transparent insight even in the case of the impact of billiard balls, but at least our (God-given) reason provides some sort of understanding – a primitive sense of intelligibility – that hints at genuine causal possibility here.  In the case of billiard balls, it might be said, we have at least some sense of how there could be an intelligible AP connexion from a God’s-
+eye point of view, even if we cannot fully articulate that connexion ourselves.  But though limited, our 
+grasp of such intelligibility is sufficient to enable us to see that  the radical distinction in kind between motion and thought is of a different order entirely, far too distant to permit any intelligible AP 
+                                                  
+ 
+54 This last point is a consequence of the “coda” to Hume’s argument concerning induction mentioned in §6 above.  If 
+the existence of a genuine power cannot support a prediction of observed uniformity, then observed uniformity cannot 
+confirm the existence of a genuine power.  See Millican (2002b) §9.2.  33connexion, even from a God’s-eye point of view.  Of course a sceptic will reject this response, as 
+failing to meet appropriate standards of proof, but an opposing dogmatist, whose evidential standards are less rigorous, ought to take it more seriously.  So on the New Humean interpretation, there is at least a major flaw in Hume’s argument here, in facing his opponent with blatantly false alternatives, 
+and then choosing dogmatism over scepticism without considering alternatives that are likely to seem 
+– at least to his contemporary audience – every bit as reasonable. 
+ To sum up, the evidence provided by “Of the Immateriality of the Soul” significantly favours 
+the “Old Hume” over the “New Hume”.  On the Old Humean interpretation, it involves a very straightforward application of Hume’s analysis of causation to the issue of materialism, taking constant conjunction as the decisive criterion of causal power.  On the New Humean interpretation, by contrast, it seems fundamentally confused, with an inappropriate tone, a dubious assessment of evidential weight, and a failure to consider the full range of alternatives.  Perhaps the most important point to draw from Hume’s argument, however, concerns the way in which it fits into the overall Old 
+Humean package and thus makes it even more tightly coherent.  By far the main source of 
+dissatisfaction with the traditional interpretation (judging from the New Hume literature) has come from the perception of an inconsistency between Causal anti-realism on the one hand, and Hume’s frequent use of causal language on the other.  I briefly argued in §1 above that there is in fact no inconsistency here, but acknowledged that a superficial appearance of tension still remains.  This appearance of tension, however, is completely dispelled by Hume’s discussion in Treatise  1.4.5, which 
+(on the Old Humean interpretation) very explicitly uses the regularity analysis of causation to argue in favour of a general and positive causal claim.  Indeed it is precisely the upper-case anti-realism of Hume’s analysis – his denial that causation involves any “thick” connexion – that enables this causal claim to be made.  The dilemma he presents at the end of the section could hardly be more explicit here: in rejecting the need for any perceivable connexion between cause and effect, “we are necessarily reduc’d to” the conclusion “that objects, which are found to be constantly conjoin’d, are upon that account only to be regarded as causes and effects” (T 1.4.5.32).  So the Old Humean account need not be embarrassed in the least by Hume’s advocacy of causal science and his expression of causal claims.  On the contrary, he very clearly uses his (upper-case) Causal anti-realism to support  
+(lower-case) causal investigation, and it is a considerable advantage of the Old Humean interpretation over its New Humean rival that it can thus make better  sense of Hume’s discussion and definitions of 
+causation as part of his overall advocacy of causal science. 
+8.  Of Liberty and Necessity 
+A similar argumentative strategy – but far less amenable to ambiguous interpretation – is evident in Hume’s discussions “Of Liberty and Necessity”, whose main line of reasoning is expressed clearly and consistently in the Treatise , the Abstract , and the Enquiry .  The version in the Abstract  is, of  34course, very abbreviated, and will be mainly ignored here.  But to ensure faithful interpretation, let us 
+work through the Treatise  and Enquiry  versions step-by-step, quoting parallel passages as we go.55 
+ The purpose of the argument is to establish “the doctrine of necessity”, that is, the doctrine 
+that determinism applies to human actions and the mind’s operations, just as it does to material things.  
+Hume starts accordingly by focusing on our basis for attributing necessity to matter: 
+“’Tis universally acknowledg’d, that the operations of external bodies are necessary …  Every object is 
+determin’d by an absolute fate to a certain degree and direction of its motion …  The actions, therefore, 
+of matter are to be regarded as instances of necessary actions; and whatever is in this respect on the same footing with matter, must be acknowledg’d to be necessary.  That we may know whether this be the case with the actions of the mind, we shall begin with examining matter, and considering on what the idea of a necessity in its operations is founded …”  ( T 2.4.1.3) 
+“It is universally allowed, that matter, in all its operations, is actuated by a necessary force, and that 
+every natural effect is so precisely determined by the energy of its cause, that no other effect, in such 
+particular circumstances, could possibly have resulted from it.  …  Would we, therefore, form a just and precise idea of necessity , we must consider whence that idea arises, when we apply it to the operation of 
+bodies.”  ( E 8.4) 
+He then refers back to his familiar two definitions of cause , as set out at T 1.3.14.31 and E 7.29, and 
+uses these to characterise necessity  in an exactly corresponding way, drawing the obvious moral for 
+how its presence is to be identified in human actions: 
+“Here then are two particulars, which we are to consider as essential to necessity, viz. the constant union  
+and the inference  of the mind; and wherever we discover these we must acknowledge a necessity.  …  I 
+shall first prove from experience, that our actions have a constant union with our motives, tempers, and circumstances, before I consider the inferences we draw from it.” ( T 2.3.1.4) 
+“These two circumstances form the whole of that necessity, which we ascribe to matter. Beyond the 
+constant conjunction  of similar objects, and the consequent inference  from one to the other, we have no 
+notion of any necessity, or connexion.  If it appear, therefore, that all mankind have ever allowed … that these two circumstances take place in the voluntary actions of men, and in the operations of mind; it must follow, that all mankind have ever agreed in the doctrine of necessity …”  ( E 8.5-6) 
+Having set this agenda, Hume proceeds to argue at some length, and with a wide range of illustrative 
+examples, that human actions do indeed manifest uniformity to a similar extent to what we observe in 
+the material world, and that this uniformity is generally recognised and taken for granted as a basis for inductive prediction.  The following passages sum up these two claims, and draw the desired conclusion – that in so far as there is any substance to the issue, the doctrine of necessity is implicitly accepted by “all mankind”, even if many are reluctant to acknowledge this in so many words: 
+“Motion in one body in all past instances, that have fallen under our observation, is follow’d upon 
+impulse by motion in another.  …  From this constant union [the mind] forms  the idea of cause and 
+effect, and by its influence feels the necessity.   As there is the same constancy, and the same influence 
+                                                   
+55 Millican (2007a) §VIII presents the argument in a more structured form, paying less careful attention to the precise 
+ordering of the texts, and giving corresponding references to the Abstract  which are omitted here.  The similarity of the 
+argument in all three versions undermines Kail’s attempt (2007b: 264) to explain away Hume’s strategy in the Enquiry  
+by claiming that E 8.1 “refigures the dispute at the level of common life ”.  Common life does not feature at all in either 
+the Treatise  or the Abstract , and even in the Enquiry  the suggestion that Hume’s argument is intended to fall on the 
+“common life” side of a contrast with “metaphysics” seems extremely questionable in view of E 8.16, 23, and 27.  35in what we call moral evidence, I ask no more.  What remains can only be a dispute of words.  …  The 
+same experienc’d union has the same effect on the mind, whether the united objects be motives, volitions and actions; or figure and motion.”  ( T 2.3.1.16-17) 
+“Thus it appears, not only that the conjunction between motives and voluntary actions is as regular and 
+uniform, as that between the cause and effect in any part of nature; but also that this regular conjunction 
+has been universally acknowledged among mankind … this experienced uniformity in human actions is a source, whence we draw inferences  concerning them …  [Such] inference and reasoning concerning 
+the actions of others enters so much into human life, that no man, while awake, is ever a moment without employing it.  Have we not reason, therefore, to affirm, that all mankind have always agreed in the doctrine of necessity, according to the foregoing definition and explication of it?”  ( E 8.16-17) 
+ This essentially completes the main argument: Hume takes himself to have shown that the two 
+definitional criteria for ascribing necessity are both fulfilled by human actions, and that these 
+characteristics of actions are generally recognised.  In the Treatise , section 2.3.1 now quickly ends,56 
+after which 2.3.2 begins by discussing – at some length – why despite this general recognition, people have been so inclined to deny the doctrine of necessity as applying to human behaviour.  One of his suggestions here is that “There is a false sensation  … of the liberty of indifference” when we act, 
+which leads us to consider those actions as undetermined.  In the Enquiry  this suggestion is presented 
+together with a complementary error-theory, concerning what people think they perceive in matter: 
+“men still entertain a strong propensity to believe, that they penetrate farther into the powers of nature, 
+and perceive something like a necessary connexion between the cause and the effect. When again they 
+turn their reflections towards the operations of their own minds, and feel no such connexion of the 
+motive and the action; they are thence apt to suppose, that there is a difference between the effects, which result from material force, and those which arise from thought and intelligence.”  ( E 8.21) 
+This “strong propensity” to imagine that they can “penetrate … into the powers of nature” thus 
+naturally leads philosophers to think that genuine  necessity – of the sort that supposedly applies to 
+bodies – must involve something more than mere constant conjunction and inference.  But such 
+thinking, Hume insists, can be quickly refuted, a point he emphasises most pithily in the Abstract : 
+“the most zealous advocates for free-will must allow this union and inference with regard to human 
+actions.  They will only deny, that this makes the whole of necessity.  But then they must shew, that we 
+have an idea of something else in the actions of matter ; which, according to the foregoing reasoning, is 
+impossible.”  ( A 34, my emphasis) 
+“It may … perhaps, be pretended, that the mind can perceive, in the operations of matter, some farther 
+connexion between the cause and effect; and a connexion that has not place in the voluntary actions of 
+intelligent beings.  …  [However]  … a constant conjunction of objects, and subsequent inference of the mind from one to another … form, in reality, the whole of that necessity, which we conceive in matter …  [if we] suppose, that we have some farther idea of necessity and causation  in the operations of 
+external objects … there is no possibility of bringing the question to any determinate issue, while we proceed upon so erroneous a s upposition.”  ( E 8.21-22, my emphasis) 
+The Treatise  presents a similar response but rather less explicitly, because it considers this suggestion 
+                                                   
+56 There remains one final summarising paragraph, which emphasises – as strongly as any Old Humean could wish – 
+how completely Hume’s argument turns upon the meanings that his definitions give to the relevant terms:  “I dare be 
+positive no one will ever endeavour to refute these reasonings otherwise than by altering my definitions, and assigning 
+a different meaning to the terms of cause , and effect , and necessity , and liberty , and chance .  …  If any one alters the 
+definitions, I cannot pretend to argue with him, till I know the meaning he assigns to these terms.” ( T 2.3.1.18)  36that there might be “some farther connexion” in matter only in the context of discussing a new 
+question (raised at T 2.3.2.3), regarding whether Hume’s doctrine of necessity has “dangerous 
+consequences to religion and morality”.  Before answering this question, the relevant paragraph (T 2.3.2.4) briskly reviews the main argument, starting with the definitions of cause, then the 
+corresponding definitions of necessity, then the alleged universal recognition that these definitions are 
+satisfied by human actions.  This entire paragraph is largely repeated (mostly verbatim ) in the Enquiry : 
+“Necessity may be defined two ways, conformably to the two definitions of cause , of which it makes an 
+essential part.  It consists either in the constant conjunction of like objects, or in the inference of the 
+understanding from one object to another.  Now n ecessity, in both these senses … has universally, 
+though tacitly, in the schools, in the pulpit, and in common life, been allowed to belong to the will of man; and no one has ever pretended to deny, that we can draw inferences concerning human actions, and that those inferences are founded on the experienced union of like actions, with like motives, inclinations, and circumstances.  The only particular, in which any one can differ, is, that either, perhaps, he will refuse to give the name of n ecessity to this property of human actions: But as long as 
+the meaning is understood, I hope the word can do no harm: Or that he will maintain it possible to 
+discover something farther in the operations of matter .  But this, it must be acknowledged, can be of no 
+consequence to morality or religion, whatever it may be to natural philosophy or metaphysics.  We may 
+here be mistaken in asserting, that there is no idea of any other necessity or connexion in the actions of body :
+57  But surely we ascribe nothing to the actions of the mind, but what every one does, and must 
+readily allow of.  We change no circumstance in the received orthodox system with regard to the will, 
+but only in that with regard to material objects and causes .  Nothing therefore can be more innocent, at 
+least, than this doctrine.”  ( E 8.27, my emphasis) 
+Hume’s strategy here is very clear, and entirely in line with what has gone before.  Exactly as in the 
+Treatise , he is focusing at this point not on the overall topic of the section, but on the new question 
+(again raised in the previous paragraph), of whether his doctrine of necessity has “dangerous consequences to religion and morality” ( E 8.26).  His response is to run through his main argument, 
+and to draw attention to the most likely source of disagreement, namely, that his opponent “will 
+maintain it possible to discover something farther in the operations of matter”.  He then alludes to his 
+earlier answer to this disagreement: his assertion “that there is no idea of any other necessity or connexion in the actions of body”.  But while making clear that this is his answer – and without in any way withdrawing it or suggesting that it is inadequate – he goes on to provide an additional  
+consideration that can be invoked even if that assertion “may here be mistaken”.
+58  Suppose that it is 
+mistaken, and that we can indeed form an idea of some stronger type of necessity in matter.  Nevertheless, Hume points out that his mistake would then concern what he ascribes to matter, not 
+                                                  
+ 
+57 The wording of these last few clauses in the corresponding Treatise  paragraph goes: “Or that he will maintain there 
+is something else in the operations of matter.  Now whether it be so or not is of no consequence to religion, whatever it 
+may be to natural philosophy.  I may be mistaken in asserting, that we have no idea of any other connexion in the 
+actions of body  …” ( T 2.3.2.4, my emphasis).  The italicised phrase here is the closest parallel in the Treatise  to the 
+italicised phrases quoted above from A 34 and E 8.22, and demonstrates that in all three works Hume’s refutation of 
+the supposition of “some farther connexion” in matter is based on the denial of a relevant idea.  Kail (2007b: 266) 
+seems to misinterpret the long quoted passage from Enquiry  8.27, apparently overlooking that Hume has indeed taken 
+the opportunity here “to reassert his … conclusion that … no genuine [Causal realist] thought is possible”, precisely on 
+the ground that “there is no idea of any other necessity or connexion in the actions of body”. 
+58 Given this dialectical context, there is thus no need to take Hume’s statement that he “may here be mistaken” as 
+expressing serious doubts, contra  Yolton (2000: 129, 230).  And it is very misleading to speak of this passage as being 
+“in the midst of the discussion” (Kail 2007b: 266), when Hume is clearly addressing specific moral  and religious  
+objections, raised in Part ii of Enquiry  VIII, well after his main theoretical argument has been completed.  37what he ascribes to the mind .  So even if his assertion “that there is no idea of any other necessity or 
+connexion in the actions of body” is wrong, he cannot here be criticised on moral  or religious  grounds, 
+because morality and religion are concerned with the nature of humanity, not the nature of matter, and he “change[s] no circumstance in the received orthodox system with regard to the [human] will”. 
+ Note, however, the very clear implication of this paragraph – following exactly in the spirit of 
+the preceding argument – that Hume disagrees with “the received orthodox system … with regard to material objects and causes”, and does so precisely by rejecting the “erroneous supposition … that we have some farther idea of necessity and causation in the operations of external objects” ( E 8.22).  
+Hume’s distinctive position, in other words, is that we cannot even conceive of any type of “necessity” or “causation” that goes beyond the bounds of his two definitions.  His imagined opponent purports to have such a conception, and to attribute it to bodies, “denying that [the definitions] make the whole of necessity” ( A 34) and “maintain[ing that] there is something else in the operations of matter” 
+(T 2.3.2.4).  If this opponent were correct, Hume clearly implies, he himself would be “mistaken”, so it 
+is totally clear that his own position is that his two definitions do “make the whole of necessity” and 
+that there is nothing else  [to necessity] “in the operations of matter”.  His ground for asserting this is 
+very straightforward and entirely consistent in the Treatise , the Abstract , and the Enquiry : it is simply 
+to insist against his opponent that we have no such idea , and hence that the attribution cannot be made. 
+ The application of all this to the New Hume debate is equally straightforward and obvious.  
+For the New Humean position is clea rly that of Hume’s opponent , who claims that there is something 
+more to “genuine necessity” than is captured by Hume’s two definitions (namely an AP power or whatever).  Hume takes himself to have a quick and decisive answer to this claim, in denying that there can be any such conception.  As we have seen, he commonly expresses this denial in terms of the 
+theory of ideas.  But it is very clear from the context and wording of his argument that his denial of the 
+conceivability of any supposed thick necessity is not confined to some special, full-blooded, technical sense of the term “idea”.  Indeed it can perfectly well be expressed without using that term at all: 
+“Necessity, then, is … nothing but an internal impression of the mind, or a determination to carry our 
+thoughts from one object to another.  Without considering it in this view, we can never arrive at the 
+most distant notion of it, or be able to attribute it either to external or internal objects, to spirit or body, to causes or effects.”  ( T 1.3.14.20) 
+“These two circumstances form the whole of that necessity, which we ascribe to matter.  Beyond the 
+constant conjunction  of similar objects, and the consequent inference  from one to the other, we have no 
+notion of any necessity, or connexion”  ( E 8.5) 
+Hume’s concern is with the possible content of thought, not anything as theory-laden as impression-
+copy-content.  And so when he characterises his imagined opponent’s position, he does so quite 
+generally, as denying that the two definitions “make the whole of necessity” and maintaining accordingly that “there is something else in the operations of matter”.  38 Thus Hume’s main argument concerning “liberty and necessity” utterly explodes the New 
+Humeans’ position.  For Hume is here denying exactly what they assert, namely, that we can coherently ascribe to things some kind of “upper-case” Causation or “thick” necessity that goes beyond his two definitions.  If we could indeed do this, then his imagined opponent would be able to 
+ascribe that thick necessity to matter but not to minds, and thus undermine Hume’s claim of 
+equivalence between the necessity of the two domains, which is the entire point of his argument.  Nor can there be any serious doubt about his intentions here, for the argument occurs in the Treatise , the 
+Abstract  and the Enquiry , and it is the principal application of his two definitions in all three of these 
+works.  Those definitions are clearly intended precisely for this role, and it is a role that requires them to be interpreted semantically  rather than merely epistemologically : as constraining what we are able 
+to think  or mean  or coherently refer to.  Hence we can completely invert the typical New Humean 
+claim, that we should “view Hume’s talk about ‘meaning’ as meaning ‘acquaintance with’, as opposed to ‘thinkable content’” (Kail 2001, p. 39).  To the contrary: when Hume tells us that he plans to give “a precise definition of cause and effect” to “fix their meaning” ( T 1.3.14.30), he is preparing the 
+ground for one of his most important arguments, which turns crucially on the use of his definitions to circumscribe the limits of our thinkable content. 
+ “Of Liberty and Necessity” also has a deeper relevance to the New Hume debate, in the light 
+that it sheds on the Old Humean position.  Hume’s main argument of the section, as discussed above, 
+can look sceptical  in flavour: denying the existence of something whose presence is asserted by his 
+metaphysician opponents.  But just as with “Of the Immateriality of the Soul”, it is important to see how it fits into his positive  project of advocating and pursuing inductive, causal science, something 
+that is made most clear in the Enquiry .  Although the primary purpose of Section 8 is to discuss the 
+thorny issue of free will and determinism, it also contains a corresponding message about how moral science is to be pursued, as we saw in §1 above.
+59  The lesson of Hume’s discussion here (especially at 
+8.12-15) is that moral science should be pursued in the same sort of way as natural science, by seeking uniform causal laws that account for the observable – and often superficially erratic – phenomena.  Such causal laws are to be identified not in terms of anything like a priori intelligibility, but purely by their ability to explain the empirical data as simply and comprehensively as possible.  The overall aim of the moral scientist, therefore, is the same as that of the natural scientist: “to reduce the principles, 
+                                                  
+ 
+59 Helen Beebee (2007: 426-7) recognises this, and tries to exploit it to square Hume’s argument with a New Humean 
+interpretation by suggesting that it turns not on the limits of meaning, but on normative consistency .  Her idea, very 
+roughly, is that we naturally believe in “thick” n ecessity when faced with physical causation, and Hume’s “rules by 
+which to judge of causes and effects” (etc.) then require that we should acknowledge the same kind of necessity in the 
+moral case.  Though ingenious, however, such an interpretation has little basis in the text of Hume’s discussions of liberty and necessity: he never suggests there that his opponents are guilty of a breach of scientific good practice in 
+ascribing a stronger form of necessity to matter than to mind, but instead insists that they are making meaningless 
+assertions for want of an appropriate idea.  Beebee’s interpretation also seems in conflict with Hume’s claim that only 
+“thin” necessity can be attributed  or ascribed  (T 1.3.14.20 and E 8.5, as quoted above), since ascription of “thick” 
+necessity seems to be precisely what is demanded by her own interpretation of Hume’s rules.  She attempts to draw a 
+distinction between ascription  and reference  (p. 422), but such a distinction seems rather artificial, and again has no 
+basis in any of Hume’s texts.  39productive of … phaenomena, to a greater simplicity, and to resolve the many particular effects into a 
+few general causes, by means of reasonings from analogy, experience, and observation” ( E 4.12).  The 
+judgement as to what counts as a “cause” is accordingly to be made in the same spirit as in Treatise  
+1.4.5: “all objects, which are found to be constantly conjoin’d, are upon that account only to be 
+regarded as causes and effects”.  There is some difference of emphasis between the two works, in that 
+the Enquiry  shows much greater awareness that reducing the phenomena to order is likely to involve 
+the assignment of quantitative forces – and potentially complex interplay between them – rather than simple correlations between types of events.
+60  There are also some superficially significant 
+differences in the presentation and terminology of Hume’s discussions of “liberty and necessity”.61  
+But the broad thrust of these sections is exactly the same in both works, and serves strongly to advance Hume’s project of moral science in two ways.  First and most obviously, by establishing the doctrine of universal necessity, showing that the aspiration to achieve a comprehensive deterministic causal science is as plausible in the moral sphere as in the natural world.  But secondly, and (at least in historical context) just as significantly, by delivering the clear message that the nature of causal necessity is uniform across these two realms: mental causation and necessitation are of fundamentally the same kind as physical causation and necessitation:
+62 
+“when we consider how aptly natural  and moral  evidence link together, and form only one chain of 
+argument, we shall make no scruple to allow, that they are of the same nature, and derived from the same principles.  …  The same experienced union has the same effect on the mind, whether the united 
+objects be motives, volition, and actions; or figure and motion. We may change the names of things; but 
+their nature and their operation on the understanding never change.”  ( E 8.19, copied from T 2.3.1.17) 
+Both of these points – crucial to the philosophical underpinning of Hume’s scientific project – depend 
+directly on his analysis of causation, and on its interpretation as establishing the true nature of causal 
+necessity.  If his two definitions did nothing more than to establish the nature of “causation as it is to us” and left open the possibility (or even the expectation) that genuine  causation is something quite 
+different, then his conclusions in both cases would be substantially weakened.  Uniformity in human actions would do little to prove that they are governed by genuine necessity.  And as a result, Hume would have no reply to his opponents who insist that a distinction is to be drawn between genuine (“physical”) necessity and “moral” necessity.  His advocacy of a unified causal science, encompassing both physical and moral domains, would thus be seriously undermined. 
+                                                  
+ 
+60 This change in emphasis between the Treatise  and the Enquiry  (which is evident in Sections 4 and 7 though not in 8) 
+can explain both Hume’s greater use of the language of “powers” in the later work, and also his dropping of the “rules 
+by which to judge of causes and effects” ( Treatise  1.3.15).  See also note 23 above. 
+61 In particular, the Treatise  interprets “liberty” as indifference, and attacks “the doctrine of liberty” so understood.  
+The Enquiry  instead pursues a “reconciling project” that portrays “the doctrine of liberty” – interpreted as an 
+acknowledgement of human free will – as entirely compatible with determinism.  For detailed discussion, taking due 
+account of the similarities and differences between these sections, see Russell (1995) chapters 1-4 and Botterill (2002). 
+62 This quoted passage is more or less identical to T 2.3.1.17.  Compare also T 1.3.14.33: “there is but one kind of 
+necessity , as there is but one kind of cause, and … the common distinction betwixt moral  and physical  necessity is 
+without any foundation in nature”.  For more on this issue and its importance to Hume, see Millican (forthcoming).  40 Just as we saw in §7 above with “Of the Immateriality of the Soul”, therefore, the upshot of 
+Hume’s discussions “Of Liberty and Necessity” is both to oppose the New Humean interpretation and 
+also to strengthen the Old Humean reading.  The detail of Hume’s main argument for the doctrine of 
+necessity apparently conflicts disastrously with the former.  And the way in which it appeals to his two 
+definitions – both to establish determinism and to insist on a unified understanding of causal necessity 
+– proves again that there is no conflict between (upper-case) Causal anti-realism and (lower-case) causal realism.  So far from there being a conflict, indeed, the strategy of Hume’s argument is to use the one to support  the other.  Hence once again, the Old Humean interpretation wins out over its New 
+Humean rival, by making much better sense of Hume’s treatment of causation as part of his overall advocacy of causal science. 
+9.  The Vision Behind Hume’s “Chief Argument” 
+We have now seen a wide range of considerations telling very strongly against the New Hume interpretation.  But the overall case is even more powerful than these individual points suggest, since 
+they combine together to reveal an integrated vision whose thrust is directly opposite to that of the 
+New Hume.  Although consideration of Hume’s primary motivations must to some extent remain speculative, we shall see that the Old Hume account fits well with what we know of his philosophical development, and can neatly explain why he considered his treatment of causation to be of particular and revolutionary significance. 
+ Hume’s Abstract , written in the publication year of Books 1 and 2 of the Treatise  in order to 
+explain and illustrate that work’s “chief argument”, is almost entirely devoted to causation and associated topics.
+63  Hume evidently thought that his treatment of these topics was his most important 
+distinctive contribution, and any satisfactory interpretation of his philosophy should be able to explain 
+how this can be so.  Part of the answer, no doubt, lies in his connected discussion of induction, custom 
+and belief, which occupies much of the Abstract  and would later form the heart of the Enquiry .  His 
+views here carry revolutionary implications regarding human reason, and for our place in nature amongst the animals rather than the angels.  But the bulk of this material – as Hume had already realised by the time of the Abstract  – is largely independent of his analysis of causation, and yet it is 
+the latter that dominates the corresponding part of the Treatise  (Book 1 Part 3), and which still figures 
+prominently as the overarching theme of most of the Abstract .  So we might reasonably expect, in 
+looking for a primary motivating vision behind Hume’s “chief argument”, that the key would lie in his analysis of causation rather than his theory of inductive belief.  On the Old Humean account for which 
+                                                  
+ 
+63 For details, see Millican (2007b) §1.1.  The Abstract  devotes four paragraphs (1-4) to a general introduction which 
+advocates accurate philosophy founded on experience and probability, then three paragraphs (5-7) to introducing the 
+Copy Principle, lauded as a “discovery … made … happily for deciding all controversies concerning ideas” ( A 7).  
+Then it moves on to induction (8-14, 25), custom (15-16), belief (17-24), the idea of causation (26), scepticism (27), 
+the mind (28), geometry (29), the passions (30), free will (31-4), and the association of ideas (35).  41I have argued above, the solution to this puzzle is very straightforward: Hume’s application of his 
+Copy Principle to the idea of power or necessary connexion led him to a new understanding of causal necessity, which enabled him to settle some fundamental and much-debated issues about mental causation and determinism, and also to eliminate aprioristic causal metaphysics.  The novelty of his 
+conception of necessity, and its potency in solving metaphysical disputes, are explicitly stressed in the 
+penultimate paragraph of the Abstract : 
+“Our author pretends, that this reasoning puts the whole controversy [concerning liberty and necessity] 
+in a new light, by giving a new definition of necessity”  ( A 34) 
+On the New Humean account, by contrast, it is hard to see anything so radically new or potent in 
+Hume’s treatment of causation: the view attributed to him seems to be close to Locke’s, with a 
+supposition of “genuine” (aprioristic) causal connexions underlying the appearances, but utterly inaccessible and incomprehensible, and providing no illumination capable of settling any fundamental debates (except perhaps negatively, by implying an irremediable scepticism). 
+ It is tempting to speculate here regarding the origins of Hume’s philosophy, though any such 
+speculation must obviously be – at least in part – very tentative.  Evidence from various sources suggests early religious interests, leading gradually towards scepticism; particularly interesting here is his deathbed comment to Boswell that he “never had entertained any beleif in Religion since he began to read Locke and Clarke”.
+64  Both Locke and Clarke were advocates of the Cosmological Argument 
+for God’s existence, and also of the doctrine that matter could not give rise to thought, these two views 
+being neatly interlinked in Locke’s argument as presented in his Essay  IV x.  Pondering the 
+Cosmological Argument would almost inevitably raise the question of the basis of the Causal Maxim which underlies it, Hume’s treatment of which is in Treatise  1.3.3, the only section in his works that 
+contains explicit criticism of both Locke and Clarke (each identified by footnotes, at 1.3.3.5-6).  This seems unlikely to be mere coincidence, and corroborates the already plausible idea that Hume’s consideration of the notion of causation was tied up with these early religious concerns. 
+ Another thread here involves Locke’s empiricism and his quest for the origin of ideas, which 
+clearly made a considerable impact on Hume, leaving significant traces in the organisation and focus 
+of the early sections of the Treatise .  Together with Hume’s particular interest in causation, this would 
+naturally suggest scrutiny of Locke’s account of the origin of the idea of power, as presented in Essay  
+II xxi 1 and criticised at Treatise  1.3.14.5 (where again Locke is identified by a footnote).  The 
+inadequacy of Locke’s account would immediately raise the question of what could replace it, and thus provides a very plausible stimulus for Hume’s extended investigation into the idea of causation, which forms the framework for Part 3 of Treatise  Book 1 and most of the Abstract . 
+                                                  
+ 
+64 The evidence on Hume’s early intellectual development is conveniently collected by Stewart (2005); see especially 
+pp. 30-1.  42 A third thread suggests Hume’s early interest in the issue of liberty and necessity, linked both 
+with religion and causation.  Freedom of the will is a major topic of Locke’s long chapter on the idea of power ( Essay  II xxi), while Clarke’s famous debate with Collins (which came to a head in 1717) 
+would have been very familiar.  Indeed Paul Russell has pointed out the local significance of this 
+debate, which “led right to Hume’s doorstep in the Scottish Borders during the early 1730s” through 
+the contrasting contributions of the freethinker William Dudgeon and the Clarkean Andrew Baxter (Russell 2008: 230).  One of the key points here was Clarke’s insistence on a contrast between full-blooded “physical” and mere “moral” necessity, while Collins retorted that Clarke’s acknowledgement of the ultimate predictability of human choices made such choices as genuinely necessary as physical interactions (Collins 1717: 111-12).
+65  The young Hume, already prompted to search for the origin of 
+the idea of causal power, might well have seen here a vital question – concerning the very meaning of causal “necessity” – which positively invited illumination from that source. 
+ Unfortunately we have little direct evidence regarding Hume’s knowledge of Collins’ work, 
+though it is inconceivable that he was not familiar with it by the time of the Treatise , having spent 
+1737-9 – while staying in London – in contact with Pierre Desmaizeaux, translator of Bayle’s Dictionary  and a close associate of Collins until the latter’s death in 1729 (indeed he was Collins’ 
+London agent, entrusted with choice of appropriate book purchases).
+66  That Hume was thinking about 
+the free will issue is also clear from his early memoranda on “Philosophy”, probably dating from around the same period,
+67 which evince a keen interest in both liberty and necessity individually, and 
+particularly in their religious implications (as well as in the Causal Maxim).  Several of the memoranda concern a cluster of related difficulties with the Free Will Defence to the Problem of Evil: 
+“Liberty not a proper Solution of Moral Ill: Because it might have been bound down by Motives like 
+those of Saints & Angels.  Id. [King]”  (23) 
+“Did he [God] give Liberty to please Men themselves.  But Men are as well pleas’d to be determin’d to 
+Good.  Id. [King]”  (25) 
+“God cou’d have prevented all Abuses of Liberty without taking away Liberty.  Therefore Liberty no 
+Solution of Difficultys.  Baile [Bayle]”  (32)  
+These ideas strongly suggest the compatibility of free will and determinism, and evince a clear 
+awareness that the “doctrine of necessity” would completely undermine the Free Will Defence. 
+                                                   
+65 For much more on this debate, see Harris (2005) chapter 2 and Millican (forthcoming). 
+66 The only known mention of Collins in Hume’s writings is in early versions of the essay “Of the Independency of 
+Parliament” ( Essays  p. 608), which comments on the “moderation and good manners” of “ free-thinkers  of all 
+denominations … Collins , Tindal , Hoadley .”  The lack of other references, however, means little, since it is clear from 
+the case of Hobbes that Hume is sometimes very reluctant to acknowledge openly his indebtedness to “infidel” 
+authors.  For more on Desmaizeaux, see Russell (2008): 33, whose book provides an excellent survey and discussion 
+of links between Hume’s Treatise  and the works of contemporary freethinkers. 
+67 The memoranda are in Mossner (1948): 500-3, and for the dating, see Stewart (2000), especially p. 280.  43 Tying these threads together is admittedly speculative, but provides a satisfying and plausible 
+motivating vision behind Hume’s “chief argument”.  Prompted by religious concerns and contemporary controversies, he turned to investigate the idea of causal power, finding Locke’s account of its origin seriously inadequate.  This led him to embark on his own Lockean search for an 
+originating impression, and hence to the discovery of constant conjunction and customary inference as 
+the source of meaning and thus “the very essence” of necessity.  Key insights came when he realised that this analysis of causal necessity could elegantly prove that “moral necessity” and “physical necessity” are one and the same (thus adding a new and potentially decisive argument on the side of Collins against Clarke), and also refute at a stroke the Cosmological and anti-materialist arguments of Locke, Clarke and others by proving “that to consider the matter a priori , any thing may produce any 
+thing” ( T 1.4.5.30).  This also more generally proved the impossibility of any aprioristic causal 
+metaphysics, implying that the moral world – like the physical – could be investigated only by “the experimental Method of Reasoning” (as in the subtitle of the Treatise ).  There is ample potential here, 
+it would seem, to furnish a “new Scene of Thought” capable of inspiring the youthful Hume.
+68 
+ Whether or not these historical speculations are correct, the fact remains that the Old Humean 
+account can provide a very satisfying and integrated overall picture of Hume’s interest in causation, 
+the nature of his investigation, and the novelty that he claimed for his results, and also the application of these results to other debates.  Central to this picture is his claim to have revealed the very nature  of 
+causal necessity, emphasised as early as the second paragraph of Treatise  1.3.14, immediately after his 
+initial summary of the forthcoming argument of the section: 
+“I think it proper to give warning, that I have just now examin’d one of the most sublime questions in 
+philosophy, viz. that concerning the power and efficacy of causes;  …”  ( T 1.3.13.2) 
+A mere New Humean conclusion concerning “causation as it appears to us” or “causation in so far as 
+we can grasp it” would have no such dramatic implications, and this is why the New Humeans have 
+such difficulty in explaining the application of Hume’s results to the broader issues that were of such pressing interest to him (as we have seen in §§6-8 above). 
+10.  Conclusion 
+The results of this paper together make an overwhelming case against the New Hume interpretation.  
+Reading Hume as a realist about “thick” Causal powers is clearly in tension with the language of his 
+main argument concerning the idea of power or necessary connexion (§3), culminating in his two definitions (§4).  Such a reading cannot claim any significant support from the logic of that argument 
+                                                  
+ 
+68 In his famous draft “letter to a physician” of 1734, Hume dates his famous “new Scene of Thought” to around 
+1729-30 “when I was about 18 Years of Age” ( HL i 13).  Unfortunately we have no way of knowing when the ideas 
+discussed above first emerged in Hume’s mind, and it is entirely possible that the development took a considerable 
+time.  The most I would wish to claim here is that they had consolidated by the time of the Treatise , and formed a 
+major motivation for the “chief argument” that he later summarised in the Abstract .  44(§5), nor from any more general philosophical considerations such as Hume’s attitude to the external 
+world or his scepticism (§2).  On the contrary, an acceptance of thick powers would lose most of the philosophical benefits that he sees as flowing from his treatment of causation.  He could no longer claim that conceivability implies metaphysical possibility (§6), with the implication that experience 
+provides our only means of investigating causality.  His refutation of the popular anti-materialist 
+argument against thinking matter would be wrecked (§7), together with its vital moral “that objects, which are found to be constantly conjoin’d, are upon that account only to be regarded as causes and effects”.  Likewise his proof of determinism would fail, owing to the New Humean denial of the crucial corollary that he draws from his definitions, namely, that there is only one kind of causal necessity, whose conception is circumscribed by those definitions (§8). 
+ All this exposes a huge irony behind the New Hume movement, whose appeal seems to have 
+come mainly from the recognition of Hume’s enthusiasm for causal science (§1).
+69  This recognition 
+was, indeed, overdue, and served as an important corrective to many Old Humean interpretations that 
+tended to stress negative scepticism at the expense of his positive scientific purposes.  But the irony is 
+that Hume’s arguments discussed in §§6-8 above, which would all be undermined within a thick Causal realist framework, are precisely those that together provide comprehensive theoretical backing for a purely empirical science of causes.  They imply that experience of constant conjunction is necessary to establish causal connexions (§6), but is also sufficient (§7); furthermore that all phenomena are susceptible of the same kind of causal explanation, both in the physical and moral worlds (§8).  Thus although it is, no doubt, superficially tempting to see Hume’s endorsement of causal explanation as indicative of a belief in thick Causal necessity, the link here is indeed merely superficial.  Hume’s key arguments all work at a much deeper level, drawing support for empirical causal science from a denial  of thick necessity.  His advocacy of causal science, in other words, tells 
+crucially against  the New Hume interpretation, rather than for it.  And it follows that the New Hume 
+interpretation is not just wrong in detail – failing in the many ways documented above – but fundamentally misrepresents the basis, core, point and spirit of Hume’s philosophy of causation.
+70 
+____________________ 
+                                                   
+69 See the references in note 5 above.  There is a double irony here in Kail’s observation (2007b: 255) that “Realism 
+construed as anti-reductionism regarding meaning and content is not only compatible with scepticism but appears to 
+require it: a great irony for those who might object to realist readings of Hume by a blunt appeal to his scepticism.”  
+Kail may be right to suggest that thick Causal realism would imply scepticism about genuine causes.  But then he is 
+hoist with his own petard, for it is the non-sceptical, pro-scientific approach of Hume’s discussions in “Of the 
+Immateriality of the Soul” and “Of Liberty and N ecessity” that provide the most solid refutation of such realism. 
+70 I am very grateful to Helen Beebee, Martin Bell, Simon Blackburn, Don Garrett, Paul Russell, Ken Winkler, John 
+Wright and my audience at the excellent April 2008 conference of the British Society for the History of Philosophy, 
+held at the University of York and devoted to the topic of Causation.  45References 
+Ayer, A. J. (1971), Language, Truth, and Logic , Harmondsworth: Penguin. 
+Baxter, Andrew (1733), An Enquiry into the Nature of the Human Soul , London.   
+Beebee, Helen (2006), Hume on Causation , London: Routledge. 
+Beebee, Helen (2007), “The Two Definitions and the Doctrine of Necessity”, Proceedings of the Aristotelian 
+Society  107: 413-31. 
+Bell, Martin (2000), ‘Sceptical Doubts concerning Hume’s Causal Realism’, in Read and Richman (2007): 
+122-37. 
+Bentley, Richard (1692), Matter and Motion Cannot Think  (second Boyle lecture), London. 
+Berkeley, George (1710), A Treatise Concerning the Principles of Human Knowledge , ed. Jonathan Dancy, 
+Oxford: Oxford University Press, 1998 (“ Principles ”). 
+Botterill, George (2002), “Hume on Liberty and N ecessity”, in Millican (2002a): 277-300. 
+Blackburn, Simon (1990), ‘Hume and Thick Connexions’, Philosophy and Phenomenological Research  50: 237-
+50; reprinted in Read and Richman (2007): 100-12; revised as chapter 5 of Blackburn, Essays in Quasi-
+Realism  (Oxford: Oxford University Press, 1993) and the revised form reprinted in Millican (2002a): 
+259-76. 
+Broughton, Janet (1987), “Hume’s Ideas about Necessary Connection”, Hume Studies  13: 217-44. 
+Buckle, Stephen (2001), Hume’s Enlightenment Tract: The Unity and Purpose of An Enquiry Concerning 
+Human Understanding , Oxford: Clarendon Press. 
+Clarke, Samuel (1705), A Demonstration of the Being and Attributes of God , London. 
+Clarke, Samuel (1717), Remarks Upon a Book, Entituled, A Philosophical Enquiry concerning Human Liberty , 
+London. 
+Collins, Anthony (1717), A Philosophical Inquiry concerning Human Liberty , London. 
+Costa, Michael J. (1989), ‘Hume and Causal Realism’, Australasian Journal of Philosophy  67: 172-90. 
+Craig, Edward (1987), The Mind of God and the Works of Man , Oxford: Clarendon Press. 
+Craig, Edward (2002), ‘The Idea of Necessary Connexion’, adapted from chapter 2 §§3-4 of Craig (1987), in 
+Millican (2002a): 211-29. 
+Cudworth, Ralph (1678), The True Intellectual System of the Universe , London. 
+Forbes, Graeme (1997), “Essentialism”, in Bob Hale and Crispin Wright (eds), A Companion to the Philosophy 
+of Language  (Oxford: Blackwell): 515-33 
+Garrett, Don (1997), Cognition and Commitment in Hume’s Philosophy , Oxford: Oxford University Press. 
+Glanvill, Joseph (1682), Lux Orientalis , London. 
+Hamlyn, D.W. (1967), “Contingent and N ecessary Statements”, in Paul Edwards (ed.), The Encyclopedia of 
+Philosophy  (New York: Macmillan), vol. 2:198-205. 
+Harris, James (2005), Of Liberty and Necessity: The Free Will Debate in Eighteenth-Century British Philosophy , 
+Oxford: Clarendon Press. 
+Hume, David (1739-40), A Treatise of Human Nature: A Critical Edition , vol. 1, ed. David Fate Norton and 
+Mary J. Norton, Oxford: Clarendon Press, 2007 (references indicated by “T”). 
+Hume David (1741-77), Essays, Moral, Political, and Literary , ed. Eugene F. Miller, Indianapolis: Liberty 
+Classics, 2nd edition 1987 ( “Essays” ).  Includes “Of the Independency of Parliament” (pp. 42-6, 
+variants at pp. 607-9), “Of the Standard of Taste” (pp. 226-49) and “Of the Immortality of the Soul” 
+(pp. 590-8).  “Of the Immortality of the Soul” is also reprinted in the 2007 edition of Hume (1748) below, pp. 146-51. 
+Hume, David (1748), An Enquiry concerning Human Understanding , ed. Peter Millican, Oxford: Oxford 
+University Press, 2007 (references indicated by “E”
+). 
+Hume, David (1751), An Enquiry concerning the Principles of Morals , ed. Tom L. Beauchamp, Oxford: Oxford 
+University Press, 1998 (references indicated by “M” ). 
+Hume, David (1779), Dialogues concerning Natural Religion , ed. Norman Kemp Smith, Edinburgh: Nelson, 2nd 
+edition 1947 ( “Dialogues” ). 
+Hume, David (1932), The Letters of David Hume , ed. J. Y. T. Greig, Oxford: Clarendon Press (references 
+indicated by “HL” ). 
+Kail, Peter (2001), ‘Projection and N ecessity in Hume’, European Journal of Philosophy  9: 24-54.  46Kail, Peter (2003a), ‘Conceivability and Modality: A Lemma in an Argument in Defense of Skeptical Realism’, 
+Hume Studies  29: 43-61. 
+Kail, Peter (2003b), ‘Is Hume a Causal Realist?’, British Journal for the History of Philosophy  11: 509-20. 
+Kail, Peter (2007a), Projection and Realism in Hume’s Philosophy , Oxford: Oxford University Press. 
+Kail, Peter (2007b), “How to understand Hume’s realism”, in Read and Richman (2007): 253-69. Kames, Henry Home Lord (1751), Essays on the Principles of Morality and Natural Religion , Edinburgh: 
+Kincaid and Donaldson. 
+Kemp Smith, Norman (1941), The Philosophy of David Hume , London: Macmillan. 
+Kripke, Saul (1980), Naming and Necessity , Oxford: Blackwell. 
+Locke, John (1690), An Essay Concerning Human Understanding , ed. P. H. Nidditch, Oxford: Clarendon Press, 
+1975 ( “Essay” ). 
+Millican, Peter (ed.) (2002a), Reading Hume on Human Understanding: Essays on the First Enquiry , Oxford: 
+Clarendon Press. 
+Millican, Peter (2002b), ‘Hume’s Sceptical Doubts concerning Induction’, in Millican (2002a): 107-73. Millican, Peter (2002c), ‘Critical Survey of the Literature on Hume and the First Enquiry ’, in Millican (2002a): 
+413-74. 
+Millican, Peter (2007a), “Humes Old and New: Four Fashionable Falsehoods, and One Unfashionable Truth”, 
+Proceedings of the Aristotelian Society, Supplementary Volume  81: 163-99. 
+Millican, Peter (2007b), “Against the ‘New Hume’”, in Read and Richman (2007): 211-52. Millican, Peter (forthcoming), “Hume’s Determinism”, forthcoming in the Canadian Journal of Philosophy . 
+Mintz, Samuel I. (1970), The Hunting of Leviathan , Cambridge: Cambridge University Press. 
+More, Henry (1659), The Immortality of the Soul , in A Collection of Several Philosophical Writings of Dr Henry 
+More  (4th edition, London: 1712). 
+Mossner, Ernest Campbell (1948), “Hume’s Early Memoranda, 1729-1440”, Journal of the History of Ideas  
+9: 492-518. 
+Mossner, Ernest Campbell (1980), The Life of David Hume , 2nd edition, Oxford: Clarendon Press. 
+Quine (1953), “Two Dogmas of Empiricism”, in From a Logical Point of View  (Cambridge, Massachusetts: 
+Harvard University Press): 20-46. 
+Read, Rupert and Richman, Kenneth A. (eds) (2007) The New Hume Debate : Revised Edition, London: 
+Routledge (1st edition was 2000). 
+Russell, Paul (1995), Freedom and Moral Sentiment , Oxford: Oxford University Press. 
+Russell, Paul (2008), The Riddle of Hume’s Treatise , Oxford: Oxford University Press. 
+Stewart, M. A. (2005), “Hume’s Intellectual Development”, in Marina Frasca-Spada and P. J. E. Kail (eds), 
+Impressions of Hume  (Oxford: Clarendon Press): 11-58. 
+Steward, M. A. (2000), “The Dating of Hume’s Manuscripts”, in Paul Wood (ed.), The Scottish Enlightenment: 
+Essays in Reinterpretation  (Rochester, New York: University of Rochester Press): 267-314. 
+Stillingfleet, Edward (1662), Origines Sacrae, or A Rational Account of the Grounds of Christian Faith , London. 
+Strawson, Galen (1989), The Secret Connexion: Causation, Realism, and David Hume , Oxford: Clarendon Press. 
+Strawson, Galen (2000), ‘David Hume: Objects and Power’, in Read and Richman (2007): 31-51. 
+Strawson, Galen (2008), Real Materialism and Other Essays , Oxford: Clarendon Press. 
+Tenison, Thomas (1670), The Creed of Mr. Hobbes Examined , London. 
+Ward, Seth (1656), In Thomae Hobbii Philosophiam Exercitatio Epistolica , Oxford. 
+Winkler, Kenneth P. (1991), ‘The New Hume’, Philosophical Review  100: 541-79; reprinted in Owen (2000): 
+347-85 and in Read and Richman (2000): 52-74. 
+Wright, John P. (1983), The Sceptical Realism of David Hume , Manchester: Manchester University Press. 
+Wright, John P. (2000), ‘Hume’s Causal Realism: Recovering a Traditional Interpretation’, in Read and 
+Richman (2007): 88-99. 
+Yolton, John (1983), Thinking Matter , Minneapolis: University of Minnesota Press. 
+Yolton, John (2000), Realism and Appearances , Cambridge: Cambridge University Press. 
+____________________ 

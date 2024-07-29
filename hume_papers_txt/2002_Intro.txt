@@ -1,0 +1,2305 @@
+
+   vii
+     xi
+   xiii
+Introduction 
+Peter Millican
+The Context, Aims, and Structure of Hume’s First Enquiry 
+Peter Millican
+Two Species of Philosophy: The Historical Signiﬁcance 
+of the First Enquiry 
+M. A. Stewart
+Empiricism about Meanings 
+Jonathan Bennett
+Hume’s Sceptical Doubts concerning Induction 
+Peter Millican
+Belief and Instinct in Hume’s First Enquiry 
+Martin Bell
+Hume, Belief, and Personal Identity 
+Justin Broackes
+The Idea of Necessary Connexion 
+Edward Craig
+David Hume: Objects and Power 
+Galen StrawsonHume and Thick Connexions 
+Simon Blackburn
+Hume on Liberty and Necessity 
+George Botterill
+Hume on T estimony concerning Miracles 
+Don Garrett
+Hume versus Price on Miracles and Prior Probabilities:
+T estimony and the Bayesian Calculation 
+David Owen
+Religion: The Useless Hypothesis 
+J. C. A. Gaskin
+Of the Academical or Sceptical Philosophy 
+David Fate Norton
+My Own Life 
+David Hume
+Abstract of the  Treatise of Human Nature 
+David Hume
+       
+    
+Peter Millican
+ vi Introduction
+Peter Millican
+Hume’s Enquiry concerning Human Understanding (standardly referred to as
+the ﬁrst Enquiry ) has long been recognized as one of the best available ‘classics’
+for introducing students to the study of philosophy; indeed in this role probablyonly Descartes’s Meditations enjoys a comparable popularity. The Enquiry is
+therefore well known, but tends to be considered rather lightweight—a usefulstepping-stone for those approaching epistemology for the ﬁrst time, or thosewishing to sample Hume’s philosophy in a relatively undemanding way, but awork destined to be put on one side once the reader has graduated to the moreserious business of his earlier Treatise of Human Nature . No doubt for the same
+reason, the Enquiry tends to be viewed as an unsystematic work, a sequence of
+essays on loosely related topics chosen to interest and provoke the generalreader, but lacking the impressive structure, the theoretical depth, or the ana-lytical rigour of the Treatise . For both more advanced students and professional
+philosophers, therefore, the Enquiry has served mainly as a convenient source of
+material on Humean topics, and as a back-up reference for scholars on issueswhere the Treatise is unclear. Very rarely has it been considered seriously as a
+major work of philosophy in its own right.
+
+Against this background, this volume’s general aims (which are highly 
+interrelated, and in no particular order) can be summarized as follows:
+. T o establish the signiﬁcance of the Enquiry , as a work of philosophy in its
+own right.
+. T o provide a general overview of the Enquiry , especially for those (whether
+students or professional philosophers) approaching it for the ﬁrst time.
+. T o explain recent developments in Hume scholarship that are relevant to the
+Enquiry .
+. T o elucidate, analyse, and assess the philosophy of the Enquiry (both what
+Hume said and what—arguably—he should have said).
+Antony Flew’s book Hume’s Philosophy of Belief (London: Routledge & Kegan Paul, ) is a con-
+spicuous exception, but Flew’s treatment, though a major contribution at the time, is now very dated anddoes not attribute Hume with a consistent or plausible overall position.. T o clarify the interpretation of controversial parts of the Enquiry (whether by
+appeal to scholarly, philosophical, biographical, or literary considerations).
+. T o draw attention to differences between the Treatise and the Enquiry , and to
+suggest what may lie behind these changes.
+Some of these aims (notably the ﬁrst and second) explicitly inform only a few of
+the essays in the collection; others (for example the ﬁfth) are in evidence almostthroughout. T o help the reader who has particular aims in mind, I shall alludeto them below as the occasion arises, in the course of giving a brief descriptionof each of the various papers that constitute the collection.
+ , ,    
+ ’   ( )
+The ﬁrst aim of this volume is to establish the genuine signiﬁcance of the
+Enquiry , as a relatively uniﬁed and systematic presentation of Hume’s epis-
+temology, and arguably as a more faithful representation of his consideredopinions than the Treatise . So in my own initial essay (which is unashamedly
+partisan on the issue) I suggest that Hume was neither insincere nor misguidedin asking his printer in  to preﬁx, to the volume containing the Enquiries
+(together with A Dissertation on the Passions and The Natural History of
+Religion ), his notorious ‘Advertisement’:
+Mof the principles, and reasonings, contained in this volume, were published in a
+work in three volumes, called A Treatise of Human Nature : A work which the Author had
+projected before he left College, and which he wrote and published not long after. Butnot ﬁnding it successful, he was sensible of his error in going to the press too early, andhe cast the whole anew in the following pieces, where some negligences in his formerreasoning and more in the expression, are, he hopes, corrected. . . . Henceforth, theAuthor desires, that the following Pieces may alone be regarded as containing his philo-sophical sentiments and principles. ( E)
+My paper stresses the Enquiry ’s unity, and claims to detect within it a clear and
+coherent overall purpose, but also more controversially a signiﬁcant move awayfrom the philosophy of the Treatise (especially from its associationism) and an
+underlying systematic development of speciﬁc inductive principles. If I amright in this last claim, then the sequence of topics that Hume discusses has beenchosen not only with a view to his overall purpose (namely, vindicating em-pirical science against ‘superstition’ and rationalist metaphysics), but also toprovide a framework for the introduction of particular principles of scientiﬁcinference covering such things as hidden causes, reasoning from analogy, andprobability. On this interpretation, therefore, the Enquiry presents a uniﬁed
+manifesto for inductive science, and its scepticism, so far from being in conﬂict  with that aim (as so often supposed), importantly paves the way for legitimate
+‘science and enquiry’ by demonstrating the impotence and even incoherence ofany supposed alternative (such as theistic metaphysics, or rationalistic insightinto the nature of the material world).
+The second aim of this volume, related to the ﬁrst, is to provide a general
+overview of the Enquiry , especially for those (whether students or professional
+philosophers) who are approaching it as a serious subject of study for the ﬁrsttime. For these readers in particular, even if they are left entirely unconvinced bymy more controversial claims, I hope that my discussion of Hume’s intentions,and of his profound disagreements with rationalists such as Descartes, will helpto provide a context for better appreciating the Enquiry ’s central themes. These
+themes are then outlined in the ﬁnal part of the paper, which discusses in turneach section of the work, drawing comparisons with Hume’s Abstract of the
+Treatise published in  (and which is also included in the collection at pp.
+–). The Abstract provides both a fascinating historical document, illumi-
+nating Hume’s own view of his performance in the Treatise , and also perhaps
+the best short introduction to his philosophy, whether that be studied throughthe Treatise itself or through the Enquiry .
+   :  
+     ( )
+The third aim of this volume is to provide readers with an appreciation of some
+of the major developments and debates that have taken place in Hume scholar-ship over the last two decades or so, which have profoundly transformed ourview of central aspects of his philosophy. Sandy Stewart has been a prominentcontributor to historical studies of Hume for many years, and in his essay(Chapter ) turns his attention to the circumstances surrounding the Enquiry ’s
+composition. The ‘two species’ of his title refers to Hume’s distinction, inSection I, between ‘easy’ and ‘abstruse’ philosophy, the one preaching virtue ‘in an easy and obvious manner . . . to please the imagination, and engage theaffections’ ( E), and the other regarding ‘human nature as a subject of specula-
+tion’ , examining it ‘with a narrow scrutiny . . . in order to ﬁnd those principles,which regulate our understanding, excite our sentiments, and make us approveor blame’ ( E). Stewart ﬁnds in Hume’s discussion clear allusions to the events
+of, when he was turned down for the chair of moral philosophy at 
+Edinburgh University through the combined opposition of the clergy and theinﬂuential moralist Francis Hutcheson.The Treatise (published in –) had
+been accused by Hutcheson of‘lacking warmth in the cause of virtue’ , and by theclergy of being sceptical and atheistic. Section I can thus be seen as Hume’s replyto Hutcheson—no doubt the ‘easy’ philosophy has its merits, but Hume’s ‘abstruse’ attempt at accurate, dispassionate enquiry also has value and should
+not be condemned on the inappropriate ground of failing to preach virtue. Forits purpose is quite different, just as the role of an anatomist is fundamentallydifferent from that of a painter.
+According to Stewart,the scars of Hume’s anger and disappointment over the
+Edinburgh chair are to be found not only in Section I, but also in particular atthe beginning of Section V and throughout Section XI. In reviewing the overallconstruction of the Enquiry (and thus providing a signiﬁcant contribution to
+this collection’s second aim, of providing such an overview), Stewart also iden-tiﬁes many other historical references and various lingering traces of the work’soriginal form as a collection of ‘Philosophical Essays’ . Taken together, therefore,these ﬁrst two papers in the collection present strongly contrasting views of theEnquiry , while at the same time being more complementary than conﬂicting.
+My own paper stresses Hume’s underlying unity of philosophical purpose (withrelatively little biographical reference), while Stewart brings out numerous his-torical details that help to explain why the Enquiry took the particular form that
+it did (in the context of a less systematic conception of Hume’s distinctive philo-sophical aims here). Readers who approach the Enquiry with these themes and
+historical details in mind will ﬁnd it to be a vastly richer and more fascinatingwork than might be suspected by those who have taught or studied it purely asan introductory text.
+   ( )
+The fourth aim of this volume is to discuss and assess the philosophy of the
+Enquiry , and this is unequivocally the focus of Jonathan Bennett’s essay
+(Chapter ) which deals with Hume’s arguments in Section II (subsequent
+papers will in turn work fairly systematically through the principal issuesarising in the remainder of the Enquiry ). Bennett’s paper is very much older
+than the others in the collection, being a slightly modiﬁed version of a chapterfrom his book Locke, Berkeley, Hume: Central Themes , published in .M u c h
+work of that vintage now tends to be criticized in scholarly circles as historicallyinsensitive (no doubt often with justiﬁcation), but it is salutary to be remindedthat understanding Hume’s attempts to solve some deep and enduring prob-lems may require serious philosophical grappling with the problems themselvesat least as much as it requires historical knowledge.Perhaps the clearest examplein the Enquiry is the problem of meaning ,which for Hume is inextricably bound
+up with the nature of our ‘ideas’ , since he takes the meaning of a word to bedetermined by the idea that it represents (e.g. E–). ‘Ideas’ are also the ma-
+terial of our thoughts (e.g. E), and are to be understood in the standard
+empiricist fashion as quasi-sensory images (indeed for Hume, as direct copies  of sensory or internal impressions). This ‘theory of ideas’ , which Hume inherits
+fairly uncritically from Locke, thus leads him into a misguided identiﬁcation ofthinking and meaning with having images , so that his entire discussion of the
+issue is infected by a fundamental category mistake.
+Despite this, Bennett sug-
+gests, Hume’s philosophical acuity sometimes leads him towards insights thatreveal the theory’s limitations,but because he is so fully in its grip that he cannotreject it or transcend its vocabulary, he instead stretches it in directions quitecontrary to its spirit.
+When this happens, we can expect to ﬁnd gaps or inco-
+herences appearing in his theory, but these sorts of difﬁculty may not be bestilluminated by primarily historical or scholarly study, for such study may onlyunearth more instances (in either Hume’s work or that of his contemporaries)of the same underlying errors. If so, light is more likely to be shed by philosophi-
+calinvestigation of the issues, which can aim to identify the impact of those
+errors and to reveal the insights towards which Hume himself might have beengroping. Bennett claims that Hume’s treatment of the issue of meaning is a casein point. And given the clear inadequacy of his theory of ideas for dealing withthe issue, and the difﬁculties which arise for him as a result, this claim deservesserious consideration.
+Fortunately the defects of the theory of ideas have relatively little impact in
+the Enquiry , which omits most of the dubious applications that occupy so much
+of the Treatise (e.g. concerning our ideas of space and time) and explicitly
+brackets others (e.g. the treatment of belief in Enquiry V . ii). The one important
+remaining aspect of the theory, central to Hume’s discussion of meaning, iswhat is commonly known as his Copy Principle , that ‘all our ideas or more feeble
+perceptions [i.e. thoughts] are copies of our impressions or more lively ones[i.e. sensations or feelings]’ ( E). This principle, which Hume presents as a
+reﬁnement of Locke’s denial of innate ideas ( En.), is destined to be invoked
+just once in the Enquiry , when in Section VII ( Eff.) it initiates his search for 
+Stock objections to the theory of ideas include the following: ( a) Much of our thinking is not even
+accompanied by mental images (consider the thought that ‘prudence is a virtue’). ( b) Even when our
+thinking isaccompanied by imagery, it is not constituted by that imagery, as shown by the fact that one
+and the same image can accompany many different thoughts. ( c) Understanding cannot be a matter of
+mental imagery, for it involves communication with others, and mental imagery would not be commu-nicable. ( d) Mental actions (e.g. seeing that some tree is tall, thinking or believing that it is tall, wonder-
+ing whether it is tall) are to be distinguished not in terms of their objects, but in terms of the mind’sactivity and attitudes ; the mind is not just a passive spectator of ‘perceptions’ on a mental stage. The third
+of these objections plays a major role in Bennett’s essay, and the last in Broackes’s, which also usefullyspells out objections in the spirit of ( a) and ( b), and discusses at some length the particular difﬁculties in
+Hume’s theory arising from its attempt to account for the different mental attitudes in terms of variationalong a single dimension of ‘force and vivacity’ (see below pp. –).
+A clear example of this is Hume’s treatment of general terms in Treatise I. i., which sees their
+meaning as determined not only by the particular idea which accompanies them on each occasion, butalso by an ‘attendant custom, reviv’d by the general or abstract term’ which brings to mind other associ-ated ideas when reasoning using the term ( T).the impression of necessary connexion , in order to reveal that concept’s
+meaning. Such use of the Copy Principle, as a tool for examining and clarifyingthe meaning of words in terms of their ‘empirical cashability’ , implies a form of‘meaning-empiricism’ which is far more persuasive than the uncharacteristi-cally poor arguments of Section II by which Hume attempts to establish theCopy Principle itself. Bennett suggests, therefore, that this may be one of thosecases in which Hume is best seen as groping towards a genuine philosophicalinsight despite the inappropriate idiom of the theory of ideas in which he devel-
+ops and expresses it. This insight concerns the impossibility of a term’s havingmeaning unless it can in some way be connected with experience, and its truejustiﬁcation has nothing to do with mental imagery, but derives from the needfor public criteria to ground understanding of linguistic communication.Bennett’s reconstruction of Hume’s theory of meaning on this basis may indeedsuperﬁcially be highly anachronistic, but if he is right, it articulates a genuineHumean insight, and one which can potentially relieve his philosophy in theEnquiry of its most signiﬁcant dependence on an indefensible theory of ideas.
+ ’   
+ ( )
+The ﬁfth aim of this volume is to clarify the interpretation of Hume’s own
+thoughts as expressed in the Enquiry , by reference to appropriate scholarly and
+philosophical considerations.This implies a combination of both historical andphilosophical perspectives, which indeed is shown in most of the papers in thecollection, albeit in very different proportions according to their subject-matter(from Stewart’s at one extreme, to Bennett’s at the other). No signiﬁcant inter-pretative issues arise in the short Section III of the Enquiry , and nor does it
+contain anything of great philosophical interest.
+So the next essay in the collec-
+tion moves straight on to Section IV , and to Hume’s most famous argument, forthe conclusion that factual inference to the unobserved, now generally calledinduction , ‘is not founded on reason’ . The interpretation of this conclusion is
+highly controversial, and has profound implications for the understanding ofHume’s philosophy as a whole. The principal aim of my paper (Chapter ) is
+therefore interpretative, but much of it is devoted to teasing out the logicalstructure of Hume’s reasoning, which strongly constrains the range of plausible  
+However, the principles of association will merit discussion in the context of Hume’s theory of
+belief, as in the papers by Martin Bell and Justin Broackes (see below, pp. –, ‒ ). Looking ahead
+to the other two sections of the Enquiry which do not have essays devoted speciﬁcally to them, Section VI
+(on probability) is discussed in the two papers on miracles, by Don Garrett and David Owen (Chs. 
+and ), while Section IX (on the reason of animals) is touched on both by Garrett and by my own paper
+in Chapter .readings. In particular, I claim that his argument structure makes no sense if
+‘reason’ is understood here in the deductivist way ascribed by most previousgenerations of commentators, and his argument seems equally incoherent if‘reason’ is understood in what is now a more fashionable way, as our naturalinferential faculty.
+Instead my own favoured interpretation takes ‘reason’ to
+signify a supposed faculty of rational perception , taken for granted by almost all
+previous philosophers, but here undermined. Hume’s famous argument thusturns out to be radically sceptical, in denying that any of our factual inferencesto the unobserved are founded on any perception of evidential connexions.Instead, they are founded on ‘custom’ , a non-rational instinct (introduced inSection V Part i), which leads us unreﬂectively to expect inductive uniformity,so that our presumed evidential connexions are ‘read into the world’rather thanbeing ‘read off it’ (a Copernican reversal intimately entwined with Hume’stheory of causation). The paper then sketches how this ‘Sceptical Solution’to Section IV’s ‘Sceptical Doubts’ is able to provide the basis for an inductivescience which can discriminate between good and bad factual reasoning: havingidentiﬁed the true foundation of such reasoning, consistency with that founda-tion then becomes the appropriate norm (and the Humean notion of ‘reason’ isaccordingly reinterpreted). Thus, paradoxically, inductive scepticism paves theway for a thoroughly inductive Humean science.
+Although most of the paper is closely focused on Hume’s main argument of
+Section IV , other relatively self-standing topics discussed in particular sections,which may be useful for independent reference, include Descartes’s and Locke’s‘perceptual’ view of reason (§ ), Hume’s notion of aprioricity (§ .), the senses
+in which he is, and is not, a ‘causal realist’ (§ .), and his understanding of
+‘reasoning concerning matter of fact’ (§ .) and of ‘demonstration’ (§ .).
+     ’ 
+  ( )
+The sixth and ﬁnal aim of the collection is to identify and account for substan-
+tial changes between the Treatise and the Enquiry .This is of clear signiﬁcance for
+the interpretation of both works, since it can shed light on Hume’s motivationfor including, or omitting, the relevant material. But it may be of particularadditional interest to those many students and professional philosophers who 
+This is the way in which ‘reason’ is interpreted by Don Garrett in his book Cognition and Commit-
+ment in Hume’s Philosophy (Oxford: Oxford University Press, ), from which his paper on miracles in
+this volume (Ch. ) is taken. That paper brieﬂy outlines Garrett’s view of Hume on induction and
+explains in detail how he takes it to ﬁt with Hume’s general epistemological stance. But to ﬁll out hisinterpretation as an alternative to my own, he has developed the two most relevant sections from hisbook chapter entitled ‘Reason and Induction’ to provide an appendix to Chapter .are already familiar with the Treatise , not least because such experience can
+make it very hard indeed to read the Enquiry with fresh eyes, and to keep in
+mind exactly what Hume has said there and what he has not. Martin Bell’s essay(Chapter ) bears on a central topic to which this particularly applies, namely
+Hume’s theory of belief.
+In the Treatise Hume’s account of causal inference based on custom had given
+a uniﬁed answer to two different questions: why do such inferences lead to theparticular beliefs that they do, and what is the nature of belief ? In the Enquiry ,
+however, the two issues are separated, with custom being dealt with in Section VPart i and Hume’s theory of the nature of belief in Section V Part ii. Moreoverthe latter is explicitly bracketed, as being intended only for readers who ‘love theabstract sciences’ ( E). Bell’s paper seeks to explain these changes in a princi-
+pled way (and thus implicitly contests the relatively crude hypothesis, espousedin my own Chapter , that Hume had simply lost conﬁdence in the details of
+his associationist psychology and anyway now saw these details as relativelyunimportant).
+Hume’s theory of belief in the Treatise centres on the conveying of force and
+vivacity from a present impression to an associated idea, through an associativerelation set up by the observation of a constant conjunction. Thus his explana-tion of causal inference in terms of custom, and his account of the nature ofbelief in terms of the vivacity of ideas, go hand in hand. There is, however, aproblem with the latter account, because causation is just one of three associa-tive relations capable of conveying vivacity to ideas (the others being resem-blance and contiguity, as at E), so if Hume’s theory were correct, it would
+seem anomalous that of these three relations only causation can generate belief.Hume grapples with this problem in Treatise I. iii. , moving away somewhat
+from his initial simple deﬁnition of belief in terms of force and vivacity, andexplaining how it involves the incorporation of ideas into two systems of reali-
+ties,one involving ideas of the memory and senses,and the other involving ideas
+that arise from custom ( T). In the Appendix to the Treatise (published with
+Book III in ) he dilutes still further his commitment to the ‘force and vivac-
+ity’ deﬁnition, describing belief as a feeling which ‘I endeavour to explain by
+calling it a superior force ,o r  vivacity ,o r  solidity . . .’, but which is in fact indeﬁn-
+able—it can be understood only by experiencing it, and ‘its true and propername is belief , which is a term that every one sufﬁciently understands in
+common life’ ( T). He reproduces this account, largely verbatim, in the
+Enquiry (E–), and thus avoids his earlier problem since he is now able to
+assert, without implying any associationist anomalies, that we observe thisfeeling to arise only from causation ( E–). All this, however, leaves a theo-
+retical gap, since there is no evident connexion between the indeﬁnable feelingarising from custom, and what it is to conceive something as really existing .  Conception of this kind is automatically generated by the impressions of the
+memory and senses, and so the gap can be ﬁlled by re-emphasizing the link(present both in Hume’s initial associative account, and in Treatise I. iii. )
+between belief and such impressions. Thus our instinctive tendency to ascribereality to what we perceive (described later at E–) provides a basis for
+explaining why our other fundamental instinct, to make inferences by custom,also issues in real belief (cf. E–). However, the instinctive tendency to trust
+our senses cannot stand up to detailed critical scrutiny: as Hume discovers inTreatise I. iv. and I. iv. (echoed at E–), deep analysis of our sensory beliefs
+leads to the conclusion that not only do they lack any ultimate rational founda-tion (just like our inductive beliefs), but more seriously, they are incoherent andtherefore false. An unbelievable sceptical paradox such as this would be com-pletely unhelpful to Hume’s purposes in the Enquiry , particularly given his
+desire to make this work (unlike the Treatise ) suitable for a general audience.
+Bell’s suggestion is that this change in his literary aims explains Hume’s reluc-tance to take his readers into the murky foundations of his theory of belief, andhence the bracketing of the second part of Section V .
+, ,   
+( )
+Justin Broackes’s essay (Chapter ) also deals with Hume’s theory of belief, but
+from a very different perspective. Where Bell sees Hume as bracketing thedetails of his theory for strategic reasons, to avoid getting into sceptical compli-cations concerning the external world that would perplex and repel the generalreader, Broackes sees the bracketing as a symptom of philosophical dissatisfac-tion arising from a continuing instability in the theory, largely due to Hume’sdifﬁculty of making it consistent with his views on personal identity and theontological independence of perceptions. Thus both Bell and Broackesattribute key features of Hume’s theory of belief to the lingering effect of scep-tical theses developed in the Treatise but either downplayed in the Enquiry (as in
+the case of the external world) or omitted entirely (as in the case of personalidentity).
+In developing these claims, moreover, both papers examine interest-
+ing and important links between the Treatise and the Enquiry , many of which 
+Along with personal identity, there is one other major sceptical argument that Hume drops from the
+Enquiry , namely, his radical ‘scepticism with regard to reason’ of Treatise I. iv. . In this case, however,
+there is clear evidence of his having changed his view of its signiﬁcance, since at the beginning of Enquiry
+XII he dismisses such ‘anteceden t...u n i v e r sal doubt ...o fo u r  v e r y  f a culties’ as incurably futile ( E
+–). Moreover, this sceptical argument never resurfaces in any other of Hume’s writings (unlike the
+argument about personal identity, which is at least echoed at D, though without stressing any radical
+ontological implications).have a signiﬁcance far wider than the speciﬁc interpretations of Hume’s theory
+of belief that they are here used to support.
+Most of Broackes’s paper is devoted to exploring a number of apparent
+inconsistencies in Hume’s account of belief as it developed over time, anddetects three distinct views competing for attention. Belief is variously deﬁned as:
+(A) a steady and vivid idea,
+(B) a steady and vivid conception of an idea ,
+(C) a feeling (of steadiness and vivacity) annexed to an idea.
+Of these only the ﬁrst is entirely in the spirit of the theory of ideas, according to
+which the activity of the mind is determined purely by its contents, with thesecontents taking the form of ‘perceptions’ . But Hume freely combines this ﬁrstview with both the second and the third, without ever explicitly acknowledgingthe tensions between them. One major pressure to renounce view (A) comesfrom the difﬁculty of accounting for belief as a mere variation in ‘force andvivacity’ , where this is understood as the very same characteristic of perceptionsthat distinguishes impressions from ideas. View (B) provides far more ﬂexibil-ity, in allowing for variation along two dimensions—the level of vivacity ofthe perception itself, and the vivacity of the mind’s conception of it (so now themere contemplation of a very vivid idea can be clearly distinguished from theﬁrm belief in a dull one). Often in the Treatise Hume expresses himself in a way
+that seems ambivalent between (A) and (B), though there is at least one passage(at T–) that can be interpreted only in the latter way, and both seem to play
+a role in his thinking. However, in the Appendix to the Treatise and the Enquiry ,
+view (C) comes to prominence (though (A) and (B) still remain in the back-ground). (C) has its own difﬁculties, not least because the ‘feeling’ to which itrefers should presumably itself be a perception of the mind, and yet Hume’sarguments seem to rule out its being either an idea or an impression. In dis-cussing these issues Hume seems to be driven back towards view (B), with the‘feeling’ being interpreted not as an independent perception, but as an aspect ofthe mind’s conception of the idea concerned.
+Of the three views Broackes identiﬁes, (A) and (C) seem subject to major
+objections of which Hume was at least to some extent aware, and his discussionsof both seem to lead him in the direction of (B), which is philosophically by farthe strongest. Why, then, did Hume not adopt (B) wholeheartedly, rather thancontinuing to vacillate between all three? Broackes suggests that what liesbehind this is Hume’s conviction in the ontological independence and self-sufﬁciency of perceptions, and his rejection of what he took to be the unaccept-ably Cartesian notion of a mind standing in distinct relation to, and thus separate from, the ideas which it conceives. If Broackes is right, then the discus-  sion of belief in the Enquiry evinces Hume’s continuing commitment, either
+consciously or unconsciously, to some major metaphysical themes of the Trea-
+tisethat make no explicit appearance in the later work.
+     ( )
+With the three essays by Edward Craig, Galen Strawson, and Simon Blackburn
+we move on to the most prominent interpretative debate in recent Humestudies—whether Hume is, or is not, a ‘causal realist’—presented from thepoint of view of three of its major participants. Craig’s paper (Chapter ) sets
+the scene for this debate by explaining the background and general shape ofHume’s discussion of causation in Enquiry VII, but in doing so he develops a
+conception of Hume’s purposes that ﬁts very comfortably with the ‘New Hume’favoured by Strawson and other proponents of the causal realist interpretation,
+
+but far less comfortably with the ‘positivist’ Hume beloved of the twentieth-century analytic tradition.
+The ﬁrst chapter of Craig’s book The Mind of God and the Works of Man
+
+argues that the ‘dominant philosophy’ of the early modern period was the idea
+that man is made in the image of God and thus has a semi-divine status abovenature rather than just part of it. The second chapter, from parts of whichCraig’s paper here has been adapted, then presents an interpretation of Hume’sphilosophy which takes this ‘Image of God’ doctrine to be his primary target.Although the doctrine can be seen as inﬂuencing thought over a wide range,including the philosophy of perception, action, and morality, its most sig-niﬁcant impact was to inspire a rationalistic conception of human reason,viewing this as our pre-eminent faculty which radically distinguishes us from the animals and gives us a form of insight which in its essential nature, ifnot its extent, approximates to the transparent perception attributed to God. The prevalence of such a conception can explain why intuition and 
+Bell’s and Broackes’s discussions, along with my own Chapter , thus present three quite different
+perspectives on the differences between the Treatise and the Enquiry , focusing on belief and its relation
+to scepticism. Bell sees the changes as primarily strategic, to avoid leading Hume’s intended audiencedown paths that they would ﬁnd uncongenial and off-putting. Broackes too sees the underlying funda-mentals as broadly the same in both works, though suggesting that Hume has lost conﬁdence in thedetails of his theory of belief without being able to correct it. I see the Enquiry as fundamentally different
+in orientation from the Treatise , so that the details of that theory cease to matter, and I also speculate (in
+n.) that Hume’s underlying metaphysics may have radically changed through loss of commitment to
+his Separability Principle. All three papers make clear why interpretative controversies such as these can only properly be approached in the context of an overall understanding of Hume’s intentions.
+Another who deserves particular mention alongside Craig and Strawson is John Wright, whose
+book The Sceptical Realism of David Hume (Manchester: Manchester University Press, ), ch. ,ﬁ r s t
+brought the ‘sceptical realist’ interpretation of Hume to prominence.
+(Oxford: Clarendon Press, ).demonstration—the most plausible examples of transparent rational percep-
+tion—were so widely taken to be the paradigms of reason’s activity, and this,Craig suggests, somewhat justiﬁes a tendency on Hume’s part to view reason ina ‘deductivist’ manner (a tendency commonly attributed to him, though con-tested in my own Chapter , as remarked above).
+
+Against this background Craig sees Hume’s main concern in Section VII as
+being unambiguously epistemological, to undermine the rationalist claim thatour reason gives us insight into causal relations, and to replace this with a natu-ralistic conception of causal reasoning based on the instinctive associativemechanisms of the ‘imagination’ . This has the implication that the real point ofmost of Hume’s arguments is to re-emphasize the conclusions of Sections IVand V , even though his investigation is here superﬁcially presented very differ-ently, not as an enquiry into the foundation of our causal inferences, but insteadas an analytical quest into the origin (and hence the nature) of our idea of nec-essary connexion. Ostensibly this analytic strand may indeed dominate, but inpractice epistemology plays the major role, as becomes evident from the ex-amination of Hume’s arguments at E–, where he considers and rejects in
+turn a variety of possible sources for the idea in question. In each case Hume’sform of argument is the same: some impression is proposed as the source of ouridea of necessity (in accordance with his Copy Principle), but that impression isthen summarily rejected on the ground that it cannot yield a priori knowledgeof the resulting effect. But despite the conﬁdence with which Hume repeatedlywields this argument, its basis is extremely unclear, for Hume nowhere explainswhy he feels entitled to assume that a perception can count as an impression ofnecessary connexion only if it is such as to sanction an a priori causal inference.Even more confusing, when Hume eventually discovers, at E, what he takes to
+be the genuine impression of necessary connexion (namely, the ‘customarytransition of the imagination from one object to its usual attendant’), it appar-ently itself falls foul of the very ‘aprioricity’ criterion which he has used todismiss all other contenders, though he mysteriously completely fails to remarkon this.
+Craig sees this ‘muddle’ as symptomatic of a general confusion  
+Craig’s thesis that the dominant notion of reason was modelled on the ideal of divine insight can
+stand independently of his suggestion regarding Hume’s deductivist tendency. Although the thesis isobviously weakened to some extent if rational insight is allowed to be fallible (and hence less plausiblyGodlike), it could potentially derive strong support from evidence for the ubiquity of the Image of Goddoctrine in other ﬁelds, such as Craig provides in the ﬁrst chapter of his book. There is much interestingwork waiting to be done on the historical development of the concept of reason since ancient times, andthe extent to which it was affected at different periods by religious thinking.
+Since this is one of the most perplexing pieces of argumentation in the entire Enquiry , it is 
+worth noting that there are possible rationalizations which might reduce the impression of confusion(Blackburn also makes some relevant comments, mentioned later). For example, perhaps Hume istaking for granted that the impression of necessary connexion must be an impression of connexion , and
+must therefore provide some link between ‘cause’ and ‘effect’ (cf. En.). No such link is perceivable inbetween analysis and epistemology, resulting from a partly unrecognized con-
+ﬂict between, on the one hand, a conventional Lockean emphasis on the natureand origin of our ideas (which initially encouraged Hume to present his work asbuilding on the theory of ideas) and, on the other hand, Hume’s own far morefundamentally sceptical interests (which repeatedly led him to give his overtlyanalytical arguments an underlying epistemological thrust).
+Hume’s discussion of the idea of necessary connexion is rounded off with
+two ‘deﬁnitions of cause’ , in which he has traditionally been understood to bespelling out the nature of the idea of cause (and hence the meaning of the word‘cause’) by reference to the impression of necessary connexion which he hasﬁnally tracked down. The two deﬁnitions, which seem to deﬁne causation inobjects as mere regularity, have long been a source of interpretative debatebecause they do not seem to be equivalent, and this apparent confusion pro-vides further grist for Craig’s mill. The ﬁnal part of his paper, in line with hisgeneral theme, challenges the assumption that Hume’s notion of a deﬁnition isto be understood in the traditional analytical manner, and argues that the two‘deﬁnitions’ are best seen instead as attempts to specify the conditions underwhich a belief in a causal connexion arises, with ‘one concentrating on theoutward situation, the other on the state of the believer’s mind that thoseoutward facts induce’ (p. ). Hume’s deﬁnitions thus amount to a summing
+up of his discussion of the epistemology of causation rather than the outcomeof a piece of conceptual analysis, even though his explicit approach to theproblem via his theory of ideas might naturally lead a modern reader to expectthe latter. Craig concludes his paper by hinting that this lesson applies moregenerally: even when Hume makes claims in explicit analytical or ontologicallanguage, it is often more illuminating to read these claims epistemologicallybecause that is where his true interests lie. So when he presents his deﬁnitions of‘cause’ , or states that the self is a bundle of perceptions (another exampleexplored in detail in Craig’s book), these are best read not as claims about what‘cause’ means , or what selves really are , but instead as claims about causes, or
+selves, ‘so far as [these] can concern, or be known to, or pointfully investigatedby, the human mind’ (p. ). It is this point of view which underlies the inter-
+pretation of Hume as a ‘sceptical realist’ . 
+any one instance, and the point of Hume’s ‘aprioricity’ criterion may be to prove this, on the ground that
+perception can give no certain knowledge of causal relations. (This supposed ‘proof’ appears to rest onthe assumption that a priori or perceptual evidence should yield certainty if it yields any link whatever,but ascription of such an assumption to Hume is not gratuitous for it seems to play a role in his argumentconcerning induction.) Thus the crucial difference with Hume’s own candidate for the impression ofnecessity would be that it arises from experienced repetition ( E–) and is in that sense a posteriori. It
+is able to confer the required link between ‘cause’ and ‘effect’ by reference to this past experience, andhence is absolved from any need to pass the ‘aprioricity’ criterion. :    ( )
+Galen Strawson’s paper (Chapter ) is a forthright presentation of the ‘New
+Hume’sceptical realist interpretation,marshalling the relevant arguments fromhis book The Secret Connexion
+with a particular focus on the Enquiry , which
+Strawson takes to be both Hume’s authoritative statement, and far more clearlycommitted to causal realism than the Treatise . Strawson has also added some
+responses to criticisms of his book made in Blackburn’s paper in this volume,so that the two papers together give a good understanding of the ongoing debate surrounding this contentious issue.
+Strawson begins from the kind of distinction emphasized by Craig, between
+an epistemological claim:
+(E) All we can ever know of causation is regular succession,
+which Hume accepts, and a positive ontological claim:
+(O) All that causation actually is, in the objects, is regular succession,
+which is easily confused with the former, but which Strawson takes Hume to
+deny. He therefore ascribes to Hume a belief in some form of causation inobjects which is more than regular succession (capitalized ‘Causation’ forshort). Hume has traditionally been presumed to make the move from (E) to(O) by means of the theory of ideas, but Strawson, like Craig, casts doubt onthis, adding some new points to those already considered above. He starts byarguing that a deﬁnite claim such as (O) is ‘violently at odds with Hume’s scep-ticism . . . with respect to knowledge claims’ (p. ). The denial of (O) might
+also seem to conﬂict with scepticism, but Strawson points out that this onlyapplies if the denial is a claim to knowledge : there is no inconsistency in a ‘strict
+sceptic’ supposing that we have a ‘natural belief’ in Causation which falls shortof knowledge.
+Strawson then proceeds to take on the traditional assumption that as far 
+as Hume is concerned, the theory of ideas renders the notion of Causationunintelligible (and therefore incoherent and unrealizable) because there is noimpression from which any such idea could be derived. Here Strawson invokesa notion from Hume’s discussion of the idea of external existence ( Treatise
+I. ii.) to argue that his principles allow us to have a ‘relative idea’ of Causation
+as ‘that in reality in virtue of which reality is regular in the way that it is’ (p. ).
+Such ‘relative ideas’ , Strawson suggests, fall short of the ‘positively contentful’ideas that are copies of impressions, but they have the considerable virtue of  
+(Oxford: Clarendon Press, ).being able to succeed in referring without the requirement for any correspond-
+ing impression to give them content. Thus Hume is able to maintain a beliefinvolving the relative idea of ‘Causation in objects’ without there being animpression of any such thing. On this interpretation, therefore, his investiga-tion into the idea of ‘cause’ in Enquiry VII, with its accompanying search for the
+impression from which that idea is derived, does not give an analysis of what wemean by ‘cause’ , but simply shows that our idea of it as something in objects is‘merely relative’ rather than ‘positively contentful’ .
+Strawson also presents a selection of quotations from the Enquiry and the
+Dialogues to illustrate his claim that Hume is in fact a believer in Causation.
+Though many of these are controversial in detail,
+they together add up to a
+very substantial case for supposing that Hume believes in some sort of ‘hiddenpowers’—powers that exist but of which we are ignorant—and Strawson arguesstrongly that such powers cannot be interpreted as mere undiscovered regular-ities, but must involve Causation that outruns regular succession. He ﬁnds par-ticular support for this view in Hume’s comments on his two deﬁnitions ofcause, where he describes our causal ideas as ‘so imperfect . . . that it is impos-sible to give any just deﬁnition of cause , except what is drawn from something
+extraneous and foreign to it’( E), and goes on to imply that the speciﬁc nature
+of this ‘inconvenience’ is that the deﬁnitions cannot ‘point out that circum-stance in the cause, which gives it a connexion with its effect’ ( E). Appealing
+both to Craig’s discussion of the deﬁnitions, and to a contemporary treatise byBurke, Strawson interprets Hume’s deﬁnitions not as any sort of attempt to givethe meaning of ‘cause’ , but rather as a record of ‘human understanding’s best
+take on . . . the nature of the phenomenon’ (p. ).
+T o sum up, Strawson’s strategy can be seen as falling into two parts. First, he
+aims to weaken the case for the traditional interpretation by casting doubt onHume’s strict adherence to the theory of ideas which seems to make the idea ofCausation impossible. Part of this weakening involves appeal to a theory of‘relative’ ideas which, though it does not appear in the Enquiry , has the merit of
+having played a parallel role in the Treatise in regard to the belief in external
+objects. The second part of Strawson’s strategy is then to produce evidence,both from the nature of Hume’s scepticism and from the particular passages inwhich he expresses it, to indicate that he was in fact a believer in Causation.Before making a brief further comment on this overall case, I shall consider apaper whose main object is to oppose it. 
+Those from Enquiry IV and V are particularly disputable because of the footnote at En., as
+explained in § .of Chapter , while those from the Dialogues can obviously be interpreted as express-
+ing only the views of Hume’s characters rather than his own.    ( )
+Simon Blackburn’s paper (Chapter ) is in direct response to Craig and 
+Strawson, arguing that Hume is not a causal realist, though the position thatBlackburn takes him to have espoused is not traditional positivism but rather aform of ‘anti-realism’ or ‘quasi-realism’ (the latter being the term that Black-burn coins for his own position as developed in his book Essays in Quasi-
+Realism
+from which this paper is taken). On this account, the rejection of
+genuinely objective causal powers in objects, as traditionally ascribed to Hume,need not imply either the renouncing of causal language and thought, or itspositivist redeﬁnition in explicitly non-realist terms. Blackburn’s quasi-realistinstead aspires to continue speaking and thinking in much the same ways as thenaive objectivist, but without presuming that such objectivist language presup-poses a realist metaphysics.The quasi-realist project as a whole thus aims to vin-dicate our attachment to truth claims and factual language in a variety of ﬁelds(e.g. morality, intentionality, modality, and probability, as well as causation)where sceptical enquiry in a Humean spirit has cast doubt on their supposedmetaphysical foundations.
+Blackburn’s ﬁrst object of attack is the conception of‘relative’ideas attributed
+to Hume by Strawson (and, in his book, by Craig). He sees Hume as having avery dismissive view of such ‘ideas’ , even in the context of Treatise I. ii. where
+he invokes them, and as denying their ability to provide a notion of sufﬁcientobjectivity and perception-independence to ground realism. Strawson’s paperresponds at some length to this attack (pp. –), and the points made on both
+sides illustrate the genuine difﬁculty of establishing on textual grounds evenwhat the Treatise account of the relative idea of external existence amounts 
+to, let alone how far Hume would have been prepared to deploy or develop aparallel account in the service of causal realism.
+Blackburn then goes on to draw a distinction between two different notions
+of causal realism, which he thinks Strawson somewhat conﬂates under thesingle term ‘Causation’ . The ﬁrst is the idea of a causal ‘nexus’ between twoevents, meaning some kind of dependency or connexion between them whichis more than mere regular succession, and which makes it the case that when theﬁrst happens the second must follow.The second notion is that of a ‘straitjacket’ ,something which guarantees that the causal order of the universe will remainthe same,so that the same causal nexuses which applied in the past will continueto apply in the future. Hume’s argument concerning induction seems to distin-guish clearly (at E–) between a nexus and a straitjacket, showing how the
+supposition of ‘secret powers’ (i.e. hidden nexuses) behind our past observa-  
+(Oxford: Oxford University Press, ).tions does nothing to indicate that those powers will remain the same (i.e. does
+not provide a straitjacket). Nevertheless, Blackburn suggests that the distinc-tion is in some respects unstable, and that some of the oddities of Hume’s argu-mentation at E –in Section VII (earlier remarked on by Craig) may have
+arisen from his losing track of it in that context. But even if so, Hume’s use of thenexus–straitjacket distinction in Section IV at least partially draws the sting ofone argument which featured quite prominently in Strawson’s book, thatwithout Causation the uniformity of the universe would appear to be a ‘pureﬂuke’ . For it indicates that nothing could account for uniformity over time or (in
+Blackburn’s words) ‘smooth away inductive vertigo’—if this implies a continu-ing outrageous ﬂuke, then it is one that, on Hume’s principles, we are simplystuck with.
+
+Blackburn sees Hume’s main interest in causation as being to refute the idea
+that we could ever apprehend a straitjacketing fact, or make any sense of whatsuch a fact would be. It even seems dubious to attempt to form a ‘relative’notionof such a fact, especially in the light of Hume’s theory of abstract ideas whichrequires that we can form a general idea only if we have speciﬁc examples tobuild on. Blackburn is less hostile to the idea of a nexus, and sketches an accountwhereby such an idea, of a ‘thick’ connexion between events, could naturallyarise when, after the observation of constant conjunctions, we come to makepredictions on the assumption that those conjunctions will continue. He sees aclose parallel here between Hume’s views on causation and on morality—ineach case, our apprehension of neutral facts arouses certain inclinations andpassions, which we then have a tendency to objectify. Blackburn is thereforeconﬁdent that attacks on causal anti-realism (e.g. the claim that it cannotaccount for our use of realist language) can be deﬂected by responses that arealready familiar from the moral sphere. He ends by suggesting that the loss ofrealism about causation is far less serious than might be expected, for the infer-ential behaviour of a ‘Bare Humean’ , who has no such belief, could be effectivelyindistinguishable from that of the rest of us.
+The debate between Craig, Strawson, and Blackburn has brought to light
+many interesting points about Hume’s theory of causation, and will enrich theunderstanding of anyone who studies it. But the gladiatorial context of theStrawson–Blackburn confrontation in particular can be misleading, masking anumber of important respects in which their positions need not be so very far apart. Strawson emphasizes Hume’s commitment to powers and forces innature of which we are ignorant, and draws the conclusion that he is a causal 
+In his paper Strawson acknowledges that Causation cannot play the role of soothing inductive
+vertigo (n. ), though apparently he still sees it as explaining regularities and thus reducing the ‘ﬂuke’
+which a regularity account would imply (cf. n. and ).realist.Blackburn sees causal realism as typically involving a commitment to the
+dubious notion of a ‘straitjacket’ , unequivocally rejected by Hume, but sees himas comfortable with a ‘nexus’ between events if this is interpreted as a quasi-realist objectiﬁcation of our inferential practices. However Strawson appears toagree that a straitjacket is not to be had, and fully recognizes Hume’s insistencethat our only ‘positively contentful’ idea of causation is derived from our tendency to make inductive inferences. Meanwhile Blackburn would surely behappy to allow (cf. his note ) that the quasi-realist account which he favours
+must, if it is to reﬂect Hume’s repeated endorsements of Newtonian science,accommodate the idea of quantitative powers and forces in nature which are at
+least in some sense ‘out there to be discovered’(as, for example, when we experi-ment to ﬁnd out ‘whether the force of a body in motion be as its velocity, or thesquare of its velocity’; En.).‘Where then, cry I to both these antagonists, is the
+subject of your dispute?’ ( D). Maybe this debate can be largely resolved,
+while accommodating the insights of both sides, by paying due regard to theintended role of Hume’s notion of force, power, or necessity within quantitativeempirical science (for a sketch along these lines, and some relevant quotations,see § .of Chapter , in which I discuss Enquiry IV, a section whose true rele-
+vance to this debate has perhaps not been sufﬁciently explored).
+     ( )
+George Botterill’s essay (Chapter ) turns to Section VIII of the Enquiry , and
+aims to clarify the arguments presented in that section, to distinguish themclearly from those in the corresponding section of the Treatise , and to set the
+record straight regarding Hume’s contribution to the ‘compatibilist’ tradition.Philosophers in this tradition, since Hobbes, have argued for the compatibilityof the Principle of Determinism (Hume’s ‘doctrine of necessity’ , that all events
+are entirely the result of prior causes) with the Free Will Assumption (Hume’s
+‘doctrine of liberty’ , that people have the capacity to act freely and are thereforemorally responsible for their actions). The most popular argument for theircompatibility has been the Contrastive Argument , which maintains that
+although the concept of freedom indeed involves a contrast between actionsthat are freely performed and those that are not, nevertheless the contrast hereis not the same as that between free actions and caused ones, and hence there is
+no contradiction between causation and freedom. One of Botterill’s principalconclusions is that Hume does not himself advance this Contrastive Argument,although he has frequently been misrepresented as doing so, not least by fellowmembers of the compatibilist tradition.
+Botterill begins, however, with the differences between Hume’s accounts of
+‘liberty and necessity’in Treatise II. iii. –and in Enquiry VIII.What he calls the  ‘striking difference’ is that in the Treatise Hume advocates the ‘doctrine of
+necessity’ and denies the ‘doctrine of liberty’ , whereas in the Enquiry he presents
+an overtly compatibilist ‘reconciling project’ to unite the two. But behind thisdifference lie deeper similarities, the ﬁrst of which is that in pressing the case forthe doctrine of necessity, in both works, his account of the idea of necessity(from Treatise I. iii. and Enquiry VII) plays a starring role, which Hume sees
+as his most distinctive contribution to the issue.
+This account implies that we
+have no notion of necessity beyond observed regularity and our tendency tomake inferences accordingly; but both regularity and inference, Hume argues,are as applicable to human affairs as they are to the physical world. Hence whenwe encounter what appear to be irregularities in people’s behaviour, we shouldattribute these to ‘the secret operation of contrary causes’ ( E), just as we
+would with irregularities in the behaviour of physical objects. Botterill drawsattention to a number of problems with Hume’s arguments for the doctrine ofnecessity, perhaps the most serious of which arise from his apparent wish toestablish that the doctrine applies in particular to the connexion betweenmotives and actions. Such psychological determinism seems to rule out the secret
+operation of purely physical causes in determining our behaviour, and hence
+falls far short of what could reasonably be established by any analogy betweenphysical science and human affairs.
+
+Fortunately the deﬁciencies in Hume’s arguments for the doctrine of neces-
+sity do not undermine his contribution to compatibilism, for a compatibilistneed not be committed to the truth of determinism. Moving on, then, to the‘doctrine of liberty’ , Botterill notes that the ‘striking difference’ between theTreatise and the Enquiry is more apparent than real, since in the former Hume
+takes the doctrine to imply that our actions are uncaused—Botterill calls thisliberty
+—whereas in the latter he interprets the doctrine as stating that we have
+‘a power of acting or not acting, according to the determinations of the will ’
+(E)—liberty . Both of these are to be distinguished from liberty , the absence
+of unwelcome restrictions affecting our choice of action, which in the Treatise
+Hume refers to as ‘liberty of spontaneity . . . the most common sense of the
+word; and [the only] species of liberty, which it concerns us to preserve’ 
+This role is not mentioned in the discussion of Hume’s causal realism above, nor in any of the three
+papers devoted to that topic, though it is arguable (Ch. ,p p . –) that it provides a crucial motivation
+for his discussion of the idea of necessity, and in particular for his desire to encapsulate the results of thatdiscussion in the two deﬁnitions of ‘cause’ .
+Hume certainly does not rule out the impact of physical causes in determining our behaviour, and
+to this extent the term psychological determinism might seem infelicitous:‘A person of an obliging dispo-
+sition gives a peevish answer: But he has the toothake, or has not dined.’ ( E). But when Hume goes on
+to say that ‘the conjunction between motives and voluntary actions is as regular and uniform, as thatbetween the cause and effect in any part of nature’ , he seems to be implying that physical causes can havesuch an impact only indirectly, in virtue of affecting our motives.(T–). In both works Hume’s view, if not the language in which he expresses
+it, is much the same. As we have seen, he denies that we have liberty (which in
+the Treatise he calls ‘liberty of indifference ’), and he bolsters this denial with an
+important argument ( T–and E–) that such indifference, so far from
+being essential to morality, would actually be incompatible with it (hencemorality presupposes the ‘doctrine of necessity’). In the Enquiry Hume then
+points out that we clearly do have liberty
+, which ‘is universally allowed to
+belong to every one, who is not a prisoner and in chains’ ( E), and he goes on
+to argue that this too is just as well, because liberty is obviously essential to
+morality ( E). Regarding liberty Hume says very little in either work, and
+moreover its well-known mention in the Treatise , quoted above (and given far
+too much emphasis by commentators), occurs only in the context of alleging aconfusion between it and liberty
+.
+Summing up, Botterill ﬁnds virtually no evidence of the traditional Con-
+trastive Argument in either the Treatise or the Enquiry , and this is to Hume’s
+credit, for that argument typically involves a conﬂation between liberty and
+liberty , whose difference from each other is at least as important as the distinc-
+tion between liberty and liberty which the argument misleadingly emphasizes.
+Botterill sees Hume’s emphasis, on the other hand, as being in exactly the rightplace, focusing on liberty
+or intentional agency (‘what it is about an agent in
+virtue of which he may be held responsible for his actions’), and arguing thatthis ‘is not only consistent with those actions being caused, but actually requiresthem to be caused—by psychological states of the agent’ (p. ). It is this im-
+portant argument, that causation is a necessary condition of responsibleagency, which constitutes Hume’s major, and very signiﬁcant, contribution tocompatibilism.
+    
+ ( )
+Don Garrett’s essay (Chapter ) is an adapted chapter from his book Cognition
+and Commitment in Hume’s Philosophy .It conforms to the general strategy
+which Garrett follows in that book, of identifying difﬁculties and controversialissues in the interpretation of Hume, and then giving his own account of howthey are to be resolved. Such an approach is particularly helpful in relation toSection X of the Enquiry , for here Hume’s arguments are more than usually
+subject to misunderstanding, not so much because of any special lack of clarityin his writing, but rather because of a perceived fundamental clash between his  
+(Oxford: Oxford University Press, ), ch. .basic philosophical principles and his case against the credibility of miracles.
+The clash centres on Hume’s attitude to induction and probability, which inEnquiry IV is denied any basis in reason, but then in Section X is apparently
+appealed to as a touchstone of reasonableness. Garrett’s interpretation of Humehas the great merit of being able to resolve this clash, and so his paper can use-fully be seen not only as a clariﬁcation of Hume’s views on miracles, but also asa spelling out of an alternative position on induction to that developed in myown paper on Section IV .
+
+Garrett identiﬁes six ‘apparent inconsistencies’ in Hume’s discussion of mir-
+acles. The ﬁrst concerns the meaning of ‘experience’ , which sometimes seems tobe restricted to that of an individual, but sometimes seems to include reportedexperiences of others. The second involves Hume’s references to ‘laws of nature’ ,which are hard to interpret in a way that makes sense of his argument. The thirdcasts doubt on the basis of the distinction between the ‘miraculous’ and themerely ‘marvellous’ ,which Hume uses to rebut a potential objection.The fourthconcerns the difﬁculty of reconciling his talk of ‘superior proofs’ and ‘greatermiracles’ with passages in which ‘proofs’ and ‘miracles’ appear to be deﬁned byreference to an absolute standard. The ﬁfth draws attention to Hume’s talk ofthe ‘absolute impossibility’ of miracles, which seems hard to square with hisviews on induction and causation. The sixth and ﬁnal apparent inconsistency isthe most fundamental—having denied that the uniformity of nature has anybasis in reason, how can Hume then rely on it to argue against the credibility ofmiracles?
+Garrett’s responses to these six difﬁculties are conveniently collected together
+near the end of his paper, and it would be inappropriate here to attempt to sum-marize what effectively amounts to a sophisticated working out of Hume’snorms of inductive reasoning. Garrett’s intervening discussion covers most ofthe principal arguments of Enquiry X, and although his main emphasis is on
+Part i, where most of the controversial issues arise, he also usefully outlines theso-called ‘a posteriori’ arguments of Part ii. Throughout, his focus is on theinterpretation of Hume, but the position that emerges is epistemologically rich, and suggestive of further reﬂections on the central notion of probability.Garrett ends by drawing attention to the most obvious direction that suchfurther reﬂections might take, towards Bayesian considerations of the sort thatprovide the topic of the next paper. 
+T o provide further background for this alternative view, an appendix to Garrett’s paper contains a
+development of the two sections from Cognition and Commitment in Hume’s Philosophy ,c h .,w h e r e  h e
+presents his own position on induction (most of the rest of that chapter is concerned with the criticismof others’ views, mainly the ‘deductivist’ and ‘anti-deductivist’ interpretations on which he and I verylargely agree, and which are dealt with in a very similar spirit in Chapter of this volume).      
+  ( )
+David Owen’s essay (Chapter ) examines Hume’s argument concerning 
+miracles in a Bayesian light, and ﬁnds in the contemporary objections ofRichard Price a fascinating anticipation of modern discussions of probabilityand evidence.Although the paper is not seriously technical, some readers mightﬁnd it helpful to begin with a brief explanation of Bayes’s Theorem.
+Suppose that we are considering whether some hypothesis His true, and that
+prior to our investigation we take the view that its probability is .—this we call
+its prior probability , and represent by the symbol P( H). We then observe some
+evidence Ewhich bears on H, and wish to establish what impact that evidence
+has on the probability of Hitself. In order to assess this, we need to have some
+idea of whether the truth of Hwould make the occurrence of Emore, or less,
+probable. So let us suppose, for the sake of the illustration, that Ehas a .prob-
+ability of occurring if His true, but only a .probability of occurring if His
+false; this seems to imply that observation of Eshould substantially raise the
+probability of H. But by how much? The answer is given by Bayes’s Theorem.
+Representing the conditional probability that H is true given that E is true by the
+symbol P( HΩE), and the other conditional probabilities correspondingly, we
+have:
+
+and substituting:
+Here an initially improbable hypothesis has been rendered probable through
+the observation of strongly supporting evidence.
+Interpreted in a straightforward Bayesian manner, Hume’s argument in
+Section X Part i claims that the prior probability of any miracle is so low(because it is by deﬁnition a violation of a law of nature) that no testimonial evi-dence could possibly raise its probability above .. Owen gives some illustra-
+tions to show that this interpretation is indeed in the spirit of Hume’s argument,and broadly yields what he would presumably have seen as appropriate results.The essence of the argument, therefore, is to emphasize the impact of priorprobabilities on the assessment of evidence: the more unlikely the hypothesis,PH E() =¥
+¥+¥=02 09
+02 09 08 0106 9..
+.. ....PHEPH PEH
+PH PEH P H PE H() =()¥()
+()¥() +ÿ() ¥ÿ()  
+The formula is less fearsome than it looks, for its numerator simply represents the prior probability
+that both H and E are true, while the denominator represents the prior probability that Eis true.
+Intuitively this makes sense, because what we seek is the probability that the actual state of affairs lieswithin the ‘logical space’ in which both H and E are true, given that we know it to lie within the ‘logical
+space’ in which Eis true.the stronger the evidence must be to establish it. Understood in this way, mira-
+cles simply provide a limiting case, in which the hypothesis is maximallyunlikely, so that the demands on the evidence cannot be met.
+All this might be suspected of anachronism, but in fact Bayes’s Theorem was
+known in Hume’s lifetime, and the contemporary objections of Richard Pricebear a striking resemblance to points made by Jonathan Cohen in a fairly recentdebate concerning the appropriateness of using Bayes’s Theorem in the assess-ment of testimony. Owen’s discussion of Price’s and Cohen’s objections toHume’s Bayesian approach brings to light a number of important points, prin-cipal among these being a distinction between credibility of testimony on the one
+hand,and reliability of the witnesses on the other.The ﬁrst of these represents the
+probability that an event occurred as reported, while the latter represents theprobability that the event would be reported truly if it had occurred. Armedwith this distinction, Owen defends Hume from Price and Cohen, and sets outto vindicate his argument concerning miracles as a powerful anticipation ofmodern work in probability theory and cognitive science.
+:    ( )
+John Gaskin’s well-known book Hume’s Philosophy of Religionprovided a
+comprehensive treatment of Hume’s writings on religion, but, given the enor-mous range of these writings, was able to devote relatively little space to the generally neglected Section XI of the Enquiry . In his essay here (Chapter )
+Gaskin ﬁlls this gap, both discussing the section in its relation to the rest of theEnquiry (Section X in particular), and examining its arguments in detail. He
+starts by explaining how Sections X and XI are to be read together as two com-plementary parts of a systematic attack on the Christian apologetic tradition,the ﬁrst challenging the supposed validation through miracles of the speciﬁcChristian revelation, and the second undermining the most popular argumentfrom natural theology (i.e. independent of revelation) for belief in a provident
+God. Gaskin shows that both of these targets were indeed ﬂourishing in theeighteenth century, and for a long time before and since. He then goes on todiscuss the signiﬁcant connexions between Section XI and the other parts of theEnquiry , including Section I, which declares Hume’s anti-theological purposes,
+Section IV , which establishes experience as our only guide to matter of fact, andSection XII, which rounds off his attack on natural theology by demolishing thea priori arguments for God’s existence.
+Section XI itself is focused on the revered Design Argument and is presented
+as a dialogue, no doubt to enable Hume to distance himself from his most  
+(Basingstoke: Macmillan, ,).dangerous views. Gaskin divides the discussion into four main phases, of which
+the ﬁrst is concerned with religious scepticism and toleration (a phase on whichconsiderable biographical light is shed by Stewart’s paper, Chapter ). The
+second phase presents the main argument of the section—that it is illegitimateto argue ﬁrst from the world to God and then back again, drawing new conclu-sions about the world beyond those that can be observed within it. The thirdphase deals with the effects of belief upon conduct,and adds more argument forreligious toleration. The fourth and ﬁnal phase brings what appears to be a fun-damental objection to the Design Argument, that cause and effect relations canbe identiﬁed only where two species of objects have been found conjoined, and
+hence no causal reasoning can apply in the unique case of the world and its supposed creation.
+In his analysis of Hume’s discussion Gaskin ﬁrst concentrates on the episte-
+mological arguments of phases two and four. Regarding the former, he agreeswith Hume in emphasizing the unsolvability of the ‘Inference Problem ofEvil’—the problem of inferring a perfect God from a world which appears to befar from perfect. As Hume points out, this prevents the theist from arguing that the world requires the hypothesis of a perfectly good Creator, and thenarguing back from the supposed perfect goodness of that Creator to conclude(for example) that the world must exhibit perfect justice in regions hithertounknown. Gaskin also sees considerable force in the ‘Unique Cause’ objectionwhich Hume puts forward in phase four, despite what might seem to be amodern counter-example to this, that modern physicists regularly discuss, andpurport to draw rational conclusions about, a unique ﬁrst event, namely the BigBang.Gaskin suggests a distinction here between ‘internal’and ‘external’causes,where an internal cause such as the Big Bang is inferable through extrapolationfrom known regularities, whereas an external cause such as God is supposed tobe entirely different from any known entity,and therefore cannot be so inferred.
+Moving on to the practical arguments of phase three, Gaskin shows the 
+close relationship between Enquiry XI and some of the central doctrines of the
+Enquiry concerning the Principles of Morals (he also makes frequent reference to
+the Dialogues concerning Natural Religion ). He ends by stressing the important
+role of Section XI, and Hume’s assault on natural theology, in his philosophy asa whole. So far from being (as some have claimed) a mischievous addition to the Enquiry of little philosophical relevance, Section XI is crucial to the work’s
+practical focus and its revolutionary implications.
+     
+ ( )
+David Norton’s essay (Chapter ) provides a systematic commentary on
+Section XII of the Enquiry , explaining its themes and aims within the context of  the interpretation of Hume’s scepticism that he developed in his book David
+Hume: Common-Sense Moralist, Sceptical Metaphysician .This interpretation
+sees Hume as a ‘mitigated sceptic’ , favouring a moderate form of scepticismassociated with the later philosophers of Plato’s Academy (so-called ‘academicscepticism’).
+Hume’s discussion proceeds through a survey of various different forms of
+scepticism. His ﬁrst distinction is between antecedent and consequent scepti-
+cism, which depends on whether the doubts about our faculties arise in advanceof any examination of their deliverances, or as a result of such an examination.Antecedent scepticism can come in either an extreme or a moderate form, andHume dismisses the former (e.g. Cartesian) variety while expressing consider-able sympathy with the latter. Moderate antecedent scepticism is useful for‘weaning our mind from . . . prejudices’ , and involves the sort of careful, reﬂec-tive enquiry which alone can enable us to ‘attain a proper stability and certaintyin our determinations’ ( E).
+Hume then considers various types of consequent scepticism, focusing ﬁrst
+on those raising doubts about our senses, including two arguments taken fromthe Treatise . The ﬁrst of these denies our ability to prove the existence of exter-
+nal objects resembling our perceptions, while the second indicates that our veryconcept of an external object possessing so-called ‘primary qualities’(e.g.physi-cal size and solidity) is dubiously coherent.In Part ii of Section XII Hume moveson to scepticism about our reasoning faculty, distinguishing between reasoningconcerning abstract relations of ideas, and that concerning matter of fact andexistence. Scepticism about abstract reasoning is mainly centred around thetraditional problems of inﬁnite divisibility, whereas scepticism about ‘moral’reasoning (i.e. induction), at least in its stronger ‘philosophical’ form, involvesHume’s own famous argument of Section IV . The weaker, ‘popular’ , form ofsuch scepticism (which Hume calls Pyrrhonian) is,however,dismissed as exces-sive and futile, producing no conviction and being easily overcome by the ‘morepowerful principles of our nature’ ( E). Even this excessive scepticism can
+leave a positive result, however, by moderating our inclination to be dogmaticand inspiring us ‘with more modesty and reserve’ as a consequence of our rec-ognizing ‘the strange inﬁrmities of human understanding, even in its mostperfect state’ ( E).
+Part iii of Section XII goes on to develop further this positive aspect of the
+sceptical arguments, by suggesting that they can also inspire ‘another species ofmitigated scepticism, which may be of advantage to mankind’ , namely,‘the limi-
+tation of our enquiries to such subjects as are best adapted to the narrow capac-ity of human understanding’ ( E). It is not so much that this limitation is
+supported by the sceptical arguments, but rather that the arguments will tend to 
+(Princeton: Princeton University Press, ).bring it about by moderating our conﬁdence, and thus changing the way we
+think. Indeed Norton sees this emphasis on the causal , rather than purely intel-
+lectual, impact of scepticism as being a signiﬁcant theme in Hume’s account.For although Hume (unlike Descartes) takes belief to be involuntary, and hencedenies that the sceptical arguments can persuade us of their negative conclu-sions,
+nevertheless he also (again unlike Descartes) sees doubt as compatible
+with belief, so that the incredibility of the sceptical arguments does not rule outtheir moderating the nature of our commitments. Doubt is voluntary even if
+belief is not, for the form of doubt that Hume advocates is not palpable uncer-tainty or suspension of belief, but philosophical doubt, a matter of attending to
+the counter-evidence and counter-arguments to what we believe, avoiding precipitate judgement, and taking note of our faculties’ limitations. Such doubtdoes not attempt to destroy our belief, but to mitigate it, and for this reasonNorton concludes that Hume’s scepticism, unlike the extreme ‘Pyrrhonian’varieties criticized in Section XII, is practically viable.
+Norton rounds off his paper by linking Section XII of the Enquiry with the
+discussions in various earlier sections, notably IV , X, and XI, and in doing so heeffectively sketches an overview of the Enquiry and its purposes which has
+important points of both similarity and difference with those presented in theinitial two papers in this volume, by myself and Stewart (Chapters and ).
+Norton and I are apparently in agreement in viewing the work as having agreater underlying unity of philosophical purpose than Stewart suggests. But,like Stewart, Norton sees Hume’s battle against intolerance as a primary themeof the work (a view which gains considerable circumstantial support fromStewart’s historical investigations), whereas I lay more stress on Hume’s desireto provide a rational basis for distinguishing inductive science from the pseudo-
+sciences of theology and rationalist metaphysics.
+But perhaps after all such
+disagreements amount to no more than a difference in emphasis, for all threeviews undoubtedly contain a substantial element of truth, and what we haveseen running right through this volume is an appreciation of the rich variety ofthemes and arguments that combine to make Hume’s Enquiry such a rewarding
+and stimulating work.  
+Here Norton emphasizes connexions between Hume’s theory of belief and Section XII, which was
+also an important topic of Bell’s paper (Ch. ), though interestingly his emphasis was in the opposite
+direction.
+Hence I ﬁnd signiﬁcance both in Hume’s contrasting attitudes to inductive and sensory scepticism,
+and also in the ﬁnal ﬂourish of Section XII, which seems prima facie to be problematic for Norton(though he suggests an attractively ingenious interpretation of it as a deliberately ironic response to religious intolerance).a priori –,n.,–,n.,
+,n.,,–
+criterion for necessary connexion
+–,–,,,
+see also experience; mind not knowable
+a priori; probability: a priori
+Abstract of . . . A Treatise of Human
+Nature ,,–,,,nn.,,
+,,nn.,,,,,
+,,,–,,
+‘chief argument’ outlined and
+compared with Enquiry –
+abstract ideas n.,,,,,
+n.,,–,,–,
+,
+see also general ideas
+abstract reasoning 
+see also reasoning: demonstrative;
+scepticism about abstract reasoning
+‘abstruse’ philosophy –,–,,,
+–,,–,,,
+see also metaphysics
+academic freedom 
+see also toleration and intolerance
+Adams, M. M. 
+Adams, R. M. 
+Addison, Joseph n.,n.,,
+‘Advertisement’ to the Enquiry volume of
+Essays andTreatises ,,,,
+–
+afterlife, seeimmortality
+agency ,,,,,–,
+see also liberty
+Ahern, D. n.,nn.,
+analogies:
+among operations of the mind ,,
+–,,;see also hydraulic
+modelanatomy and painting –,,,
+–,,–,
+between animals and humans ,
+see also Design Argument; probability
+of analogy; reasoning: analogical
+analytic-synthetic distinction ,
+see also Hume’s Fork
+anatomy, seeanalogies: anatomy and
+painting
+animal spirits, seehydraulic model
+animals:
+humans distinct from, see‘Image of
+God’ doctrine
+Hume vs. Descartes on –
+instinct in ,,
+reason of n.,,,–,n.,
+,
+see also analogies between animals and
+humans
+Annandale, George Johnstone, Marquis
+of,
+A n s c o m b e ,G .E .M . n.,
+Anselm, Saint 
+Anthropic Principle 
+anti-realism ,–,
+see also realism
+antiquity 
+liberty of thought in ,
+see also toleration and intolerance
+apologetics, seeChristianity
+Appendix, see A Treatise of Human 
+Nature
+Aquinas, Saint Thomas ,
+Arbuckle, James n.
+Árdal, P . S. ,,n.
+argument from design, seeDesign
+Argument
+‘argument’ , meaning of n. 
+Aristotle ,,n.,
+see also scholastic philosophy;
+syllogism
+Armstrong, D. M. n.,n.,,
+
+Arnauld, Antoine n.,,
+Arnold, N. S. n.,
+artiﬁcial intelligence 
+association of ideas n.,,,,
+–,–,,
+Hume’s disillusionment with ,,
+–,–,n.,–,n.
+and literature 
+see also belief; custom; imagination as
+basis of belief and inference; Treatise
+compared with Enquiry
+asymmetry of relations ,
+atheism ,,
+atomism, mental n.
+Augustine, Saint 
+Aune, B. ,–
+authority, derivation of –,,
+Ayer, A. J. –n.,n.,,,,
+
+Bacon, Francis –,,,
+Baier, A. C. n.,n.,n.,
+n.,,n.,,,
+Barfoot, M. n.,n.
+Basinger, D. & R. n.
+Baxter, Andrew n.,n.,n.,
+
+see also ‘modern metaphysicians’
+Bayes, Thomas 
+Bayesianism ,,,,
+Bayes’s Theorem –,,,,
+Bayle, Pierre ,,,n.,,
+Beattie, James ,,
+Beauchamp, T. L. n.,n.,
+n.,n.,,–,,,
+,,,,,
+Beaudoin, J. 
+Beckwith, F. J. nn.,,,nn.,
+belief –,–,–,–
+arises from relation of causation
+–,,,;see also custom connexion with senses (and memory)
+–,–
+as contextual –
+distinguished from ﬁction or simple
+conception ,,,–,–,
+n.,,–,–
+as feeling or sentiment ,n.,
+,–,–,,–,,
+,,
+functional theory of 
+Hume vs. Descartes on belief and
+doubt ,–
+Hume’s changing views on –,
+–;see also Treatise compared
+with Enquiry
+involuntariness of ,,,n.,
+,,,,,,
+mitigated ,,–,,
+–;see also doubt:
+philosophical; scepticism: mitigated 
+not founded on Reason –;see also
+induction and Reason 
+proportioning, seeevidence:
+proportioning belief to; probability
+religious ,;see also God;
+miracles; natural beliefs; religion(s)
+as vivid conception of idea ,–,
+–,–,–,–,,
+,
+as vivid idea –, (criticized)
+–,,n.,n.,
+see also causal beliefs; custom; external
+objects: belief in; imagination asbasis of belief and inference;judgement and conception
+Bell, John 
+Bell, M. –,n.,n.,,,,
+,,,,–
+Bennett, J. –,,,–,,,
+, 
+Berkeley, George 
+on causation n.,n.,
+on general ideas 
+on inﬁnite divisibility 
+on matter, primary and secondary
+qualities ,n.,, 
+on meaning and understanding ,
+,,n.,,
+on perception of objects ,
+Berman, D. 
+Bible ,,
+bigotry, seetoleration and intolerance
+billiard-ball example n.,,,
+,–,,,,
+Blackburn, S. –,n.,,–,
+n.,n.,n.,,,
+,
+Blackmore, Richard ,n.
+Blackwell, Thomas (the younger) 
+Boswell, James n.,n.,n.,
+n.
+Botterill, G. –,n.,–
+Box, M. A. n.,n.
+Boyle, Robert 
+Bradley, F. H. 
+Braithwaite, R. B. n.
+Bricke, J. n.,,,,,
+–
+Broackes, J. n.,–,n.,
+n.,,,,,
+Broad, C. D. n.,,
+Broughton, J. n.,n.,n.,
+,
+Browne, Peter 
+Buckle, S. n.,,, 
+Burke, Edmund 
+Burns, R. M. nn.,,n.,–
+Burnyeat, M. F. 
+Burton, Robert n.
+Butler, Joseph ,,,,n.,,
+,,–
+Capaldi, N. n.,
+Carruthers, P . n.
+Casullo, A. 
+causal beliefs –,–,,–,
+,,–,–,–,
+causal inference, seereasoning: causal
+causal nexus –,–,–
+causal principle, seecausation: universal
+causal realism ,,–,n.,,
+–,–,,,–see also causation as natural necessity;
+sceptical realism
+causal straitjacket –,n.,
+n.,–,,
+causal thinking and speaking
+(‘causalizing’) –,–
+causation ,,–
+basis of factual inference ,,
+–,,
+and constant conjunction ,–,,
+,,,,,,,–,
+,,–,,,,
+idea of –,,,,,;see
+alsonecessary connexion:
+impression and idea of
+ignorance of its nature –,,
+–,–,–,–,
+and irregular events ,,–
+as natural necessity (Causation) ,
+,–,,–,n.
+and necessary connexion ,,,
+,,,,,,–,,
+n.,,–
+as regular succession ,–,,,
+,,n.,n.,,
+–,,,,,,
+n.
+relative idea of –,,;see also
+relative ideas
+universal ,n.,–,n.,
+–;see also determinism
+see also induction and causation;
+necessary connexion; probabilityand causation; Treatise compared
+with Enquiry
+cause(s):
+deﬁnition(s) ,,n.,,,
+–,,,–,,–,
+–,,,–,–,,
+–,,
+external and internal –
+hidden or secret ,,,,–,
+,,,,–,–,;
+see also powers: hidden or secret
+learned only by experience, see
+experience 
+cause(s) ( cont. ):
+ultimate ,–,,,,,
+
+unique cause, seeDesign Argument:
+unique cause objection
+certainty, degrees of 
+chance ,,–,
+see also probability
+Chappell, V . C. 
+character, seemorality and motives
+Charon 
+Cheyne, George 
+Chomsky, N. 
+Christian Stoicism, Hume’s attack on ,
+
+Christianity ,
+apologetics ,,,
+and social morality 
+see also miracles to validate revelation;
+religion(s)
+Cicero ,,,
+circularity, seeUniformity Principle:
+circularity of founding on factualreasoning
+Clarke, D. M. n.
+Clarke, Samuel n.,n.,,,
+
+Cleghorn, William 
+clergy, attack on ,
+Coady, C. A. J. 
+cognitive science –,–,–,,
+
+Cohen, L. J. ,n.,n.,,
+n.,–,n.,
+coincidence, seeinductive vertigo and
+coincidence
+Coleman, D. n.
+colour –,
+see also primary-secondary quality
+distinction
+common life n.,,,,,,
+–,,,
+see also ‘easy’ philosophy;
+methodological consistency;scepticism: mitigated
+common sense ,,,,,–n.,,,,
+compatibilism –,,–,,
+,,–,,–,,
+–
+conceivability –,,,,,
+;see also intelligibility
+criterion of possibility ,–,,
+n.,,,,,–,
+,,;see also Separability
+Principle
+conceptions, seebelief; judgement and
+conception; suppositions vs.conceptions
+Condorcet, Marie-Jean-Antoine-Nicolas
+Caritat, Marquis de n.
+Connon, R. n.,n.,n.
+consciousness, contents of –
+see also propositional contents
+constant conjunction, seecausation and
+constant conjunction
+contiguity (and priority) ,,
+see also association of ideas
+Conway, General Henry Seymour 
+Cook, J. n.
+Copeland, J. 
+Copernican revolution, seenecessary
+connexion projected rather thandetected
+Copley, S. 
+Copy Principle –,–,,,,,
+,,,,,,–,
+,
+arguments for –
+see also meaning-empiricism
+cosmology –,–
+Cosmological Argument n.,–,
+,
+Costa, M. J. ,
+Cottingham, J. n.
+Coutts, John:
+letter to ,n.,;see also A Letter
+from a Gentleman
+The Craftsman [political journal] 
+Craig, E. J. –,–,n.,n.,
+n.,n.,n.,n.,
+n.,n.,n.,n., 
+n.,n.,–,,,
+,,,,,–
+Craig, W. L. 
+criticism (artistic) ,
+see also writing
+Cummins, P . D. n.,
+Cummins, R. 
+curiosity 
+custom:
+and the imagination n.;see also
+imagination as basis of belief andinference 
+acts immediately and unreﬂectively
+,n.,n.,n.,–
+‘the guide of life’ 
+and inductive inference ,,,–,
+,,,,,,,
+instinctive basis of beliefs ,,,,
+,–,–,,–
+source of impression of necessary
+connexion ,,,,–,
+,,
+see also belief; vivacity: transference of
+Damasio, A. R. 
+Darwall, Stephen n.
+Darwin, Charles 
+Dauer, F. W. ,,
+Davidson, D. ,n.
+Davies, P . C. W. –
+Dawid, P . 
+Dawkins, M. S. 
+De Finetti, B. n.,
+deduction, seedemonstration
+deductivism ,,–,,–,
+–,,,
+see also induction, Hume’s argument
+concerning:‘deductivist’ and ‘anti-deductivist’ interpretations
+deﬁnition(s) ,–,,
+see also cause(s): deﬁnition(s)
+deity, seeGod
+demonstration ,,,,n.,
+–,,n.,,,
+and deduction ,–,–,
+see also reasoning: demonstrativeDennett, D. C. 
+Derham, William 
+DeRose, K. 
+Descartes, Rene ,–,–
+on belief and knowledge ,,
+n.,–
+Cartesian scepticism ,,,
+on certainty ,
+on conception and possibility 
+on error ,,–
+on God ,n.
+on ideas and thought –,,n.
+method of doubt –
+on mind and Reason –,,,
+,
+on the self ,,n.;see also
+mind: Hume vs. Descartes on
+Design Argument –,n.,,–,
+,–,–,,,–
+and causal reasoning ,–,,
+–
+Fine Tuning Argument –
+proportionality of inferred cause to
+effect ,,,,–,–
+‘remote analogy’ to human intelligence
+–,
+unique cause objection ,,,,
+–,,–
+as useless ,–
+see also Evil, Problem of; God;
+morality: scepticism no risk to
+determination of the mind ,
+see also custom
+determinism (doctrine of necessity)
+–n.,–,n.,,
+
+and free will, seefree will and
+determinism; liberty and necessity
+and moral responsibility ,,–,
+–,–,–,,
+psychological ,,–,;see
+alsomotives and actions
+and religion ,–,–,;see
+alsoEvil, Problem of
+see also causation: universal; necessity
+Diaconis, P . n.,n.,n. 
+dialogue, Hume’s use of ,,,
+Dialogues concerning Natural Religion:
+editions –,
+on a priori argument for God’s
+existence 
+artful composition and irony ,
+n.,
+Bayesianism in n.
+and causal realism ,–,–,
+,–n.,
+circumstances of publication ,
+n.,
+on Design Argument ,n.,,
+n.,–,–
+on ‘easy’ and ‘abstruse’ philosophy 
+on experience as the basis of factual
+knowledge n.,–
+on mitigated scepticism and
+methodological consistency ,
+–,,
+on morality and religion 
+on Problem of Evil ,–
+relevance to the Enquiry n.
+religious views in –,,,–,
+–
+on the self n.
+use of syllogism in n.
+Dicker, G. ,,,
+direct realism, seeperception, theories of
+disbelief ,n.
+A Dissertation on the Passions ,
+distinct conceivability, argument from,
+seeconceivability criterion of
+possibility
+dogmatism, Hume’s opposition to
+n.,,,,–n.,,
+–
+see also toleration and intolerance
+doubt –,,–,,–,
+philosophical ,–,;see also
+belief: mitigated
+Dryden, John n.,n.
+Dubos, Jean-Baptiste n.
+Dufresnoy, Charles Alphonse n.
+Earman, J. ‘easy’ philosophy ,,,,–,–,
+,–,
+see also poetry; writing
+Edgar, A. 
+Edinburgh, seeHume, David: candidacy
+for Edinburgh chair
+education (indoctrination) n.
+Elliot, Gilbert ,n.,n.,
+empiricism ,–,,,
+empirical method –,–;see also
+inductive science
+see also experience
+An Enquiry concerning Human
+Understanding ,and passim
+editions ,–
+how commonly perceived ,–,
+–
+overviews of –,,,–,–,
+,–
+see also Philosophical Essays ;Treatise
+compared with Enquiry
+An Enquiry concerning the Principles of
+Morals ,n.,,,,,,
+n.,,,,–,,,
+
+‘The Epicurean’ 
+Epicureanism ,,–,n.
+Epicurus ,,,n.,,
+error, seeDescartes on error; Locke on
+error
+Erskine of Alva, Charles (Lord Tinwald)
+n.
+Erskine of Alva, Sir Harry 
+Essays Moral and Political n.,,,
+,,,–,
+essences –,,,–,
+see also Locke on real essences
+Everson, S. 
+evidence ,–,
+conﬂicting, seeexperience:
+inconsistent; proof(s): conﬂicting
+proportioning belief to ,,,
+–,,,;see also wise
+see also probability; senses
+Evil, Problem of ,n.,,,,
+–,,,, 
+see also determinism and religion;
+providence
+evolution ,,
+existence, idea of ,,,,,
+–
+see also relative ideas
+experience ,,–
+basis of factual inference –,,
+–
+contrast with a priori 
+inconsistent –,–,,,,,
+;see also probability
+source of all knowledge of causes ,
+–,–,,n.,,,
+
+source of all knowledge of matter of
+fact –,n.,n.,
+and morality ,–
+see also mind not knowable a priori;
+testimony, credibility of: founded onexperience
+experiments ,n.,,–,,
+
+see also experience
+external objects ,,
+belief in –,,–,,–,
+ideas, conceptions or suppositions of
+,–,–,–
+see also matter; perception, theories of;
+scepticism about the external world
+Falconer, Katherine (Hume’s mother)
+,,
+Falkenstein, L. ,
+Ferreira, M. J. 
+ﬁction ,
+see also belief, distinguished from
+ﬁction or simple conception
+Fieser, J. 
+Flage, D. E. ,,,
+Flew, A. n.,n.,n.,–n.,
+nn.,,,,n.,,
+,–,–,,,–,
+–,,
+Fogelin, R. J. ,nn.,,n.,
+,,,–,,,force and vivacity, seevivacity
+forces, seepowers: quantitative
+Fordyce, David 
+Foster, J. n.
+Foucher, Simon 
+‘founded on’ relation ,–,–
+Frankfurt, H. 
+Franklin, J. –
+Freedman, D. A. n.,n.,
+n.
+freedom, seeliberty
+free will and determinism –,,
+(diagram), –,–,–,
+–
+see also liberty and necessity
+Frege, Gottlob n.,,
+F r e y ,R .G . n.
+Garrett, D. n.,–,n.,n.,
+–n.,n.,n.,,
+n.,n.,n.,n.,
+n.,,,,,,,
+,–
+Garrick, David n.
+Gaskin, J. C. A. –,n.,nn.,,
+n.,,n.,n.,
+n.,,,,,
+Geach, P . T. n.
+general ideas n.,
+see also abstract ideas
+general properties of the imagination, see
+imagination and Reason
+general rules –n.,,,,,
+
+see also inductive science;
+unphilosophical probability
+geometry n.,,–
+see also mathematics; space and time
+Gillies, D. A. ,
+God:
+arguments for existence of n.,
+–,–,,–,,;see
+alsoCosmological Argument;
+Design Argument; induction inarguments for God’s existence;Ontological Argument 
+God ( cont. ):
+attributes and actions of, known only
+by experience ,,n.
+idea of 
+as Neoplatonic ‘ethical requiredness’
+
+uniqueness of, seeDesign Argument:
+unique cause objection
+see also Evil, Problem of; ‘Image of
+God’ doctrine; miracles; providence;religion(s)
+Goldman, A. 
+Goodman, N. 
+Gorman, M. M. 
+Govier, T. 
+Gower, B. ,
+Grahame, Simion n.
+Grant, General James 
+gravity n.,n.,,,,
+Green, T. H. n.,n.,
+Greig, J. Y. T. 
+Grice, H. P . ,
+Grose, T. H. n.,n.,
+Grove, Henry n.
+Hacking, I. –n.,,
+Hambourger, R. n.,nn.,,
+–
+Harrod, R. n.
+Hearn, T. K., Jr. 
+Hendel, C. W. n.,
+Herring, Thomas, Archbishop of
+Canterbury 
+Hertford, Francis Seymour Conway, st
+Earl of 
+History of England ,–,,,
+
+Hobart, R. E. n.
+Hobbes, Thomas ,n.,,
+Hodges, M. 
+Home, Henry, seeKames, Lord
+Home, John (Hume’s brother) ,,
+
+Home, Joseph (Hume’s father) 
+Home, Katherine (Hume’s sister) 
+Honderich, T. Hookway, C. ,–,,
+Houston, J. –
+Howson, C. , 
+Huit, Ephraim n.
+Hume, David:
+birth, illness, and death –,,
+,
+candidacy for Edinburgh chair –,,
+–,,,,
+character, life plans and self-reﬂection
+–,–,,,
+employment ,,,,,
+in France ,–,,
+passion for literature ,
+preference for Enquiry over Treatise ,
+–,–,,,–,–
+his purpose(s) ,,,–,–,
+–,–,,–,,–,
+–,
+religious views –,,,–
+response to opposition –,–,
+
+works, seemain entries for titles
+Hume Society 
+Hume’s Fork ,,,,,,,
+–,,
+see also matters of fact; reasoning: two
+kinds; relations of ideas
+Hume’s Law, see‘is’ and ‘ought’
+humility 
+Hunter, G. 
+Huntley, W. B. 
+Hurd, Richard 
+Hurlbutt III, R. H. 
+Hutcheson, Francis ,n.,,,,
+,–,,,–,n.,,
+nn.,,n.,,
+Hume’s response to ,
+Huxley, T. H. 
+Huygens, Christiaan n.,n.
+hydraulic model –,–n.,,
+
+idealism, seeperception, theories of
+ideas 
+beliefs and, seebelief as vivid idea 
+copied from impressions, seeCopy
+Principle
+in dreams and hallucinations ,,
+,
+and impressions, seeimpressions
+distinguished from ideas;perceptions
+innate ,,,,
+intermediate –;see also middle
+terms
+most precise in mathematics ,
+as recognitional capacities 
+theory of –,,,–,–,
+–,,–,,–,–,
+,–,,,,–,,
+–;see also belief; meaning
+see also abstract ideas; association of
+ideas; causation; existence;necessary connexion; relative ideas
+‘Image of God’ doctrine –,n.,
+–,–,,,,
+see also Reason
+images, seeideas, theory of
+imagination ,,,,
+as basis of belief and inference ,,
+–,,;see also custom;
+imagination and Reason
+freedom of ,,,
+Hume vs. Descartes on ,–
+imagination (‘the fancy’) and Reason
+(‘the understanding’):
+general-universal vs. trivial-irregular
+properties ,–n.,,
+
+narrow vs. wide senses of imagination
+,–n.,–
+see also Reason: Hume’s notions of
+Immerwahr, J. ,
+immortality –,,n.
+see also ‘Of the Immortality of the
+Soul’; providence
+impossibility ,
+see also miracles: impossibility of;
+possibility
+impressions:
+and beliefs distinguished from ideas ,–,,
+,
+and objectivity –,
+sensory n.,–
+see also Copy Principle; ideas;
+necessary connexion: impressionand idea of; perceptions
+Indian Prince and ice (example) 
+indifference, seeliberty of indifference
+induction –,–
+in arguments for God’s existence –,
+;see also miracles and induction
+attempts to justify n.,–,
+,;see also Uniformity
+Principle
+and causation –,–,–,,
+,,,–
+fallibility of –
+and mathematical probability –,
+–,–
+meaning of 
+and Reason –,–,–,
+–,–,–,–,–,
+,,–
+see also custom; reasoning: inductive;
+scepticism: inductive; Treatise
+compared with Enquiry 
+induction, Hume’s argument concerning
+–,–,–,,–, (in
+Abstract )–,–
+‘deductivist’ and ‘anti-deductivist’
+interpretations ,–,–,
+–,–,,,,n.,
+,,–;see also deductivism
+diagrams of ,,,,,,
+,
+logic of –
+‘no argument’ interpretation ,
+–,–,–,,–,
+–,
+‘no reason whatever’ interpretation
+–,–
+inductive science, systematic principles of
+,n.,,,,,n.,
+–,–,–
+analogy, seeprobability of analogy 
+inductive science, systematic principles of
+(cont. ):
+avoiding bias, seeunphilosophical
+probability
+inconsistent experience, seeevidence:
+proportioning belief to; wise
+proportionality, seeDesign Argument:
+proportionality
+‘reﬂections of common life,
+methodized and corrected’ , see
+methodological consistency
+search for simple laws ,,,
+;see also cause(s): hidden;
+general rules
+testimony, seeprobability and
+testimony
+see also rationality; reﬂective thought;
+rules by which to judge of causesand effects; science
+inductive vertigo and coincidence ,
+–,–n.,n.,,,
+,
+inference, seeinduction; Reason;
+reasoning
+inference to the best explanation 
+see also inductive science: search for
+simple laws
+inﬁnite divisibility ,,–,,
+–
+paradoxes of 
+innateness, seeideas; passions
+insight, see‘Image of God’ doctrine;
+Reason: perceptual view of
+instincts, seeanimals; custom; senses
+instrumentalism ,
+InteLex Past Masters ,n.
+intellect, seeReason
+intelligibility ,,,–,–,,
+,,,,,,
+see also conceivability
+intentional agency, seeagency; liberty
+intuition –,,,–,,
+
+see also Locke on intuition
+irony –,,,,,,
+n.,,,irreﬂexivity of relations 
+‘is’ and ‘ought’ 
+Jacobson, A. J. 
+Jacquette, D. 
+James, William n.,
+Jeffner, A. 
+Jenks, Silvester n.
+Johnson, D. –,
+Johnstone, George, seeAnnandale,
+Marquis of
+Jones, O. R. 
+Jones, P . n.,
+judgement; see also belief
+and conception –,,,
+–;see also propositional
+contents
+suspense of n.;see also doubt
+Julian the Apostate 
+Kahneman, D. 
+Kames, Henry Home, Lord ,,,
+,n.,,,n.,
+n.
+Kane, R. 
+Kant, Immanuel n.,n.,,
+,n.,,n.,,
+n.,,
+Kemp Smith, N. n.,n.,n.,
+n.,n.,n.,n.,
+n.,n.,n.,,,
+,,,,,,,,
+
+Kenny, A. 
+Kindi, al- 
+K i n g ,J .T . 
+King, William 
+Klibansky, R. 
+knowledge:
+Hume vs. Descartes on ,,,
+–
+in the loose sense (includes matters of
+fact) ,,,,,;see also
+experience
+in the strict sense (relations of ideas)
+,,,;see also a priori 
+Krantz, D. H. n.
+Kripke, S. n.,,
+La Bruyère, Jean de 
+Lachs, J. 
+Langtry, B. 
+language, seemeaning
+Laplace, Pierre Simon de n.,
+n.,
+Larmer, R. A. H. n.
+Law, William 
+laws of nature ,,,
+subjective-absolute ambiguity
+–
+see also miracles and laws of nature;
+uniformity of nature
+Leechman, William ,,,,
+Leeds Electronic T ext Centre ,
+Leibniz, Gottfried Wilhelm ,n.,
+n.,,
+Leonardo da Vinci 
+Leslie, J. 
+A Letter from a Gentleman ,–,,
+,,,n.,–n.,,
+
+Levine, M. P . n.,nn.,,
+Lewis, C. S. nn.,
+libertarianism ,,–,–
+liberty:
+and compulsion or constraint ,
+,–,
+contrastive argument –,–,
+–
+doctrine of, meaning 
+of indifference ,,,–,,
+,
+of intentional agency –;see also
+agency
+and introspection ,,,
+n.,
+meaning and types of –,,,
+–,–,–
+and necessity –,–,,,
+–,–,,–
+of spontaneity –,–,,,
+reconciling project –,–,,
+,
+sociopolitical 
+see also free will and determinism;
+Treatise compared with Enquiry
+Lightner, D. T. ,
+Livingston, D. W. n.,,–,
+,
+Locke, John ,,,
+on belief n.
+Christian rationalism of n.,
+n.
+denial of innate ideas ,–
+on error –
+on ideas, thought and meaning ,,
+,,,,,n.,,
+
+on intuition n.,n.
+on liberty and necessity 
+on mental faculties ,n.
+on miracles ,
+on perception of external objects ,
+
+on probability –,n.,,
+on real essence 
+on Reason and reasoning ,–,
+,,,,
+on resemblance between primary
+qualities and ideas n.,
+n.
+Loeb, L. E. ,
+logic ,,,,–,
+logical positivism, seepositivism
+Lucan 
+Lyly, John n.
+McCormick, M. ,
+McGinn, M. E. –,
+McIntyre, J. nn.,
+Mackie, J. L. n.,n.,n.,
+n.,n.,,,,,
+,,–,,
+Maclaurin, Colin 
+MacLaurin, John n.
+MacNabb, D. G. n.,,,,
+ 
+Malebranche, Nicolas ,,,,
+n.,,,
+Mandeville, Bernard 
+Manktelow, K. I. 
+Mappes, T. n.
+marvellous events, seemiracles
+Mates, B. 
+mathematics ,,,,,,
+n.,,
+mixed (applied) ,–,–;see
+alsopower(s): quantitative
+see also geometry; inﬁnite divisibility
+matter n.,
+belief in ,,
+incoherence of concept n.,,
+,,
+inertness of ,,;see also
+occasionalism
+nature of n.,;see also
+essences
+see also scepticism about the external
+world; substance; substratum
+matters of fact ,–,–,,
+discovered only by experience, see
+experience
+reasoning concerning, seeinduction;
+reasoning: factual
+and relations of ideas, seeHume’s Fork
+scepticism about ;see also
+scepticism: inductive
+meaning ,–,,,–,,
+
+determined by idea –,,,,
+
+see also meaning-empiricism; ideas:
+theory of; intelligibility;understanding
+meaning-empiricism –,–,,
+–,–,,,,
+analytic vs. genetic –
+difﬁculties with –,
+see also Copy Principle
+mediums, seemiddle terms
+memory ,,–,–,
+metaphysics n.,–,n.,,
+,,n.,–,–,,
+,,,Hume’s defence of –,–,,
+n.,;see also ‘abstruse’
+philosophy
+see also ‘modern metaphysicians’
+methodological consistency ,,
+–,,,
+see also inductive science
+middle terms ,–,
+see also ideas: intermediate
+Middleton, Conyers 
+Mill, John Stuart n.,,–
+Millar, Andrew ,
+Miller, A. ,
+Miller, E. F. 
+Millican, P . J. R. –,–,,n.,
+–n.,n.,–n.,
+–nn.,,n.,n.,
+n.,,,,,,,
+,,,,,
+mind:
+Hume vs. Descartes on –,,
+–,–,,,–
+knowledge of n.,n.,
+–,–
+not knowable a priori ,,
+n.,,,,;see also
+experience
+philosophy of –,
+and vivacity –,
+see also cognitive science; psychology;
+consciousness, contents of; personalidentity; Treatise compared with
+Enquiry
+miracles –,–,,,,,
+n.,,–,–,,,
+–,,–
+a posteriori arguments –,–
+a priori argument , (differing
+interpretations) –,–,
+–
+conﬂicting miracles ,
+deﬁnition(s) ,,,
+early version of Hume’s essay ,
+n.
+eighteenth century debate on ,
+–
+‘experience’ and ,– 
+greater or lesser –,,–
+impossibility of ,–,
+and inductive scepticism –,–,
+–
+and laws of nature –,,,,
+,,,,,,n.
+lottery and urn examples n.,
+–
+and marvellous events ,–,–
+passions and belief in ,,
+subjective-absolute ambiguity –,
+
+to validate revelation or establish a
+religion ,,,–,,,
+,
+see also prior probabilities; proof(s)
+and miracles; testimony, credibilityof
+missing shade of blue n.,
+Mitchell, B. ,
+mixed mathematics, seemathematics
+‘modern metaphysicians’ ,,n.,
+,
+see also Baxter, Andrew
+modesty ,–,–,,
+see also belief: mitigated
+Moore, A. W. 
+Moore, G. E. 
+Moore, J. n.,n.,n.
+‘moral’ , use of ,,,
+moral inference, seeinduction; reasoning:
+probable
+moral painting –,–n.
+see also painting
+moral philosophy ,,–,,
+moral responsibility, seedeterminism and
+moral responsibility
+moral sciences 
+moral theory, Hume’s ,–n.,,
+,–,,–,,
+morality ,–,
+brings peace of mind ,–
+derived from moral sense or
+sentiments ,,,,;see
+alsosympathy
+Hutcheson and Hume on –n.,
+–,,n.and religion ,,,,–,,
+–,,
+and motives –,,–
+scepticism no risk to ,,–
+wisdom a virtue, ,,;see also
+wise
+M o r i c e ,G .P . 
+Morris, W. E. ,
+Mossner, E. C. n.,n.,n.,n.
+,n.,n.,,,,
+motive(s), and actions ,–,
+see also determinism: psychological;
+psychology: folk
+‘My Own Life’ ,,,, (text) –,
+
+naive realism, seeperception, theories of
+Napoleon (Buonaparte) 
+natural beliefs ,,–,,,,
+–,,,,
+The Natural History of Religio nn.,
+,,n.,,,,,
+natural kinds 
+natural philosophy ,
+natural religion –,,n.,,
+–,–
+see also God, arguments for existence
+of
+naturalism ,–,–n.,,–,
+–,,,,,,,
+,,,–
+nature, seelaws of nature; naturalism
+necessary connexion:
+impression and idea of –,–,,
+–,,,–,–,,
+–,,–,
+projected rather than detected ,,
+n.,,,,–,–,
+;see also custom
+see also a priori criterion for necessary
+connexion; causation and necessaryconnexion; power(s)
+necessity –,–,,,,
+
+see also causation; determinism; liberty
+and necessity; power(s)
+Nelson, J. O. n., 
+‘New Hume’ , seecausal realism
+nexus, seecausal nexus
+Newman, John Henry 
+Newton, Isaac ,,–,,
+n.,,
+see also science: Newtonian
+Nicole, Pierre n.,
+Nidditch, P . H. ,
+Niiniluoto, I. n.
+Noonan, H. W. n.,,n.,,
+,,,,
+normativity –,–,n.,–,
+–,–,–,–,–,
+
+see also inductive science; miracles and
+inductive scepticism; rationality
+Norton, D. F. –,n.,n.,
+nn.,,,,,,,
+,,,–
+Norton M. J. n.,
+notions (Berkeley) 
+Noxon, J. n.,,–,,
+objects ,,
+see also external objects
+occasionalism –,,,
+O’Connor 
+‘Of Commerce’ 
+‘Of the Dignity or Meanness of Human
+Nature’ 
+‘Of Essay Writing’ ,
+‘Of the Immortality of the Soul’ n.,
+n.,n.,,
+‘Of National Characters’ ,
+‘Of the Standard of Taste’ 
+‘Of the Study of History’ 
+‘Of Suicide’ ,,,,
+‘Of Superstition and Enthusiasm’ ,
+n.,
+Olin, D. –
+Ontological Argument n.,
+Oswald, James 
+Over, D. E. 
+Owen, D. W. D. –,n.,n.,
+n.,,n.,n.,,,
+,,,,,Oxford University n.,
+painting ,,
+see also analogies: anatomy and
+painting; moral painting
+Pakaluk, M. 
+passions –,,,
+innateness of ,
+see also miracles: passions and belief in
+Passmore, J. n.,n.,n.,
+,,,
+Peach, B. n.
+Pears, D. n.,n.,n.,,
+,,,,–
+Peirce, Charles Sanders 
+Penelhum, T. –n.,,n.,
+,,,,,, 
+perception, intellectual, seeReason:
+perceptual view of
+perception, theories of:
+direct or naive realism ,,
+idealism –,;see also Berkeley
+on perception of objects
+phenomenalism n.,,
+representative realism –,;see
+alsoLocke on perception of external
+objects
+see also external objects; perceptions of
+objects; scepticism about theexternal world
+perceptions –,n.,,,,
+,
+of objects ,–,,,,
+self-sufﬁciency of ,,n.,
+–,–,
+see also ideas; impressions; vivacity
+personal identity ,,,–,,
+n.,,,n.
+bundle theory ,,–,,
+n.,–,–
+see also Descartes on the self; mind
+phenomenalism, seeperception, theories
+of
+Philosophical Essays (‘original title of
+Enquiry ’),,,–,–,,
+, 
+philosophy, species of, see‘abstruse’
+philosophy; ‘easy’ philosophy; moralphilosophy
+physics, seecosmology; mixed
+mathematics; science: Newtonian
+Pike, n. 
+Piles, Roger de n.
+Pitson, A. E. 
+Plantinga, A. 
+Plato n.
+‘The Platonist’ 
+pneumatology 
+poetry ,,,,,,–,–
+and history –,–,n.
+Political Discourses ,
+politics ,
+see also academic freedom; liberty:
+sociopolitical; state and philosophy
+Pope, Alexander n.
+Popkin, R. H. –,–,
+Popper, K. R. –n.,
+Port-Royal Logic 
+positivism ,,,,,,,
+,,,,
+see also reductionism; veriﬁcation
+principle
+possibility ,,,
+see also conceivability criterion of
+possibility; miracles: impossibilityof
+postmodernism 
+power(s):
+hidden or secret ,–,,–,
+,–,–,,–,,,
+,;see also causes: hidden or
+secret
+idea of ,,,–,,–,
+;see also necessary connexion
+quantitative ,–,,
+synonymous with necessity ,,
+prejudices ,
+Pressman, H. M. 
+Price, H. H. n.,
+Price, J. V. n.,
+Price, Richard –,,,,–,
+–,,pride 
+Priestley, Joseph –n.
+primary-secondary quality distinction
+,n.,n.,,,
+–,,,
+see also colour; matter
+prior probabilities ,–,–
+and testimony ,–,,,
+;see also testimony
+probability n.,–,–,n.,
+–,,,,–
+a priori n.,–,–,,
+–
+of analogy ,,,,;see
+alsoreasoning: analogical
+and causation –,n.,
+conditional 
+epistemological principles of, see
+evidence: proportioning belief to
+species of –,–n.,,,
+;see also chance
+and testimony –,–,–,
+–,;see also testimony
+see also experience: inconsistent;
+miracles; prior probabilities;proof(s); reasoning: probable;unphilosophical probability
+probable inference, seereasoning:
+probable
+‘probable’ , use of 
+projectivism –,–,,
+see also necessary connexion: projected
+rather than detected
+proof(s) –,–,,,,
+conﬂicting ,,,–,
+–
+dependent on order –
+Locke’s notion of ;see also ideas:
+intermediate
+and miracles ,,,,,
+–,–,–,,–
+subjective-absolute ambiguity
+–
+superior and inferior –;see also
+proof(s): conﬂicting
+see also reasoning: probable 
+proportionality, seeDesign Argument:
+proportionality; evidence:proportioning belief to
+propositional contents ,n.,
+–,
+see also judgement and conception
+providence ,–,,,,,
+–,–
+see also Design Argument; God; Evil,
+Problem of
+Psillos, S. ,
+psychology, folk –
+see also motives and actions; cognitive
+science
+Putnam, H. 
+Pyrrhonism, seescepticism
+quasi-realism –,
+see also projectivism; realism
+Quine, W. V . O. 
+Ramsay, Michael –
+rationalism, Hume’s attack on –,,,
+–,,–,,–,–,,
+
+see also ‘Image of God’ doctrine
+rationality ,,n.,,,,
+–,,,,–
+see also inductive science;
+normativity; unphilosophicalprobability; wise
+Ray, John 
+Raynor, D. nn.,
+realism –,
+see also anti-realism; causal realism;
+instrumentalism; perception,theories of; quasi-realism; scepticalrealism
+reality, seeexistence; realism
+Reason –
+as divine image, see‘Image of God’
+doctrine
+as general-universal properties of the
+imagination, seeimagination and
+Reason
+Hume vs. Descartes on –Hume’s notion(s) of ,–,,
+–,–,,;see also
+Reason: perceptual view of
+and the passions ,
+perceptual view of ,–,–,
+–,n.,–,,,–,
+,,
+and ‘the understanding’ –,
+
+see also animals: reason of; Descartes
+on mind and Reason; induction andReason; reasoning:
+reasoning
+analogical ,,,;see also
+probability of analogy
+causal –,–,,–,–;
+see also Design Argument and causal
+reasoning
+demonstrative –,,,–,
+n.,,,;see also
+demonstration
+factual ,–,,–;see also
+induction
+inductive –,,,,–,
+–;see also custom and inductive
+inference; induction; UniformityPrinciple
+probable ,–,,,–,
+–,,,,;see also
+probability; reasoning: factual
+two kinds, demonstrative and probable
+–,–,–,,;see also
+Hume’s Fork 
+see also ideas: intermediate; Locke on
+Reason and reasoning; Reason
+reductionism –,
+see also positivism
+Reed, T. –n.
+reﬂection (source of impressions) ,,
+,,,
+reﬂective thought ,,–,,,
+–,,,–
+see also custom: acts immediately and
+unreﬂectively
+reﬂexivity in Hume’s thought ,,
+, 
+regularity theory, seecausation as regular
+succession
+Reid, Thomas ,,,n.,
+–n.,,,
+relations of ideas ,,,,,
+–
+and matters of fact, seeHume’s Fork
+reasoning concerning n.;see
+alsoreasoning: demonstrative
+scepticism about ;see also
+scepticism about abstract reasoning
+relations, Hume’s theory of natural and
+philosophical ,,,,
+n.,,
+relative ideas ,,–,–,,
+,–,,,,
+see also notions; suppositions vs.
+conceptions
+reliabilism –,
+religion(s) –,–
+in Enquir y–,–,–,& n.
+,,–
+in Treatis e–nn.,;see also
+Treatise compared with Enquiry
+‘true’ , and ‘popular’ ,,,
+see also Christianity; God; morality
+and religion
+representative realism, seeperception,
+theories of
+resemblance 
+between past and future ,,,
+–;see also Uniformity Principle
+between simple ideas 
+probability and ;see also
+probability of analogy
+see also association of ideas; Locke on
+resemblance between primaryqualities and ideas
+responsibility, seedeterminism and moral
+responsibility
+revelation, seemiracles
+reward and punishment, seeprovidence
+Richards, T. J. –,
+Richardson, Jonathan ,n.
+Richmond, Charles Lennox, rd Duke of
+Rivers, I. n.
+Robinson, J. A. –,
+Robison, W. L. ,
+Rosenberg, A. n.,n.,,,
+,,,
+Ross, I. S. n.
+Royal Society 
+rules by which to judge of causes and
+effects n.,,–,,,
+,
+see also inductive science
+Russell, Bertrand n.,n.,
+n.,
+Russell, P . n.,n.,n.,,
+,,,,
+Ryle, G. ,
+Salmon, W. C. n.,
+‘The Sceptic’ ,,,
+sceptical realism ,n.,–,
+–,–,–,,–,,
+–,,,–
+see also causal realism
+sceptical solution ,–,,–
+scepticism –,,–,,–,
+–
+about abstract reasoning ,–,
+–;see also inﬁnite divisibility
+academic –,,,,,,
+,;see also scepticism:
+mitigated
+antecedent ,,,,,
+consequent ,,
+credibility or livability of ,,,
+,–,–,,,–,
+,,–
+about the external world ,–,,
+n.,,,n.,–,
+–,,,,,–,;
+see also external objects; matter;
+perception, theories of
+function of, in Enquir y–,–,
+–,,,–,
+function of, in Treatis e,,
+–,–;see also Treatise
+compared with Enquiry 
+scepticism ( cont. ):
+inductive ,,,–,–,,
+–,–,,–,,–,
+–,,,–;see also
+induction and Reason; miracles andinductive scepticism
+mitigated –,–,–,,,
+,–,–,,,,,
+,–,;see also belief:
+mitigated; common life; scepticism:academic; understanding:limitations of
+about personal identity ,
+Pyrrhonian –,,,n.,,
+–,,–,,n.,,
+,,–,,,–
+with regard to reason (in Treatise )
+n.,,,,
+religious ,–,,,
+see also doubt
+Schlesinger, G. N. 
+Schlick, M. ,n.,,,
+scholastic philosophy ,n.,
+see also syllogism
+science ,:
+inductive ,,,–,,;see
+alsoinductive science: systematic
+principles of
+limits of, seeinductive science: search
+for simple laws
+Newtonian ,n.,n.,,
+,n.,,,,,
+of man –,,–,,
+of the mind, seecognitive science
+see also natural philosophy
+secret nature (of objects) ,,
+see also power(s): hidden or secret
+Selby-Bigge, L. A. n.,n.,n.,
+,,,,
+self,seepersonal identity
+senses, instinctive trust in –,,
+see also external objects; natural beliefs;
+perception, theories of; scepticismabout the external world
+sentiment(s) n.:
+literary technique and –;see also
+writingsee also belief as feeling or sentiment;
+morality; passions
+Separability Principle n.,n.,
+–n.,,–,,
+see also conceivability criterion of
+possibility
+Sextus Empiricus n.,,
+Shaftesbury, Anthony Ashley Cooper, rd
+Earl of ,n.,,,–,
+n.,
+Shaw, George Bernard 
+Sher, R. B. nn.,
+Sherlock, Thomas –
+Siebert, D. T. n.,n.,n.,
+
+simple-complex distinction –n.,
+–,,
+Skyrms, B. ,
+Slovic, P . 
+Smith, Adam 
+Smith, N. n.
+Smith, P . 
+Smith, Q. 
+Sobel, J. H. nn.,,–n.,
+n.,,
+Sorenson, R. A. n.
+Sosa, E. 
+soul n.,
+see also personal identity
+space and time ,,,n.,
+–,,,
+see also geometry
+speciﬁc difference (between perceptions
+and objects) ,–,,–,
+
+Spinoza, Benedict de 
+St Clair, General James ,
+state, and philosophy; see also toleration
+and intolerance
+Steele, Sir Richard n.
+Stephen, Sir Leslie n.
+Stevenson, C. L. 
+Stewart, John 
+Stewart, M. A. –,,n.,n.,
+n.,n.,n.,n.,n.,
+nn.,,n.,n.,,
+,–, 
+Stillingﬂeet, Edward, Bishop of Worcester
+n.
+‘The Stoic’ 
+Stoic philosophy –,n.,
+see also Christian Stoicism
+Stone, George, Primate of All Ireland
+
+Stove, D. C. –n.,,,,
+nn.,,n.,,,–,
+
+Strahan, William ,,,n.
+straitjacket, seecausal straitjacket
+Strato n.
+Strawson, G. –,n.,n.,
+nn.,,n.,n.,
+–nn.,,n.,–
+n.,n.,–,,,
+n.,,,
+S t r a w s o n ,P .F . ,
+Stroud, B. ,,,,,,
+,,,,,,,
+
+substance ,,,
+see also matter
+substratum ,,
+suffering, seeEvil, Problem of
+superstition ,–,–,,,,
+,,,,,,,
+
+suppositions vs. conceptions –,,
+,
+surprise and wonder, seemiracles:
+passions and belief in
+Swift, Jonathan 
+Swinburne, R. G. nn.,,,,
+,n.,–,,,
+syllogism n.,n.,n.,,
+
+sympathy –,n.,
+and moral distinctions ,
+Taliaferro, C. 
+testimony, credibility of –,–,,
+,–,–,–
+founded on experience –,,,
+,,,–,,–,,
+–for miracles, seemiracles
+and probability, seeprior probabilities
+and testimony; probability andtestimony
+reliability of reports or witnesses ,
+–,,–,
+taxicab example –,,–,
+
+theology, natural, seenatural religion
+thick connexions ,–,–,,
+
+see also causation as natural necessity
+thought –,,
+beyond limits of genuine ideas ,
+–,
+see also belief; consciousness, contents
+of; ideas; Reason; reasoning
+Tidman, P . 
+Tinwald, Lord, seeErskine of Alva,
+Charles
+T odd, W. 
+toleration and intolerance ,,–,
+,,–,,
+see also antiquity: liberty of thought in;
+dogmatism
+T ooley, M. 
+T ory party ,
+Traiger, S. 
+transitivity of relations ,–
+Treatise compared with Enquir y–,
+–,–,–,–,–,,
+,–
+on associationism –,–,–
+on belief –,,–,–,
+–,–,
+on causation –,,n.,
+on induction –,,,n.,
+n.,n.
+on inﬁnite divisibility –
+on liberty and necessity –,–,
+–,–,–,–,–
+on metaphysics n.,,
+on mind ,n.,
+on probability and rationality ,,
+,
+on relative ideas, supposition and
+conception ,,– 
+Treatise compared with Enquir y (cont. ):
+on religion –,,
+on scepticism ,–,n.,,
+–,–
+A Treatise of Human Natur e–,,,
+–,and passim
+Appendix ,,–,n.,,
+–,–,–,–,n.
+attack on Christian doctrines nn.,
+
+editions –
+see also Abstract of . . . A Treatise of
+Human Nature
+trivial properties of the imagination, see
+imagination and Reason
+Troeltsch, E. 
+tropes –
+Turnbull, George 
+Tversky, A. 
+Tweyman, S. ,,,,
+understanding:
+limitations of the –,,–,,,
+,,–,,,,,;
+see also Reason
+public criteria for –,–;see also
+meaning
+uniformity of nature ,,,–,
+,–,
+assumption of, and belief ,,–,
+;see also natural beliefs
+see also causation: universal;
+Uniformity Principle
+Uniformity Principle ,–,–,
+–
+circularity of founding on factual
+reasoning ,,,,,,
+,,
+foundation of n.,–,,,
+–,,–,–,,–,
+–
+the foundation of reasoning from
+experience ,–,,;see
+alsocustom
+see also resemblance between past and
+future; uniformity of natureuniversals 
+unphilosophical probability –,,
+–,,,–
+see also inductive science
+Van Fraassen, B. C. 
+Van Inwagen, P . 
+veriﬁcation principle 
+Vesalius, Andreas ,
+Vesey, G. ,
+Vinnius, Arnoldus 
+Virgil 
+vivacity ,–,,,,,
+–,
+can derive from an idea –
+dispositional or functional
+interpretations –,,
+feature of belief ,,,,,
+–,–,,,–
+loss of, through opposition –
+scale of –,–,
+transference of ,,–,–,
+–,–;see also custom;
+hydraulic model
+see also association of ideas; belief;
+mind and vivacity
+Voet, Johannes 
+volition 
+Hume vs. Descartes on 
+see also agency; liberty
+vulgar, the ,–,,,
+see also the wise
+Warburton, William n.,,
+Warﬁeld, T. A. 
+warrant, seenormativity
+Watson, G. 
+Waxman, W. 
+Weatherford, R. 
+Westminster Confession ,
+Whately, Archbishop Richard 
+Whig party ,
+Wilkins, John ,
+will, the ,,n.,,,,,
+,,,
+see also free will; liberty 
+Williams, B. –
+Williams, D. C. n.,
+Wilson, F. n.,nn. ,,
+Winkler, K. P . n.,n.,,,
+
+Winters, B. ,
+wise, the ,,–& n. ,,,
+,–,
+see also inductive science; morality:
+wisdom a virtue
+Wishart, William 
+accusations against Treatis e,
+witnesses, seetestimony
+Wittgenstein, Ludwig ,,
+Wollaston, William 
+Wollheim, R. 
+W o o d ,P .B . n.
+Woolhouse, R. 
+Wootton, D. –words, seemeaning
+Wright, J. P . n.,–n.,n.,
+n.,n.,n.,,
+n.,n.,,,,,,
+–,
+writing ,–,,,,,–,
+n.,,,
+see also moral painting; sentiment(s):
+literary technique and
+Xenophon 
+Ya b l o, S . 
+Y andell, K. E. nn.,,n.,,
+
+Y olton, J. W. n.,
+Y oung, Edward n.
+Zeno 

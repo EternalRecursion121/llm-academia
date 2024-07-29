@@ -1,0 +1,574 @@
+ Our ideas of substance and substances play a central role in John Locke’s 
+epistemology, and feature prominently in his writings from the very begin-ning of the 1671  Draft   A  of his  Essay Concerning Human Understanding  
+(ECHU) to the final additions made to the posthumous fifth edition of the  Essay  in 1706. We cannot be sure how far the latter additions were autho-
+rized by Locke himself, but they were in his own words, for they involved 
+the incorporation—within footnotes—of various passages from his lengthy correspondence with Edward Stillingfleet, Bishop of Worcester, who had raised objections to the  Essay  in the course of his own discourse on the 
+Christian doctrine of the Trinity. 
+1  With so much textual material at our dis-
+posal, one might expect that scholars would by now be clear at least on the 
+core of Locke’s philosophy of substance. But nevertheless it remains one of the most contentious aspects of his thought, owing to difficulties that I shall do my best to resolve here. Space limitations preclude detailed discussion of scholarly debates, so I shall focus relatively narrowly on the key issues, and on presenting what I take to be Locke’s own position as clearly as possible, and mainly in his own words. 
+ 1. OUR IDEAS OF SUBSTANCE AND SUBSTANCES 
+ Locke’s overall theory of substance is explained at the beginning of the 
+famous book two, chapter twenty-three of the  Essay : 
+ §1. The Mind being . . . furnished with a great number of the simple 
+ Ideas , conveyed in by the  Senses , as they are found in exteriour things, 
+or by  Reflection  on its own Operations, takes notice also, that a certain 
+number of these simple  Ideas  go constantly together; which being pre-
+sumed to belong to one thing . . . are called so united in one subject, by 
+one name; which by inadvertency we are apt afterward to talk of and consider as one simple  Idea , which indeed is a complication of many 
+Ideas together; Because, as I have said, not imagining how these simple  Ideas  can subsist by themselves, we accustom our selves, to suppose  1  Locke on Substance and Our 
+Ideas of Substances 
+  Peter   Millican  Locke on Substance and Our Ideas of Substances  9
+some Substratum, wherein they do subsist, and from which they do 
+result, which therefore we call Substance.
+§2. So that if any one will examine himself concerning his Notion of 
+pure Substance in general, he will find he has no other Idea of it at all, 
+but only a Supposition of he knows not what support of such Qualities, 
+which are capable of producing simple Ideas  in us .  . . The Idea then we 
+have, to which we give the general name Substance, being nothing, but the supposed, but unknown support of those Qualities, we find existing, 
+which we imagine cannot subsist .  . . without something to support them
+§3. An obscure and relative Idea of Substance in general being thus 
+made, we come to have the Ideas of particular sorts of Substances , by 
+collecting such Combinations of simple Ideas, as are by Experience and 
+Observation of Men’s Senses taken notice of to exist together, and are therefore supposed to flow from the particular internal Constitution, or unknown Essence of that Substance. Thus we come to have the Ideas 
+of a Man, Horse, Gold, Water, etc
+. . . . only we must take notice, that 
+our complex Ideas of Substances, besides all these simple Ideas they are 
+made up of, have always the confused Idea of something to which they 
+belong, and in which they subsist
+(ECHU 2.23.1–3)
+These are rich passages that demand, and repay, careful study. One notable point is that despite Locke’s efforts to distinguish different notions of ‘sub -
+stance’, it is not entirely clear how many are in play here. Most prominently, at section two we have the quite general idea of ‘pure substance in gen-eral’ which is supposed to provide some sort of ‘substratum’ or ‘unknown support’ to the observable qualities of things.
+2 Then at section three we 
+have various ideas of ‘ particular sorts of Substances ’, such as ‘Man, Horse, 
+Gold, Water, etc.’ Finally, we have the ‘confused Idea of something’ which 
+is a component of our idea of any sort of substance. But Locke’s introduc -
+tory paragraph gives the impression that he takes the last of these to be the same as the first, and his discussion as a whole is bedevilled by the difficulty of distinguishing in English between ‘substances’ in the sense of types of substance (e.g. gold as opposed to water) and ‘substances’ in the sense of substantial individuals (e.g. one gold ring as opposed to another). Correspondingly an ‘idea of substance’ can be the idea of a specific type of 
+substance (e.g. gold, metal), the idea of a specific individual (e.g. my wife’s 
+wedding ring), or the abstract idea of either of these (e.g. the idea of a type in general, or of an individual in general). Add to this that some ‘substance’ terms are mass nouns (e.g. gold, water) whereas others are count nouns (e.g. man, horse, ring), and it is no wonder that Locke’s discussion lends itself to some misunderstanding. Indeed, as we shall see, it seems likely that much of the secondary literature—and perhaps some of his own thinking—has suffered from this sort of unclarity, with Lockean ‘substratum’ understood sometimes in terms of what underlies the qualities of an individual thing,  10 Peter Millican
+and sometimes in terms of  the stuff of which physical things are composed . 
+There are ways of bringing these two interpretations together, but a particu-
+lar focus on either of them can lead in quite different directions. 
+ A further complication emerges in the immediately following sections 
+(whose references to  substratum ,  support , and  subsistence  again strongly 
+suggest that Locke sees all his notions of substance as closely connected): 
+ §4. Hence when we talk or think of any particular sort of corporeal 
+Substances, as  Horse ,  Stone ,  etc . though the  Idea , we have of either of 
+them, be but the . . . Collection of those several simple  Ideas  of sensible 
+Qualities . . . yet because we cannot conceive, how they should subsist 
+alone . . . we suppose them existing in, and supported by some common subject;  which Support we denote by the name Substance , though it be cer-
+tain, we have no clear, or distinct  Idea  of that  thing  we suppose a Support. 
+ §5. The same happens concerning the Operations of the Mind . . . 
+which we concluding not to subsist of themselves, nor apprehending how 
+they can belong to Body, or be produced by it, we are apt to think these the Actions of some other  Substance , which we call  Spirit ; whereby . . .  We 
+have as clear a Notion of the Substance of Spirit  ,  as we have of Body ; the 
+one being supposed to be (without knowing what it is) the  Substratum  to 
+those simple  Ideas  we have from without; and the other supposed (with 
+a like ignorance of what it is) to be the  Substratum  to those Operations, 
+which we experiment in our selves within. ’Tis plain then, that the  Idea  
+of corporeal  Substance  in Matter is as remote from our Conceptions, and 
+Apprehensions, as that of Spiritual  Substance , or  Spirit    
+ §6. Whatever therefore be the secret and abstract Nature of  Sub-
+stance  in general, all  the  Ideas  we have of particular distinct sorts of 
+Substances , are nothing but several Combinations of simple  Ideas , 
+co-existing in such, though unknown, Cause of their Union, as makes 
+the whole subsist of itself. 
+(ECHU 2.23.4–6)
+ Section five introduces a new and important distinction, between  corporeal  and 
+ spiritual  substances, but again it is not entirely clear whether Locke intends 
+these as just two very general categories of types of substance, or a more funda-
+mental dichotomy within his overall taxonomy. Perhaps, indeed, this unclarity is deliberate, since it follows from his account that all our ideas of the ‘substrata’ of different types of substance are equally vacuous apart from their relation to the specific ideas of sensation or reflection that they supposedly ‘support’. 
+ 2.  DISMISSING SUBSTANCE? 
+ The unclarities of Locke’s analysis, his somewhat detached third-personal 
+account of how ‘we talk or think’, and the apparent vacuity of his gen-
+eral notion of substance (in the sense of  substratum
+ ) might well prompt a Locke on Substance and Our Ideas of Substances  11
+suspicion that his commitment here is less than full-blooded, and that he sees 
+himself as diagnosing a dubious aspect of folk-metaphysics rather than develop -
+ing his own positive theory. Such a suspicion can then be backed up by other passages where he seems to be at least somewhat dismissive of the notion in question, and even abusively ironic about it, most pointedly as follows:
+They who first ran into the Notion of Accidents, as a sort of real Beings, 
+that needed something to inhere in, were forced to find out the word Sub­
+stance, to support them. Had the poor Indian Philosopher (who imag -
+ined that the Earth also wanted something to bear it up) but thought of this word Substance, he needed not to have been at the trouble to 
+find an Elephant to support it, and a Tortoise to support his Elephant: The word Substance
+ would have done it effectually .  . . an intelligent  
+American  . . . would scarce take it for a satisfactory Account, if desiring 
+to learn our Architecture, he should be told, That a Pillar was a thing supported by a Basis, and a Basis
+ something that supported a Pillar .  . . 
+were the Latin words Inhærentia and Substantia , put into .  . . plain Eng -
+lish .  . . and were called Sticking on, and Under ­propping , they would 
+better discover to us the very great clearness there is in the Doctrine of Substance and Accidents, and shew of what use they are in deciding of Questions in Philosophy.
+(ECHU 2.13.19–20)
+The Indian philosopher’s elephant and tortoise—and the ironic tone—return at ECHU 2.23.2, where Locke goes on to draw the sceptical moral:
+where we use Words without having clear and distinct Ideas, we talk like Children; who, being questioned, what such a thing is, which they know not, readily give this satisfactory answer, That it is some­
+thing
+; which .  . . signifies no more .  . . but that they know not what; 
+and that the thing they pretend to know, and talk of, is what they have no distinct Idea of at all, and so are perfectly ignorant of it, and 
+in the dark.
+(ECHU 2.23.2)
+There are also several passages where Locke might easily be construed as denying that we genuinely have any idea of substance: ‘the Idea of Sub ­
+stance
+ . . . we neither have, nor can have, by Sensation or Reflection’ (ECHU 
+1.4.18);3 ‘the supposed, or confused Idea of Substance, such as it is’ (ECHU 
+2.12.6); ‘of Substance, we have no Idea of what it is, but only a confused 
+obscure one of what it does’ (ECHU 2.13.19); ‘we are as far from the Idea 
+of the Substance of Body, as if we knew nothing at all’ (ECHU 2.23.16); ‘a Man has no Idea of Substance in general’ (ECHU 2.31.13).
+On the other hand, there are equally prominent passages where Locke 
+insists that the idea of a substratum is ‘always a part’ of our complex ideas of particular substances (ECHU 3.6.21), and indeed is even ‘the first and chief’  12 Peter Millican
+component of those ideas (ECHU 2.12.6, cf. also 2.23.6, 37; 4.6.7). More -
+over, he seems to endorse the supposition of such a substratum based on 
+our acknowledged inability to imagine or conceive how objects’ qualities could subsist ‘by themselves’ (ECHU 2.23.1, cf. 2.23.5), ‘alone’ (2.23.4), or ‘without something to support them’ (2.23.2). That Locke himself is indeed committed to such a substratum—rather than just reporting a common way of thinking—is confirmed in his correspondence with Stillingfleet, where he counters the accusation that he had ‘almost discarded substance out of the reasonable part of the world’ (The Works of John Locke
+ (LS), p.  5):
+as long as there is any simple idea or sensible quality left, according to my way of arguing, substance cannot be discarded; because all simple ideas, all sensible qualities, carry with them a supposition of a substra-tum to exist in, and of a substance wherein they inhere
+(LS, p.  7)
+having every-where affirmed and built upon it, that a man is a sub -
+stance; I cannot be supposed to question or doubt of the being of substance, till I can question or doubt of my own being.
+(LS, p.  18, cf. ECHU 2.1.10)
+I have said .  . . ‘that we cannot conceive how simple ideas of sensible 
+qualities should subsist alone, and therefore we suppose them to exist in, and to be supported by, some common subject, which support we denote by the name substance.’ Which I think is a true reason, because it is the 
+same your lordship grounds the supposition of a substratum on .  . . even 
+on ‘repugnancy to our conceptions, that modes and accidents should sub -
+sist by themselves.’ So .  . . I . . . conclude, I have your approbation in this, 
+that the substratum to modes or accidents, which is our idea of substance in general, is founded in this, ‘that we cannot conceive how modes or accidents can subsist by themselves.’
+(LS, p.  19, cf. p.  13, cf. ECHU 2.23.4)
+all the ideas of all the sensible qualities of a cherry, come into my mind by sensation; the ideas of perceiving, thinking, reasoning, knowing, &c. come into my mind by reflection: the ideas of these qualities and actions, or powers, are perceived by the mind to be by themselves inconsistent 
+with existence .  . . Hence the mind perceives their necessary connexion 
+with inherence or being supported; which being a relative idea super -
+added to the red colour in a cherry, or to thinking in a man, the mind frames the correlative idea of a support.
+(LS, p.  21)
+Locke might be suspected of insincerity in discussion with a prominent clergyman over a question that bears on the tenability of the Christian Locke on Substance and Our Ideas of Substances  13
+doctrine of the Trinity. But he repeatedly appeals back to his own words 
+in the Essay, and I believe it requires an implausible degree of inge -
+nuity to construe these appeals as deceitfully misrepresenting his true opinions.
+4
+In any case, it is fairly easy to reconcile Locke’s apparently negative 
+and positive statements regarding the substratum idea, once we observe that virtually all the apparent denials occur near passages in which he is bemoaning the absence of a ‘clear’, ‘distinct’, or ‘positive’ idea of sub-
+stance (ECHU 1.4.18; 2.13.17; 2.23.2, 4, 15,  37), and emphasizing how 
+instead our idea of substratum is ‘confused’ (2.12.6; 2.23.3; 3.6.21), ‘obscure’ (2.23.15), or ‘obscure and relative’ (2.23.3). Never does Locke 
+unambiguously deny that there is such an idea as ‘substance in general’,
+5 
+nor rescind his own commitment to it: his point is always that this idea completely lacks the clarity and distinctness that some of his philosophi -
+cal predecessors, most notably Descartes, considered it to have. For although we have some understanding of what the substratum is sup -
+posed to do—to ‘support’ perceived qualities—we have no understanding whatever of what it is in itself. This is why we lack any ‘clear’, ‘distinct’, or ‘positive’ idea of it at all, but can grasp it only ‘relatively’, as ‘a sup -
+posed, I know not what’ (2.23.16; cf. 1.4.18; 2.23.2, 3) in which those qualities ‘subsist’.
+3. BARE PAR TICULARS?
+It seems, then, that Locke himself endorses the need for a ‘substratum’ of observable qualities—even if our idea of it is confused and relative—rather than dismissing it as misguided folk-metaphysics. But why should he pre-sume that qualities require a ‘substratum’ to ‘support’ them? Many inter -
+preters have suspected that he is seduced by the language of predication,  
+the key evidence for this being the following passage:
+when we speak of any sort of Substance, we say it is a thing having 
+such or such Qualities, as Body is a thing that is extended, figured, and 
+capable of Motion; a Spirit a thing
+ capable of thinking .  . . These, and 
+the like fashions of speaking intimate, that the Substance is supposed always something besides the Extension, Figure, Solidity, Motion, 
+Thinking, or other observable Ideas, though we know not what it is.
+(ECHU 2.23.3)
+On this reading, in Nicholas Jolley’s words, ‘the notion of a substratum is simply the product of a tendency to project on to the world the grammatical 
+difference between subject and predicate’ (1999, p.  75). If the substratum is 
+‘supposed always something besides’ any predicated properties, then it may seem to follow that the substratum in itself can have no properties at all, 14 Peter Millican
+and is therefore a pure logical subject or bare particular. Leibniz famously 
+understood Locke as thinking along these lines:
+If you distinguish two things in a substance—the attributes or predi -
+cates, and their common subject—it is no wonder that you cannot con -
+ceive anything special in this subject. That is inevitable, because you have already set aside all the attributes through which details could be conceived.
+(Leibniz, New Essays on Human Understanding  
+(NE) 218, on Locke’s ECHU 2.23.2)
+Many subsequent commentators have followed Leibniz in this interpre -
+tation of Locke, and in seeing the resulting empty notion of substance as both ill-motivated and philosophically useless. Jonathan Lowe explains the absurdity that can result from supposing that every quality must be ‘sup-ported’ in this way:
+it seems as though the stuff or substratum itself cannot have qualities 
+of its own , for its ontological role is to support the qualities of an 
+individual substance or  ‘thing’, and the latter is not to be identified 
+with the substratum providing such ‘support’. In itself, it seems, the substratum must be utterly featureless—for if it had qualities of its 
+own, then these would, by the same train of reasoning, require some yet more basic ‘stuff’ to ‘support’ them. But now we appear to be 
+embroiled in absurdity: for if the basic stuff or substratum is utterly featureless, what is it about it that enables it to perform its supposed role of ‘supporting’ qualities—how is an utterly featureless ‘some-thing’ different from nothing at all?
+(Lowe 1995, p.  75)
+The philosophical absurdity of seeing substances as featureless bare 
+particulars might naturally raise doubts as to whether a philosopher of Locke’s insight could really have maintained this view. Moreover the spirit of the doctrine seems seriously at odds with his general outlook, which is anti-Aristotelian, metaphysically modest, sceptical about ultimate realities beyond what experience reveals, yet informed by the corpuscularianism of Boyle which took the fundamental constituents of the physical world to be particles of impenetrable matter. Bare featureless ‘substance’ would be unlike anything in Boyle’s worldview, and instead very close to the Aristo -
+telian notion of materia prima which Locke—like Boyle—explicitly attacks 
+(ECHU 3.10.15). Michael Ayers (1975, pp.  78–9) accordingly suggests 
+that interpreting Lockean substratum in the Leibnizian manner is com -
+parably implausible to interpreting Thomas Aquinas’s writings as expres -
+sions of atheism.Locke on Substance and Our Ideas of Substances 15
+ There are also more specific reasons for doubting this interpretation. To 
+begin with, the support that it can legitimately claim from Locke’s linguistic 
+argument—as quoted above from ECHU 2.23.3—is very limited, and for at least three reasons. First, that argument appears only here, and is entirely absent from Locke’s thinking about the idea of substance as recorded in his early drafts; 
+6  hence there is no reason to see this as an enduring central theme of his 
+position—a point reinforced in section four below. Second, within the linguistic 
+argument itself, Locke clearly identifies ‘the Substance’ as ‘a  thing  having such 
+or such Qualities’—there is no suggestion that the substance is  distinct  from 
+the thing that has the properties, and hence no suggestion that it  lacks  prop-
+erties; only that it ‘is supposed always  something  [ else ] besides’. Third—and 
+consistently with this—Locke is saying here that we suppose the substratum to be ‘something besides the Extension, Figure, Solidity, Motion, Thinking, or other  observable ’ qualities, not something besides  all properties . 
+7  It might seem 
+obvious to us that the same linguistic argument could be pursued more deeply, 
+and applied to all things and properties equally well. 8  But Locke himself does 
+not so apply it, and it is far from clear that he would be prepared to do so, 
+especially given his view about the intersubstitutability of terms and  adequate   
+definitions of them, as expressed at ECHU 3.6.21: ‘we can never mistake in putting the Essence of any thing for the Thing it self’. 
+9  This suggests that the 
+linguistic argument would fail for genuine essences, and is closely connected 
+with a central tenet of Locke’s epistemology, that our ideas of substances are inadequate—because they aim to represent some reality that has an indepen-dent and partially unknown nature—whereas our ideas of modes are adequate: 
+  Ideas  . . . I call  Adequate , which perfectly represent those Archetypes, 
+which the Mind . . . intends them to stand for, and to which it refers 
+them . . . Upon which account it is plain . . .  First , That  all our simple   
+Ideas  are adequate . Because being nothing but the effects of certain Pow-
+ers in Things . . . to produce such Sensations in us, they cannot but be correspondent, and adequate to those Powers 
+10  . . .  Secondly , Our  com-
+plex  Ideas  of Modes , being voluntary Collections of simple  Ideas , which 
+the Mind puts together, without reference to any real Archetypes . . . 
+existing any where,  are , and cannot but be  adequate Ideas  . . . But in our 
+ Ideas  of  Substances , it is otherwise. For there desiring to copy Things, as 
+they really do exist; and to represent to our selves that Constitution, on 
+which all their Properties depend, we perceive our  Ideas   attain not that 
+Perfection we intend . . . and so are all inadequate. 
+ (ECHU 2.31.1–3) 
+ Accordingly, Locke shows no inclination to apply his linguistic argument to 
+modes: ‘Parricide is killing of one’s father’ (cf. ECHU 2.22.4), for example, should not be taken to ‘intimate’ that parricide ‘is supposed always  some-
+thing  besides’ the paternal killing. 16 Peter Millican
+Another more straightforward reason for doubting the bare particular 
+interpretation is provided by passages in which Locke suggests that we lack 
+knowledge of the substratum’s nature:
+Whatever therefore be the secret and abstract Nature of Substance in 
+general
+(ECHU 2.23.6)
+we perceive not the Nature of Extension, clearer than we do of Think -
+ing . . . there is no more difficulty, to conceive how a Substance we 
+know not, should by thought set Body into motion, than how a Sub -
+stance we know not, should by impulse set Body into motion.
+(ECHU 2.23.29)
+The point here is that if substance in general were indeed entirely feature -
+less, then it would have no ‘nature’ at all, and so there would be no rel-evant knowledge to lack. But our ignorance of it is a pervasive theme in Locke’s discussions, and a dozen or more passages can easily be added to the two above. Thus he says that ‘of Substance, we have no Idea of what 
+it is’ (ECHU 2.13.19); that ‘we know not what it is’ (2.23.3, cf. 5); ‘we are as far from the Idea of the Substance of Body, as if we knew nothing at all’ 
+(2.23.16) and we do not know ‘what the substance is’ either of thinking or of solid things (2.23.23). We are ‘perfectly ignorant’ of substratum (2.23.2, cf. 5) which is therefore ‘unknown’ (2.23.6, 37; 3.6.21; 4.6.7), as are ‘the substance of Spirit’ and ‘the substance of Body’ (2.23.28, 30). Many more passages could be added from Locke’s letters to Stillingfleet, including:
+I do not take [essences] to flow from the substance in any created being, but to be in every thing that internal constitution, or frame, or 
+modification of the substance, which God .  . . thinks fit to give to every 
+particular creature .  . . and such essences I grant there are in all things 
+that exist.
+(LS, p.  82)
+Here Locke describes the ‘real essence’ of something—gold, perhaps—as the ‘internal constitution, or frame, or modification of the substance’: that is, the internal arrangement of the substance in general that constitutes gold.
+11 
+But if substance in general is capable of ‘modification’, then it clearly cannot be featureless.
+4. ‘SUBSTANCE OR MA TTER’
+We have seen that the bare particular interpretation of Locke’s ‘substratum’ is philosophically dubious, contrary to the spirit of his thought, and in seri -
+ous tension with many passages in the Essay; moreover it is not significantly Locke on Substance and Our Ideas of Substances  17
+supported by his use of the linguistic argument in ECHU 2.23.3, and lacks 
+any other good textual basis. Hence it should certainly be rejected if any plausible alternative interpretation can be found. And such an alternative quickly presents itself if we turn to Locke’s earliest discussion of substance.
+As mentioned earlier, substances and our ideas of them form the central 
+topic of the very first section of Draft
+ A of Locke’s Essay, written in the 
+summer of 1671:
+§1 1o I imagin that all knowledg is founded on .  . . our senses .  . . which  
+give us the simple Ideas or Images of things .  . . 2o The senses by frequent 
+conversation with certain objects finde that a certaine number of those 
+simple Ideas goe constantly togeather which therefor the understanding takes to belong to one thing & therefor words following our apprehen -
+sions are called soe united in one subject by one name, which by inad -
+vertency we are apt afterwards to talke of & consider as one simple Idea, which is indeed a complication of many simple Ideas togeather  & soe are 
+all Ideas of substances as man, horse sun water Iron, upon the heareing of which words every one who understands the language presently frames in his imagination the severall simple Ideas which are the immediate objects of his sense, which because he cannot apprehend how they should subsist alone he supposes they rest & are united in some fit & common subject which being as it were the support of those sensible qualitys he cals sub -
+stance or mater, though it be certain that he hath noe other idea of that matter but what he hath barely of those sensible qualitys supposd to be 
+inhærent in it. (where .  . . I . . . take notice that the Idea of matter is as 
+remote from our understandings & apprehensions as that of spirit .  . .12).
+(Draft A of ECHU, pp. 1–2)
+The underlined passage corresponds largely verbatim to part of ECHU 2.23.1, 
+and after a brief mention of some example substances (mostly the same as in 2.23.3), is followed by the familiar point about qualities not subsisting alone—and hence requiring support—which is repeated in ECHU 2.23.1, 2, and 4. The final parenthesis then anticipates the sceptical message about our under -
+standing of matter and spirit which would later be spelled out in 2.23.5, as quoted earlier. Moreover, ECHU 2.23.5 is taken almost verbatim from section 
+nineteen of Draft
+ B, also dated 1671, which combines the parenthetic material 
+with a brief discussion of our idea of spirit (in turn taken largely from §2 of Draft
+ A, where it echoes the discussion of our idea of matter in §1).
+All this shows that Locke’s account of substance remained fairly con -
+stant for over thirty years, and strongly suggests that it was a primary focus of his thought around which other material developed. The underlined passage—preserved almost verbatim from first to last—highlights in par -
+ticular his insistence, contrary to Aristotelian doctrine,
+13 that our ideas of 
+substances are complex rather than simple, as emphasized further by the title of the corresponding chapter in his Essay: ‘Of Our Complex Ideas of 
+Substances’. And here at the very beginning of his epistemological writings, 18 Peter Millican
+we see this key message combined with another, insisting against Descartes 
+that we have no (supposedly innate) clear and distinct idea of matter that can be revealed through intellectual abstraction away from sensory quali-ties.
+14 These fundamental conclusions of Locke’s philosophy are far more 
+prominent within the brevity of Draft  A than when surrounded by the pro -
+lixity of the eventual Essay.
+For our current purposes, however, an even more significant feature of the 
+passage above is Locke’s use of the phrase ‘substance or mater’ followed by two further references to ‘matter’ (rather than ‘substance’). This strongly corrobo-rates an idea stated most clearly by Roger Woolhouse (1983, pp. 117–18):
+15 
+‘Locke’s references to “Substance” are not so much to a featureless substratum  
+as to the “catholick or universal” matter of Boyle’s corpuscular hypothesis’.
+Given Boyle’s considerable influence on Locke, one might indeed expect 
+this to be the most natural interpretation of Lockean ‘substance in general’. And accordingly it seems likely that if ECHU 2.23 had retained the key phrase ‘substance or matter’ when introducing the topic, and gone on to refer to ‘matter’ in the same way as Draft
+ A, then the Leibnizian ‘bare par -
+ticular’ interpretation would have been far less popular.
+Why did Locke change his mode of expression, thus inviting such misun -
+derstanding? The reason becomes clear if we consider the 1671 transition from Draft
+ A to Draft  B, and particularly how in the latter he combines 
+his discussions of matter and spirit which had previously been relatively distinct. (The underlined text here is taken largely verbatim from section 
+one of Draft
+ A, with italics being used to show later insertions within the 
+manuscript of Draft B, none of this emphasis being in the original.)
+19§ .  . . we have noe Ideas nor notion of the essence of matter, but it lies 
+wholy in the darke. Because when we talke of or thinke on those things which we call material substances as man horse stone the Idea we have of either of them is but the complication or collection of those particu -
+lar simple Ideas of sensible qualitys which we use to finde united in the 
+thing cald horse or stone (as I shall hereafter shew more at large)  & 
+which are the immediate objects of our sense which because we cannot apprehend how they should subsist alone or one in an other we suppose they subsist & are united in some fit & common subject, which being as we suppose the support of those sensible qualitys we call substance or matter, though it be certeine we have noe other Idea of that matter  or 
+substance but what we have barely of those sensible qualitys supposed 
+to inhære in it. The same happens concerning the operations of our minde viz reasoning hopeing feareing &c, which we concludeing not to subsist of them selves, nor apprehending how body can produce them, are apt to thinke these the actions of some other substance which we 
+call spirit .  . . T is plain then that the Idea of matter is as remote from our 
+understandings & apprehensions as that of Spirit.
+(Draft B of ECHU, pp. 129–30)Locke on Substance and Our Ideas of Substances  19
+60§ Substances 1o The minde being as I have declared furnishd with a 
+great number of these simple Ideas, conveyd in by the senses as they are 
+found in exterior things or by reflection on its owne operations  takes 
+notice also that a certain number of these simple Ideas goe constantly togeather, which being presumed to belong to one thing, & words being suited to vulgar apprehension  & made use of for quick dispatch are 
+called soe united in one subject by one name. which by inadvertency we are apt afterwards to talke of & consider as one simple Idea which is indeed a complication of many simple Ideas togeather . Because as I have 
+said above §19 not imagining how these simple Ideas can subsist of them selves we inure our selves to suppose some substratum where in they doe subsist & from which they doe result which therefor we call substances
+(Draft B of ECHU, pp. 162–3)
+In the initial statement of his position in Draft
+ A, Locke had focused purely 
+on material substances, with substratum accordingly being invoked to sup -
+port ‘simple Ideas which are the immediate objects of .  . . sense’. But in 
+Draft  B, section nineteen develops this text, changing ‘that matter’ to ‘that 
+matter or substance’, and inserting a long sentence on ‘the operations of our minde’ and the inference to ‘spirit’, most of which is transcribed almost verbatim from section two of Draft
+ A.16 Having written this, Locke later 
+apparently decided to compose the new section sixty devoted specifically to ‘Substances’,
+17 incorporating some unused text from section one of Draft  A, 
+and treating ideas of ‘the senses’ and of ‘reflection’ together. But even in this new section sixty, mention of the mind’s ‘reflection on its owne operations’ was added as an (interlinearly inserted) afterthought: it seems that Locke’s first thoughts were consistently on material substance.
+5. THE ELUSIVENESS OF LOCKEAN ‘SUBSTANCE’
+My suggestion, therefore, is that Locke’s primary consideration of ‘sub -
+stance in general’ concerned the substance of material things, somewhat 
+on the model of Boyle’s ‘universal matter’—a presumed uniform ‘stuff’ that forms the corpuscles whose shape, size, and texture determine the sensory qualities of the substances they constitute:
+speaking of Matter, we speak of it always as one, because in truth, it expresly contains nothing but the Idea of a solid Substance, which is 
+every where the same, every where uniform.
+(ECHU 3.10.15)
+However Locke quickly came to see the need for a substratum of men­
+tal phenomena also, and accordingly adapted his text to accommodate both kinds of ‘substance’ (while maintaining his empiricist principles that 20 Peter Millican
+excluded any insight into the ultimate nature of either of them). Hence he 
+generally thinks in terms of two basic kinds of substratum—matter and spirit—though as we shall see, his theory is more subtle and flexible than this simple statement would suggest.
+18 It is the need to accommodate the 
+possibility of more than one kind of substratum, together with our igno -
+rance of their nature, that has made Locke’s theory so hard to pin down.
+To deal first with the elusive identity of material substance, Locke is far 
+from being a dogmatic adherent of Boylean corpuscularianism, and his only explicit endorsement of it in the Essay (at 4.3.16) is very tentative. 
+Although he was keenly studying Boyle’s works from 1660 at the latest, it seems to have been some time before he started to view corpuscularianism as an especially promising physical theory: only in Draft
+ B does he begin 
+to show a preference for Boylean mechanism, apparently moving on from a general agnosticism about all underlying physical theories which charac -
+terizes Draft
+ A.19 Given this undogmatic perspective, we should note that 
+the quotation above from ECHU 3.10.15 does not assert the uniformity of material substance, but only of our speech and thought  about material 
+substance: ‘we speak of [ Matter
+] always as one, because .  . . the Idea of a 
+solid Substance .  . . is every where the same, every where uniform’. More -
+over, the consistency of our idea of matter is due to its lack of content, not 
+any insight into the consistency of nature, and Locke nowhere asserts that we have any such insight. It follows that the term ‘matter’—if understood in the sense of a uniform material substratum as postulated by most of his contemporaries—might not, in fact, have any consistent referent in reality (as indeed, apparently, it does not).
+20 Locke’s own understanding of the 
+term, however, is appropriately more vague, and must remain so if it is to reflect the thought of either the common man or the agnostic; it accord -
+ingly has a reliable anchor in material reality, however varied that reality might be.
+A similar lack of dogmatism informs Locke’s treatment of spiritual sub -
+stance, as illustrated by his notorious suggestion that God might ‘superadd’ thought to matter (ECHU 4.3.6), which became a major bone of conten -
+tion in the Stillingfleet correspondence and revived the spectre of Hobbist materialism in a way that would reverberate through the following century. Since we cannot rule out that matter should think, the inference to imma -
+terial spirit is expressed in tentative terms: not ‘apprehending how  . . . the 
+Operations of the Mind .  . . can belong to Body, or be produced by it, we 
+are apt to think  these the Actions of some other Substance’ (ECHU 2.23.5, 
+first emphasis added). We thus postulate a substratum quite distinct from any material substance, but there is no certainty to be had here. Nor, impor -
+tantly, can Locke be confident that there is even one unique substratum 
+corresponding to each person, a  consideration that would later strongly 
+influence his discussion of personal identity.21
+The upshot of all this vagueness and uncertainty is that our general idea 
+of substance can neither distinguish clearly between ‘matter’ and ‘spirit’, Locke on Substance and Our Ideas of Substances  21
+nor unambiguously individuate either of these. It is this thought that leads 
+Locke towards his apparently contemptuous comparison with the Indian philosopher’s elephant and tortoise at ECHU 2.13.19, which immediately follows the passage below:
+If it be demanded (as usually it is) whether this Space void of Body, be 
+Substance or Accident, I shall readily answer, I know not: nor shall be ashamed to own my Ignorance, till they that ask, shew me a clear distinct Idea of Substance
+ . . . I desire those who lay so much stress on the sound 
+of these two Syllables, Substance, to consider, whether applying it, as they 
+do, to .  . . GOD, to finite Spirit, and to Body, it be in the same sense; and 
+whether it stands for the same Idea . . . ? If so, whether it will not thence 
+follow, That God, Spirits, and Body, agreeing in the same common nature of Substance, differ not any otherwise than in a bare different modifica -
+tion of that Substance
+ . . . which will be a very harsh Doctrine .  . . If the 
+name Substance, stands for three several distinct Ideas, they would do 
+well to make known those distinct Ideas  . . . And .  . . what hinders, why 
+another may not make a fourth?
+(ECHU 2.13.17–18)
+Our idea of ‘substance in general’ is uniform because it is so vacuous , but 
+this does nothing to imply that there is a uniform reality for it to refer to. We naturally suppose that there are two general kinds of substratum—matter and spirit—and Locke himself is inclined to agree, given his tentative 
+fondness for ‘the corpuscularian Hypothesis’ (ECHU 4.3.16) which aims to account for the distinctions between substances (e.g. gold and lead) in terms 
+of their differing constitution or real essence  rather than a different material 
+substratum.
+22 But Locke realizes that this supposition of uniform ‘matter’ 
+and ‘spirit’ could easily be mistaken, so he presents his theory of substance in a way that avoids commitment to such rigid dualism, thus generating much of the elusiveness and apparent ambiguity that has made interpreta-tion of his text so difficult.
+6. CONCLUSION
+I have argued that Lockean substratum is best understood as intended to 
+refer to the ‘stuff’ of which things are made, but without implying any significant commitment regarding the nature of that stuff. Locke is confi -
+dent, however, that there must be some such substratum (or substrata), for two reasons which perhaps he would have done well to distinguish more clearly. First, he takes the patterns in our sensory perceptions—‘that a cer -
+tain number of these simple Ideas go constantly together’—as the basis for our presumption that they ‘belong to one thing’ (ECHU 2.23.1). Second, he repeatedly endorses, most strongly in his correspondence with Stillingfleet, 22 Peter Millican
+the standard claim that qualities or ‘modes’—whether external or internal—
+must inhere in some real substance. The latter reason is more fundamental and general, applying both to physical and mental substances. But Locke’s most prominent discussion of the topic, starting as it does from material 
+substances, puts most initial weight on the former reason, and this has fos -
+tered the common view that, in Bennett’s words, ‘when Locke writes about “substance in general” and “substratum”, his topic is the instantiation of qualities; he is theorizing about the notion of a thing which’ (1987, §II).
+23 
+On this conception, the role of Lockean ‘substratum’ is to provide a meta-physical hook on which qualities, so to speak, ‘hang together’ to constitute an individual thing. But this leads quickly to the philosophically unattract -
+ive ‘bare particular’ interpretation, which as we saw in section three above is hard to reconcile with Locke’s other texts and overall approach.
+It seems far more likely that Locke’s emphasis in the early paragraphs of 
+ECHU 2.23—so pointedly entitled ‘Of our complex ideas of substances’—is motivated not by such abstract metaphysical considerations about individ -
+uality, but rather, by his evident desire to debunk the erroneous assumption that our ideas of types of substance (e.g. gold) can be simple and adequate and thus yield rational insight into the nature of things. This epistemologi-cal motive fully explains why he starts with the discussion of patterns in our external perceptions, and also why he is keen to insist that our ideas of substances, in attempting to represent some real existence beyond our  
+ideas, inevitably contain the supposition of ‘I know not what’. But if this is correct, then his reference to an unknown ‘substratum’ need have nothing to do with some mysterious metaphysical problem regarding ‘the instan-tiation of qualities’: it is simply that the stuff which composes any type of substance—as characterized in our thought by the combination of ‘ Ideas’ 
+that ‘go constantly together’—is unknown to us, and hence can only be conceptualized as ‘the supposed, but unknown support of those Qualities, 
+we find existing, which we imagine cannot subsist .  . . without something 
+to support them’ (ECHU 2.23.2). Moreover the same issue arises with individual substances of any type, because thinking about a particular ‘Horse or Stone’ (2.23.4) will likewise involve the supposition of such 
+unknown stuff, so this account can explain why Locke’s discussion fails to distinguish between types of substance and individuals, as noted in section one above.
+24
+Locke’s theory of substance has often been treated with derision, espe -
+cially by those who have taken it to be concerned with some pseudo-problem about property instantiation. His actual theory is far more reasonable, that when we perceive consistent ‘object-like’ patterns of behaviour in the world—or are conscious of events in our minds—we presume that there is something real and ‘substantial’ lying behind those observed phenomena. Locke has little sympathy for external world scepticism, and his initial focus on sensory ‘Ideas [that] go constantly together’ is best explained in terms of his interest in ‘complex ideas of substances’, rather than any would-be Locke on Substance and Our Ideas of Substances  23
+anti-sceptical inference. But if the sceptical question be raised, the patterns 
+in our experience do indeed provide plausible reason for supposing some external causes that go beyond the perceptions themselves (a reason that would not exist if our experience were chaotic).
+25 Moreover as Descartes 
+urged with his famous Cogito, direct awareness of any sensation or thought implies some real mental process and hence again a change in some real entity: sensations or thoughts cannot ‘subsist by themselves’, but take place as ‘modes’ or actions of some ‘substance’. Locke concurs with this compel -
+ling inference, but insists against Descartes—and surely correctly—that our phenomenal sensations or thoughts yield little insight into the substances 
+concerned. So  far from grasping their underlying essence, we are left with 
+the supposition of ‘I know not what’, and a reality whose nature can be explored—if at all—only by scientific investigation. Locke himself is pessi -
+mistic about the prospects for even the best science to reveal the nature of substance. But he is content to build more modestly on our empirical knowl -
+edge of the existence of things—and of the consistency of causal laws—to provide a theory of adequate representation that gives a firm, albeit modest, epistemological foundation in sense experience.
+26
+In his well-known paper ‘Substratum’, Jonathan Bennett highlights why 
+Locke’s treatment of substance has generated such controversy:
+Nothing else in the writings of any philosopher matches the double -
+ness of attitude of the passages about substratum in Locke’s Essay. This 
+duplicity has been noted by students of Locke, but not explained.
+(Bennett 1987, p. 129)
+My explanation is that on the one hand, Locke believes that all of our thoughts about substances—whether physical or mental—involve some notion of a ‘substratum’; he also endorses this notion. On the other hand, unlike most of his contemporaries, Locke is fully aware that such consider -
+ations fail to establish anything significant about the nature or individuation of such ‘substrata’, and although he is attracted by dualist corpuscularian -
+ism, he also realizes that he cannot rule out either monist materialism (i.e. thinking matter) or a multiplicity of different kinds of substratum.
+27 Hence 
+his main concern is to emphasize the limits of our understanding of ‘sub -
+stance’ and substances, not only against Aristotelians (who falsely think they have insight into simple substantial essences) and Cartesians (who falsely think they can achieve an understanding of matter by completely abstracting away from the senses), but even against his fellow corpuscular -
+ians. Despite the consequent prominence of these sceptical themes, how-ever, Locke’s overall position is very far from negative, and his account of ‘our complex ideas of substances’ sets the scene for an ingenious and subtle epistemology of physical science, whose power has too often been under -
+estimated through failure to appreciate the virtues of his unjustly derided theory of substance.24 Peter Millican
+NOTES
+For helpful comments and discussion on earlier versions of this chapter, which 
+have enabled me substantially to improve it, I am especially grateful to Michael Ayers and Amyas Merivale. I am also grateful for the feedback received at the Roger Woolhouse Memorial Conference at the University of York, where it was first presented.
+ 1. The footnotes are written in the third person (e.g. ‘To which Objection of 
+the Bishop of Worcester, our Author answers thus’, p. 189) and Locke’s 
+editor, John Churchill, removed them from the first edition of The Works of 
+John Locke Esq. which he brought out in 1714, no doubt because Locke’s full replies to Stillingfleet were included in volume one together with the Essay.
+ 2. Note that when Locke talks of ‘simple Ideas’ subsisting in a substratum at 
+ECHU 2.23.1, he is to be understood as talking about the corresponding qual­ities—see ECHU 2.8.8 for his own clarification of this infelicity.
+ 3. This sentence from ECHU 1.4.18 occurs within Locke’s discussion of innate  
+ideas, and also includes the apparently dismissive comment that ‘Mankind .  . . 
+talk as if they had .  . . the Idea of Substance’. He indicates shortly afterwards 
+that he is denying only the idea’s clarity, though the question of its source  
+remains unanswered until the correspondence with Stillingfleet: ‘the general 
+idea of substance .  . . is a complex idea, made up of the general idea of some -
+thing, or being, with the relation of a support to accidents .  . . general ideas 
+come not into the mind by sensation or reflection, but are the creatures or inven-
+tions of the understanding’ (LS,  p. 19). George Berkeley famously objected to 
+this account, insisting that the relevant notion of support is unintelligible on 
+empiricist principles (Principles of Human Knowledge (PHK) 16–17).
+ 4. Though an impressive attempt is made by Lex Newman (2000, §3).
+ 5. Perhaps ECHU 2.31.13 comes closest, though its context—a discussion of the 
+adequacy of ideas—gives the reverse impression: ‘a Man has no Idea of Sub-
+stance in general, nor knows what Substance is in it self’. If there is literally no such idea, then there is nothing to be known (or not known). Hence I suspect that when Locke says ‘no Idea’ here, he means ‘no adequate Idea’.
+ 6. Ayers (1991, Vol.  2, p. 55) hypothesises that Locke’ s introduction of the linguis -
+tic argument was prompted by his reading of Malebranche in the early 1680s.
+ 7. Note also that not all properties are Lockean qualities: ‘the Power to produce 
+any Idea in our mind, I call Quality of the Subject wherein that power is’ 
+(ECHU 2.8.8); see also ECHU 2.8.23, which itemizes ‘The Qualities  . . . that 
+are in Bodies’, all of them powers (primary, secondary, or tertiary).
+ 8. Or, rather, ‘equally badly’—we would no doubt reject the argument in general, 
+on the grounds that it is quite usual to talk about, say, the composition of an object, or membership of a group, without implying that the thing in question 
+is ‘something besides’ the relevant components. ‘This box has five wooden sides and a metal lid’, or ‘this crowd contains 250 people’ need not imply that the box or crowd are something in addition to their parts.
+ 9. See Ayers (1991, Vol. 2, Ch. 5) for the historical context and wider significance 
+of Locke’s argument from language, and especially p.  52 on this point. Ayers’s 
+discussion is contested by Bennett (2001, Vol. 2, §206).
+ 10. Note that this ingenious principle—which aims to provide a secure episte -
+mological foundation in sensation rather than Cartesian reason—relies on a theory of representation which is based on causation rather than resemblance. This implies that ideas of secondary qualities can adequately represent non-resembling qualities of objects themselves, a point apparently overlooked by Locke on Substance and Our Ideas of Substances  25
+Berkeley (PHK 10) and Hume ( Enquiry Concerning Human Understanding 
+(EnHU) 12.15) in their attacks on Locke.
+ 11. There is an obvious infelicity in describing the real essence of a substance (e.g. 
+gold) in terms of ‘substance’ (i.e. substratum), but Locke is here responding 
+to Stillingfleet’s comment that ‘we cannot comprehend the internal frame and constitution of things, nor in what manner they do flow from the substance’. ECHU 3.6.6 avoids the infelicity, saying ‘the real Essence is that Constitution 
+of the parts of Matter .  . . on which .  . . Qualities, and their Union, depend’.
+ 12. Locke later inserted at this point ‘& therefor from our not haveing any notion 
+of the essence of one we can noe more conclude its non existence then we can of the other’.
+ 13. As explained by Ayers (1991, V ol. 2, Ch.  3), Locke’ s presentation in the Essay 
+of the way in which we derive ideas of substances somewhat parallels Aris -
+totle’s four-stage account in Posterior Analytics B19, according to which: (i) 
+we perceive an individual thing; (ii) we repeatedly perceive other things of the same type, and note their similarities; (iii) we form a notion of that ‘universal species’ to which they all belong; (iv) we achieve a simple and unified scientific definition of the essence of the species, which explains why the properties go together. Locke wants to insist, against Aristotle, that the idea we form at stage (iii) is complex, and that stage (iv)—whereby we come to think of the idea as simple—is a natural illusion rather than a scientific achievement.
+ 14. In this Locke is echoing Pierre Gassendi, who responded as follows to Des -
+cartes’s thought-experiment of the wax (from Meditation  2: AT  30–1; The 
+Philosophical Writings of Descartes (CSM) ii, pp. 20–1): ‘Besides the colour, the shape, the fact that [the wax] can melt, etc. we conceive that there is some -
+thing which is the subject of the accidents and changes we observe; but what this subject is, or what its nature is, we do not know. This always eludes us; and it is only a kind of conjecture that leads us to think that there must be 
+something underneath the accidents. .  . . the alleged naked, or rather hidden, 
+substance is something that we can neither ourselves conceive nor explain to others’ (Fifth Set of Objections: AT 271–3, CSM ii, pp. 189–91).
+ 15. Woolhouse remarks that this idea ‘has been been developed in various ways’, cit -
+ing works by Peter Alexander, Michael Ayers, Martha Bolton, John Mackie, and Maurice Mandelbaum. The current essay provides another variation on this theme.
+ 16. The transcribed portion from Draft  A §2 begins ‘which actions of our minde 
+we not apprehending how body can produce are apt to thinke are the actions 
+of some other substance which we call spirit, .  . .’
+ 17. Hence his interlinear insertion of the forward reference ‘(as I shall hereafter 
+shew more at large)’ in §19.
+ 18. Alexander (1985, Ch. 11) advances the view that Locke is a dualist who 
+endorses both material and spiritual ‘substance-in-general’ (see especially pp. 224–8).
+ 19. See Jonathan Walmsley (2003) for details, and evidence of Thomas Sydenham’ s 
+influence on Locke’s agnosticism.
+ 20. The supposition of universal matter was common both to Cartesians (who 
+saw its essence as pure extension) and corpuscularians (who saw its essence as including solidity). Modern physics, however, with its menagerie of fun-damental particles, has undermined the assumption that material reality ulti -
+mately resolves into arrangements of some single uniform ‘stuff’. Locke would no doubt be astonished by how far science has come in discovering the ‘real essences’ of things, and it is interesting to speculate—though too big a topic to address here—how far he would be able, or need, to adapt his theories of substance and essence to accommodate these developments.26 Peter Millican
+ 21. The topic is absent from the 1671 drafts, but Locke’s discussion of the distinc -
+tion between personal and substantial identity at ECHU 2.27.10–25 addresses 
+concerns that naturally follow from this ignorance about spiritual substrata.
+ 22. There has been much debate in the literature on the relation between Lockean 
+material substance ­in­general  and real essence. According to Locke, both are 
+inaccessible to us, but he seems to distinguish them on the basis that mat -
+ter is the basic stuff whose ‘constitution’ within any type of substance (e.g. 
+gold) is the real essence of that substance. He suggests moreover that the ‘real 
+Essence, or internal Constitution .  . . can be nothing but .  . . the Figure, Size, 
+and Arangement or Connexion of its solid Parts’ (ECHU 2.31.6). This makes good sense from a Boylean corpuscularian perspective, because if there is just a single form of material substratum whose entire uniform essence is extension and solidity, then its different spatial structures within different substances 
+(e.g. gold, lead) will indeed determine their different behaviour. But if instead 
+there is more than one type of material substratum, then the nature of a sub -
+stance will depend both on the relevant substratum and on its spatial structure within that substance, so that any specification of the ‘real essence’ (from a God’s-eye point of view) would have to include both. Hence for full generality, Lockean ‘real essence or internal constitution’ should be understood as includ -
+ing both the substratum and its spatial structure.
+ 23. Likewise Nicholas Jolley (1999, p.  74): ‘When Locke invokes the notion of a 
+substratum .  . . he is interested in our thought about what it is to be a thing’.
+ 24. Note also Locke’s discussion of identity at ECHU 2.27.2, where it turns out 
+that everyday objects are strictly modes rather than individual substances. 
+This distinction goes unmentioned at ECHU 2.23.1–6, confirming again that his concerns there have nothing to do with the metaphysics of how qualities hang together in individuals.
+ 25. There are hints of such ‘argument to the best explanation’ at ECHU 4.11.7 and 
+9, though Locke himself is clearly satisfied that we can have sensitive knowl-edge of external things without such ‘other concurrent Reasons’ (4.11.3).
+ 26. See ECHU 2.31.2, 12, and 4.11.2; also note 10 above, a striking contrast 
+with Descartes, who sought insight into the nature of substances and uni -
+versal certainty through radical abstraction away from sensation. Although 
+Locke’s ambitions regarding knowledge of natural laws are relatively modest (a consequence of his theory of substance drawn explicitly at ECHU 4.8.9), he can seem rather complacent both about our epistemological access to external objects and their consistent behaviour. He is best understood, however, not as addressing scepticism of the extreme Cartesian variety, but instead the ques -
+tion of how we can have genuine knowledge of a world whose existence is evident, but whose epistemic contact with us is entirely causally mediated by sensations that yield no insight into ultimate reality.
+ 27. At ECHU 3.3.17 he attacks the scholastic theory that ascribes a distinct essence 
+to each species of thing, but there are many more plausible alternatives (e.g. that there are n basic types of fundamental particle).
+BIBLIOGRAPHY
+Alexander, P. (1985) Ideas, Qualities, and Corpuscles: Locke and Boyle on the 
+External World, Cambridge: Cambridge University Press.
+Ayers, M. R. (1975) ‘The Ideas of Power and Substance in Locke’s Philosophy’, Phil­
+osophical Quarterly , 25: 1–27, reprinted in I.  C. Tipton (ed.), Locke on Human 
+Understanding, Oxford: Oxford University Press, 1977.Locke on Substance and Our Ideas of Substances  27
+Ayers, M. R. (1991) Locke, 2 Vols., London: Routledge.
+Bennett, J. F. (1987) ‘Substratum’, History of Philosophy Quarterly , 4: 197–215, 
+reprinted in Vere Chappell (ed.), Locke, Oxford: Oxford University Press, 1998.
+Bennett, J. F. (2001) Learning from Six Philosophers, 2 Vols., Oxford: Clarendon Press.
+Berkeley, G. (1710) A Treatise Concerning the Principles of Human Knowledge, 
+ed. J. Dancy, Oxford: Oxford University Press, 1998.
+Descartes, R. (1641) Meditations on First Philosophy, trans. J. Cottingham, in  
+J. Cottingham, R. Stoothoff, and D. Murdoch (eds.), The Philosophical Writings 
+of Descartes (1984), Cambridge: Cambridge University Press, Vol. 2.
+Gassendi, P. (1641) Fifth Set of Objections to Descartes’  Meditations, trans. J. Cot -
+tingham, in J. Cottingham, R. Stoothoff, and D. Murdoch (eds.), The Philosophi­
+cal Writings of Descartes (1984), Cambridge: Cambridge University Press, Vol.  2.
+Hume, D. (1748) Enquiry concerning Human Understanding, ed. P. J. R. Millican, 
+Oxford: Oxford University Press, 2007.
+Jolley, N. (1999) Locke: His Philosophical Thought , Oxford: Oxford University Press.
+Leibniz, G. W. (1765) New Essays on Human Understanding, trans. P. Remnant and 
+J. F. Bennett, Cambridge: Cambridge University Press, 1981.
+Locke, J. (1690) An Essay concerning Human Understanding , ed. P. H. Nidditch, 
+Oxford: Clarendon Press, 1975.
+Locke, J. (1990) Drafts for the Essay Concerning Human Understanding and Other 
+Philosophical Writings , eds. P. H. Nidditch and G.  A. J. Rogers, Vol. 1 (containing 
+Draft A and Draft B), Oxford: Clarendon Press.
+Locke, J. (1794) The Works of John Locke in nine volumes, ninth edition , Vol. 3 
+(containing the correspondence with Stillingfleet), London: Longman et al.
+Lowe, E. J. (1995) Locke on Human Understanding, London: Routledge.Newman, L. (2000) ‘Locke on the Idea of Substratum’, Pacific Philosophical Quar ­
+terly, 81: 291–324.
+Walmsley, J. (2003) ‘The Development of Locke’s Mechanism in the Drafts of the 
+Essay’, British Journal for the History of Philosophy, 11: 417–49.
+Woolhouse, R. S. (1983) Locke, Brighton: Harvester Press.

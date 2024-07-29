@@ -1,0 +1,1251 @@
+7 Hume, Causal Realism, and Free Will
+Peter Millican
+My aim in this chapter is to present what I consider to be the decisive objec-
+tion against the ‘New Hume’ causal realist interpretation of Hume, and to refute three recent attempts to answer this objection. I start in §I with an outline of the ‘Old’ and ‘New’ interpretations. Then §II sketches the tradi-tional case in favour of the former, while §III presents the decisive objec-tion to the latter, based on Hume’s discussions of ‘Liberty and Necessity’ (i.e., free will and determinism). In §§IV–VI, I consider in turn the recent responses of Helen Beebee, Peter Kail, and John Wright, and explain why these fail. My conclusion in §VII is that the New Hume can reasonably be considered as refuted, unless and until a more successful response is forth-coming, which (to me at least) looks extremely unlikely.
+I. THE OLD AND THE NEW HUME
+David Hume is universally associated with the regularity theory of cau-
+sation , which is generally understood as involving a ‘reduction’ of causal 
+relations between objects to regular succession (and a corresponding asso-ciation of ideas in the observing mind) through his two deﬁ  nitions of cause:
+There  may two deﬁ  nitions be given of this relation . . . We may deﬁ  ne 
+a cause  to be ‘An object precedent and contiguous to another, and 
+where all the objects resembling the former are plac’d in like relations of precedency and contiguity to those objects, that resemble the latter.’ If this deﬁ  nition be esteem’d defective, because drawn from objects 
+foreign to the cause, we may substitute this other deﬁ  nition in its place, 
+viz. ‘A cause  is an object precedent and contiguous to another, and so 
+united with it, that the idea of the one determines the mind to form the idea of the other, and the impression of the one to form a more lively idea of the other.’ ( T 1.3.14.31, cf. E 7.29)
+1
+Interpreted as the traditional ‘Old Hume’, he is denying that there is any-
+thing more to causation in objects than is expressed in the two deﬁ  nitions, 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 124 Peter Millican
+thus rejecting, in recent parlance, any ‘thick connexions’ between objects.2 
+Or to adopt a useful convention introduced by Galen Strawson, the reg-ularity theory denies that there is any such thing as Causation  (with an 
+upper-case ‘C’):
+For present purposes . . . ‘Causation’ may be merely negatively deﬁ  ned: 
+it covers any essentially non-Regularity-theory  co n ce p ti o n  o f  ca usa -
+tion. More positively . . . to believe that causation is in fact Causation is simply to believe (A) that there is something about the fundamental nature of the world in virtue of which the world is regular in its behav-iour; and (B) that that something is what causation is, or rather is at least an essential part of what causation is or involves.
+3
+Strawson himself insists that Hume is—contrary to the dominant tradi-tion—a true believer in such metaphysically heavyweight Causation .
+4 An 
+early version of such a reading can be found in the work of Norman Kemp Smith,
+5 but its ﬁ  rst systematic presentation was in John Wright’s 1983 book 
+which gave it a name: The Sceptical Realism of David Hume . ‘Sceptical 
+realism’ as understood by Wright combines epistemological and conceptual modesty with natural judgement:
+In spite of the fact that real causal forces in nature are inconceivable to 
+us, we judge that these forces exist. . . . Reason leads us to the conclu-sion that our ideas of cause and effect are distinct. Yet natural instinct leads us to a directly contrary conclusion: namely, that there is an ob-jective necessary connection relating those objects which we experience as constantly conjoined. . . . The resolution of the conﬂ  ict between the 
+conclusions of instinct and reason is provided by a mitigated scepti-cism which recognises the inadequacy of our ideas of objects and yet ascribes causal necessity to the external objects themselves on the basis of the criterion provided by the natural instinct.
+6
+One of the strengths of Wright’s interpretation is the similarity that he posits between Hume’s views on causation and on the external world:
+7 
+thus Humean ‘sceptical realism’—in Wright’s sense—deserves to be under-stood in this broad manner. The narrower claim that Hume is speciﬁ  cally 
+a (capital ‘C’) Causal  realist acquired a distinctive nickname in 1991 when 
+strongly criticised in Ken Winkler’s paper “The New Hume”, whose title implicitly recognised the signiﬁ  cance of the novel interpretative trend he 
+was attacking. By this time, Wright had been joined not only by Straw-son but also by Donald Livingston, Janet Broughton, Edward Craig, and M i c h a e l  C o s t a ,  t o  b e  f o l l o w e d  i n  d u e  c o u r s e  b y  J o h n  Y o l t o n ,  S t e p h e n  Buckle, and Peter Kail.
+8 This impressive lineup, all ranged in radical oppo-
+sition to the ‘Old’ Humean stereotype, seemed fully to vindicate the aptness of Winkler’s ‘New Hume’ nickname.
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 125
+But it would be wrong to assume that all these ‘New Humean’ accounts 
+are essentially the same. As Kail observes, ‘What unites these readings is simply the rejection  of a positive regularity reading of Hume and nothing 
+more’.
+9 Kail himself, unlike Wright and Strawson, is reluctant to ascribe to 
+Hume a deﬁ  nite belief in Causation, suggesting a more agnostic position. 
+But he nevertheless clearly aligns himself with what he calls this ‘revision-ist’ camp, even while questioning whether Hume is a committed Causal realist. This might seem puzzling, but his point is that the central question is not whether Hume has a ﬁ  rm commitment to Causal powers, but rather, 
+whether Hume’s epistemology—in particular his theory of ideas—leaves any possible  room for them:
+The revisionists’ target was a Hume who held a regularity theory of the 
+metaphysics of causation. [Wright, Craig and Strawson] were further united in the conviction that the metaphysical doctrine was supposed t o  f o ll o w  fr o m  se man ti c  p r e mi ses .  H um e  a tt e m p ts  t o  s h o w  tha t  th e  notion of ‘necessary connection in the objects’ lacks any meaning, and so the issue of whether there is any ‘in the objects’ cannot even be intel-ligibly raised. . . . The real debate is whether we should maintain the standard reading, and reject, or reinterpret, the apparent references to hidden powers because of the alleged strictures of the theory of ideas or think that the presence of hidden power talk suggests that the cognitive strictures of the theory of ideas are not quite what they seem.
+10
+On the fundamental issue, this seems right:11 the characteristic ‘Old Hume’ 
+position rules out any notion of (thick, upper-case) Causal powers as unin-telligible, on the ground that there is no impression source for any such idea. Hence interpreting Hume as agnostic about such powers—at least if this is taken to imply that he considers their existence a meaningful pos-sibility—should count as a ‘New Humean’ rather than an ‘Old Humean’ (or neutral) position.
+In this chapter,
+12 I shall follow Kail’s understanding of ‘the real debate’ 
+as hinging on the question of whether or not Hume considers the notion of thick Causal powers to be meaningful  or intelligible , rather than whether 
+or not he is a committed realist  about such powers. And accordingly, I 
+shall generally refer to the revisionist interpretation using Winkler’s conve-nient ‘New Hume’ nickname rather than the potentially misleading terms ‘Causal realism’  or ‘sceptical realism’ . Sometimes in the past, a failure to 
+draw the distinction clearly in this way has led to confusion, as for example in the introduction to Winkler’s own eponymous paper:
+I will argue that Hume refrains from afﬁ  rming  that there is something in 
+virtue of which the world is regular in the way it is. This is not to deny  
+that there is such a thing, but merely not to believe in it. Defenders of the New Hume sometimes ease their task by supposing that according to the 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 126 Peter Millican
+standard view, Hume positively denies the existence of secret powers or 
+connections. They argue (rightly, in my view) that a positive denial runs counter to Hume’s scepticism. But a refusal to afﬁ  rm such po wers or 
+connections suits Hume’s scepticism perfectly . . . 
+13
+If the ‘powers or connections’ being alluded to here are understood as thick  
+powers or connections, going beyond Hume’s two deﬁ  nitions, then, as Kail 
+points out, ‘ “that . . . Hume positively denies the existence of [such] powers or connections” . . . was and is the standard view’.
+14 So here Winkler seems 
+to be suggesting that Hume is agnostic about Causation in the way that Kail claims for New Humeanism. Fortunately §2 of Winkler’s paper—on ‘The scope (or force) of the theory of ideas’—remedies the confusion:
+[We are] free to suppose that Hume’ s scepticism consists in a refusal 
+to afﬁ  rm the existence of Causation, a refusal rooted in the belief that 
+there is no notion of Causation to be afﬁ  rmed (or denied, or even enter-
+tained as a possibility). The alleged notion of Causation is (to borrow from Enquiry §12) a notion so imperfect ‘that no sceptic will think it worth while to contend against it’ [E 12.16].
+15
+Now it becomes clear that Winkler is indeed an ‘Old Humean’ of the broadly traditional sort, though his view remains more nuanced than this crude categorisation might suggest.
+16
+II. THE STANDARD OLD HUME READING
+The traditional interpretation of Hume is based mainly on his well-known 
+argument concerning ‘The Idea of Necessary Connexion’, as presented in Treatise  1.3.14 and Enquiry  7, and nicely summarised at the beginning of 
+the Treatise  version:
+What is our idea of necessity, when we say that two objects are neces-
+sarily connected together?  Upon this head I repeat what I have often 
+had occasion to observe, that as we have no idea, that is not deriv’ d from an impression, we must ﬁ  nd some impression, that gives rise to 
+this idea of necessity, if we assert we have really such an idea. In order to this I consider, in what objects necessity is commonly suppos’d to lie; and ﬁ  nding that it is always ascrib’d to causes and effects, I turn my 
+eye to two objects suppos’d to be plac’d in that relation; and examine them in all the situations, of which they are susceptible. I immediately perceive, that they are contiguous  in time and place, and that the object 
+we call cause precedes  the other we call effect. In no one instance can 
+I go any farther, nor is it possible for me to discover any third rela-tion betwixt these objects. I therefore enlarge my view to comprehend 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 127
+several instances; where I ﬁ  nd like objects always existing in like rela-
+tions of contiguity and succession. At ﬁ  rst sight this seems to serve but 
+little to my purpose. The reﬂ  ection on several instances only repeats 
+the same objects; and therefore can never give rise to a new idea. But upon farther enquiry I ﬁ  nd, that the repetition is not in every particular 
+the same, but produces a new impression, and by that means the idea, which I at present examine. For after a frequent repetition, I ﬁ  nd, that 
+upon the appearance of one of the objects, the mind is determin’d  by 
+custom to consider its usual attendant, and to consider it in a stronger light upon account of its relation to the ﬁ  rst object. ’Tis this impres-
+sion, then, or determination , which affords me the idea of necessity. 
+(T 1.3.14.1)
+There are many passages in the Treatise , the Enquiry , and the summary 
+in the Abstract  that seem to conﬁ  rm Hume’s aim as being to establish the 
+meaning  of our attributions of necessity or causal power, through the iden-
+tiﬁ cation of the source impression, for example:
+17
+Necessity, then, . . . is nothing but an internal impression of the mind 
+. . . Without considering it in this view, we can never arrive at the most distant notion of it, or be able to attribute it either to external or inter-nal objects. . . . ( T 1.3.14.20)
+The question is, what idea is annex’d to these terms [ power , or force , or 
+energy ]? . . . Upon the whole, . . . either we have no idea at all of force 
+and energy, and these words are altogether insigniﬁ  cant, or they can 
+mean nothing but that determination of the thought, acquir’d by habit, to pass from the cause to its usual effect. ( A 26)
+There are no ideas, which occur in metaphysics, more obscure and 
+uncertain, than those of power , force , energy , or necessary connexion  
+. . . We shall, therefore, endeavour, in this section, to ﬁ  x, if possible, 
+the precise meaning of these terms . . . all our ideas are nothing but copies of our impressions, or, in other words, . . . it is impossible for us to think  of any thing, which we have not antecedently felt, either 
+by our external or internal senses. . . . this customary transition of the imagination from one object to its usual attendant, is the sentiment or impression, from which we form the idea of power or necessary con-nexion. . . . When we say . . . that one object is connected with another, we mean only, that they have acquired a connexion in our thought, and give rise to this inference, by which they become proofs of each other’s existence. . . . ( E 7.3, 7.4, 7.28)
+Moreover, the Treatise  and Enquiry  discussions both culminate with 
+Hume’s two ‘deﬁ  nitions of cause’ ( T 1 . 3 . 1 4 . 3 1 ,  a s  q u o t e d  e a r l i e r ,  a n d  
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 128 Peter Millican
+E 7.29), which again seems to conﬁ  rm that the ultimate aim of Hume’s 
+quest for the impression of necessary connexion is the clariﬁ  cation of mean-
+ings. If this is the case, then the result of that quest would seem to imply a constraint on what we can mean by ‘necessary connexion’, thus giving rise to the Old Hume interpretation.
+III. OF LIBERTY AND NECESSITY
+All this is very familiar, though the interpretation of the sections on necessary 
+connexion has been subject to considerable debate, which I do not propose to add to here.
+18 Instead, I want to move forward immediately to Hume’s treat-
+ment ‘Of Liberty and Necessity’ ( Treatise  2.3.1–2 and Enquiry  8), which 
+contains the main application of his two deﬁ  nitions.19 Here he a ppeals to 
+them in his main argument to establish ‘the doctrine of necessity’, that is, the doctrine that determinism applies to human actions and the mind’s opera-tions, just as it does to material things. This part of Hume’s discussion is very similar in both works, but here I shall focus mainly on the Enquiry , since this 
+is appealed to as the authoritative—or at least more clearly Causal realist—source by New Humeans.
+20 Following each Enquiry  quotation, however, I 
+shall also cite the parallel Treatise  passage for reference.21
+Hume starts his argument for ‘the doctrine of necessity’ by focusing on 
+our understanding of necessity as we attribute it to matter:
+It is universally allowed, that matter, in all its operations, is actuated by 
+a necessary force, and that every natural effect is so precisely determined by the energy of its cause, that no other effect, in such particular circum-stances, could possibly have resulted from it. . . . Would we, therefore, form a just and precise idea of necessity , we must consider whence that idea 
+arises, when we apply it to the operation of bodies. ( E 8.4, cf. T 2.3.1.3)
+He then refers back to his two deﬁ  nitions of cause , as set out at E 7.29, and 
+uses these to characterise necessity  in an exactly corresponding way, drawing 
+the obvious moral for how its presence is to be identiﬁ  ed in human actions:
+These two circumstances form the whole of that necessity, which we 
+ascribe to matter. Beyond the constant conjunction  of similar objects, 
+and the consequent inference  from one to the other, we have no notion 
+of any necessity, or connexion. If it appear, therefore, that all mankind have ever allowed . . . that these two circumstances take place in the voluntary actions of men, and in the operations of mind; it must follow, that all mankind have ever agreed in the doctrine of necessity. . . . ( E 
+8.5-6, cf. T 2.3.1.4)
+Having set this agenda, Hume devotes the next fourteen paragraphs ( E 8.7–
+20) to arguing at length, and with a wide range of illustrative examples, 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 129
+that human actions do indeed manifest uniformity to a similar extent to 
+what we observe in the material world, and that this uniformity is generally recognised and taken for granted as a basis for inductive prediction. The following passage sums up these two claims, and draws the desired conclu-sion—that insofar as there is any substance to the issue, the doctrine of necessity is implicitly accepted by ‘all mankind’, even if most are reluctant to acknowledge this in so many words:
+Thus it appears, not only that the conjunction between motives and 
+voluntary actions is as regular and uniform, as that between the cause and effect in any part of nature; but also that this regular conjunction has been universally acknowledged among mankind . . . this experi-enced uniformity in human actions is a source, whence we draw infer-
+ences  concerning them . . . [Such] inference and reasoning concerning 
+th e  a cti o n s  o f  o th e r s  e n t e r s  s o  m u c h  in t o  h um an  lif e,  th a t  n o  m an,  while awake, is ever a moment without employing it. Have we not rea-son, therefore, to afﬁ  rm, that all mankind have always agreed in the 
+doctrine of necessity, according to the foregoing deﬁ  nition and explica-
+tion of it? ( E 8.16–17, cf. T 2.3.1.16–17)
+This essentially completes the main argument: Hume takes himself to have 
+shown that the two deﬁ  nitional criteria for ascribing necessity are both 
+fulﬁ lled by human actions, and that these characteristics of actions are 
+generally recognised.
+Hume remarks, however, that this conclusion raises an obvious puzzle 
+as to why so many people who ‘have ever . . . acknowledged the doctrine of necessity, in their whole practice and reasoning’, are so reluctant ‘to acknowledge it in words’ ( E 8.21).
+22 The answer, Hume suggests, lies in two 
+complementary errors—people imagine that they detect ‘something like a necessary connexion’ in the operations of matter, and also suppose that they can feel the absence  of any such connexion in the operations of mind:
+Men still entertain a strong propensity to believe, that they penetrate 
+farther into the powers of nature, and perceive something like a nec-essary connexion between the cause and the effect. When again they turn their reﬂ  ections towards the operations of their own minds, and 
+feel no such connexion of the motive and the action; they are thence 
+apt to suppose, that there is a difference between the effects, which result from material force, and those which arise from thought and intelligence. ( E 8.21)
+Their ‘strong propensity to believe’ that they can ‘penetrate . . . into the 
+powers of nature’ naturally leads philosophers to think that genuine  neces-
+sity—of the sort that supposedly applies to bodies—must involve something more than mere constant conjunction and inference. But such thinking, Hume insists, can be quickly refuted:
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 130 Peter Millican
+It may . . . perhaps, be pretended, that the mind can perceive, in the 
+operations of matter, some farther connexion between the cause and effect; and a connexion that has not place in the voluntary actions of intelligent beings. . . . [However] . . . a constant conjunction of objects, and subsequent inference of the mind from one to another . . . form, in reality, the whole of that necessity, which we conceive in matter . . . [if we] suppose, that we have some farther idea of ne-
+cessity and causation  in the operations of external objects . . . there 
+is no possibility of bringing the question to any determinate issue, while we proceed upon so erroneous a supposition. ( E 8.21-22, my 
+emphasis)
+This same crucial point—focusing on the absence of any ‘farther idea of 
+necessity’—is emphasised pithily in the short ﬁ  nal paragraph of the sum-
+mary discussion in the Abstract:
+Our author pretends, that this reasoning puts the whole controversy 
+in a new light, by giving a new deﬁ  nition of necessity . And, indeed, 
+the most zealous advocates for free-will must allow this union and in-ference with regard to human actions. They will only deny, that this makes the whole of necessity. But then they must shew, that we have an idea of something else in the actions of matter; which, according to the foregoing reasoning, is impossible. (A 34, my emphasis)
+Having settled the issue of necessity, the Enquiry  discussion quickly 
+moves on to the second stage of Hume’s ‘reconciling project’ by consider-ing ‘what is meant by liberty, when applied to voluntary actions’ ( E 8.23).
+23 
+Just as he has shed light on ‘the question of liberty and necessity’ with his ‘new deﬁ  nition of necessity’, so he now proceeds to give a new ‘deﬁ  nition 
+. . . of liberty’ ( E 8.24):
+By liberty, then, we can only mean a power of acting or not acting, ac-
+cording to the determinations of the will ; that is, if we chuse to remain 
+at rest, we may; if we chuse to move, we also may. ( E 8.23)
+Hume ends Enquiry  8 Part 1 by stressing ‘the advantage of deﬁ  nitions’ 
+(E 8.25), mentioning both his deﬁ  nitions of cause (informed by his account 
+of ‘the origin of the idea . . . [of] necessary connexion ’), and also his ‘deﬁ  -
+nition above mentioned . . . [of] liberty’. Just as in the Abstract , it is quite 
+clear that he sees his deﬁ  nitions of the relevant terms as providing his key 
+novel contribution to the discussion.
+Having ﬁ  nished his theoretical argument, in Enquiry  8 Part 2 Hume 
+turns to address the practical accusation that his views have ‘dangerous consequences to religion and morality’ ( E 8.26, T 2.3.2.3). The ﬁ  rst para-
+graph of his answer is copied largely verbatim from the Treatise :
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 131
+Necessity may be deﬁ  ned two ways, conformably to the two deﬁ  ni-
+tions of cause , of which it makes an essential part. It consists either in 
+the constant conjunction of like objects, or in the inference of the un-derstanding from one object to another. Now necessity, in both these senses . . . has universally, though tacitly, in the schools, in the pulpit, and in common life, been allowed to belong to the will of man; and no one has ever pretended to deny, that we can draw inferences con-cerning human actions, and that those inferences are founded on the experienced union of like actions, with like motives, inclinations, and circumstances. The only particular, in which any one can differ, is, that either, perhaps, he will refuse to give the name of necessity to this property of human actions: But as long as the meaning is understood, I hope the word can do no harm: Or that he will maintain it possible to 
+discover something farther in the operations of matter . But this, it must 
+be acknowledged, can be of no consequence to morality or religion, whatever it may be to natural philosophy or metaphysics. We may here 
+be mistaken in asserting, that there is no idea of any other necessity or connexion in the actions of body : But surely we ascribe nothing to the 
+actions of the mind, but what every one does, and must readily allow of. We change no circumstance in the received orthodox system with 
+regard to the will, but only in that with regard to material objects and causes . Nothing therefore can be more innocent, at least, than this 
+doctrine. ( E 8.27, emphasis added, cf. T 2.3.2.4)
+Hume’s strategy here is very clear, and entirely in line with what has gone 
+before. His response to the imagined objection is to run through his main argument, and to draw attention to the most likely source of disagreement, namely, that his opponent ‘will maintain it possible to discover something farther in the operations of matter’. He then alludes to his earlier answer to this disagreement (cf. the earlier quotation from E 8.21–2): his assertion 
+‘that there is no idea of any other necessity or connexion in the actions of body’. But while making clear that this is his answer—and without in any way withdrawing it or suggesting that it is inadequate—he goes on to provide an additional  consideration that can be invoked even if that asser-
+tion ‘may here be mistaken’.
+24 Suppose that it is mistaken, and that we can 
+indeed form an idea of some stronger type of necessity in matter. Never-theless, Hume points out that his mistake would then concern what he 
+ascribes to matter, not what he ascribes to the mind . So even if his assertion 
+‘that there is no idea of any other necessity or connexion in the actions of body’ is wrong, he cannot here be criticised on moral  or religious  grounds, 
+because morality and religion are concerned with the nature of humanity, not the nature of matter, and he ‘change[s] no circumstance in the received orthodox system with regard to the [human] will’.
+Note, however, the very clear implication of this paragraph—follow-
+ing exactly in the spirit of the preceding argument—that Hume disagrees 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 132 Peter Millican
+with ‘the received orthodox system . . . with regard to material objects and 
+causes’, and does so precisely by rejecting the ‘erroneous supposition . . . that we have some farther idea of necessity and causation in the operations of external objects’ ( E 8.22). Hume’s distinctive position, in other words, is 
+that we cannot even conceive of any type of ‘necessity’ or ‘causation’ that goes beyond the bounds of his two deﬁ  nitions. His imagined opponent pur-
+ports to have such a conception, and to attribute it to bodies, ‘denying that [the deﬁ  nitions] make the whole of necessity’ ( A 34) and ‘maintain[ing that] 
+there is something else in the operations of matter’ ( T 2.3.2.4). If this oppo-
+nent were correct, Hume clearly implies, he himself would be ‘mistaken’, so his own position must be that his two deﬁ  nitions do ‘make the whole of 
+necessity’ and that there is nothing else  [to necessity] ‘in the operations of 
+matter’. His ground for asserting this is very straightforward and entirely consistent in the Treatise , the Abstract , and the Enquiry : i t is sim p l y t o 
+insist against his opponent that we have no such idea , and hence that the 
+attribution cannot be made.
+The relevance of all this to the New Hume debate is equally straight-
+forward and obvious. For  the New Humean position is precisely that of 
+Hume’ s opp onent wh o claims th at th er e is something mor e to ‘ g enuine necessity’ than is captured by Hume’s two deﬁ  nitions . Hume takes himself 
+to have a quick and decisive answer to this claim, in denying that there can be any such conception. Thus Hume’s main argument concerning ‘liberty and necessity’ runs directly contrary to the New Humeans’ position. He is here denying exactly what they assert, namely, that we can coherently ascribe to things some kind of ‘upper-case’ Causation or ‘thick’ necessity that goes beyond his two deﬁ  nitions. If we could indeed do this, then his 
+imagined opponent would be able to ascribe that thick necessity to mat-ter but not to minds, and thus undermine Hume’s claim of equivalence between the necessity of the two domains, which is the entire point of his argument. Nor can there be any serious doubt about his intentions here, for the same argument occurs in the Treatise , the Abstract , and the Enquiry , 
+and it is the principal application of his two deﬁ  nitions in all three of these 
+works. Those deﬁ  nitions are clearly intended precisely for this role, and it is 
+a role that requires them to be interpreted semantically  rather than merely 
+epistemologically : as constraining what we are able to think  or mean  or 
+coherently refer to. Here, then, we seem to have exactly the kind of argu-ment which in §I we took to characterise the Old Humean posi tion: an argument denying ‘thick’ Causal powers in objects, on the basis that any term that purports to refer to such powers ‘lacks any meaning, and so the issue of whether there is any “in the objects” cannot even be intelligibly raised’.
+25
+Hume’s application of his deﬁ  nitions of cause to the ‘doctrine of neces-
+sity’ is not particularly subtle or complex, and it is very explicit. Moreover, in the Enquiry  the deﬁ  nitions occur at E 7.29, and their application starts 
+at E 8 .5 ,  j u s t  s ix  p ar a gr a p h s  a p art  in  a d j a c e n t  s ecti o n s  w h o s e  ti tl es  ar e  
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 133
+clearly related (‘Of the Idea of Necessary Connexion’ and ‘Of Liberty and 
+Necessity’). So it is surprising how widely this link has been ignored in dis-cussions of his philosophy, not least within the New Hume debate.
+26 Very 
+recently, however, there have been three discussions that (either explicitly or implicitly) contest my claim that ‘Of Liberty and Necessity’ provides crucial evidence against the New Hume, from Helen Beebee, Peter Kail, and John Wright.
+27 Let us examine these in turn.
+IV. BEEBEE ON LIBERTY AND NECESSITY
+Helen Beebee sets out to argue that ‘Hume’s discussion of free will provides 
+virtually no additional evidence, let alone decisive evidence, either for the traditional interpretation to which Millican subscribes or for any other’.
+28 
+In particular, therefore, she attempts to reconcile that discussion with the New Humean ‘sceptical realist’ reading, which she characterises as follows:
+The sceptical realist interpretation  . . . casts Hume as a ﬁ  rm believer 
+in real causal powers, and takes Hume to think that these powers are what our ordinary causal thought and talk refer to. A central feature of the sceptical realist interpretation is the claim that Hume’s primary point in his discussion of causation is an epistemological one. While our habits of expectation generate belief in real powers—when the transition in the mind from cause to effect generates belief that the ﬁ  rst 
+event causes the second, that belief really is a belief about the existence of a real power—we can never come to grasp the nature  of that power, 
+since our idea of it is generated not by the power itself but by the felt transition of the mind. So it makes sense to believe in real powers—in-deed, belief in them is mandatory because it arises as a result of natural processes in the imagination—despite the fact that our idea of those 
+powers is deﬁ  cient: we cannot, as Strawson (1989: 127) puts it, form a 
+‘positively or descriptively contentful conception’ of them. (pp. 415–6)
+There are points at which this characterisation of ‘sceptical realism’ could 
+be challenged, and (as we saw in §I) not all New Humeans would agree with the general claim that Hume is ‘a ﬁ  rm believer’ in thick connexions.
+29 
+But in fact this is a cen tral aspect o f Beebee’ s fa v o ured brand o f scepti-cal realism, which explains the Causal realist commitment as a ‘natural belief: . . . one that is forced upon us by the operations of the imagination’ (p. 428).
+30 On her approach, the impression of necessary connexion, though 
+itself arising internally from ‘the felt transition of the mind’ when we make a causal inference, naturally and irresistibly represents  something quite dif-
+ferent, namely, the supposed ‘real power’ in the objects themselves.
+31 Thus 
+the subjective character of the impression—and hence the corresponding idea—is sharply distinguished from their objective content. Indeed, this 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 134 Peter Millican
+sharp distinction is key to Beebee’s reconciliation of sceptical realism (so 
+understood) with Hume’s argument concerning liberty and necessity. For as  w e  ha v e  see n,  th e  cru cial  m o v e  in  tha t  argum e n t  is  H um e ’ s  r e pea t ed  insistence that our understanding of necessity is constrained by our idea of it, and that we have no ‘farther idea of necessity and causation in the operations of external objects’ ( E 8.22). But if our one legitimate  idea of 
+necessity already  makes reference to the sceptical realist’s supposed thick 
+causal powers (despite that idea’s subjective origin), then this constraint on our understanding need not apparently be any obstacle to a uniformly New Humean understanding of necessity.
+We shall come back to the question of whether this distinction between 
+an idea’s subjective character and its representative content is plausibly Humean, but for the moment let us allow it. Beebee’s sceptical realist still faces the challenge of showing that such a distinction is at work in Hume’s discussion of necessary connexion, which seems highly focused on identi-fying and clarifying the circumstances and character of the relevant sub-
+jective  impression, and deﬁ ning  accordingly what it is to be a cause. This 
+procedure sits uneasily with the suggestion that Hume takes the impression to be making reference beyond, to a supposed objective thick power that outruns the deﬁ  nitions. Moreover, any such further reference seems to play 
+no role when he comes to apply his deﬁ  nitions to the question of liberty and 
+necessity, an argument which can be crudely represented as follows:
+ Def N e c e s s i t y  i s  t o  b e  d e ﬁ  ned in terms of constant conjunction and 
+inference only.
+ CCI Constant conjunction and inference apply just as much to the moral 
+as the physical world, and are universally recognised as doing so.
+ Nec Therefore necessity applies as much to the moral as the physical 
+world. It is not possible to maintain that there is a thick necessity ‘in the operations of matter’ which is not present ‘in the voluntary actions of intelligent beings’.
+On the Old Humean view, the kind of ‘deﬁ  nition’ involved in Def is seman-
+tic—specifying the meaning  o f  ‘ n e c e s s i t y ’ — t h u s  m a k i n g  t h e  a r g u m e n t  
+very straightforward. Having acknowledged this (p. 424), Beebee considers whether other readings might enable the inference to go through:
+One way in which one might try to proceed would be to claim that 
+Hume is making an epistemic point: since our grounds  for believing in 
+thick necessity in both the human and non-human cases are the same, the libertarian has no right to claim that thick necessity is present in the ﬁ rst case and absent in the second. But this, just by itself, is not good 
+enough: Hume’s argument is not that (as far as our best evidence tells us) necessity is in fact  present in both cases; it is that everyone agrees  
+(on reﬂ  ection, and once they have accepted the two deﬁ  nitions) that 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 135
+this is so. . . . The sceptical realist interpreter thus needs to square the 
+claim that the two deﬁ  nitions do not exhaust the nature of necessity 
+with Hume’s claim that, once we accept the two deﬁ  nitions, we will 
+all in fact  agree on the doctrine of necessity—and not merely with the 
+claim that there will be no empirical grounds  for disagreement. (p. 425)
+Beebee is right to rule out the ‘mere empirical grounds’ reading: Hume is 
+not simply arguing that—given acceptance of his deﬁ  nitions— CCI con-
+ﬁ rms Nec empirically. But her gloss on the argument’s force does not go 
+far enough in limiting it to universal reﬂ  ective agreement  on Nec subject 
+to CCI. Hume’s words suggest something even stronger: that once the two 
+deﬁ nitions are agreed, there is no conceptual space left  for acknowledging 
+CCI while denying Nec.32
+Leaving this reservation aside, Beebee now goes on to observe that ‘Hume’s 
+epistemology, as far as causation is concerned, has both naturalistic and nor-mative aspects’ . Part of the naturalistic side is that we ﬁ  nd ourselves mak-
+ing causal judgements when the impression of necessary connexion arises in inductive inferences, and this occurs when we make predictions about the behaviour of people as well as things. As for the normative side:
+we should not merely restrict our belief in causation to those cases 
+where the imagination happens to deliver the impression of necessary connection: Hume clearly tells us, in his ‘rules by which to judge of causes and effects’ . . . that we ought  to seek out hidden causes, for 
+example. One of the aims of Hume’s discussion of the doctrine of ne-cessity is to show that we do, in fact, subscribe to Hume’s rules in the human case every bit as much as in the non-human case; . . . (p. 426)
+It is this normative aspect of Hume’s theory to which Beebee appeals as a 
+way of generalising ‘the belief in thick necessity [which] is delivered by con-stant conjunction and the felt determination of the mind’ (p. 427). Hume’s rules commit us normatively to extending such belief from the causal inter-actions that have directly prompted our customary inferences to other interactions that are appropriately similar. To summarise:
+Sceptical realist interpreters claim that belief in real powers is a natural 
+belief: it is one that is forced upon us by the operations of the imagina-tion. And [given] . . . the normative aspect of Hume’s epistemology of causation . . . , Hume holds that that belief is one that we are in fact , 
+whether we like it or not, committed to in cases where, for example, we believe that apparent irregularities in human behaviour are explained by hidden differences in character or motives. So . . . Hume’s argument shows that . . . the necessity [the libertarian] is in fact committed to in the human realm just is the same as the necessity she is committed to in 
+the non-human realm. (p. 428)
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 136 Peter Millican
+Beebee concludes by giving a very general gloss on Hume’s two deﬁ  nitions 
+which ties in neatly with this account (pp. 429–30).33 The second deﬁ  nition 
+focuses on the impression of necessary connexion, which ﬁ  xes the meaning 
+of our causal terms (either because our idea is a straightforward copy of the impression, as on the Old Hume account, or because it represents a thick power, on Beebee’s favoured New Humean reading). Meanwhile, the ﬁ  rst 
+deﬁ nition speciﬁ  es the circumstances under which ‘causal talk is appropri-
+ate’ more widely, even in cases where no such impression arises.
+Overall, Beebee has devised an ingenious story for reconciling Hume’s 
+argument concerning liberty and necessity with the principles of her Causal realist New Hume. But unfortunately, it cannot stand up to close critical examination. To start with her last point, there is no textual evidence that Hume takes his argument to be turning on the sorts of normative consid-erations that her account would imply. On the contrary, as we saw earlier in §III, Hume consistently points to issues of meaning and the limits of our 
+ideas  as the locus of his decisive contribution. His ‘rules by which to judge 
+of causes and effects’—along with all of his other normative recommenda-tions from Treatise  1.3—go completely unmentioned in Treatise  2.3.1–2, 
+and likewise in the entire Abstract . Admittedly, in Enquiry  8 he does at cer-
+tain points advocate systematic and normatively disciplined causal investi-gation (notably at E 8.13–15). But he never suggests that these norms are 
+what require us to ascribe the same necessity to the physical and moral realms, or that Clarkean libertarians who insist on a distinction between physical and moral necessity are guilty of a breach of scientiﬁ  c good prac-
+tice in failing to apply his rules consistently. Their fault is far more straight-forward and decisive: either misunderstanding their own ideas, or making assertions that lack meaning for want of an appropriate idea. The argument clearly hinges, in other words, on the limits of thinkability, not on such things as scientiﬁ  c norms.
+Nor can Beebee claim independent support from her preferred interpre-
+tation of Hume’s two deﬁ  nitions, seeing them as ‘descriptions of the two 
+different ways  in which we come to make . . . causal judgements’ (p. 419). In 
+her book she suggests a slightly different formulation, whereby the deﬁ  ni-
+tions ‘exhaust the reasonable  means by which we can come to make causal 
+judgements’ ( Hume on Causation , p. 107), thus building normativity into 
+the deﬁ  nitions themselves. But although much of her discussion here is illu-
+minating and insightful, the textual foundation for such an interpretation is too weak to bear much interpretative weight.
+34 Even if it is accepted, more-
+over, it does little to vindicate Hume’s argument from Def and CCI to Nec. 
+If we are to understand Def—‘Necessity is to be deﬁ  ned in terms of con-
+stant conjunction and inference only’—as specifying ways in which causal 
+judgements are to be made , rather than as deﬁ ning what necessity is , then 
+why should Hume’s libertarian opponent accept the inference to Nec: ‘It is 
+not possible to maintain that there is a thick necessity in the operations of matter which is not present in the voluntary actions of intelligent beings’? 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 137
+Samuel Clarke, for example, would fully accept that both physical events 
+and human actions are causal, but would insist that the kind of causation 
+involved is quite different, with absolute physical  necessity in the one case, 
+and mere moral  necessity in the other.35 It is not clear how a speciﬁ  cation 
+of ways in which causal judgements are to be made —even if agreed—can 
+have any bearing on this question. If Hume’s two deﬁ  nitions are just saying 
+that our basis  for causal judgements must take the form of either observed 
+uniformities or natural inference, this seems completely silent on the ques-tion of whether or not there is a single kind  of causation involved. It is 
+only to the extent that causal judgements are required to involve a single 
+idea that any such conclusion can potentially be drawn, and this, again, is 
+clearly the main thrust of Hume’s own argument.
+It seems, then, that neither Beebee’s appeal to the normativity of Hume’s 
+discussions of causation, nor her interpretation of the two deﬁ  nitions, can 
+be of much assistance in making sense of his argument concerning liberty and necessity. Her reconciliation of that argument with New Humeanism, therefore, has to depend entirely on her initial guiding thought that for the sceptical realist, the very idea of necessary connexion—whose origin Hume traces— itself  irresistibly represents a ‘thick’ power in the external 
+objects themselves rather than the subjective impression from which it is copied. In her 2007 paper, Beebee appeals to this thought without explain-ing it at length, but her 2006 book ( Hume on Causation , 176–8) gives a bit 
+more detail, motivating it in what has become the standard way for New Humeans,
+36 by comparison with Hume’s treatment of the external world. 
+Hume is generally considered to be a believer in ‘the continu’d and distinct existence of body’ ( T 1.4.2.2), partly because he repeatedly says that we 
+are naturally and irresistibly inclined to have such a belief (e.g., T 1.4.2.1, 
+E 12.7–8), and partly because his other philosophical views—as expressed 
+in his lengthy discussions of causal reasoning, morals, politics, econom-ics, religion, and so on—seem to take it for granted. But if all our ideas of external objects are copied completely from subjective impressions, as implied by his Copy Principle ( T 1.1.7, E 2.5), then it might seem impos-
+sible for us even to form a thought  of a genuinely distinct and independent 
+object. This suggests to Beebee that Hume’ s a pparent acceptance of the external world must imply some loosening of his strict theory of ideas, some way in which ‘our ideas and impressions [can] represent  mind-inde-
+pendent reality, and thus represent that reality as a world of mind-indepen-dent chairs, tables, cats and dogs [even though] those ideas are inadequate  
+ideas of what they represent’.
+37 Carrying this suggestion over to the case 
+of causation, perhaps the idea of necessary connexion—copied though it is from the internal impression of ‘customary transition of the imagination’ (T 1.3.13.3, E 7.28)—can somehow represent  the mind-independent neces-
+sity that supposedly underlies inductive uniformities, and thus provide a vehicle for a Causal realist belief. That, at any rate, is the essence of Bee-bee’s proposed New Humean account.
+38
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 138 Peter Millican
+The most fundamental problem with this account of Humean represen-
+tation is that it is very poorly supported by the texts, which give no hint of how either an internal impression—or an idea copied from such an impres-sion—might come to represent some supposed objective necessity that lies beyond our experience. Nor are the comparisons with the case of the exter-nal world helpful or convincing. Consider ﬁ  rst the suggestion that Hume’s 
+impression  of necessary connexion can somehow refer beyond itself to a 
+‘thick’ Causal power, with the copied idea thus inheriting this objective reference. Not only is there no trace of any such theory in Hume’s text, but also, it would run quite contrary to his insistence—when arguing towards his account of our belief in body in terms of imaginative ﬁ  ctions—that 
+impressions are transparently open to view and thus unable to point to anything beyond themselves:
+That our senses offer not their impressions as the images of something 
+distinct , or independent , and external , is evident; because they convey 
+to us nothing but a single perception, and never given us the least inti-mation of any thing beyond. . . . all sensations are felt by the mind, such as they really are . . . every impression, external and internal, passions, affections, sensations . . . appear, all of them, in their true colours, as impressions or perceptions. . . . For since all actions and sensations of the mind are known to us by consciousness, they must necessarily ap-pear in every particular what they are, and be what they appear. Every thing that enters the mind, being in reality  a perception, ’tis impossible 
+any thing shou’d to feeling  appear different. ( T 1.4.2.4–7)
+In Treatise  1.3.14, Hume draws the obvious moral, that our impressions 
+and ideas cannot possibly represent an objective ‘thick’ necessity, power, or efﬁ cacy, since we never perceive any such thing:
+Ideas always represent their objects or impressions; and vice versa , 
+there are some objects necessary to give rise to every idea. If we pre-t e n d ,  t h e r e f o r e ,  t o  h a v e  a n y  j u s t  i d e a  o f  t h i s  e fﬁ  cacy, we must pro-
+duce some instance, wherein the efﬁ  cacy is plainly discoverable to the 
+mind, and its operations obvious to our consciousness or sensation. (T 1.3.14.6, cf. 1.3.14.11)
+There is, then, nothing new either discover’d or produc’d in any objects 
+by their constant conjunction, and by the uninterrupted resemblance of their relations of succession and contiguity. But ’tis from this resem-blance, that the ideas of necessity, of power, and of efﬁ  cacy, are deriv’d. 
+These ideas, therefore, represent not any thing, that does or can belong to the objects, which are constantly conjoin’d. This is an argument, which . . . will be found perfectly unanswerable. ( T 1.3.14.19)
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 139
+Even if we abandon this Humean doctrine of transparent representation, and 
+adopt some more sophisticated causal theory of reference for impressions (whereby an impression can represent the hidden underlying reality from which it arises), it is still not clear that Beebee’s theory can be adequate to the task of explicating Hume’s argument concerning liberty and necessity. For that argument is supposed to guarantee  that our impression and idea of neces-
+sity refer to a single kind  of necessity, and this sort of causal theory could give 
+no such guarantee. According to Hume, the impression arises from repeated observation—and consequent customary inference—both of material inter-actions (such as colliding billiard balls) and of human actions. His libertarian opponent, such as Clarke, claims that the physical  and moral  cases involve 
+diff e r e n t  kin d s  o f  n e c es s i ty ,  w hil e  H um e  aims  t o  r e fu t e  thi s  b y  a p pe al  t o  the impression which is common to both. But if all necessity is beyond our grasp except insofar as our thought represents it—inadequately—through the impression to which it gives rise, then no such refutation can work. For even if the libertarian agrees that exactly the same subjective impression is generated in both cases (through similar experienced uniformity and infer-ence ), he has no good reason to concede that this provides signiﬁ  cant evi-
+dence—let alone decisive proof—of the same underlying necessity. Clarkean libertarians may be perfectly willing to accept that both physical and moral necessities give rise to uniformity (and thus inductive prediction). But unless that common manifestation constrains h uman thought—as it does on the Old Humean picture—it poses no threat to our supposing that there are dif-ferent necessities at work in the physical and moral cases.
+If an internal impression cannot represent an objective necessity, then an 
+idea copied from such an impression fares no better. First, Hume repeatedly insists that our ideas ‘exactly represent’ the impressions from which they are copied ( T 1.1.1.7, cf. 1.1.1.12, 1.3.7.5, 1.3.14.6, 1.3.14.11, A 6),
+39 and 
+can never represent anything else ‘without a ﬁ  ction’ ( T 1.2.3.11). Secondly, 
+in the case of the external world, but not in the case of necessity , Hume 
+gives an elaborate explanation of how such a ‘ﬁ  ction’—a sort of pseudo-
+idea—can arise without being put together from bona ﬁ  de impression-cop-
+ied ideas ( T 1.4.2.36–43). Thirdly, Hume says that those who attempt to 
+get beyond the confused ﬁ  ctions of the vulgar, by giving a philosophically 
+respectable account of the external world, fail hopelessly to achieve this:
+Philosophers deny our resembling perceptions to be identically the 
+same, and uninterrupted; and yet have so great a propensity to believe them such, that they arbitrarily invent a new set of perceptions, to which they attribute these qualities. I say, a new set of perceptions: for we may well suppose in general, but ’tis impossible for us distinctly to conceive, objects to be in their nature any thing but exactly the same with per-ceptions. What then can we look for from this confusion of groundless and extraordinary opinions but error and falsehood? ( T 1.4.2.56)
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 140 Peter Millican
+So it seems that even in the case of the external world, philosophers are 
+after all limited in thought by the Copy Principle, trapped within the con-ﬁ nes of their own perceptions.
+All this seems a long way from Beebee’s subtle New Humeanism, which 
+purports to assign a content to our idea of necessity going well beyond the nature of the impression from which it is derived. And this contrast is particularly striking, given that Hume’s discussion of that idea’s origin—as we saw in §II—is explicitly undertaken with the aim of clarifying its signiﬁ  -
+cance by identifying its impression source:
+We shall . . . endeavour, in this section, to ﬁ  x, if possible, the precise 
+meaning of these terms [ necessary connexion,  etc.] . . . [by] what in-
+vention can we throw light upon [our most simple] ideas, and render them altogether precise and determinate to our intellectual view? Pro-duce the impressions or original sentiments, from which the ideas are copied. ( E 7.3 – 4)
+I n  r e s p e c t  o f  i t s  a p p e a l  t o  t h e  t h e o r y  o f  i d e a s ,  t h e r e f o r e ,  H u m e ’ s  t r e a t -
+ment of necessary connexion is radically different from his treatment of the external world. So far from insisting that no corresponding impression can be found—and therefore having to resort to an imaginative ‘ﬁ  ction’ to 
+account for the problematic belief—here a bona ﬁ  de impression is explicitly 
+identiﬁ  ed and trumpeted as providing the source and meaning of the idea 
+of necessary connexion. Moreover, we are given no suggestion that any-thing beyond that impression need be sought in order to make philosophi-cal sense of the idea. Admittedly some further content is present within the ‘vulgar, inaccurate idea’ of power, because this is typically contaminated with feelings of the ‘animal nisus’ or ‘strong endeavour’ that we experience when striving physically against resistance ( E 7.15, n. 13). But such feelings 
+‘can afford no accurate precise idea of power’, and we are unambiguously guilty of an error  if we ‘transfer [them] to inanimate objects, and . . . sup-
+pose, that they have some such feelings’ ( E 7.29, n. 17).
+40 Elsewhere, Hume 
+hints at another possible source of contamination, in that the vulgar are inclined:
+to imagine they perceive a connexion betwixt such objects as they have 
+constantly found united together; and because custom has render’d it difﬁ cult to separate the ideas, they are apt to fancy such a separation to 
+be in itself impossible and absurd. ( T 1.4.3.9)
+But again, this seems to be dismissed as an error, rather than being embraced 
+as a potential source of illumination regarding the cognition—or even the mere thought—of genuine powers.
+41
+In short, from the point when he identiﬁ  es the crucial impression for 
+which he has been seeking, Hume is unequivocal that all legitimate  thought 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 141
+about necessary connexion must answer to the corresponding idea and to 
+the two deﬁ  nitions that characterise its circumstances of origin:
+Necessity, then, . . . is nothing but an internal impression of the mind 
+. . . Without considering it in this view, we can never arrive at the most distant notion of it, or be able to attribute it either to external or inter-nal objects. . . . ( T 1.3.14.20)
+These two circumstances form the whole of that necessity, which we 
+ascribe to matter. Beyond the constant conjunction  of similar objects, 
+and the consequent inference  from one to the other, we have no notion 
+of any necessity or connexion. ( E 8.5)
+Such passages state clearly that only ‘thin’ necessity can be attributed  or 
+ascribed . Yet on Beebee’s New Humean theory, our idea of necessary con-
+nexion is supposed to represent a ‘thick’ necessity, and we are even enjoined t o  a p p l y  t h a t  i d e a  r e ﬂ  ectively—to cases where the impression does not 
+arise naturally—on the basis of Hume’s ‘rules by which to judge of causes and effects’ and so on. Such selective application would seem precisely to involve the ascription  of thick necessity, in direct contradiction of Hume’s 
+words. Beebee attempts to elude this sort of objection by drawing a dis-tinction between ascription  and reference  (p. 422), but such a distinction 
+seems very unconvincing. There is surely a serious oddity in the suggestion that we can refer to and selectively apply  something of which we have ‘no 
+notion’ (indeed, not even ‘the most distant notion’), and which we conse-quently cannot attribute  or ascribe . Absolutely nothing in Hume’s texts 
+justiﬁ  es the claim that he would distinguish between the different kinds of 
+representation in this way.
+42 Overall, therefore, it is hard to see how Hume’s 
+theory of ideas could possibly accommodate what Beebee’s New Humean-ism requires, namely, that the idea of necessary connexion—though admit-tedly derived from a subjective impression—can nevertheless represent a ‘thick’ necessity that goes beyond his two deﬁ  nitions.
+The failure of Beebee’s attempt to reconcile Causal realism with Hume’s 
+argument concerning liberty and necessity has a wider moral. Her aim was to exhibit a form of ‘sceptical realism’ which could achieve such a reconcili-ation, and she accordingly adopted an approach which—like Hume’s own argument—gave a central role to the idea of necessary connexion that he identiﬁ  es. Given this background, Beebee went on to argue that ‘Hume’s 
+discussion of free will provides virtually no additional  evidence’ (p. 413, 
+my emphasis) against such Causal realism, and to some extent I agree. If it 
+were plausible to read Hume as saying both that our understanding of nec-
+essary connexion is completely captured by that idea, and also  that the idea 
+determinately represents an objective ‘thick’ necessity, then her reconcili-ation might come close to success.
+43 But no such plausible reading is avail-
+able: there is nothing in Hume’s texts to suggest that the subjective idea can 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 142 Peter Millican
+indeed represent a ‘thick’ necessity in the way that she requires. Hence the 
+decisive objections to her reconciliation are to the form of ‘sceptical real-ism’ on which it is based, rather than speciﬁ  cally to her reading of Hume’s 
+argument concerning liberty and necessity. As we shall see, this contrasts with the position with regard to Peter Kail and John Wright, who favour an interpretation of ‘sceptical realism’ in which the idea of necessary connex-ion plays a far less central role, but who accordingly encounter even greater difﬁ culties in making sense of Hume’s discussion of liberty and necessity.
+V. KAIL ON LIBERTY AND NECESSITY
+Peter Kail’s response to the challenge posed by ‘Of Liberty and Necessity’ is 
+quite different from Beebee’s; indeed, the ﬁ  rst half of his paper on the topic 
+is dev oted t o an anal ysis o f Hume’ s ‘ sceptical realism ’ which is in star k contrast to her ‘natural belief’ account. According to Kail:
+Realists [i.e., New Humean interpreters] do not, and more importantly, 
+need not, read Hume as believing  in powers.
+44 Realists instead talk of 
+Hume’s ‘assumption’ or his ‘taking for granted’ or his ‘supposition’ of powers. . . . And realists typically do not say that the attitude towards the existence of power admits of what, straightforwardly at least, is epistemic justiﬁ  cation  . . . Realism need not involve belief or epistemic 
+justiﬁ  cation: so how then are we to understand it?
+45
+He answers his own question by insisting that this ‘realism’ can only be 
+understood by contrast with what it opposes:
+At the forefront of the original realist readings of Strawson, Edward 
+Craig and John Wright is an anti-realism fuelled by an understanding of Hume’s story about impressions and ideas . . . the focus of which is conceptual or semantic. . . . At a minimum, realism holds that we can form thoughts that reach beyond the deliverances of impressions and thereby allow for the possibility of an ontology that includes genuine causal power or external objects. . . . (pp. 254–5)
+Thus, as we saw in §I, Kail’s minimal requirement for ‘sceptical realism’ is 
+compatible with complete agnosticism about ‘genuine causal power’, and a long way from Beebee’s interpretation with its unshakable, imagination-compelled natural beliefs.
+Kail’s treatment also contrasts strongly with Beebee’s in putting far less 
+emphasis on the impression and idea of necessary connexion that Hume himself identiﬁ  es, and Kail would apparently dismiss her suggestion that 
+this subjective idea might somehow represent an objective power:
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 143
+. . . as all realists acknowledge, we have no idea of necessity derived from 
+a genuine experience of power. Hume’s ofﬁ  cial account of the state of 
+belief implies that any such belief in causal power would have to involve such an idea. Therefore no such belief is available to Hume. (p. 254)
+On Kail’s interpretation, the kind of ‘thought . . . relevant to Hume’s real-
+ism about causation’ does not involve ‘an idea of necessity or [even] a rela-
+tive idea of necessity’. Instead, it ‘expresses itself in how Hume understands what it would be to have a genuine  impression of power’:
+If we were to perceive power—have an impression of it—we would be 
+(a) able to ‘read off’ what effect some object must have and (b) ﬁ  nd it 
+impossible to conceive of the cause without the effect. So when asked what is one thinking of when one thinks of power, the appropriate answer is that which, were we to grasp it, would furnish the capacity for such ‘a priori’  inference and close down our powers of conception. 
+Call this the reference-ﬁ  xer for ‘power’ (RFP). . . . We have no under-
+standing of what feature it is that would yield those consequences. . . . It is a thought of a kind that manifests itself in Hume’s argumentative strategy. (p. 256)
+Having explained his RFP notion, Kail acknowledges that it is in some ten-
+sion with familiar elements of the Humean package:
+. . . one might ﬁ  nd [appeal to the RFP] objectionable in a number of 
+ways. First one might argue that the alleged feature is, so speciﬁ  ed, 
+incoherent: it is impossible for there to be any such feature since we can always  separately conceive cause without effect and we can never  infer 
+a priori  effect from cause. . . . Second, one might argue that the grasp 
+of the RFP manifested in Hume’s arguments is merely for reductio , and 
+so signals no endorsement of it. . . .
+I have argued elsewhere that both of these anticipated objections are indeed 
+very serious. First, Kail’s RFP notion comes badly into conﬂ  ict with Hume’s 
+oft-repeated ‘Conceivability Principle’, a principle whose application Kail attempts to limit to ‘sensory experiences or impressions ’
+46 but on a very 
+thin textual basis.47 Secondly, there is little solid evidence for viewing Kail’s 
+RFP as carrying implicit endorsement within ‘Hume’s argumentative strat-egy’, which can be explained perfectly well in other ways.
+48 But since my 
+aim in this chapter is to focus on the speciﬁ  c difﬁ  culties for New Humean-
+ism arising from Hume’s treatment of liberty and necessity, let us put aside these worries here.
+Kail goes on to address the question of how realist thought as charac-
+terised by his RFP can arise experientially in accordance with Humean 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 144 Peter Millican
+principles, and suggests that this can happen because customary inference 
+is able to ‘mimic a genuine experience of power’:
+First, the determination of the mind effects an immediate  and non-
+reasoned  transition from cause to effect . . . But that immediacy is the 
+effect of prior habit and not of a grasp of causal power. Second, the incapacity to conceive cause without effect that a true grasp of neces-sity involves is given a psychological twist by Hume. The effect of the repeated experience of A and B is ﬁ  nding it psychologically impossible 
+to think of the cause object without its effect. . . . (p. 258)
+Recall that we saw serious problems in Beebee’s account, in that it left quite 
+mysterious how Hume’s subjective ‘idea of necessary connexion’ could pos-sibly give content to a belief in an objective thick power. Kail here proposes a clever way of trying to ﬁ  ll this gap, backed up by a passage that we have 
+already encountered in §IV:
+’Tis natural for men, in their common and careless way of thinking, to 
+imagine they perceive a connexion betwixt such objects as they have constantly found united together; and because custom has render’d it difﬁ cult to separate the ideas, they are apt to fancy such a separation to 
+be in itself impossible and absurd. ( T 1.4.3.9).
+After quoting this passage, Kail continues:
+Fancying the ‘separation’—the independent conception of the cause 
+without the effect—is something we come to think of as impossible : 
+which is precisely what the RFP assumed. That gives us a psychological explanation of immediate transition and the impossibility of conceiving cause without effect without our ever having had a genuine experience of power. . . . But it is important to note that our actual idea of neces-
+sity—the determination of the mind—does not itself represent  power 
+in the objects (and neither does the impression). For that idea is a copy of the relevant impression, which is simply an impression of our psy-
+chological  determination. . . . [However] a grasp of the RFP itself can 
+emerge from this idea of necessity: the view that power would involve immediate inference and the incapacity to conceive cause without ef-fect. This notion of power is ‘fancied’ in virtue of the kind of effect the customary transition has upon our minds, though the RFP is not iden-
+tical to that idea. It is something we can suppose of causal powers even 
+when we have no idea of what  would yield the cognitive consequences 
+so speciﬁ  ed nor the faintest notion of what  power might be. (p. 259)
+This kind of account—which aims to explain how the imagined insepa-
+rability of ideas in causal inference can yield an illusion of grasping an a 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 145
+priori connexion—is attractive to New Humeans, because it neatly links 
+Hume’s account of causal reasoning with the absolute necessity that they take to characterise ‘real’ powers.
+49 But claiming it as a core component 
+of Hume’s own philosophy of causation by appeal to T 1.4.3.9 seems very 
+unconvincing, because there he is explicitly criticising the ‘antient philoso-phers’ for following a vulgar error of the imagination in ascribing objec-tive powers to objects: in other words, he is giving an error theory , not an 
+account of a notion that he sees as potentially legitimate. Later in the same paragraph he says that the ‘just inference’ would be ‘that we have no idea of power or agency, separate from the mind, and belonging to causes’. More-over, trying to identify such power or agency in objects is to ‘seek for it in a place, where ’tis impossible it can ever exist’. He goes on in this vein for the rest of the section, and indeed a natural reading of T 1.4.3.9–10 would 
+put the New Humeans’ supposition of ‘genuine power’ in the same boat as the antient philosophers’ ‘faculties’ and ‘occult qualities’, for which Hume shows nothing but contempt.
+In his book ( Projection and Realism in Hume’s Philosophy , 107), Kail 
+cites other passages that mention, or at least hint at, something like the feeling of inseparability that is described most explicitly at T 1.4.3.9. Thus 
+at T 1.3.6.15, Hume says that ‘we have no other notion of cause and effect, 
+but that of certain objects, . . . which in all past instances have been found inseparable’. At T 1.3.8.13, he speaks of custom operating on the mind 
+‘before we have time for reﬂ  ection. The [cause and effect] seem so insepa-
+rable, that we interpose not a moment’s delay in passing from the one to the other’. In the Enquiry , he suggests that after someone ‘has observed several 
+instances’ of the conjunction of cause and effect, ‘he now feels these events 
+to be connected  in his imagination, and can readily foretel the existence of 
+one from the appearance of the other’ ( E 7.28).
+50 But again, none of these 
+passages does much to support the claim that Hume sees such feelings of inseparability and immediacy of inference as giving a handle on a genuine and objective ‘thick’ notion of causation; rather, the passages in context seem mainly to be providing an insightful description of an admittedly mis-leading aspect of human phenomenology.
+Quite apart from this weak textual basis, there is also a particular philo-
+sophical difﬁ  culty in Kail’s suggestion that Hume might envisage a dis-
+tinct (and respectably truth-apt) notion of necessary connexion as arising through our grasp of his RFP: as something ‘which, were we to grasp it, 
+would furnish the capacity for such a priori inference and close down our powers of conception’ . For by weakening Hume’s Copy-Principle empiri-
+cism, this method of extending our conceptual repertoire would appear to undermine his own objection to Locke’s attempt to explain the origin of the idea of power as something capable of producing changes in material things  
+(T 1.3.14.5 and E 7.8, n. 12, referring to Locke’s Essay  II xxi 1).
+51 If, even 
+in the absence of a relevant impression, we can form a respectable notion of something which would yield certain cognitive  consequences, then it is 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 146 Peter Millican
+hard to see why we could not form an equally respectable notion of some-
+thing which would yield certain material  consequences. Of course this is 
+not by itself decisive against Kail’ s account—it could be that Hume j ust failed to note the inconsistency—but it is certainly a substantial objection.
+Having given his explanation of how Hume can admit an RFP-based 
+notion of necessity, Kail suggests that Hume indeed endorses that notion, on the basis of ‘a crucial passage’ (i.e., T 1.4.4.1) which he interprets as 
+stating that ‘the “customary transition from causes to effects” that is the idea of necessary connection ’ is a principle of the imagination which is 
+‘permanent, irresistible and universal’ (Kail, p. 261). ‘Any authority that that inferential disposition has’, Kail continues, ‘can lend minimal but nev-ertheless genuine support to an assumption that there is power underlying the regularities. This minimal support, and Hume’s preparedness to talk of hidden connections, tips the balance in favour of realism.’ Thus Hume ‘shows a preference in favour of a metaphysic of power’, but Kail is very careful to insist on its minimal nature and scope:
+This preference concerns solely what occurs at the level of metaphysics 
+and plays no role in common life. For those purposes, the existence of power or otherwise is irrelevant. It is partly for this reason that such an ‘assumption’ or ‘supposition’ does not manifest itself in the psychologi-cal state of belief . Beliefs tend to govern one’s behaviour in a way that 
+assumptions do not. . . . The minimal preference for realism is simply a preference for what metaphysical position the combination of our natural propensities and reason delivers: reason suggests agnosticism but that is trumped by the natural propensities. (pp. 261–2)
+Again, one can raise problems; for example, Kail’s ‘crucial passage’ at T 
+1.4.4.1 does not even mention necessary connexion, but focuses on custom, whose central role in Hume’s philosophy is already uncontroversial (so the passage adds nothing of relevance here). Customary inference is indeed sometimes identiﬁ  ed by Hume with an impression  of necessity (never an 
+idea,  a s  Kail  s u gg es ts ) ,  b u t  i t  i s  an yw a y  s u b j ecti v e,  s o  i t  can  o nl y  d u b i -
+ously ‘lend support to an assumption’ of objective power. Moreover, Sec-tion 1.4.4 of the Treatise  ﬁ nishes by concluding that the two ‘permanent, 
+irresistable and universal’ principles identiﬁ  ed in its ﬁ  rst ‘crucial’ paragraph 
+are in ‘direct and total opposition’, so it is somewhat problematic to see that paragraph as providing the reﬂ  ective support that Kail seeks.
+We have by now encountered a number of formidable problems for 
+Kail’s general account of Hume’s Causal realism, but let us here set them all aside, and move on to examine his approach to the speciﬁ  c difﬁ  cul-
+ties of accommodating Hume’s argument on liberty and necessity within a New Humean perspective. Although his sketch of the resulting objections is rather different from my own in §III, we can largely ignore the differ-ences here. His reply starts as follows:
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 147
+These objections (a) rest on the assumption that Hume’s realism—the 
+minimal preference for a metaphysics of genuine necessitation—must shape, or ﬁ  gure in, his reconciliation project [i.e. Section 8 of the En-
+quiry ] and (b) crucially miss the fact that Hume reﬁ  gures the dispute at 
+the level of common life  rather than as an issue in the metaphysics of 
+causation. What this means is that Hume’s realism—the minimal pref-erence—is irrelevant to the discussion and so cannot be inconsistent  
+with it. (pp. 263–4)
+These two points together would indicate that we should not expect 
+Hume’s metaphysics of causation and necessity to ﬁ  gure in his argument 
+concerning liberty and necessity, thus enabling the New Humean account to escape any responsibility for accounting for the logic of that argument. But the points themselves clearly require justiﬁ  cation, and in fact point (b) 
+in particular is very hard to square with Hume’s texts. Kail introduces it by stating that the ‘opening paragraph’ of Enquiry  8 ‘implies a distinc-
+tion between unsolvable metaphysical disputes and those of common life, and what is interesting is [that] the dispute between the libertarian and the necessitarian [is] deemed to be a debate in common life’ (p. 264). Such a reading, however, goes well beyond the text. In the ﬁ  rst paragraph of 
+Section 8, Hume is clearly aiming to motivate his project of resolving the free-will issue through clariﬁ  cation of the relevant ideas, by emphasising 
+the plausibility of his claim that the issue has persisted because of misun-derstanding and ambiguity. One might naturally expect, he suggests, that in any very long-running debate the meaning of the terms would have been agreed upon. But on the contrary, the very fact that a debate has remained undecided for so long indicates that there is likely to be some ambiguity in the terms involved. Of course this might not always be the case:
+It is true; if men attempt the discussion of questions, which lie en-
+tirely beyond the reach of human capacity, such as those concerning the origin of worlds, or the oeconomy of the intellectual system or region of spirits, they may long beat the air in their fruitless contests, and never arrive at any determinate conclusion. But if the question re-gard any subject of common life and experience; nothing, one would think, could preserve the dispute so long undecided, but some ambigu-ous expressions. . . .
+He then starts the next paragraph by saying that ‘This has been the case 
+in the long disputed question concerning liberty and necessity’, in which ‘a few intelligible deﬁ  nitions would immediately have put an end to the whole 
+controversy’ ( E 8.2).
+Hume thus conﬁ  rms that the question of liberty and necessity ‘regards 
+c o m m o n  l i f e  a n d  e x p e r i e n c e ’ ,  a n d  i m p l i c i t l y  d e n i e s  t h a t  i t  l i e s  ‘ e n t i r e l y  beyond the reach of human capacity’ (as indeed he intends to demonstrate). 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 148 Peter Millican
+But nothing here suggests a general dichotomy ‘between . . . metaphysical 
+disputes and those of common life’. Indeed, the word ‘metaphysics’ and its cognates do not even occur here,
+52 and Hume’s usage elsewhere in the 
+Enquiry  (e.g., E 1.7 , 1. 12, 7 .2–3 ) indicates that he anyway does not take 
+metaphysical disputes to be typically unsolvable. Nor, even, do his two uses of the word within Section 8 give any support to Kail’s reading. At 8.23 Hume refers to ‘the question of liberty and necessity; the most contentious question . . . of metaphysics’, and at 8.27 he pairs ‘metaphysics’ with ‘nat-ural philosophy’ against ‘morality and religion’ in respect of the kind of necessity traditionally understood to apply there. Thus we have an explicit statement that the question of liberty and necessity is indeed metaphysical (contra  Kail), and an implicit indication that this very metaphysical question 
+stands to be illuminated by clariﬁ  cation of the relevant terms in much the 
+same way as questions of natural philosophy. There are also other strong indications within the section against Kail’s suggestion that Hume is operat-ing with a general distinction between common life and metaphysics. Thus at 8. 1 6 he points out that the ubiquity of constant conjunction has never been disputed ‘either in philosophy or common life’, and at 8.27 he makes a similar claim about constant conjunction and inference ‘in the schools, in the pulpit, and in common life’. These suggest a continuity  between philoso-
+phy and common life, rather than any sharp dichotomy. There is only one other mention of ‘common life’ in the section, in the very ﬁ  nal paragraph, 
+where Hume contrasts ‘the sublime mysteries’ of divine foreknowledge and theodicy with ‘the examination of common life’. This certainly ﬁ  ts with the 
+contrast drawn in the ﬁ  rst paragraph, but again does nothing to suggest that 
+‘common life’ is to be contrasted with metaphysics  in general.
+There is also the obvious point that Hume’s argument concerning lib-
+erty and necessity is presented in three texts, while his introductory com-ment on disputes in common life is entirely absent from the Treatise and 
+Abstract . Kail confronts this objection in a puzzling footnote:
+Objection: this [the mention of common life] only occurs in the ﬁ  rst 
+Enquiry . Since similar problems for Hume’s realism can be mounted 
+on the basis of Hume’s Treatise  discussion of liberty and necessity, ap-
+peal to this passage to remove the objection cannot help the problem formulated in the Treatise . Response: all this means is that the Enquiry  
+affords a better case for realism. Realist readers (e.g. Strawson 1989: 8) view the Enquiry  as superior to the Treatise  with respect to the dis-
+cussion of causation in this respect not least because the references to secret powers are more prominent, so such a move is not ad hoc . Those 
+who prefer the ﬁ  rst Enquiry  to the Treatise  thus have reason to take 
+this as authoritative. (p. 268, n. 26)
+Kail’s reply here misses the fundamental point, that Hume’s discussions in 
+the Treatise  and Abstract  appear to present essentially  the same argument  
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 149
+as in the Enquiry .53 So if the appeal to common life is ‘crucial’ to a correct 
+understanding of that argument, as Kail claims, then this leaves the Trea-
+tise and Abstract  as crucially deﬁ  cient. But to judge them as such seems 
+prima facie  implausible: nothing within them gives any indication that they 
+are so deﬁ  cient. Hence we have strong reason to prefer an interpretation 
+of the Treatise  and Abstract  discussions that does not rely on Kail’s ‘com-
+mon life’ claim, and also strong reason—given the apparent identity of the argument—to do the same for the Enquiry . Kail’s footnote does nothing to 
+answer this straightforward point.
+Leaving these criticisms aside, let us ﬁ  nally see how Kail deals with the 
+f u n d a m e n t a l  o b j e c t i o n  o f  § III  a b o v e :  t h a t  t h e  s t r a t e gy  o f  H u m e ’ s  a r g u -ment for ascribing exactly the same necessity to matter and mind seems to turn on the denial of any kind of thick necessity that goes beyond his two deﬁ nitions. Kail appreciates the force of this objection, acknowledging that 
+it ‘would be devastating—if it weren’t for the fact that there are clues in [Enquiry  8] that this cannot be Hume’s strategy since he himself violates it’. 
+(p. 266).
+54 Kail describes the alleged violation as follows:
+But now to the main point: in the midst of the discussion Hume is 
+prepared to grant, for the sake of argument, power in matter, but that it makes no difference to the reconciliation. But if the reconciliation turned on the claim that no further thought is possible with regard to causation, even this small concession would violate this alleged central move. The context here is where Hume considers those who ‘maintain that it is possible to discover something farther in the operations of matter’ [ E 8.27] in opposition to the mild positivism of Hume’s two 
+‘deﬁ nitions’. Here is an opportunity for Hume to reassert his alleged 
+conclusion that no such thing is [possible] since no genuine thought is possible and use his ‘theory of meaning’ to ﬁ  x the metaphysics. But he 
+does not take this opportunity: instead he tells us that such a conces-sion is ‘of no consequence to morality or religion, whatever it may be to natural philosophy or metaphysics’. (p. 266)
+There are at least three objections to be made here. First, as should be 
+clear from the outline in §III, Enquiry  8.27 cannot reasonably be described 
+as ‘in the midst of the discussion’, at least if this is taken to imply that it occurs within Hume’s main argument. That main argument runs from 8.4 to 8.20, corresponding closely to the content of Section 2.3.1 of the Treatise .
+55 By the time we reach 8.27 , Hume is focusing very speciﬁ  cally 
+on the religious and moral implications of the doctrine of necessity, and it is within this context that he ‘is prepared to grant, for the sake of argu-ment, [thick] power in matter’. The second objection to Kail’s gloss on the paragraph is that Hume does not say here that such a concession of thick 
+power in matter ‘makes no difference’ to the ‘reconciling project’ ( E 8.23) 
+of Section 8. He only insists that it ‘can be of no consequence to morality or 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 150 Peter Millican
+religion, whatever it may be to natural philosophy or metaphysics’, a word-
+ing which clearly suggests— contra  Kail—that the concession would indeed  
+be of some consequence to natural philosophy and metaphysics. Thirdly, Kail is mistaken in saying that Hume ‘does not take this opportunity . . . to reassert his . . . conclusion that no such . . . thought [of a thick necessity in matter] is possible’. For immediately after the passage that Kail quotes, Hume’s very next sentence begins ‘We may here be mistaken in asserting, that there is no idea of any other necessity or connexion in the actions of body.’ Here he is precisely reasserting his conclusion about the limits of our thought, and reminding his reader that the discussion of the present para-graph (concerning the moral and religious consequences of his position), though it does not rest on that conclusion, is entirely without prejudice to it.
+Kail’s gloss on E 8.27 is thus seriously at odds with Hume’ s words: a 
+careful reading tells against his interpretation rather than for it, and in more than one way. That aside, he has clearly failed to achieve what he hoped in citing it, namely, to identify a violation of the argument strategy outlined in §III above. In the absence of any such violation, we have every reason to interpret Hume as following this clear and straightforward strat-egy, which seems to ﬁ  t excellently with his text in the Treatise , the Abstract , 
+and the Enquiry . So the fundamental objection to the New Humean inter-
+pretation based on ‘Of Liberty and Necessity’, which Kail himself acknowl-edges to be potentially ‘devastating’, retains its full potency—it was, and so far remains, devastating.
+VI. WRIGHT ON LIBERTY AND NECESSITY
+John Wright’s interpretation of Hume on liberty and necessity appears 
+in Chapter 5 of his 2009 book, Hume’ s ‘ A T r eatise of Human Natur e’ , 
+building on his Chapter 3, which outlines a position on causation that is in many ways similar to Kail’ s. On this account, ‘the natural supposi-tion of objective necessity’ (pp. 122–6) is not a standard Humean belief (i.e., an enlivened idea), but is more like our belief in a necessary truth in which we are ‘determin’d to conceive [the ideas] in [a] particular manner’ (T 1.3.7.3)—it is this felt determination, rather than the vivacity of any 
+idea, that constitutes our assent or belief in causal necessity. A ‘natural sup-position of inseparability’ (pp. 124–6) arises when ‘custom and association make us suppose that the cause and effect are conceptually inseparable, just as they would be if we had insight  into their real natures’ (pp. 124–5). 
+Wright thinks that this explanation of our belief in objective necessity, for which he has recently coined the term ‘quasi-inseparability’,
+56 dominates 
+Hume’s account of necessity in the Enquiry , but coexists in the Treatise  
+with an alternative explanation based on projective ‘spreading of the mind’ (pp. 122–4; cf. note 40 of the current paper).
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 151
+In making the case for this quasi-inseparability interpretation, Wright—
+like Kail—cites the Treatise  passage in which Hume says that people have a 
+natural tendency ‘to imagine they perceive a connexion betwixt’ cause and effect, ‘and because custom has render’d it difﬁ  cult to separate the ideas, 
+they are apt to fancy such a separation to be in itself impossible and absurd’ (T 1.4.3.9). He also cites some additional passages from the Treatise ,
+57 but 
+puts particular weight on Enquiry  7:
+As Hume puts it in his ﬁ  rst Enquiry , after experiencing a constant con-
+junction between two successive events we ‘suppose, that there is some connexion between them; some power in the one, by which it infal-libly produces the other, and operates with the . . . strongest necessity’ [E 7.27]. . . . This interpretation was further developed by Norman 
+Kemp Smith, who argued that, according to Hume, we apprehend the objective necessity between objects through feeling  rather than reason. 
+This is the natural way to read Hume’s claims about the feeling which is the origin of the idea of necessity in ‘Of liberty and necessity’ in Book 2 of the Treatise : there he writes that while it is ‘impossible for the 
+mind to penetrate’ into the relation of the objects, after experiencing their constant conjunction, the mind ‘ feels the necessity’ [ T 2.3.1.16]. 
+Even more clearly , in his ﬁ  rst Enquiry  he writes that a person ‘ feels 
+. . . events to be connected  in his imagination’ after experiencing their 
+constant conjunction [ E 7.28]. (pp. 125–6)
+Hume’s painstaking investigation ‘Of the Idea of Necessary Connexion’ 
+indeed seems the right place to look for convincing support. By contrast, passages scattered around the Treatise  that happen to mention something 
+lik e  ima gin ed  o r  f e l t  inse p ar a b ili ty  can  gi v e  o nl y  v e ry  w eak  evi d e n ce  o f  Hume’s view, unless they are appropriately linked to his own account (which T 1.4.3.9 is not—cf. §V). But I am not persuaded that the Enquiry  7 pas-
+sages Wright quotes have the signiﬁ  cance he gives them. In context, when 
+Hume says that someone ‘ feels . . . events to be connected  in his imagina-
+tion’ ( E 7.28), he seems to be referring to exactly the same ‘connexion, . . . 
+which we feel in the mind, this customary transition of the imagination’ 
+which he has identiﬁ  ed earlier in the same paragraph as ‘the sentiment or 
+impression, from which we form the idea of power or necessary connexion’. Likewise, when he says that the mind ‘ feels the necessity’ ( T 2.3.1.16), in 
+context he does not appear to be saying that ‘we apprehend the objective necessity between objects through feeling ’ (Wright’s gloss on Kemp Smith). 
+On the contrary, that entire paragraph seems to stress that the necessary connexion is not apprehended  objectively at all, but ‘is merely a perception 
+of the mind’. Of course these doubts by themselves do not totally under-mine Wright’s account, which must be assessed on the basis of how well it can make sense of Hume’s treatment of causation and necessity in general, 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 152 Peter Millican
+and that is too big a task to attempt here.58 Rather, my aim in this chapter 
+is to focus on the signiﬁ  cance of Hume’s discussions of liberty and necessity 
+in particular, so let us move on immediately to what Wright has to say in his Chapter 5.
+Wright—whose 2009 book focuses on Hume’s Treatise —acknowledges 
+from the start that the account of causation ( T 1.3.14) plays a crucial role 
+in the treatment of liberty and necessity ( T 2.3.1–2), and he sets out his stall 
+accordingly:
+A central question which arises here . . . is whether Hume reduces 
+the meaning of causal necessity to uniformity and predictability—or whether he regards the latter as a sign of a genuine but unintelligible necessity. I shall argue that the latter assumption runs throughout his reasoning . . . (p. 170)
+‘Hume begins his discussion’ in Treatise  2.3.1, says Wright (p. 177), ‘by 
+considering the necessity which we ascribe in the case of the physical world’:
+’Tis universally acknowledg’d, that the operations of external bodies 
+are necessary, and [without] the least traces of indifference . . . Every object is determin’d by an absolute fate to a certain degree and direc-tion of its motion, and can no more depart from that precise line, in which it moves, than it can convert itself into an angel . . . ( T 2.3.1.3; 
+cf. E 8.4)
+Wright asks us to note that in this passage, ‘Hume unambiguously ascribes 
+necessity to external objects themselves’ (rather than to ‘the mind of the spectator’), and also ‘describes this necessity as absolute and as excluding the possibility of anything occurring besides what actually occurs in the given circumstances . . . We appear to have necessity ascribed to objects in the strongest sense of the word’.
+59 This ascription ‘is not based on any 
+penetration “into the essence . . . of bodies” . . . ’,
+Rather the belief in the necessity of the operations of physical objects 
+arises from the observation of their ‘constant union’ [which gives rise to] our psychological propensity to infer the one from the other . . . H ume sets o u t in the rest o f this secti on t o ‘ p r o v e fr o m experience, that our actions have a constant union with our motives, tempers, and circumstances’, and that we infer that future actions follow necessarily from this regularity. (pp. 178–9)
+Wright thus interprets the argument of Treatise  2.3.1 as being ‘that we have 
+exactly the same grounds to ascribe necessity to human actions as we have to ascribe it to material objects; since we ascribe it to material objects, we must also ascribe it to human actions’ (p. 177). But this gives an epistemic  
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 153
+reading to the argument of the section, based on empirical grounds , and 
+thus exactly of the kind that we earlier concurred with Beebee in rejecting.60 
+A passage from T 2.3.1.4 would convey a somewhat different impression:
+If objects had not an uniform and regular conjunction with each other, 
+we shou’d never arrive at any idea of cause and effect; and even after all, the necessity, which enters into that idea, is nothing but a determi-nation of the mind to pass from one object to its usual attendant, and infer the existence of one from that of the other. Here then are two particulars, which we are to consider as essential to necessity, viz. the 
+constant union  and the inference  of the mind; and wherever we dis-
+cover these we must acknowledge a necessity.
+Admittedly, Hume is here discussing not only the origin and nature of our 
+idea of necessity, but also the circumstances in which we ascribe it, thus introducing an epistemic element. It is only later, in Treatise  2.3.2, that the 
+semantic theme clearly dominates, creating difﬁ  culties for Wright’s reading.
+The crucial section of Hume’s argument is discussed by Wright under 
+the heading ‘The Theoretical Mistake of Those Who Believe in Free Will’ (pp. 182–6). As he frankly acknowledges (p. 183), ‘Hume appeals to the two deﬁ  nitions of cause which he gives in Book 1 . . . [which] tend to sup-
+port the view that Hume reduces objective causation to mere regularity, and necessity itself to a subjective determination of the mind of the observer. Here in Book 2, Hume writes:’
+I deﬁ  ne necessity two ways, conformable to the two deﬁ  nitions of 
+cause , of which it makes an essential part. I place it either in the con-
+stant union and conjunction of like objects, or in the inference of the mind from the one to the other. Now necessity, in both these senses, has universally, tho’ tacitly, in the schools, in the pulpit, and in com-mon life, been allow’d to belong to the will of man . . . ( T 2.3.2.4)
+After quoting further from this Treatise  paragraph, Wright comments:
+Here, Hume is explicitly deﬁ  ning ‘necessity’ itself, and not just ‘cause’ 
+as he did in Book 1. Both deﬁ  nitions are said to be deﬁ  nitions of neces-
+sity. We get no qualiﬁ  cations about the deﬁ  nitions being ‘foreign to the 
+cause’. His aim here is clearly to disarm his opponents’ arguments by getting them to admit that they accept necessity in the two senses he allows in his deﬁ  nitions.
+Hume recognises that his opponents may ‘refuse to call’ what is al-
+lowed by his ofﬁ  cial deﬁ  nitions ‘necessity’, and may claim that when 
+we ascribe necessity to matter we mean something stronger [ T 2.3.2.4]. 
+His answer is that even if there is such an unknown necessity in matter, 
+it is not what he is ascribing when he claims that people’s actions are 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 154 Peter Millican
+necessary. He is not claiming that our wills are moved by anything like 
+the force which makes a billiard ball move when another one strikes it. . . . He is arguing, in effect, that he has taken the sting out of the tail of physical or material necessity, and applied this new domesticated breed of necessity to human actions. In accord with his two deﬁ  nitions, 
+he writes, ‘I place it in the constant union and conjunction of like ob-jects, or in the inference of the mind from one to the other’. It is only in these two senses that he is ascribing necessity to both physical events and to human actions. (p. 184)
+To his credit, Wright has put his ﬁ  nger on the key problem highlighted in 
+§III, and on the key passage in the Treatise  where this comes to the fore. 
+But his immediate response is to question Hume’s sincerity:
+It is difﬁ  cult to believe that Hume is being entirely ingenuous here, 
+given his unequivocal statements in the ﬁ  rst section of ‘Of liberty and 
+necessity’ that in the physical world ‘every object is determin’d . . . to a certain degree and direction of its motion’ [ T 2.3.1.3], and that there is 
+no indifference or chance in the nature of things. Did he not begin his whole discussion by ascribing necessity to physical objects in a stronger sense than that authorized by his two deﬁ  nitions? Moreover, there is 
+reason to question whether he really does believe that the force which moves our wills is of an entirely different kind than that which moves physical objects. . . . [In T 1.4.5] he suggests that mental causation is 
+probably ultimately based on physical causation. (pp. 184–5)
+The main point here—to which we return shortly—concerns Hume’s com-
+mitment to determinism and his corresponding denial of indifference, but there is a subsidiary point involving physical and mental causation, where I think Wright is misinterpreting Hume’s words. This misinterpretation ﬁ  rst 
+emerges in the preceding quotation from his page 184, where he says that Hume ‘is not claiming that our wills are moved by anything like the force which makes a billiard ball move when another one strikes it’. This, I pre-sume, is a gloss on the ﬁ  rst sentence or two of the following passage:
+Let no one, therefore, put an invidious construction on my words, by 
+saying simply, that I assert the necessity of human actions, and place them on the same footing with the operations of senseless matter. I do not ascribe to the will that unintelligible necessity, which is suppos’d to lie in matter. But I ascribe to matter, that intelligible quality, call it necessity or not, which the most rigorous orthodoxy does or must al-low to belong to the will. I change, therefore, nothing in the receiv’d systems, with regard to the will, but only with regard to material ob-jects. ( T 2.3.1.4)
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 155
+In this passage, Hume is not at all relinquishing his claim (which Wright 
+correctly judges to be his considered view) that the same necessity applies in both the physical and mental worlds. On the contrary, he is repeating it, by saying that the very same necessity which ‘the most rigorous orthodoxy . . . must allow to belong to the will’ (and no other) should also be ascribed 
+to matter. He acknowledges that he is thus challenging ‘the receiv’d system . . . with regard to material objects’, by rejecting as ‘unintelligible’ the meta-physically heavyweight ‘necessity, which is suppos’d to lie in matter’. But he makes this point in passing, because his overt aim here—as announced in the previous paragraph—is to show that his view has no ‘dangerous con-sequences to religion and morality’. Thus understood, the entire passage makes perfect sense, expressing more or less exactly the same thoughts as the parallel passage of the Enquiry  (E 8.27, quoted fully in §III above). So 
+there is no basis here for interpreting Hume’s words as disingenuous.
+Wright himself puts most weight on the issue of determinism and indif-
+ference, but his way of expressing it is tendentious:
+The key philosophical question is whether Hume can legitimately claim 
+that he is only ascribing necessity to objects in the two senses given by 
+his two deﬁ  nitions. Does he not clearly deny any ‘liberty of indiffer-
+ence’ to both the physical and the mental world independently of the observer? . . .
+. . . Consider again what Hume says about the unfortunate prisoner. 
+He ‘discovers the impossibility  of his escape, as well from the obstinacy 
+of the gaoler, as from the walls and bars with which he is surrounded’ [T 2.3.1.17; Wright’s emphasis]. . . . Hume clearly uses the word ‘im-
+possibility’ . . . here to refer to features of the objective world of agents and material bodies, and not mere features of the mind of the prisoner who observes them. . . . As the late John Yolton has argued, one cannot reduce the objective language of causality and necessity which Hume uses in his philosophical discussions of these topics to the language of regular successions of events. . . . (pp. 185–6)
+Even if we agree with Wright on ‘the key philosophical question’, the key 
+interpretative  q uestion is q uite different. W e might well share Y olton ’ s  
+doubt that one can ‘reduce the objective language . . . of necessity . . . to the language of regular successions of events’. But then we are under 
+l i t t l e  p r e s s u r e  t o  a c c e p t  s u c h  a  r e d u c t i o n ,  b e c a u s e  w e  p r e s u m a b l y  do 
+not share Hume’s apparently ﬁ  rm commitment to his simplistic Copy 
+Principle empiricism.
+61 Sometimes, it might be appropriate to infer that 
+because a position is philosophically  o b j e c t i o n a b l e ,  i t  c a n n o t  b e  w h a t  
+Hume intends. But this is not such an occasion. He himself describes his subjectivist analysis of necessity as ‘the most violent . . . of all the paradoxes’ in the entire Treatise , which can only hope to ‘overcome the 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 156 Peter Millican
+inveterate prejudices of mankind . . . by dint of solid proof and reason-
+ing’ ( T 1.3.14.24). He then goes on to express the vivid exclamations of 
+incredulity that he anticipates in response ( T 1.3.14.26). So this is clearly 
+a case where we cannot rely on our own philosophical instincts to reveal what Hume is saying, but have to follow the logic of his ‘solid proof and reasoning’. Wright ﬁ  nds it ‘difﬁ  cult to believe that Hume is being entirely 
+ingenuous’ in proposing his solution to the problem of liberty and neces-sity, based as it is on the claim that his two deﬁ  nitions give ‘the very 
+essence of necessity’ ( T 2.3.1.10, 2.3.2.2; cf. E 8.22, n. 18, 8.25, n. 19). 
+Such difﬁ  culty is entirely understandable if one approaches the text (as I 
+presume Wright does) with a ﬁ  rm commitment to thick necessity: deny-
+ing its existence or even meaningfulness can indeed seem incredible. But this counts for little, given both Hume’s open acknowledgement that he expects his view to appear wildly paradoxical, and also how well—on Old Humean principles—his argument on liberty and necessity meshes with the whole thrust of his discussion of the idea of necessary connexion (in all three works). None of this conﬂ  icts with his commitment to uni-
+versal determinism or his denial of ‘indifference’,
+62 and it seems extremely 
+unlikely that Hume himself could have considered there to be any such inconsistency, when it is precisely his argument for determinism—the ‘doctrine of necessity’—which turns so crucially on his two deﬁ  nitions.
+63 
+Those who believe in thick necessity might indeed ﬁ  nd some appearance  
+of inconsistency, as for example in this passage cited by Wright:
+’Tis universally acknowledg’d, that the operations of external bodies 
+are necessary, and [without] the least traces of indifference . . . Every object is determin’d by an absolute fate to a certain degree and direc-tion of its motion . . . ( T 2.3.1.3)
+Recall Wright’s comment that here ‘Hume describes this necessity as abso-
+lute and as excluding the possibility of anything occurring besides what actually occurs in the given circumstances . . . We appear to have necessity ascribed to objects in the strongest sense of the word’ (p. 177). He thus sug-gests that this is a serious problem for the Old Hume interpretation, but it is not.
+64 For if we take the Old Humean position seriously, then terms such 
+as ‘necessary’ and ‘determin’d’, and even cognate terms such as ‘impossibil-ity’, are to be interpreted through Hume’s deﬁ  nitions. So if everything that 
+happens is in accord with universal causal laws, then such things are indeed necessary  as Hume understands that term, and contrary things are indeed 
+(causally) impossible .
+65 We can even agree with Wright that in the preced-
+ing passage, Hume intends to ascribe causal necessity ‘in the strongest sense of the word’, for this is precisely what Hume takes to be the strongest legiti-
+mate  sense. New Humeans will of course insist against this that there is 
+more to genuine, full-blooded necessity than Hume’s two deﬁ  nitions allow, 
+but we already know what his answer will be:
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 157
+Beyond the constant conjunction  of similar objects, and the consequent 
+inference  from one to the other, we have no notion of any necessity, or 
+connexion. ( E 8.5)
+So although they may hanker after some more substantial notion of causal 
+necessity , if ( the Old ) Hume is right, there is none to be had, and all of his declarations in favour of determinism and against ‘indifference’ must be interpreted accordingly. Perhaps this position is philosophically implau-sible, but it is where he was led by his Copy Principle empiricism, and for good or ill, it is clearly there in his texts, argued for systematically in the sections on the idea of necessary connexion, and correspondingly applied in the sections on liberty and necessity.
+VII. CONCLUSION
+In the 2007 edition of Read and Richman’s collection The New Hume 
+Debate , my chapter “Against the ‘New Hume’” ended with ‘a clear chal-
+lenge’ to New Humeans to explain away the ‘apparently crucial semantic theme in Hume’s discussion of “liberty and necessity”’ (p. 247), suggesting that this would prove to be the decisive objection to their interpretation. Since I wrote this, there have been three attempts to answer the challenge, exhibiting very different approaches, but none in my view successful. Beebee takes the logic of Hume’s argument most seriously, attempting to expound a form of ‘sceptical realism’ which can accommodate it by treating Hume’s idea of necessary connexion as the means by which thick necessity is repre-sented. Kail tries to limit the scope of the argument to ‘common life’, and also to identify nuances within it that would reveal Hume’s argumentative strategy to be very different from how it appears. Wright’s approach is most direct, clearly recognising the direction and force of Hume’s reasoning, but denying that he can sincerely mean it, on the basis that it would run counter to his necessitarian commitments.
+Not only do all three approaches fail, as we have seen, but also, their 
+variety tends to suggest that no other approach is likely to work either. If interpreted in the Old Humean manner, Hume’s argument concerning lib-erty and necessity is simple, logical, and sincerely intended: it has straight-forward and explicit premises, and moves from them in a systematic way to an appropriately implied (and equally explicit) conclusion. It addresses precisely the issue that Hume has set himself to resolve, and proceeds in just the way he describes, through deﬁ  nition and the clariﬁ  cation of meanings, 
+as he emphasises strongly both at the beginning and the end of his main argument:
+. . . in the long disputed question concerning liberty and necessity 
+. . . if I be not much mistaken, we shall ﬁ  nd . . . that a few intelligible 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 158 Peter Millican
+deﬁ nitions would immediately have put an end to the whole contro-
+versy. ( E 8.2-3; cf. A 34)
+Here then is the advantage of deﬁ  nitions. Let any one deﬁ ne a cause, 
+without comprehending, as a part of the deﬁ  nition, a necessary con-
+nexion  with its effect; and let him shew distinctly the origin of the 
+idea, expressed by the deﬁ  nition; and I shall readily give up the whole 
+controversy. But if the foregoing explication of the matter be received, this must be absolutely impracticable. ( E 8.25; cf. T 2.3.1.18)
+On this Old interpretation, moreover, the argument has an obvious moti-
+vation within Hume’s system, giving a clear purpose to his extended investigation of the idea of necessary connexion, and yielding a powerful conclusion with the potential both to refute Clarkean libertarianism and to authorise a thoroughgoing application of causal explanation within moral science—aims to which we know he was strongly committed.
+66 By contrast, 
+if one tries to interpret the argument in accordance with New Humean principles, then there seems to be no obvious ‘best way’ of doing so—either to match with the text, or with Hume’s objectives—and it is up to the inge-nuity of each interpreter to try to ﬁ  nd ways of stretching or shrinking it to 
+ﬁ t (by adding implicit claims, e.g., about representation or common life, 
+or by discounting inconvenient passages). We thus ﬁ  nd symptoms of what 
+Imre Lakatos called a ‘degenerating research programme’, with a variety of more or less arbitrary interpretative epicycles being invoked to avoid outright refutation by the recalcitrant texts. Developments of this kind are not always unwelcome; indeed, such exploration of novel options can lead to real progress, and much of the work done within the New Humean paradigm—not least in the books by John Wright, Helen Beebee, and Peter Kail—has been genuinely illuminating.
+67 The debate thus leaves a legacy of 
+enduring value, but nevertheless these symptoms indicate that on the core question of Hume’s metaphysics of causation, it has run its course. The New Hume has had a good innings, but now it is time to call it a day.
+68
+NOTES
+ 1. Abbreviations to the works of David Hume are as follows. T: David Hume, 
+A Treatise of Human Nature: A Critical Edition , vol. 1, edited by David Fate 
+Norton and Mary J. Norton (Oxford: Clarendon Press, 2007, originally pub-lished 1739–40); E: David Hume, An Enquiry Concerning Human Under-
+standing , edited by Peter Millican (Oxford: Oxford University Press, 2007, 
+originally published 1748); M: David Hume, An Enquiry Concerning the 
+Principles of Morals , edited by Tom L. Beauchamp (Oxford: Oxford Univer-
+sity Press, 1998, originally published 1751); HL: David Hume, The Letters of 
+David Hume , edited by J. Y. T. Greig, 2 vols. (Oxford: Clarendon Press, 1932).
+ 2. This term became prominent in the debate through Blackburn’s “Hume and 
+Thick Connexions”, Philosophy and Phenomenological Research , 50 (1990): 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 159
+237–50; reprinted in The New Hume Debate: Revised Edition , edited by 
+Rupert Read and Kenneth A. Richman (London: Routledge, 2000/2007), 100–12; revised as chapter 5 of Blackburn, Essays in Quasi-Realism  
+( O x f o r d :  O x f o r d  U n i v e r s i ty  P r e s s ,  1 9 9 3 ) ;  r e p r i n t e d  i n  Reading Hume on 
+Human Understanding: Essays on the First Enquiry , edited by Peter Mil-
+lican (Oxford: Clarendon Press, 2002), 259–76.
+ 3. Galen Strawson, The Secret Connexion: Causation, Realism, and David 
+Hume  (Oxford: Clarendon Press, 1989), 84–5.
+ 4. E.g., The Secret Connexion , 13–15, 222–8.
+ 5. Norman Kemp Smith, The Philosophy of David Hume  (London: Macmillan, 
+1941), 91, 372–3, 387, 393, 401–2.
+ 6. John P. Wright, The Sceptical Realism of David Hume  (Manchester: Man-
+chester University Press, 1983), 150–5.
+ 7. Sceptical Realism , 126.
+ 8. Kenneth P. Winkler, “The New Hume”, in Read and Richman, 52–74, origi-
+nally published in Philosophical Review , 100 (1991): 541–79; Donald Livings-
+ton, Hume’s Philosophy of Common Life (Chicago: University of Chicago 
+Press, 1984); Janet Broughton, “Hume’s Ideas about Necessary Connection”, Hume Studies , 13 (1987): 217–44; Edward Craig, The Mind of God and the 
+Works of Man  (Oxford: Clarendon Press, 1987); Michael J. Costa, “Hume 
+and Causal Realism”, Australasian Journal of Philosophy , 67 (1989): 172–90; 
+John Yolton, Realism and Appearances  (Cambridge: Cambridge University 
+Press, 2000); Stephen Buckle, Hume’s Enlightenment Tract: The Unity and 
+Purpose of An Enquiry Concerning Human Understanding  (Oxford: Clar-
+endon Press, 2001); Peter Kail, “Projection and Necessity in Hume”, Euro-
+pean Journal of Philosophy , 9 (2001): 24–54; “Is Hume a Causal Realist?”, 
+British Journal for the History of Philosophy , 11 (2003): 509–20; Projection 
+and Realism in Hume’s Philosophy  (Oxford: Oxford University Press, 2007); 
+“How to Understand Hume’s Realism”, in Read and Richman, 253–69.
+ 9. “Is Hume a Causal Realist?”, 512. 10. “Is Hume a Causal Realist?”, 510, 513. 11. However, Kail’s way of presenting the issue could be considered tendentious: 
+an Old Humean might be entirely happy to accept that Hume makes refer-ence—in a sense—to ‘necessary connection in the objects’ and to ‘hidden powers’, but these would not be understood as referring to thick  necessary 
+connexions or powers. For more on this, see Peter Millican, “Against the ‘New Hume’”, in Read and Richman, 211–52, §3.5.
+ 12. As elsewhere, e.g., Peter Millican, “Hume, Causal Realism, and Causal Sci-
+ence”, Mind , 118 (2009): 647–712, at 648, n. 4.
+ 13. “The New Hume”, 53. 14. “Is Hume a Causal Realist?”, 512, n. 12; cf. “How to Understand Hume’s 
+Realism”, 255.
+ 15. “The New Hume”, 63–4. 16. In personal correspondence, Ken Winkler has suggested to me that ‘the clear-
+est account of my views on this point comes in the long paragraph on p. 73 of the paper . . . where I compare Hume to Berkeley’.
+ 17. For other relevant quotations (from T 1.3.14.4, 14, 27; E 7.26, 29), see Mil-
+lican, “Against the ‘New Hume’”, §2.1, and “Hume, Causal Realism, and Causal Science”, §3.
+ 18. For much fuller discussion of the New Hume debate in general, see Milli-
+can, “Against the ‘New Hume’”, and especially “Hume, Causal Realism, and Causal Science”.
+ 19. The deﬁ  nitions are also applied in Treatise  1.4.5, ‘Of the Immateriality 
+of the Soul’, though the interpretative lessons to be drawn there are less 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 160 Peter Millican
+straightforward—see Millican, “Hume, Causal Realism, and Causal Sci-
+ence”, §7.
+ 20. See, for example, Strawson, The Secret Connexion , 8, and “David Hume: 
+Objects and Power”, in Read and Richman, 31–51, at 31–3; Buckle, Hume’s 
+Enlightenment Tract , 194–5; Helen Beebee, Hume on Causation  (London: 
+Routledge, 2006), 221–5; Kail, “How to Understand Hume’s Realism”, 262, 268, n. 26; John P. Wright, Hume’s ‘ A T reatise of Human Nature’  (Cam-
+bridge: Cambridge University Press, 2009), 126.
+ 21. For the same account, expanded to include quotations from both works, 
+see §8 of Millican, “Hume, Causal Realism, and Causal Science”, a sibling paper to the present one, likewise descended from a talk given to the April 2008 University of York Conference on Causation. Peter Millican, “Humes Old and New: Four Fashionable Falsehoods, and One Unfashionable Truth”, Proceedings of the Aristotelian Society, Supplementary Volume  81 (2007), 
+163–99, §VIII presents the argument in a more structured form with relevant references.
+ 22. Here the close correspondence between the Treatise  and Enquiry  accounts 
+breaks down, sometimes making it impossible to identify parallel passages—see Millican, “Hume, Causal Realism, and Causal Science”, 695–7, for a comparative account.
+ 23. Hume’s position is famously compatibilist in the Enquiry , aiming to reconcile 
+‘the doctrine of necessity’ with ‘the doctrine of liberty’ by demonstrating the only ‘reasonable sense, which can be put upon these terms; and that the whole controversy has hitherto turned merely upon words’ ( E 8.3). In the Treatise , 
+by contrast, he uses the term ‘liberty’ to mean chance  or indifference , whose 
+existence he denies (see T 2.3.1.3, 2.3.1.18, 2.3.2.1–2, 2.3.2.6–8).
+ 24. Given this dialectical context, there is no basis for taking Hume’s statement 
+that he ‘may here be mistaken’ as expressing serious doubts, contra  Yolton, 
+Realism and Appearances , 129, 130.
+ 25. Kail, “Is Hume a Causal Realist?”, 510. 26. Such neglect might perhaps be explicable in terms of the blinkers that tend to 
+be imposed by philosophical fashion and the undergraduate curriculum (cf. Buckle, Hume’s Enlightenment Tract , 24–6). Free will is commonly treated 
+as a topic in introductory metaphysics and moral philosophy, but relatively rarely in the history of philosophy. Meanwhile, most courses and general books on Hume tend to focus on Book I of the Treatise , neglecting both 
+Book II and the Enquiry . But it still seems astonishing that specialist writers 
+on Hume on causation  should have given so little attention to ‘Of Liberty 
+and Necessity’, when it so obviously contains the main application of his two deﬁ nitions. As far as I know, the discussions of Beebee, Kail, and Wright that 
+I consider in the current paper—all dated 2007 or later—are the only pub-lished attempts to reconcile the detail of Hume’s argument here with a New Humean interpretation (though there are some hints in Yolton, Realism and 
+Appearances , 129–31).
+ 27. For previous presentations of this claim, see Peter Millican, “The Context, 
+Aims, and Structure of Hume’s First Enquiry ”, in Reading Hume , 27–65, at 
+58–60; “Against the ‘New Hume’”, 244–5, 252, n. 74; “Hume, Causal Real-ism, and Causal Science”, §8.
+ 28. Helen Beebee, “The Two Deﬁ  nitions and the Doctrine of Necessity”, Pro-
+ceedings of the Aristotelian Society  107 (2007): 413–31. References in this 
+section are to this paper, unless otherwise stated.
+ 29. I would also take issue with the appropriation of the term ‘real causal 
+powers’ to signify thick  causal powers, though Beebee’s usage here ﬁ  ts the 
+assumptions of the position she is describing. According to the Old Humean 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 161
+position, real causal power and necessity is, of course, to be understood in 
+accordance with Hume’s deﬁ  nitions.
+ 30. As Beebee acknowledges ( Hume on Causation , 176), the term ‘natural belief’ 
+was coined by Normal Kemp Smith ( The Philosophy of David Hume , 449, 
+454–8, 487–94) and is never used by Hume himself. Nevertheless, it has often featured in the literature of the New Hume debate, and has even been elevated into a ‘ doctrine’ by some ( e.g., Stra wson, The Secret Connexion , 
+1–2, 13; 2000: 34; Buckle, Hume’s Enlightenment Tract , 112, 211–12). 
+Kemp Smith uses the term to cover ‘two naturally conditioned (i.e., neces-sitated) propensities of the imagination’ (p. 490), which respectively give rise to ‘belief in continuing and therefore independent existence [of exter-nal objects], and . . . belief in causal dependence’ (p. 455). But Hume gives quite different accounts of the mechanism behind these two propensities, and hence there is no uniﬁ  ed ‘theory of natural belief’ as an explanatory account , 
+beyond the suggestion that such belief is due to the operations of the imagi-nation (as Beebee herself recognises at Hume on Causation , 201). In other 
+Hume scholarship, the supposed theory of ‘natural belief’ has tended to play a rather different role, providing a focus for discussion of Hume’s attitude of apparent acceptance  or endorsement  of certain naturally occurring beliefs, 
+most contentiously the belief in God, irrespective of the mechanism by which they are generated (see Peter Millican, “Critical Survey of the Literature on Hume and the First Enquiry ”, in Reading Hume , 413–74, at 456–7, for a 
+bibliographical overview). The best textual warrant for thus pairing together two ‘natural beliefs’—in the external world and induction from experience (rather than ‘causal dependence’)—as potentially set in opposition to the belief in God comes from a 1751 letter of Hume to Gilbert Elliot: ‘The Pro-pensity of the Mind towards [the Design Argument], unless that Propensity were as strong & universal as that to believe in our Senses & Experience, will still, I am afraid, be esteem’d a suspicious Foundation. . . . We must endeav-our to prove that this Propensity is somewhat different from our Inclination to ﬁ nd our own Figures in the Clouds, our Face in the Moon, our Passions & 
+Sentiments even in inanimate Matter. Such an Inclination may, & ought to be controul’d, & can never be a legitimate Ground of Assent’ ( HL i 155).
+ 31. Here I am very grateful to Helen Beebee for an extensive e-mail discussion 
+which clariﬁ  ed details of the position she had in mind, which she takes to be 
+the most plausible development of a sceptical realist approach (rather than an interpretative position to which she is personally committed). For more on this, see Beebee, Hume on Causation , 176–8, 201–4.
+ 32. Indeed, Beebee’s own reading of Hume’s argument moves more in this direc-
+tion than her gloss suggests.
+ 33. Much of Beebee’s exposition in her 2007 paper is structured around an itemi-
+sation of four readings of Hume’s two deﬁ  nitions (pp. 417–19), of which only 
+the ﬁ rst is Old Humean. However, in explaining how Hume’s use of them 
+can be reconciled with sceptical realism, she focuses on the second of the four (pp. 424–8), with only a brief mention of the last two (pp. 428–9). Here I follow her lead in ignoring nuances of difference between the New Humean approaches.
+ 34 .  This  is  lik e l y  t o  be  true  f o r  any detailed interpretation of the two deﬁ  ni-
+tions (including my own—Millican, “Hume, Causal Realism, and Causal Science”, §4), and I intend no criticism of Beebee for speculatively developing Hume’s very incomplete sketch of the relationship between the deﬁ  nitions. 
+However, I ﬁ  nd the emphasis she puts on the distinction between philo-
+sophical and natural relations ( Hume on Causation , §4.6; “The Two Deﬁ  ni-
+tions and the Doctrine of Necessity”, 418–19) unconvincing. Hume himself 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 162 Peter Millican
+introduces this distinction to clarify a now familiar ambiguity in the term 
+‘relation’: philosophers can consider things as ‘related’ by any number of arbitrarily invented relations, but this doesn’t mean that they’re related in the everyday sense ( T 1.1.5.1). He immediately goes on to categorise the possible 
+types of (philosophical) relation, later utilising this analysis in an attempt to identify those relations that are susceptible of a priori connection ( T 1.3.1.1). 
+After this, his only two (very cursory) mentions of the philosophical-natural distinction—in any of his works—are in single sentences at T 1.3.6.16 and 
+T 1.3.14.31. Both are rather unclear, but seem to be saying little more than 
+that causation can be thought of either as an abstract relation or as one that has particular relevance to human cognition in stimulating association of ideas. Thus it seems implausible to take the distinction as central to the inter-pretation of his two deﬁ  nitions, which are referred to repeatedly later in the 
+Treatise  (e.g., T 1.4.5.30–3, 2.3.1.4, 2.3.2.4), in the Abstract  (A 26, 32), and 
+in the Enquiry  (E 7.29, 8.5, 8.25, 8.27).
+ 35. See James A. Harris, Of Liberty and Necessity: The Free Will Debate in 
+Eighteenth-Century British Philosophy  (Oxford: Clarendon Press, 2005), 
+chapter 2, and Peter Millican, “Hume’s Determinism”, in Canadian Journal 
+of Philosophy , 40 (2010): 611-42, or for a brief summary, Millican, “Hume, 
+Causal Realism, and Causal Science”, 704–6.
+ 36. Cf. Millican, “Against the ‘New Hume’”, §1.2. 37. Hume on Causation , 177–8. This suggestion is standardly developed within 
+the New Hume literature by appeal to the notion of a relative  idea, as in Bee-
+bee, Hume on Causation , 177–9. But such a development, even if potentially 
+applicable more generally (for doubts, see Millican, “Hume, Causal Realism, and Causal Science”, 658–9), would be of little help in this context, because Beebee’s reconciliation of Causal realism with Hume’s discussion of liberty and necessity crucially requires that it is the very idea of necessary connexion that Hume himself identiﬁ  es (and not some surrogate ‘relative idea’) which 
+itself represents the supposed objective reality.
+ 38. Again I would emphasise (cf. note 31) that Beebee is not personally com-
+mitted to this account, but proposes it as the best development of a New Humean position, the aim of her 2007 paper being to argue that if this New 
+Humean approach is taken, then Hume’s argument concerning liberty and 
+necessity poses no new difﬁ culties for it.
+ 39. For ease of exposition, I here ignore the caveat that only simple ideas need be 
+directly copied from corresponding impressions; complex ideas can of course be put together from simples, rather than being directly copied.
+ 40. In the Treatise¸ Hume anticipates a natural bias against his theory, arising 
+from what seems to be a similar error: ‘’Tis a common observation, that the mind has a great propensity to spread itself on external objects, and to conjoin with them any internal impressions which they occasion, and which always make their appearance at the same time that these objects discover themselves to the senses’ ( T 1 .3. 1 4.25) . He likens this ( via a footnote reference) to the 
+error discussed at T 1.4.5.11–14, of supposing that the smell or taste of a ﬁ  g is 
+spatially coextensive with the ﬁ  g itself. This error theory of mental spreading 
+contrasts strongly with Hume’s far more positive view of moral taste, which ‘has a productive faculty, and gilding or staining all natural objects with the colours, borrowed from internal sentiment, raises, in a manner, a new cre-ation’ ( Moral Enquiry  App 1.21). The latter ‘new creation’ appears to provide, 
+for Hume, a legitimate  standard of morality, which is not dismissed as errone-
+ous, despite its apparently involving a similar spreading of internal sentiments onto natural objects. This contrast can be explained, I suggest, in terms of the systematisation  involved in the ‘new creation’ of moral standards. To generate 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 163
+such a legitimate standard, the imagination must be disciplined and construc-
+tive rather than just reactive. So a more appropriate comparison in the case o f  ca usal  r easo nin g  is  wi th  th e  f o rma ti o n  o f  th e  ‘ system  o f  r eali ti es ’  o f  th e judgement, as described at T 1.3.9.3–4, and presumably involving the ‘rules by 
+which to judge of causes and effects’ of T 1.3.15.
+ 41. For more on this passage, which is treated as signiﬁ  cant by Kail and Wright, 
+see §V.
+ 42. This claim (which Beebee adopts from Strawson, The Secret Connexion , 156, 
+159, 161–3) seems, indeed, to be entirely ad hoc , and without any textual basis, 
+here or elsewhere. T o illustrate just one of the difﬁ  culties, at T 1.4.2.36 and 
+42 Hume seems to countenance our ascribing the ﬁ  ctions of a perfect identity 
+and a continued existence to interrupted images (cf. also T 1.4.2.52); likewise 
+at T 1.4.3.3 and 1.4.6.6–7 he talks of our ascribing the ﬁ  ction of perfect iden-
+tity to a gradually changing object or a succession of related objects. If even a ‘ﬁ ction’—far less than a well-formed idea—is capable of being ‘ascribed’, then 
+it is very hard to see why a supposed legitimate conception of ‘genuine’ thick necessity, if Hume thought we had one, would somehow resist it.
+ 43. Though, as explained earlier, there would still be a question regarding the 
+uniqueness  of the understanding of necessity thus represented, and whether 
+the same subjective idea of necessity could equally represent both moral  and 
+physical  necessity, whilst still allowing a coherent distinction between them.
+ 44. The most conspicuous exception to Kail’s claim is Strawson, The Secret Con-
+nexion , 13–15, 222–8, as cited in §I, but Wright, H ume ’ s  ‘ A  T r ea t is e  o f  
+Human Nature’ , 94, likewise talks of Hume’s ‘belief in the objectivity of 
+power’ as ‘ﬁ  rmly implanted in human nature’.
+ 45. “How to Understand Hume’s Realism”, 254. References in this section are to 
+this work unless otherwise stated.
+ 46. Projection and Realism in Hume’s Philosophy , 96.
+ 47. See Millican, “Hume, Causal Realism, and Causal Science”, §6. 48. See Millican, “Hume, Causal Realism, and Causal Science”, §5. 49. See, for example, Wright, Sceptical Realism , 152–3; “Hume’s Academic 
+Scepticism: A Reappraisal of His Philosophy of Human Understanding”, Canadian Journal of Philosophy , 16 (1986): 407–36, at 426–8; “Hume’s 
+Causal Realism: Recovering a Traditional Interpretation”, in Read and Richman, 88–99, at 94–5; Hume’s ‘ A T reatise of Human Nature’ , 124–6; 
+Broughton, “Hume’s Ideas about Necessary Connection”, 243–4, n. 27; “Our Aim in All Our Studies”, in Read and Richman, 198–210, at 201–3; and Kail, “Projection and Necessity in Hume”, 45–46; Projection and Real-
+ism in Hume’s Philosophy , 107–8, all of whom prominently cite T 1.4.3.9.
+ 50. For more on this passage, see the discussion of Wright’s view in §VI. 51. John Locke, An Essay Concerning Human Understanding , edited by P. H. 
+Nidditch (Oxford: Clarendon Press, 1975, originally published 1690).
+ 52. Kail’s statement (p. 265) that ‘we are already told at the beginning of [Section 
+8] that disputes at the metaphysical level can never arrive at a determinate conclusion’ thus involves a clear misreading. Hume tells us only that disputes which lie entirely beyond the reach of human capacity  can never arrive at a 
+determinate conclusion.
+ 53. For detailed substantiation of this claim, see Millican, “Hume, Causal Real-
+ism, and Causal Science”, §8 (which extensively quotes parallel passages from the Treatise  and Enquiry ) and “Humes Old and New”, §VIII (which 
+cites parallel passages from all three versions).
+ 54. After this quotation, but before going on to discuss the violation issue, Kail 
+makes two additional points, ﬁ  rst denying that Hume’s deﬁ  nitions of cause 
+can be intended as exhaustive analyses of the meaning of ‘cause’ because 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 164 Peter Millican
+they are not equivalent, and then quoting E 8.21 to highlight Hume’s use of 
+epistemic language ‘in the midst of the discussion’. Interpretation of the two deﬁ nitions is notoriously tricky, and too big an issue to be addressed here, 
+but see Millican, “Hume, Causal Realism, and Causal Science”, §4, for my own view. As for E 8.21, by this stage Hume has completed his main argu-
+ment—we are no longer ‘in the midst of the discussion’—and he is discussing an error theory of why others misunderstand  necessity, based largely on epis-
+temic considerations. Moreover, he is using this paragraph to set up a refuta-tion of the speculation that he imputes to his opponents, a refutation which is solidly conceptual rather than epistemological, based on the semantic limits of our ideas (a brief sketch of all this was given in §III).
+ 55. This correspondence is very evident in the texts. Indeed, Enquiry  8.19 is vir-
+tually identical to the penultimate paragraph of Treatise  2.3.1, while Enquiry  
+8.21 and Treatise  2.3.2.1 both embark on the question of why people have 
+been so inclined to deny the doctrine of necessity.
+ 56. Here I draw on a very helpful e-mail discussion with John Wright, for which 
+I am grateful.
+ 57. Along with T 2.3.1.16, which is mentioned in one of the following quota-
+tions, these are T 1.3.9.10, which says that in the communication of motion 
+by impulse, the resemblance of cause and effect can ‘make us imagine them to be absolutely inseparable’, and T 1.3.11.4, which says that we form such 
+a ‘habit of surveying [constantly conjoined objects] in that relation [of cause and effect], that we cannot without a sensible violence survey them in any other’.
+ 58. Again, see Millican, “Against the ‘New Hume’” and “Hume, Causal Real-
+ism, and Causal Science”, for discussions of Hume’s alleged Causal realism that are relatively comprehensive, though they do not much address nuances of variation between the different New Humean accounts.
+ 59. Wright also draws on work of my own (cf. “Hume’s Determinism”) to make 
+the point that Hume seems indeed to be identifying his own view with what he has described as ‘universally acknowledged’ (pp. 177–8).
+ 60. See §IV, just before note 32. 61. This commitment is very clear in the Treatise , the Abstract , and the Enquiry , 
+with the Copy Principle described as the ‘ﬁ  rst principle’ of the Treatise  
+(T 1.1.1.12), the ‘ﬁ  rst proposition’ of the Abstract  (A 6), and trumpeted as 
+a major discovery in all three works ( T 1.2.3.1, A 7, E 2.9). Hume’s argu-
+ments for the principle are uncharacteristically weak (cf. Jonathan Bennett, “Empiricism about Meanings”, in Reading Hume , 97–106, at 99–103), but 
+there is no evidence of his having recognised this, perhaps because—as he acknowledged in a 1763 letter to Thomas Reid—his empiricist principles of the ‘way of ideas’ were so ﬁ  rmly entrenched as ‘the common ones’ ( HL i 376), 
+presumably due to Locke’s inﬂ  uence. It is notable that in a letter the previous 
+year to Hugh Blair, responding to Reid’ s draft Inquiry , Hume speciﬁ  cally 
+defended his arguments for the Copy Principle, which Reid had apparently alleged to be ‘not supported by any Colour of Argument’ (Thomas Reid, An 
+Inquiry into the Human Mind on the Principles of Common Sense , edited by 
+Derek R. Brookes [Edinburgh: Edinburgh University Press, 1997, originally published 1764], 257).
+ 62. §1 of Millican, “Hume’s Determinism”, argues a similar point against James 
+A. Harris, “Hume’s Reconciling Project and ‘The Common Distinction betwixt Moral  and Physical  Necessity’”, British Journal for the History of 
+Philosophy , 11 (2003): 451–71, and Of Liberty and Necessity , who suggests 
+an inconsistency between thoroughgoing determinism and Hume’s views on induction and causation.
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. Hume, Causal Realism, and Free Will 165
+ 63. This vital point—which applies equally to Hume’s argument that ‘matter and 
+motion’ may be ‘the causes of thought’ ( T 1.4.5.30–33)—is emphasised in 
+§§7–10 of Millican, “Hume, Causal Realism, and Causal Science”. Hume’s analysis of causation is standardly interpreted as sceptical , but in fact his 
+application of it is scientiﬁ  cally constructive. By making causal necessity a 
+matter of constant conjunction (rather than something mysterious), Hume is able to argue for its thoroughgoing application to the mental world, in a way that he could not if it were metaphysically ‘thick’.
+ 64. Again, I am not suggesting that there are no philosophical difﬁ culties in the 
+Old Hume position, for example, in making sense of the ascription of neces-sity to objects based on a subjective impression (cf. Millican, “Against the ‘New Hume’”, §3.5). The point is that these are Hume’s  own philosophical 
+difﬁ culties: problems that he himself clearly encounters.
+ 65. Note that Hume implicitly relies on a distinction between absolute  (or con-
+ceptual) possibility, which is a priori and revealed by his Conceivability Principle, and causal  possibility, which cannot be discovered through mere 
+conceivability and depends on what the causal laws happen to be. Often Hume’s language is ambiguous between the two (and sometimes also episte-
+mological  possibility), but in the crucial discussions he mostly uses ‘possible’ 
+in the absolute sense (especially when applying the Conceivability Principle), and ‘necessary’ in the causal sense (especially in his treatment of necessary connexion and determinism). See Millican, “Hume, Causal Realism, and Causal Science”, 676–7.
+ 66. For more on all this, see §§9–10 of Millican, “Hume, Causal Realism, and 
+Causal Science”.
+ 67. For example, Peter Kail’s work on projection and realism—though it seems 
+largely to have taken off from his interest in the New Hume debate—has now gone well beyond it, exploring connections between quite different aspects of Hume’s philosophy, including the external world, personal identity, moral-ity, and religious belief.
+ 68. My recent research on this chapter has beneﬁ  ted from the hospitality of the 
+Institute for Advanced Studies in the Humanities (IASH) at the University of Edinburgh, in the role of Illumni David Hume Fellow. I am very grateful both to the Edinburgh Illumni and to IASH for providing such a delightful and stimulating context for my work. 
+Causation and Modern Philosophy, edited by Keith Allen, and Tom Stoneham, Taylor & Francis Group, 2010. ProQuest Ebook
+         Central, http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=652845.
+Created from oxford on 2023-10-08 12:42:30.
+Copyright © 2010. Taylor & Francis Group. All rights reserved. 

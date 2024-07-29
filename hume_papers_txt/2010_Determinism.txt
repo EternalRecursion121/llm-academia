@@ -1,0 +1,768 @@
+Hume’s Determinism 611CANADIAN JOURNAL OF PHILOSOPHY 611
+Volume 40, Number 4, December 2010, pp. 611-642 
+Hume’s Determinism
+PETER MILLICAN
+Hertford CollegeOxford OX1 3BWUK
+David Hume has traditionally been assumed to be a soft determinist  or 
+compatibilist ,
+1 at least in the ‘reconciling project’ that he presents in Sec-
+tion 8 of the ﬁ  rst Enquiry , entitled ‘Of liberty and necessity.’2 Indeed, in 
+encyclopedias and textbooks of Philosophy he is standardly taken to be one of the paradigm compatibilists, rivalled in signiﬁ  cance only by 
+Hobbes within the tradition passed down through Locke, Mill, Schlick and Ayer to recent writers such as Dennett and Frankfurt.
+3 Many Hume 
+scholars also concur in viewing him as a determinist, for example (in date order) Norman Kemp Smith, Barry Stroud, A. J. Ayer, Paul Russell, 
+ 1 Here I shall follow the common practice of treating these terms as equivalent, 
+though strictly a compatibilist need not be a determinist (e.g. one might well con-sider quantum indeterminacy to be irrelevant to human free will).
+ 2 The position presented in the similarly titled sections of the Treatise  (2.3.1-2) is 
+— at least verbally — somewhat different, though the substance is broadly this same. In the Treatise , Hume understands ‘the doctrine of liberty’ to involve chance  
+or indifference , and hence attacks it as incompatible with his ‘doctrine of necessity.’ 
+But in the Enquiry , he understands ‘liberty’ as free will  of the morally signiﬁ  cant 
+kind, and defends its compatibility with ‘necessity’ (which is why he describes his approach as a ‘reconciling project’). For illuminating discussion of Hume’s posi-tion as revealed in the two works and the relevant differences between them, see Botterill (2002).
+ 3 See for example Taylor (1967, 368), Honderich (1993, 95-8), Strawson (2004, §1), 
+and Kane (2005, 12-13).612 Peter Millican
+Don Garrett, Terence Penelhum, George Botterill, John Bricke, and John 
+Wright.4 My main purpose in this paper will be to provide the evidence 
+to substantiate this traditional interpretation, which has hitherto been widely assumed rather than defended. In the absence of such a defence, the consensus has been left open to challenge, most notably in a recent paper and a subsequent book by James Harris, who boldly claims that Hume ‘does not subscribe to determinism of any kind, whether Hobbesian or merely nomological.’
+5 His main arguments for this claim 
+are drawn from his analysis of Hume’s treatment of the idea of neces-sity and its deployment in support of the ‘Doctrine of Necessity.’ But Harris also alludes to — and apparently puts signiﬁ  cant weight on — a 
+supposed tension between determinism and Hume’s famous ‘scepti-cal’ views about induction and causation. Since this latter issue raises fundamental questions regarding the interpretation of Humean deter-minism, it will be helpful to deal with it ﬁ  rst, before turning to Harris’s 
+more extensive arguments concerning Hume’s discussions of liberty and necessity.
+I  Determinism and Humean ‘Scepticism’
+Harris does not fully spell out why he considers Hume’s famous argu-
+ment concerning induction, and his equally famous discussion of cau-sation, to be incompatible with a determinist perspective, though the following passage (from Harris 2003, 464-5) makes reasonably clear why he sees some tension between the two:
+Hume begins his examination of the doctrine of necessity by describing what is 
+‘universally allowed’ as regards material bodies … :
+It is universally allowed, that matter in all its operations, is actuated by a nec-
+essary force, and that every natural effect is so precisely determined by the energy of its cause, that no other effect, in such particular circumstances, could possibly have resulted from it. … ( E 8.4)
+… there is no reason to think Hume here forgets all that he has previously estab-
+lished concerning our inability to prove the laws of nature to be immutable. Hume is merely reporting, and not endorsing, what is universally allowed. And in point of fact, there is no empirical basis for the belief that nothing in nature could be oth-erwise than it is. ‘Our idea … of necessity and causation,’ Hume points out, ‘arises 
+ 4 Amongst many possible citations are Kemp Smith (1941, 407-10); Stroud (1977, 141 
+& 144); Ayer (1980, 75); Russell (1995, 58-9 & 79); Garrett (1997, 127-9); Penelhum (2000, 165-9); Botterill (2002, 285-7); Bricke (2008, 201-2); and Wright (2009, 170-3).
+ 5 Harris (2005, 69, n. 15), and the paper is Harris (2003). Though I shall be criticising 
+both works on this particular issue, I would like to emphasise that they constitute valuable contributions to the literature, and the book especially provides an excel-lent account of eighteenth-century debates on liberty and necessity.Hume’s Determinism 613
+entirely from [observed uniformity and customary inference]. These two circum-
+stances form the whole of that necessity, which we ascribe to matter. Beyond the constant conjunction  of similar objects, and the constant inference  from one to the 
+other, we have no notion of any necessity, or connexion.’ ( E 8.5) What is universally 
+allowed thus outstrips somewhat its evidential base, and is presumably derived in some way from what Hume in the Treatise  describes as the mind’s ‘great propen-
+sity to spread itself on external objects …’
+There are two main thoughts here. First, Hume’s argument concerning 
+induction has shown that we are unable ‘to prove the laws of nature to be immutable.’
+6 Second, our understanding of necessity and causation 
+is derived purely from observed uniformity and a consequent tendency to infer from ‘cause’ to ‘effect’: this is clearly inadequate as an evidential base from which to infer anything as strong as universal determinism.
+Now is not the time to debate the interpretation of Hume on induction 
+and causation,
+7 so I shall conﬁ  ne myself here to some general comments 
+that are, I hope, relatively uncontroversial. The famous argument con-cerning induction aims to show that the presupposition of such infer-ence — namely ‘that the future will resemble the past’ ( E 4.21) or ‘that 
+the course of nature continues always uniformly the same’ ( T 1.3.6.4) — 
+is not founded on reason or the understanding ( T 1.3.6.11; E 5.2).
+8 Most 
+would agree with Harris that this indeed rules out the possibility of any rational argument that can ‘prove the laws of nature to be immutable.’ But why should this be thought incompatible with a belief in determin-ism? It is one thing for the world to be, in fact , subject to immutable 
+laws of nature; quite another for us to believe  that it is so subject; and 
+yet another for us to be able to prove  that this is the case. Notwithstand-
+ing our inability to prove that induction is rationally justiﬁ  ed, Hume 
+clearly thinks not only that human beings — including himself — natu-
+ 6 I presume that this is Harris’s ground for claiming in his later book, as already par-
+tially quoted, that ‘Hume’s treatment of induction is, it seems to me, sufﬁ  cient to 
+show that he does not subscribe to determinism of any kind, whether Hobbesian or merely nomological’ (2005, 69 n. 15).
+ 7 For my views on Hume on induction, see Millican (2002) and (Forthcoming); on 
+causation, see Millican (2009).
+ 8 There are subtle nuances here, because although Hume explicitly denies at 
+T 1.3.6.5-7 that what is commonly called his Uniformity Principle (as partially 
+quoted above from T 1.3.6.4) can be founded on either demonstration or reason-
+ing from experience, he also states only two sections later that ‘we have many millions [of experiments] to convince us of this principle; that like objects, plac’d in 
+like circumstances, will always produce like effects  …’ ( T 1.3.8.14). This suggests that 
+his Uniformity Principle is to be understood as a principle of evidential relevance, rather than as a claim of universal causal uniformity; for a detailed discussion, see Millican (2002) §10.2, especially 154 n. 68.614 Peter Millican
+rally and irresistibly reason inductively (e.g. T 1.3.8.13, 1.4.1.7; E 5.8), 
+but also that in some sense we should  do so, basing our beliefs about 
+the unobserved ﬁ  rmly on past experience (e.g. T 1.3.15; E 10.3-4). Thus 
+Hume — as both common man and philosopher — shows himself to be 
+a committed believer  in the general uniformity of nature, even though 
+he takes this belief to be founded on instinctive ‘custom’ rather than ‘reason.’ He could likewise be a believer in thoroughgoing determin-ism, even though this goes well beyond any rational ‘evidential base.’
+Perhaps Harris has in mind not so much Hume’s ‘sceptical doubts’ 
+about inductive extrapolation of causal laws from observed to unob-served, but rather, his theory about our understanding of causation itself. As quoted by Harris from E 8.5, Hume limits our notion of neces-
+sity to ‘the constant conjunction  of similar objects, and the constant infer-
+ence from one to the other.’ And this might seem somewhat at odds 
+with the ‘universally allowed’ view ‘that matter in all its operations, is actuated by a necessary force, and that every natural effect is … pre-cisely determined by the energy of its cause.’ But again the conﬂ  ict is 
+merely superﬁ  cial, because any plausible interpretation of Hume must 
+acknowledge two evident truths. First, that he takes causal laws seri-ously, is a keen advocate of empirical science based on the discovery of causal relations, and indeed sees such relations as the principal foun-dation of all factual inference beyond the bounds of our memory and senses (e.g. T 1.3.6.7; A 8; E 4.4, 7.29).
+9 Secondly, that he considers neces-
+sity to be an essential component of our idea of causation ( T 1.3.2.11, 
+1.3.6.3, 2.3.1.18; E 8.25, 8.27). These together imply that in some sense  
+Hume must be prepared to countenance the ascription of necessity to events in the objective world, and this applies whether or not he is to be interpreted in a ‘New Humean’ manner as a believer in ‘thick’ (or ‘upper case’) Causal powers. So even if we read Hume as a reductionist 
+regularity theorist about causation , it will remain true that in the appropri-
+ate reductionist sense , there is no inconsistency in his believing in neces-
+sary connexions between events.
+This important point tends to be insufﬁ  ciently emphasised in discus-
+sions of Hume on causation, which too often portray the interpretative debate as revolving around the question of whether or not he is a ‘causal realist.’ But there is no tension whatever between a reductionist theory and ‘realism’ in the appropriate sense. On the contrary, some of Hume’s key arguments for asserting the existence of causal relations are explic-
+ 9 For more on this, see Millican (2009) especially §1. That paper as a whole gives my 
+reasons for denying that this observation in any way supports the ‘New Hume’ interpretation, which I view as fundamentally mistaken.Hume’s Determinism 615
+itly presented as following from his reductionist analysis.10 The most 
+important of these occur in the sections on ‘liberty and necessity’ and will be discussed below, but there is another such argument, very simi-lar in spirit, in the long Treatise  section ‘Of the immateriality of the soul.’ 
+This is an attack on those who claim that thinking matter is impossible (usually with a theological agenda), and it appeals directly to Hume’s analysis of causation.
+11 Having argued ‘that all objects, which are found 
+to be constantly conjoin’d, are upon that account alone to be regarded as causes and effects,’ he draws the corollary ‘that for aught we can determine by the mere ideas, any thing may be the cause or effect of any thing’ ( T 1.4.5.32). This then clears the way for concluding that ‘as 
+the constant conjunction of objects constitutes the very essence of cause and effect, matter and motion may often be regarded as the causes of thought’ ( T 1.4.5.33). Here Hume’s underlying project is much the same 
+as in his discussion of liberty and necessity: to bring the mental realm within the reach of causal explanation and thus open the way for sys-tematic inductive moral science, in opposition to aprioristic metaphys-ics or superstition.
+I conclude from all this that ‘Humean’ scepticism about induction 
+and reductionism about causation are both perfectly compatible with some form of determinism, interpreted as the thesis that all physical and mental phenomena occur in conformity with universal causal laws. This thesis could be true whether or not we have any ‘reason’ (in whatever sense) to believe it. And if causation is to be interpreted in a reductionist fashion, then the truth of determinism will simply con-sist in the obtaining of the relevant universal correlations, and will not require that there be any underlying ‘thick’ metaphysical necessities.
+12 
+So despite initial appearances, even a very traditional interpretation of 
+10 I here use the term ‘reductionist’ very broadly, to cover any ‘Old Humean’ inter-
+pretation that takes causation in the objects to be nothing beyond Hume’s two def-initions. As explained in Millican (2007b, §3.5), I am personally inclined to favour a quasi-realist reading, whereby assigning a causal relationship evinces commit-ment to potential inference from ‘cause’ to ‘effect’ (as opposed, for example, to merely asserting a constant conjunction).
+11 For detail, see §7 of Millican (2009); §8 of that paper makes a similar case regarding 
+liberty and necessity.
+12 I here ignore a problem which Hume does not take notice of, namely, that if ‘laws’ 
+of arbitrary complexity are permitted, then it might seem that any behaviour whatever could be subsumed under universal correlations. Full discussion of this point — which would require consideration of results from quantum mechanics — would take us a long way from my concern here, which is the interpretation of Hume’s own position.616 Peter Millican
+Hume, as an inductive sceptic and causal reductionist, is entirely con-
+sistent with determinism. A fortiori , a ‘non-sceptical’ or ‘New Humean’ 
+interpretation — which will typically be more friendly to justiﬁ  ed 
+beliefs about the unobserved, or to the existence of unobservable ‘thick’ powers — is unlikely to pose any fundamental obstacle to seeing Hume as a determinist.
+For the remainder of this paper, the term ‘Determinism’ — thus capi-
+talised — is always to be understood in the potentially Humean manner just explained, as requiring conformity of events with universal laws, and nothing more. But it is worth noting that Hume himself never uses the word, which was apparently coined in the 19
+th century.13
+II  Three Causal Theses, Clarke and Collins
+Having clariﬁ  ed the thesis of Determinism as it will be understood 
+here, let us now consider its relationship to two other theses which were much referred to in early modern philosophy, the one generally accepted and the other controversial:
+Determinism
+All physical and mental phenomena occur in conformity with universal causal laws.
+The Causal Maxim
+‘Whatever begins to exist, must have a cause of existence’ (T 1.3.3.1).
+The Doctrine of Necessity
+All physical and mental phenomena are governed by necessity.
+The Causal Maxim is introduced by Hume as ‘a general maxim in 
+philosophy’ which is ‘commonly taken for granted in all reasonings, without any proof given or demanded’ ( T 1.3.3.1). And indeed it is easy 
+to ﬁ nd numerous passages to back this up, in works from the period 
+such as those of Clarke, Collins, Kames, Price, and Reid, as well as any 
+13 The Oxford English Dictionary  cites various sources, the ﬁ  rst of which is a note in 
+Sir William Hamilton’s 1846 edition of Reid’s works which deﬁ  nes ‘rational Deter-
+minism’ as meaning ‘Necessitation by ﬁ  nal causes’ (i.e. speciﬁ  cally by motives). 
+The only unambiguous reference given to ‘universal determinism’ in the modern sense is from James Martineau’s Materialism  of 1876.Hume’s Determinism 617
+number of lesser ﬁ  gures.14 As stated, the Causal Maxim does not imply 
+Determinism, even when interpreted — as it commonly was — to imply that every change or event must have a cause. For if causes can fail to be necessitating  (e.g. by being ‘chancy’ or probabilistic), then an event could 
+have a cause without being determined by any universal law. However we have already remarked that Hume himself sees necessity as essential to causation, which suggests that for him, at least, the Causal Maxim would be equivalent to Determinism. Harris, wishing to deny that he is a determinist, accordingly points out that ‘Hume, in the Treatise , argues 
+that there is no good reason to believe … the principle that every event has a cause’ (2005, 68).
+Unlike the Causal Maxim, the ‘Doctrine of Necessity’ was hotly 
+debated in the early modern period.
+15 And those who rejected it did so 
+precisely by denying that all causes are necessitating. However such a denial was not taken to imply (as it probably would today) some element of genuine randomness or chance. On the contrary, Hume was echoing the standard view when saying that chance ‘is nothing real in itself’ (T 1.3.11.4, cf. E 8.25) and ‘is commonly thought to imply a contradiction’ 
+(T 2.3.1.18).
+16 Ignorance of causes makes it appropriate for us to think 
+and reason in terms of chances (e.g. T 2.3.1.12, E 6.1), but real chance 
+would be inconsistent with causation, and hence contrary to the gener-ally accepted Causal Maxim. Another reason for the unpopularity of the notion of genuine chance was that it carried dangerous atheistic conno-tations through its association with Epicureanism. Thus Collins (1717) makes reference to ‘the Epicurean System  of chance’ with its suggestion 
+that ‘this world might have been produced by a disorderly or fortuitous concourse of Atoms: or, which is all one, by no cause at all’ (58).
+14 See, for example, Clarke (1705, 18-19 & 148-9); Collins (1717, 57); Clarke (1717, 28); 
+Kames (1751, 189-90); Price (1758, 114 & 153-4); Reid (1764, 38); Reid (1790, vol. II, 306 & 311).
+15 The term goes back at least to sixteenth-century debates about ‘Luthers doctrine 
+of Necessitie’ (Haddon 1581, 165), but its most inﬂ  uential early use was in Hob-
+bes (1656, 14, 77, 133-4, 346), to be followed amongst others by Collins (1717, 24), Clarke (1717, 18), and Butler (1736, 115) prior to Hume’s Treatise  (T 2.3.2.3). ‘The 
+doctrine of necessity’ is also referred to by many later authors, including Kames, Edwards, Beattie, Priestley, Hartley, and Reid; my impression is that they always understand it as either equivalent to, or implying, determinism.
+16 The Nortons’ critical edition of the Treatise  (Hume 1739-40, vol. 2, 753) cites sup-
+porting references from Bentley, Collins, Wollaston, Arbuthnot, Clarke, Chambers and Butler. Hume sometimes expresses similar thoughts in terms of indifference  
+(e.g. T 2.3.1.3, 2.3.2.1; A 31; E 8.32), but his identiﬁ  cation of indifference with 
+chance was controversial. For a survey of eighteenth-century views on the liberty of indifference, see the index entries in Harris (2005, 260).618 Peter Millican
+In contrast to today, therefore, those in the early modern period who 
+denied that all causes are necessitating were not typically advocating any element of chance or randomness. Rather, they were insisting on a distinction between causes that are genuinely (or ‘physically’) neces-sary, and those that are ‘moral’ (i.e. based on reasons and motives). The will and actions of rational agents they took to be caused by the agent , but 
+not literally necessitated .
+17 Others, however, contested this understand-
+ing of ‘necessity,’ generating disputes in which the participants can give the impression of talking at cross-purposes. Perhaps the clearest illus-tration of this is the celebrated Clarke-Collins controversy, in which Collins argues at length for the Doctrine of Necessity, and rounds off his argument by quoting Clarke’s own words against him:
+Dr. C LARKE  [1705, 100] … asserts, that the will  is determin’d by moral motives , and 
+calls the necessity , by which a Man chooses in virtue of those motives, moral neces-
+sity. … A Man , says he, intirely free from all pain of body and disorder of mind, judges 
+it unreasonable for him to hurt or destroy himself; and, being under no temptation or external violence, he 
+CANNOT  POSSIBLY  act contrary to this judgment; not because he wants 
+a natural or physical power so to do, but because it is absurd and mischievous, and morally impossible for him to choose to do it. …
+  In this he plainly allows the necessity , for which I have contended. For he 
+assigns the same causes  of human actions that I have done; and extends the neces-
+sity of human actions as far, when he asserts, that a Man cannot  under those causes, 
+possibly do the contrary to what he does  … And as to a natural  or physical power  in Man 
+to act contrary to that judgment  … that is so far from being inconsistent with the doc-
+trine of necessity , that the said natural power to do the contrary  … is a consequence 
+of the doctrine of necessity . For, if Man is necessarily  determin’d by particular moral 
+causes , and cannot then possibly act contrary  to what he does; he must under opposite 
+moral causes , have a power to do the contrary . (Collins 1717, 109-12)
+Collins here apparently takes the Doctrine of Necessity to be equivalent 
+to Determinism, but Clarke makes clear in his response that he inter-prets it somewhat differently:
+Moral Necessity , in true and Philosophical Strictness, is not indeed any Necessity  at 
+all; but ’tis merely a ﬁ gurative Manner of Speaking  … But now this Author makes 
+Moral Necessity  and Physical Necessity  to be exactly and Philosophically the same 
+Thing … In which Matter, the Author is guilty of a double Absurdity. First , in sup-
+posing Reasons  or Motives  … to make the same necessary Impulse  upon Intelligent  
+Subjects, as Matter in Motion  does upon unintelligent Subjects ; which is supposing 
+17 This issue is closely tied to the distinction, much insisted upon by such writers, 
+between active  spirits and passive  or inert  matter. In what follows I shall ignore this, 
+but for more discussion of the distinction and its signiﬁ  cance, see Yolton (1983), 
+ch. 5, ‘Matter: Inert or Active,’ or for a brief summary, §6 of my Introduction to Hume (1748).Hume’s Determinism 619
+Abstract Notions  to be Substances . And Secondly , in endeavouring to impose it upon 
+his Reader as a thing taken for granted , that Moral Necessity  and Physical Necessity  
+do not differ intrinsically in their own Nature  … Thus if God has promised  that 
+the World shall continue another Year, ’tis a very natural and obvious Manner of Expression, to say that the World cannot possibly come to an End This Year; and yet 
+no reasonable Person is by that Manner of speaking led to imagine, that God has not at this moment the very same physical Power  of destroying the World, as he will 
+have at any time hereafter. (Clarke 1717, 15-17)
+Clarke’s paradigm of necessity is not mere conformity to a rule , however 
+uniform that rule may be, but rather, mechanical impulse . So even the 
+fulﬁ lment of God’s promises — presumably as infallible an instance of 
+a ‘morally necessary’ rule as one could wish for — is not strictly neces-
+sary in Clarke’s sense.
+For Clarke, therefore, the Doctrine of Necessity is a stronger  thesis 
+than Determinism, since it requires not only that everything happens in accordance with universal rules, but also, that the relevant rules reﬂ  ect 
+genuine physical  necessities on the model of mechanical impulse. He 
+accordingly rejects the Doctrine, though his attitude to Determinism is far less clear. He never explicitly rejects Collins’s claim that he ‘plainly allows’ that all events are strictly governed by either physical or moral necessity. And his discussion of divine prescience at least strongly suggests that God’s foreknowledge is best explained in terms of His knowledge of the relevant universal laws, rather than by any more exotic method (e.g. through literal seeing of the future, or apprehension of the course of events from a timeless perspective):
+The Manner  how God can foresee Future things, without a Chain of Necessary 
+Causes; is impossible for us to explain distinctly . Tho’ some sort of general  Notion, 
+we may conceive of it. For, as a Man  who has no Inﬂ  uence over another Person’s 
+Actions, can yet often perceive before-hand what That Other will do; and a Wiser  
+and more experienced Man, will still with greater probability foresee what Another, 
+whose Disposition he is perfectly acquainted with, will in certain Circumstances do; And an Angel , with still much Less degrees of Errour , may have a further  Prospect 
+into Mens future Actions: So ’tis very reasonable to apprehend, that God, with-
+out inﬂ  uencing Mens Wills by his Power, yet by his Foresight cannot but have as 
+much Certainer  a knowledge of future free Events, than either Men or Angels can 
+possibly have; as the Perfection  of His Nature is greater than that of Theirs . (Clarke 
+1705, 104-5)
+Clearly this sort of explanation, if it is to account for perfect divine fore-
+knowledge, presupposes that our actions are in principle fully predict-able based on our characteristics, circumstances, and the appropriate laws. But Clarke seems also to be committed to the further view that the laws themselves are absolutely necessary in a sense, owing to God’s essential goodness and wisdom:620 Peter Millican
+The Supreme Cause … and Author of all Things … must of necessity, (meaning, 
+not a Necessity of Fate , but such a Moral Necessity  as I before said was consistent 
+with the most perfect Liberty, ) Do always what he Knows  to be Fittest to be done ; 
+That is, He must act always according to the strictest Rules of Inﬁ  nite Goodness , 
+Justice , and Truth , and all other Moral Perfections .
+… Though nothing, I say, is more certain, than that God acts, not necessarily , but 
+voluntarily ; yet ’tis nevertheless as truly and absolutely impossible  for God not to do 
+(or to do any thing contrary to) what his Moral Attributes require him to do; as if he was really, not a Free, but a Necessary Agent. And the Reason hereof, is plain: Because Inﬁ  nite Knowledge, Power, and Goodness in Conjunction, may, notwith-
+standing the most perfect Freedom and Choice, act with altogether as much Cer-
+tainty  and Unalterable Steddiness ; as even the Necessity of Fate can be supposed 
+to do. Nay, these Perfections cannot possibly but so act … So that Free Choice , in 
+Such a Being, may be as Certain  and Steddy  a Principle of Action, as the Necessity 
+of Fate.
+… From hence it follows, that though God is a most perfectly free Agent, yet he 
+cannot but do always what is Best and Wisest in the whole. (1705, 115-20)
+Here Clarke — in viewing the entire world order as determined by 
+God’s perfection — seems, perhaps surprisingly, to be more necessitar-ian in spirit than Hume, who sees the causal laws as being arbitrary from an a priori perspective (e.g. T 1.3.15.1; E 4.9-11).
+Collins’s position on this spectrum is less clear, since although his 
+argument quoted above seems to treat the ‘Doctrine of Necessity’ as equivalent to mere Determinism, elsewhere he goes much further in the necessitarian direction, equating necessity with inconceivability of the contrary (1717, pp. 104-6). Harris takes this to imply that Col-lins is being disingenuous when he claims that Clarke ‘plainly allows the necessity , for which I have contended.’
+18 But the offending passage 
+occurs only near the end of Collins’s Inquiry , and in answer to the last 
+of six objections that he considers. It is therefore far less prominent, and presumably far less signiﬁ  cant, than the very clear declaration of his 
+purpose that Collins presents in the third paragraph of his Preface:
+when I afﬁ  rm necessity;  I contend only for what is call’d  moral necessity, meaning 
+thereby , that man, who is an intelligent and sensible being, is determin’d by his 
+reason and his senses; and I deny man to be subject to such necessity, as is in clocks, 
+watches, and such other beings, which for want of  sensation  and intelligence are subject 
+to an absolute, physical, or mechanical necessity. (Collins 1717, iii)
+This is followed up in the ﬁ  rst section after the Introduction, headed 
+‘The Question stated’:
+18 Harris (2003, 460-1) and (2005, 58-60).Hume’s Determinism 621
+Man is a necessary Agent , if all his actions are so determin’d by the causes preceding 
+each action, that not one past action could possibly not have come to pass, or have been otherwise than it was; nor one future action can possibly not come to pass, or be otherwise than it shall be. (Collins 1717, 11)
+If the core meaning of ‘necessity’ is indeed deﬁ  ned in terms of deter-
+mination rather than mechanism, then Collins seems to be correct (if perhaps mischievous) in claiming the ‘Doctrine of Necessity’ thus understood as common ground between himself and Clarke.
+19 Hence 
+although Clarke might well be reluctant to acknowledge this, their dispute seems to be largely verbal, hinging on whether or not mere determination is deemed sufﬁ  cient to satisfy the requirements of the 
+Doctrine of Necessity. On Clarke’s interpretation — according to which the Doctrine would claim human actions to be as physically necessary as the motion of clocks — both he and Collins reject it. But on Collins’s interpretation of the Doctrine — according to which it seems to be more or less equivalent to Determinism — both of them appear to accept it.
+III  Hume on the Idea of Necessity, and His 
+ Alleged Indeterminism
+Hume sees that he can cut through this debate by applying his Lockean 
+empiricist principle, that all ideas are derived from impressions.
+20 He 
+accordingly pursues the origin of the idea of necessity, revealing the rel-evant impression to be drawn not from the perception of either ‘physi-cal’ or ‘moral’ causes, but instead from reﬂ  ection within an observer’s 
+mind when induced by constant conjunctions to make customary infer-ences. Since both ‘physical’ and ‘moral’ causes are equally able to gen-erate such inferences,
+[we can conclude that] … there is but one kind of necessity , as there is but one kind 
+of cause, and that the common distinction between moral  and physical  necessity is 
+19 I take it to be entirely possible for adherents of the Doctrine of Necessity — which 
+concerns the universal applicability  of necessity — to differ amongst themselves 
+regarding the basis  or nature  of necessity (e.g. its relationship to God, or to conceiv-
+ability). Likewise it is possible for philosophers to agree that physical objects exist, even while disagreeing about their causes or nature.
+20 In Millican (2009, §9), I speculate that precisely this insight could have had a 
+profound inﬂ  uence on Hume’s philosophical development. Russell (2008, 235) 
+remarks on the striking similarity between Hume’s and Collins’s views on the question of liberty and necessity, and it seems to me that Collins (e.g. 1717, 11-14, 106-7) is the most likely source for Hume’s tendency in the Treatise  to use ‘liberty’ 
+as synonymous with ‘chance.’622 Peter Millican
+without any foundation in nature. This clearly appears from the precedent expli-
+cation of necessity. ’Tis the constant conjunction of objects, along with the deter-mination of the mind, which constitutes a physical necessity: And the removal of these is the same thing with chance . As objects must either be conjoin’d or not, and 
+as the mind must either be determin’d or not to pass from one object to another, ’tis impossible to admit of any medium betwixt chance and an absolute neces-sity. In weakening this conjunction and determination you do not change the nature of the necessity; since even in the operation of bodies, these have different degrees of constancy and force, without producing different species of that rela-tion. ( T 1.3.14.33)
+Hume proceeds in his discussions ‘Of liberty and necessity’ to argue 
+at length in favour of the Doctrine of Necessity as he thus understands it, on the basis that constant conjunction and consequent inference are as characteristic of the human realm as they are of the physical (T 2.3.1.3-17; E 8.6-20).
+21 But he also has a quicker way of getting to the 
+same conclusion, because his account of the idea of cause and effect includes necessity as an essential element, and implies that exactly the same necessity — the only necessity of which we can form an idea — is characteristic of all causation whatever. The widespread acknowledge-ment that causation applies to the moral realm is already, therefore, an implicit acceptance of the Doctrine of Necessity, which thus becomes a direct implication of the Causal Maxim:
+It is universally allowed, that nothing exists without a cause of its existence, and 
+that chance, when strictly examined, is a mere negative word, and means not any real power, which has any where, a being in nature. But it is pretended, that some causes are necessary, some not necessary. Here then is the advantage of deﬁ  nitions. 
+Let any one deﬁ ne a cause, without comprehending, as a part of the deﬁ  nition, a 
+necessary connexion  with its effect; and let him shew distinctly the origin of the idea, 
+expressed by the deﬁ  nition; and I shall readily give up the whole controversy. 
+But if the foregoing explication of the matter be received, this must be absolutely impracticable. Had not objects a regular conjunction with each other, we should never have entertained any notion of cause and effect; and this regular conjunction produces that inference of the understanding, which is the only connexion, that we can have any comprehension of. Whoever attempts a deﬁ  nition of cause, exclusive 
+of these circumstances, will be obliged, either to employ unintelligible terms, or such as are synonimous to the term, which he endeavours to deﬁ  ne. And if the 
+deﬁ nition above mentioned be admitted; liberty, when opposed to necessity, not 
+to constraint, is the same thing with chance; which is universally allowed to have no existence. ( E 8.25, cf. T 2.3.1.18)
+21 For an overview of the argument of these sections, with extensive quotations from 
+the Treatise  and the Enquiry , see Millican (2009, §8). For a more structured version, 
+citing parallel passages from the Abstract  also, see (2007a, §VIII).Hume’s Determinism 623
+So far Hume’s position — if not his way of reaching it — seems very 
+similar to that of Collins, in treating ‘moral’ necessity as genuine neces-
+sity in virtue of its reliability, and therefore assimilating it with what 
+Clarke calls ‘physical’ necessity despite its non-mechanistic nature. This would suggest that Hume himself, like Collins, is a Determinist, but Harris disagrees, pointing out that an assimilation between the two types of necessity can equally be understood as pushing in the reverse direction. Referring to the passage from Treatise  1.3.14.33 above, he 
+comments: ‘when Hume says that ‘there is but one kind of necessity … and that the common distinction betwixt moral  and physical  necessity 
+is without any foundation in nature,’ he is in effect saying that, for all we can tell, all necessity is of the moral kind.’ (2003, 464; cf. 2005, 73). Harris’s suggestion seems to be that as long as a conjunction of objects achieves sufﬁ  cient constancy to generate a ‘determination of the mind’ 
+— so that we naturally ﬁ  nd ourselves inferring from one to the other 
+— then that is enough to ascribe ‘an absolute necessity’ between them, even if the ‘degree of constancy’ in question falls short of a perfect asso-ciation. Accordingly, on Hume’s view as he interprets it:
+All that we have reason to mean when we attribute necessity to the operations of 
+matter is that we have experience of the regularity of the behaviour of material things, and that we ﬁ  nd ourselves as a result disposed to make predictions about 
+the future behaviour of those things. And … the libertarian denies neither of these things. … Hume does not intend or need to establish that there are exceptionless laws which govern human behaviour. Rather, his concern is merely to show that we generally regard human behaviour as no less reliable and predictable than, for example, the weather cycle …. (2003, 465; cf. 2005, 75-6)
+Harris’s interpretation clearly has some basis in the text from Treatise  
+1.3.14.33 quoted above, particularly the ﬁ  nal sentence: ‘In weakening 
+this conjunction and determination you do not change the nature of the necessity; since even in the operation of bodies, these have differ-ent degrees of constancy and force, without producing different species of that relation.’ This indeed seems to suggest that for Hume, even an imperfect conjunction can count as genuinely ‘necessary,’ as long as it is sufﬁ  ciently regular to generate inference.
+22
+If Harris is right, then the interpretative implications are profound. 
+As noted earlier, Hume has traditionally been considered a paradigm ‘soft determinist,’ whose ‘Doctrine of Necessity’ should be understood 
+22 Harris’s position here is anticipated by Garrett (1997, 126-7) who, however, takes 
+Hume to be a determinist, and says very little about the historical context. For what I take to be a more consistent development of Garrett’s approach, see note 42 in §VIII below.624 Peter Millican
+accordingly. But on Harris’s reading, Hume’s prominent argument for 
+that Doctrine based on his analysis of necessity, so far from being pro-
+determinist, is anti-determinist, and of a piece with his apparent under-
+mining of the epistemological basis of the Causal Maxim (cf. the ﬁ  rst 
+paragraph of §II above). Previous philosophers had taken for granted that the operations of matter are entirely necessitated, and their contro-versies had focused on the question of whether the operations of mind are on a par in this respect. According to Harris, Hume indeed puts the two on a par, but only by downgrading  the necessity of the operations 
+of matter. As Harris himself recognises, this reading implies a reinter-pretation of various passages in which Hume talks about views that are ‘universally allowed’ by philosophers, for example:
+It is universally allowed, that matter in all its operations, is actuated by a necessary 
+force, and that every natural effect is so precisely determined by the energy of its cause, that no other effect, in such particular circumstances, could possibly have resulted from it. … ( E 8.4)
+Most previous interpreters have presumed that Hume is here express-
+ing agreement with the position he describes, whereas Harris, as we saw in §I above, claims that ‘Hume is merely reporting, and not endorsing, what is universally allowed.’ So far from being a paradigm (soft) deter-minist, therefore, Hume becomes a revolutionary on the opposite side.
+Having thus acknowledged that Harris’s interpretation is both sig-
+niﬁ cant and textually grounded, I shall devote the remainder of this 
+paper to arguing against it. I shall do so ﬁ  rst (in §IV) by adducing evi-
+dence that Hume is himself committed to the Causal Maxim; secondly (in §V) by demonstrating his own support of the standard determinist views about the nature of matter which he describes as ‘universally allowed.’ Given the parity that Hume very explicitly claims between ‘moral’ and ‘physical’ causes, these together very strongly suggest that he is, after all, a Determinist. Then in §VI and §VII, I shall consider what Hume’s reasons might be for endorsing the Causal Maxim and Determinism, before rounding off the discussion with my conclusion (§VIII), in which I shall also endeavour to explain away the evidence that prompted Harris’s interpretation.
+IV  Hume’s Endorsement of The Causal Maxim
+Treatise  1.3.3 is devoted to a discussion of the ‘general maxim in philoso-
+phy, that whatever begins to exist, must have a cause of existence ’ (T 1.3.3.1), 
+famously arguing that this Causal Maxim cannot be proved by intu-ition or demonstration. The section’s ﬁ  nal paragraph then points the 
+way towards an immediate, and surprising, change of subject:Hume’s Determinism 625
+  Since it is not from knowledge or any scientiﬁ  c reasoning, that we derive the 
+opinion of the necessity of a cause to every new production, that opinion must necessarily arise from observation and experience. The next question, then, shou’d naturally be, how experience gives rise to such a principle?  But as I ﬁ  nd it will be more 
+convenient to sink this question in the following, Why we conclude, that such par-
+ticular causes must necessarily have such particular effects, and why we form an inference from one to another?  we shall make that the subject of our future enquiry. ’Twill, 
+perhaps, be found in the end, that the same answer will serve for both questions. (T 1.3.3.9)
+Hume never returns explicitly to the deferred question, so it is not sur-
+prising that some of his readers (including Harris, apparently) have taken him to be uncommitted to the Causal Maxim. Fortunately, how-ever, we know Hume’s reaction to this interpretation of his position, because he twice responded to published statements that he had denied the Maxim, ﬁ  rst in 1745 and then again in 1754.
+In 1745, while under consideration for the Chair of Ethics and Pneu-
+matical Philosophy at Edinburgh University, Hume was accused of hav-ing advanced various impious principles, these being drawn together in a ‘Sum of the Charge’ whose second point attacks the author of the Treatise  for:
+Principles leading to downright Atheism, by denying the Doctrine of Causes and 
+Effects, p. 321, 138, 298, 300, 301, 303, 430, 434, 284. where he maintains, that the 
+Necessity of a Cause to every Beginning of Existence is not founded on any Argu-ments demonstrative or intuitive. ( L 15)
+23
+In the subsequent Letter from a Gentleman to his Friend in Edinburgh , 
+Hume answers this accusation as follows:
+  II. The Author is charged with Opinions leading to downright Atheism , chieﬂ  y 
+by denying this Principle, That whatever begins to exist must have a Cause of Exis-
+tence . … Now, it being the Author’s Purpose, in the Pages cited in the Specimen, 
+to examine the Grounds of that Proposition; he used the Freedom of disputing the common Opinion, that it was founded on demonstrative  or intuitive Certainty ; but 
+asserts, that it is supported by moral Evidence , and is followed by a Conviction of 
+the same Kind with these Truths, That all Men must die , and that the Sun will rise To-
+morrow . Is this any Thing like denying the Truth of that Proposition, which indeed 
+a Man must have lost all common Sense to doubt of?  …
+  Thus you may judge of the Candor of the whole Charge, when you see the 
+assigning of one Kind of Evidence  for a Proposition, instead of another , is called 
+denying that Proposition; … ( L 26-9)
+23 Here I have quoted the original page references, to Treatise  Book 1 as published in 
+1739, rather than the adjusted numbers in the Nortons’ edition (which refer to their own critical text).626 Peter Millican
+It should be noted that Hume wrote this response without having a 
+copy of the Treatise  to hand;24 in my view this makes the document par-
+ticularly valuable for giving us a general overview, in words often quite different from those of the Treatise  itself, of what Hume took himself to 
+have maintained. In the present case, Hume apparently thought that he had returned to the question of the Causal Maxim’s truth, and had asserted ‘that it is supported by moral Evidence, and is followed by a Conviction of the same Kind with these Truths, That all Men must die, and that the Sun will rise To-morrow.’ So even if Hume never did actu-ally say this explicitly in the Treatise , we have some ground for suppos-
+ing it to have been his opinion.
+25
+In the Letter from a Gentleman , Hume was responding to damaging 
+accusations of impiety and atheism, in the context of his application for an academic post he strongly desired, so his reply might be suspected of being disingenuous. Fortunately, however, it is strongly corroborated by his response, nine years later, to John Stewart, who in an essay ‘Some Remarks on the Laws of Motion’ contributed to a volume issued in 1754 by the Philosophical Society of Edinburgh (of which Hume was then joint Secretary), remarked:
+That something may begin to exist, or start into being without a cause, hath indeed 
+been advanced in a very ingenious and profound system of the sceptical philoso-phy*;
+The asterisked footnote identiﬁ  ed the Treatise  as the work Stewart 
+had in mind, prompting Hume to respond in a letter of February 1754 (HL i 186):
+… But allow me to tell you, that I never asserted so absurd a Proposition as that 
+any thing might arise without a Cause: I only maintain’d, that our Certainty of the Falshood of that Proposition proceeded neither from Intuition nor Demonstration; but from another Source. That Caesar existed, that there is such an Island as Sic-ily; for these Propositions, I afﬁ  rm, we have no demonstrative nor intuitive Proof. 
+Woud you infer that I deny their Truth, or even their Certainty? There are many different kinds of Certainty; and some of them as satisfactory to the Mind, tho perhaps not so regular, as the demonstrative kind.
+24 ‘I am sorry I should be obliged to cite from my Memory, and cannot mention Page 
+and Chapter so accurately as the Accuser. I came hither by Post, and brought no Books along with me, and cannot now provide myself in the Country with the Book referred to’ ( L 40).
+25 Moreover there are at least two corroborating hints in the Treatise  text, as described 
+at the beginning of §VI below (including note 34).Hume’s Determinism 627
+  Where a man of Sense mistakes my Meaning, I own I am angry: But it is only 
+at myself: For having exprest my Meaning so ill as to have given Occasion to the Mistake.
+The evidence of the Letter from a Gentleman  by itself may appear to lack 
+solidity because of its context, but here we have it forcefully backed up by a private letter to someone Hume knew personally and respected, with no apparent motive to be anything other than truthful. Taken together, these remove any basis for seeing the text of the Treatise  as 
+indicating doubt about the Causal Maxim. On the contrary, they pro-vide substantial grounds for taking Hume to be sincerely committed to its truth.
+V  What is ‘Universally Allowed’
+Hume’s commitment to the Causal Maxim implies (as we saw in §III 
+above) that he believes in the universality of ‘necessity’ as he under-stands it, since ‘According to my deﬁ  nitions, necessity makes an essen-
+tial part of causation’ ( T 2.3.1.18).
+26 But on Harris’s principles this is quite 
+insufﬁ  cient to show that Hume is a Determinist, since he takes Hume’s 
+notion of necessity to be itself indeterministic. Identifying conclusive internal evidence against such a radical suggestion is tricky, because any appeal to Hume’s texts will be subject to consequent reinterpre-tation. For example, there are numerous occasions on which Hume — understandably enough — implicitly equates necessity  with impos-
+sibility of the contrary , in causal as well as logical contexts (e.g. T 1.2.4.4, 
+1.3.14.13, 1.4.2.7, 2.3.3.4, 2.3.9.16; E 8.4). These seem to tell against Har-
+ris’s suggestion, but of course they can be explained away if we are prepared to countenance a correspondingly relaxed interpretation of ‘impossibility.’ Likewise necessity has links with other concepts such as infallibility (e.g. T 1.2.5.3, 2.3.1.3; E 7.1.6): are these to be relaxed also? 
+Before such questions can be proﬁ  tably pursued, there is at least some 
+onus on Harris to develop his suggestion further, and to substantiate his claim that it is consistent with Hume’s philosophy.
+Fortunately there are less ambiguous texts available, in which Hume 
+identiﬁ  es and appears to endorse the deterministic views of other con-
+temporary philosophers, whose interpretation of terms such as ‘neces-sary,’ ‘impossible’ and ‘infallible’ we can presume to be conventionally 
+26 Indeed it may be that Hume’s Determinism derives precisely from his understand-
+ing of causation as requiring necessity, together with the view that denial of the Causal Maxim would be ‘absurd’ (as in the letter to Stewart).628 Peter Millican
+rigorous. As we saw in §I above, Harris himself quotes one of the clear-
+est of these:
+It is universally allowed, that matter in all its operations, is actuated by a necessary 
+force, and that every natural effect is so precisely determined by the energy of its cause, that no other effect, in such particular circumstances, could possibly have resulted from it. … ( E 8.4)
+Harris attempts to undermine the force of this by maintaining that 
+‘Hume is merely reporting, and not endorsing, what is universally allowed’ (2003, 464). But the same thought is developed, more emphati-cally and at greater length, in the Treatise :
+’Tis universally acknowledg’d, that the operations of external bodies are neces-
+sary, and that in the communication of their motion, in their attraction, and mutual cohesion, there are not the least traces of indifference or liberty. Every object is determin’d by an absolute fate to a certain degree and direction of its motion, and can no more depart from that precise line, in which it moves, than it can con-vert itself into an angel … The actions, therefore, of matter are to be regarded as instances of necessary actions; and whatever is in this respect on the same footing with matter, must be acknowledg’d to be necessary. That we may know whether this be the case with the actions of the mind, we shall begin with examining mat-ter, and considering on what the idea of a necessity in its operations are founded … (T 2.3.1.3)
+This passage is particularly signiﬁ  cant, because it comes at the very 
+beginning of Hume’s ﬁ  rst discussion of liberty and necessity, setting the 
+scene and laying out the main question that is to be addressed, namely, whether ‘this be the case with the actions of the mind,’ a question he aims to answer in the afﬁ  rmative. ‘This’ here refers back to the same 
+claims of necessity that he has just outlined in respect of the opera-tions of matter, claims that are couched in totally explicit deterministic terms. So here we have a straightforward statement of Hume’s aim in the following section, namely, to argue that ‘the actions of the mind’ are ‘in this respect on the same footing with matter,’ and hence that the same deterministic claims that are ‘universally acknowledg’d’ to apply to ‘external bodies’ apply also to the mind. There is no hint whatever 
+that he is distancing himself from what is ‘universally acknowledg’d’ — indeed his meaning seems to require that he is fully identifying with it — nor does he give any such hint when he quotes this passage verba-
+tim in the Abstract  of the Treatise  (A 31), a reuse which adds still further 
+to its authority.
+27
+27 Perhaps signiﬁ  cantly, this is by far the longest direct quotation from the Treatise  
+reproduced in the Abstract .Hume’s Determinism 629
+It seems unlikely that Hume would be endorsing this universal view 
+in the Treatise , and then suspending judgement in the Enquiry . Nor 
+should any signiﬁ  cance be read into his change of idiom, from ‘uni-
+versally acknowledg’d’ (which seems explicitly to imply acceptance) to ‘universally allowed’ (which can more plausibly be read in a non-committal manner). Hume’s own usage suggests that he treats these entirely equivalently in this sort of context; moreover later in the same section of the Enquiry , he talks in similar terms of the Causal Maxim:
+It is universally allowed, that nothing exists without a cause of its existence, and 
+that chance , when strictly examined, is a mere negative word, and means not any 
+real power, which has, any where, a being in nature. ( E 8.25)
+Given the conclusion of §IV above, that Hume himself endorses this 
+Maxim, it is hard to argue that he intends the phrase ‘universally allowed’ to signify any personal distancing from the views expressed.
+The same point can be backed up by reference to the catalogue of 
+Hume’s usage of similar phrases elsewhere:
+’Tis universally allow’d, that the capacity of the mind is limited … And tho’ it 
+were not allow’d, ’twould be sufﬁ  cently evident from the plainest observation and 
+experience. ( T 1.2.1.2)
+’tis universally allow’d by philosophers, and is besides pretty obvious of itself, 
+that nothing is ever present with the mind but its perceptions … ( T 1.2.6.7)
+Now necessity, in both these senses, has universally, tho’ tacitly, in the schools, in 
+the pulpit, and in common life, been allow’d to belong to the will of man, and no one has pretended to deny, that we can draw inferences concerning human actions … (T 2.3.2.4, repeated verbatim  at E 8.27)
+If these circumstances form, in reality, the whole of that necessity, which we con-
+ceive in matter, and if these circumstances be also universally acknowledged to take place in the operations of the mind, the dispute is at an end … ( E 8.22)
+Now this hypothetical liberty is universally allowed to belong to every one, who is 
+not a prisoner and in chains. Here then is no subject of dispute. ( E 8.23)
+There is not a single case in his published writings where Hume 
+describes an opinion as being ‘universally allowed’ or ‘universally acknowledged,’ but where he himself clearly disagrees with that opin-ion or goes on to challenge it.
+28 On the contrary, in most cases where 
+he uses this language, it is very clear indeed that he shares precisely 
+28 Taken literally, of course, ‘universal’ acceptance straightforwardly implies accept-
+ance by the reporter (as does acceptance ‘on all hands,’ an expression Hume uses at T 3.1.1.18 and E 4.16 when expressing a view he clearly shares). Such literal 630 Peter Millican
+the opinion he reports, and describes it thus to forestall any debate 
+rather than to raise one. Hence when he describes deterministic views as being ‘universally’ accepted, we have every reason to interpret him in the natural and straightforward manner, as endorsing those views rather than distancing himself from them.
+The same conclusion can be strengthened by examining more closely 
+Hume’s own use of the terms in which he characterises the determin-istic views that he takes to be ‘universally allowed.’ These amount, as we have seen above, to claiming ‘that in the communication of [external bodies’ motion] there are not the least traces of indifference or liberty’ (T 2.3.1.3), and ‘that chance  … means not any real power, which has, 
+any where, a being in nature’ ( E 8.25). Yet Hume, at least in the Treatise , 
+and speaking clearly in propria persona , is himself equally committed to 
+denying the reality of chance , indifference  and liberty  (thus construed):
+29
+… this fantastical system of liberty … ( T 2.3.1.15)
+According to my deﬁ  nitions … liberty … is the very same thing with chance. As 
+chance is commonly thought to imply a contradiction, and is at least directly con-trary to experience, there are always the same arguments against liberty or free-will. ( T 2.3.1.18)
+… the doctrine of liberty, however absurd it may be in one sense, and unintel-
+ligible in any other. ( T 2.3.2.1)
+In the Enquiry , Hume’s terminology changes so as to enable his argu-
+ment to be presented as a moderate ‘reconciling project’ ( E 8.23) that 
+clariﬁ  es the nature of, rather than rejecting, liberty. Hence he now no 
+longer usually equates liberty with chance, and ceases to be hostile towards it. However there are clear indications that his essential theory remains unchanged beneath the guise of his modiﬁ  ed terminology, and 
+that he is still just as committed as in the Treatise  to the absence of chance 
+(e.g. ‘Though there be no such thing as Chance  in the world …’ E 6.1).
+30 
+His Determinism is perhaps most explicit — and his language most like 
+understanding can be overruled by context (e.g. ‘my claim was met by universal 
+disbelief’), but there is no obvious trace of this in Hume’s texts.
+29 Hume explicitly equates liberty  with chance  at T 2.3.2.2 (‘As liberty or chance …’), 
+T 2.3.2.6 (‘… the doctrine of liberty or chance,’), T 2.3.3.7 (‘… the doctrine of liberty  
+or chance  …’), and T 2.3.3.8 (‘… what I have advanc’d to prove that liberty and 
+chance are synonimous;’). See note 16 above for his identiﬁ  cation of indifference  
+with chance .
+30 Also E 8.25: ‘liberty, when opposed to necessity … is the same thing with chance; 
+which is universally allowed to have no existence.’Hume’s Determinism 631
+that of the Treatise  — when at the end of Section 8 he moves on to dis-
+cuss the theological relevance of ‘this theory, with regard to necessity and liberty,’ with its ‘continued chain of necessary causes, pre-ordained and pre-determined, reaching from the original cause of all, to every single volition of every human creature. No contingency any where in the universe; no indifference; no liberty’ ( E 8.32).
+31 After this forthright 
+explication, he considers the implications of such Determinism for the Problem of Evil, and the structure of his argument makes clear that he himself is committed to it. The same commitment is evident in the post-humously published essay ‘Of Suicide,’ probably written in the early 1750s, which largely takes for granted a deterministic position, and explicitly uses this as the basis for denying that killing oneself can trans-gress a duty to God. It seems, therefore, that Hume not only endorsed Determinism (and the denial of ‘chance’) throughout his philosophical career, but also took it to be sufﬁ  ciently widely accepted that he could 
+reasonably describe it as ‘universally allowed’ and use it as a relatively uncontroversial basis for arguments on such potentially inﬂ  ammatory 
+topics as the Problem of Evil and the morality of suicide.
+It is worth recalling at this point, however, that Hume’s Determinism 
+is quite distinct from the ‘Doctrine of Necessity’ as understood by phi-losophers such as Clarke. And in expressing this view in ‘Of Suicide,’ Hume is very careful to make room for both ‘physical’ and ‘moral’ necessity:
+In order to govern the material world, the almighty creator has established general 
+and immutable laws, by which all bodies, from the greatest planet to the smallest particle of matter, are maintained in their proper sphere and function. To govern the animal world, he has endowed all living creatures with bodily and mental powers; with senses, passions, appetites, memory, and judgment; by which they are impelled or regulated.… (para. 5, Essays , 580)
+Determinism in this sense was indeed relatively uncontroversial at the 
+time, which provides a ﬁ  nal objection to Harris’s indeterminist inter-
+pretation. He sees Hume’s strategy as being to redeﬁ  ne necessity as 
+something weaker than determinists had supposed, so that the ‘liber-tarian’ (e.g. Clarke) is left with no reason for objecting to it.
+32 Such a 
+31 Similarly at E 8.22 n. 18, Hume treats ‘liberty’ and ‘indifference’ as equivalent to the 
+absence of necessity, again reverting somewhat to the terminology of the Treatise .
+32 Today a ‘libertarian’ is standardly understood as being an incompatibilist who 
+believes in free will and rejects determinism. Harris appears to mean someone who denies the Doctrine of Necessity, though he explains his usage of the term somewhat differently, ‘as shorthand for the view that the inﬂ  uence of motives, 
+however characterized, is not such as to eliminate freedom of choice’ (2005, 7).632 Peter Millican
+relaxed notion of necessity — by removing the element of inexorability 
+and allowing that ‘it is possible for a cause to have two or more dif-ferent effects in exactly the same set of circumstances’ — thus suppos-edly ‘redeﬁ  ne[s] it as something the libertarian has no reason to recoil 
+from’ (Harris 2003, p. 468; 2005, p. 78). But this is a bit puzzling. For as we saw above, Clarke’s fundamental objection to identifying moral necessity with physical necessity had nothing to do with the latter’s supposed inexorability  or reliability  (i.e. the fact that physical laws are 
+understood to be exceptionless), but rather, its supposed mechanism . 
+Clarke is apparently quite happy with the idea that moral necessity can (in principle, at least) provide as much certainty as physical neces-sity; however he is insistent on a fundamental distinction between the nature of the behaviour of moral agents and that of physical objects. Moral agents are, he claims, genuinely active , initiating actions of their 
+own based on rational motives, whereas physical objects are merely passive  or inert , being pushed around by blind mechanical necessities.
+33 
+And his most likely objection to Hume, therefore, would be not that the latter’s Determinism (as I have interpreted it) is too strong , but rather, 
+that the necessity which he ascribes to matter is too weak . This, indeed, 
+conforms exactly to Hume’s identiﬁ  cation of the key point of debate:
+… the most zealous advocates for free-will must allow this union and inference 
+with regard to human actions. They will only deny, that this makes the whole of necessity … in the actions of matter … ( A 34, cf. T 2.3.2.4; E 8.21-2)
+Harris’s interpretation of the strategy of Hume’s ‘reconciling project’ 
+therefore seems to me to get things the wrong way round.
+VI  The Causal Maxim as ‘Derived from Experience’
+We have seen that, whether rightly or wrongly, and for good reasons or 
+bad, Hume apparently did endorse the Causal Maxim, and also univer-sal Determinism. Indeed given his interpretation of causes as necessary, and necessity as involving exceptionless conformity to universal laws, these seem for him to come to the same thing. But this naturally raises the question of why he was committed to these deterministic views, and on what grounds. Harris, as quoted in §I above, insists that such a com-mitment would have ‘no empirical basis’ (2003, 464), but in §IV we saw evidence from Hume’s letters that he himself took the Causal Maxim to 
+33 A distinction with signiﬁ  cant theological implications — see the references in note 
+17 above.Hume’s Determinism 633
+be empirically founded. I shall now substantiate this evidence from the 
+text of the Treatise , before going on in §VII to consider in more detail the 
+apparent nature of that empirical foundation.
+Although in the Treatise Hume never explicitly returns to discuss the 
+Causal Maxim after having ‘sunk’ it in the question of our inductive inferences, we can conjecture with reasonable conﬁ  dence some of what 
+he had intended to say about it. First, at the point where the ‘sinking’ occurs, we have seen that he anticipates his intended conclusion:
+that opinion [i.e. the Causal Maxim] must necessarily arise from observation and 
+experience.34 The next question, then, shou’d naturally be, how experience gives rise 
+to such a principle?  But as I ﬁ  nd it will be more convenient to sink this question in 
+the following, Why we conclude, that such particular causes must necessarily have such 
+particular effects, and why we form an inference from one to another?  we shall make 
+that the subject of our future enquiry. ’Twill, perhaps, be found in the end, that the same answer will serve for both questions. ( T 1.3.3.9)
+In other cases where he anticipates in just this way, the expectation is 
+indeed fulﬁ  lled:
+Perhaps ’twill appear in the end, that the necessary connexion depends on the 
+inference, instead of the inference’s depending on the necessary connexion. (T 1.3.6.3)
+This will not, perhaps, in the end, be found foreign to our present purpose. 
+(T 1.4.2.57)
+So this would lead us to expect that Hume’s attitude to the Causal 
+Maxim will be closely related to his account of induction, perhaps tak-ing the view that, like the Uniformity Principle that underlies our induc-tive inferences, it is something that we cannot support by argument, but nevertheless cannot help believing or at least manifesting through our inferential behaviour.
+35 Certainly Hume does take ‘the nature of 
+our understanding,’ employed inductively, as the basis for some ‘gen-eral rules’ which are somewhat related to the Causal Maxim, and ‘by which,’ he says, ‘we ought to regulate’ such inferences ( T 1.3.13.11). 
+These ‘Rules by which to judge of causes and effects,’ which are spelled out in Treatise  1.3.15, include:
+34 Hume also implies as much at T 1.3.14.5, where he says that ‘reason, as distinguish’d 
+from experience, can never make us conclude, that a cause or productive quality is absolutely requisite to every beginning of existence.’
+35 See Millican (2002, 153-4 and note 67) for some nuances of interpretation between 
+the Treatise  and the Enquiry  regarding how far Hume takes a Principle of Uniform-
+ity to be essentially involved in our inductive inferences. 634 Peter Millican
+3. There must be a constant union betwixt the cause and effect. ’Tis chieﬂ  y this 
+quality, that constitutes the relation.
+4. The same cause always produces the same effect, and the same effect never 
+arises but from the same cause. This principle we derive from experience, and is the source of most of our philosophical reasonings.
+Interpreted strictly Hume’s fourth rule is simply false, because given 
+that ‘the same effect’ is to cover event types rather than tokens (as it must do if the rule is to be non-trivial and potentially amenable to sup-port ‘from experience’), it is clearly possible for the same effect (e.g. a ﬁ re, or the movement of a ball) to arise from different causes on dif-
+ferent occasions. Interpreted more charitably, the rule can be taken as enjoining us to look for underlying uniformity in differing causes of similar effects (e.g. sources of heat as causes of ﬁ  re, application of forces 
+as causes of movement), but even thus interpreted, it is still far from clear that this rule is ‘derivable from experience,’ though Hume appar-ently supposed it to be so.
+The interpretation and basis of this fourth rule are also potentially 
+dependent on whether Hume accepts the Causal Maxim, because the rule’s scope could be limited if he is prepared to countenance events that are neither causes nor effects.
+36 But given that he does endorse the 
+Maxim, it seems to follow from his statement of the rule that he takes any event whatever to be the product of uniform causal processes, and moreover takes this very conclusion to be ‘derived from experience’ — which tallies exactly with his earlier insistence ( T 1.3.3.9) that the Causal 
+Maxim itself would turn out to be so derived. The alternative interpre-tation of the rule, as applying only to those things that are causes or effects (and therefore not implying Determinism if some things happen causelessly), would have even more serious problems accounting for the rule’s supposed empirical basis, because thus interpreted it is in danger of becoming a mere logical consequence of the third rule and the related deﬁ  nition of causation, which already imply that causal 
+relations where they exist must be constant. The fourth rule becomes empirically empty if it implies no constraint whatever on what hap-pens, but only clariﬁ  es the conditions under which we can legitimately 
+call something a ‘cause’ or an ‘effect.’
+To sum up this discussion, Harris may be right to question whether 
+the Causal Maxim can legitimately be ‘derived from experience’ (an issue we shall move onto shortly), but even if so he is unwarranted in 
+36 Garrett (1997, 129) notes that T 1.3.12.5 (copied at E 8.13) says only that ‘a contrari-
+ety of effects  always betrays a contrariety of causes’ (my emphasis), while T 1.3.8.14 
+makes a similar point about all objects .Hume’s Determinism 635
+giving this as a reason to deny that Hume could be committed to such 
+a claim. For it is at least equally dubious to assert that Hume’s fourth rule can be so derived, and yet this is a claim that he explicitly makes. Hence we have so far seen no good reason to doubt the most straight-forward interpretation of Hume’s texts on the Causal Maxim: namely, that he did indeed accept it as true, and took it moreover to be founded on experience.
+VII  Philosophers and Hidden Causes
+Fortunately, Hume is fairly speciﬁ  c about what he takes to be the main 
+empirical basis of his deterministic views, namely, the experience of ‘philosophers’ in searching for, and ﬁ  nding, hidden causes that success-
+fully account for the superﬁ  cial contrariety of events:
+37
+The vulgar … attribute the uncertainty of events to such an uncertainty in the 
+causes as makes the latter often fail of their usual inﬂ  uence … But philosophers, 
+observing, that, almost in every part of nature, there is contained a vast variety of springs and principles, which are hid, by reason of their minuteness or remote-ness, ﬁ  nd, that it is at least possible the contrariety of events may not proceed 
+from any contingency in the cause, but from the secret operation of contrary causes. This possibility is converted into certainty by farther observation; when they remark, that, upon an exact scrutiny, a contrariety of effects always betrays a contrariety of causes, and proceeds from their mutual opposition. … From the observation of several parallel instances, philosophers form a maxim, that the connexion between all causes and effects is equally necessary, and that its seem-ing uncertainty in some instances proceeds from the secret opposition of contrary causes. ( T 1.3.12.5; E 8.13)
+This paragraph is repeated verbatim  in the Enquiry , though its context 
+is changed signiﬁ  cantly. Within the Treatise , it forms part of a discus-
+sion of ‘the probability of causes,’ whose main function appears to be psychological explanation of our inferential behaviour. In the Enquiry , 
+it is moved into the discussion of liberty and necessity, where it follows a more obviously normative theme which is developed further over the following three paragraphs:
+… the philosopher and physician … know, that … the irregular events, which 
+outwardly discover themselves, can be no proof, that the laws of nature are not observed with greatest regularity in its internal operations and government.
+37 For more on this empirical basis, and an illuminating comparison with Kant, see 
+Falkenstein (1998, esp. 338-41).636 Peter Millican
+The philosopher, if he be consistent, must apply the same reasoning to the actions 
+and volitions of intelligent agents. … The internal principles and motives may operate in a uniform manner, notwithstanding these seeming irregularities; …
+Thus it appears … that the conjunction between motives and voluntary actions is 
+as regular and uniform, as that between the cause and effect in any part of nature; … (E 8.14-16)
+Here it is very clear that Hume is identifying his own position as that 
+of the ‘philosopher.’ The rational and consistent scientist, faced with apparent irregularities in the phenomena, should not attribute these to unreliable or chancy causation, but should instead search for hid-den factors that enable the phenomena to be explained as the consis-tent effects of absolutely necessary causes. Given the track record of scientists in achieving this, we can reasonably conclude that nature is indeed ultimately deterministic, and that all apparent chance is in fact to be explained away as due to hidden causes. Hume seems to be ﬁ  rmly 
+committed to this overall account, for echoes of it feature strongly not only in the Enquiry , but also in three different sections of the Treatise , 
+and even in one of his Essays :
+’tis commonly allow’d by philosophers, that what the vulgar call chance is nothing 
+but a secret and conceal’d cause. ( T 1.3.12.1)
+supposing that the usual contrariety proceeds from the operation of contrary and 
+conceal’d causes, we conclude, that the chance or indifference lies only in our judgment on account of our imperfect knowledge, not in the things themselves, which are in every case equally necessary, tho’ to appearance not equally constant or certain. ( T 2.3.1.12)
+a spectator … concludes in general, that … he might [infer our actions] were he 
+perfectly acquainted with every circumstance of our situation and temper, and the most secret springs of our complexion and disposition. Now this is the very essence of necessity, … ( T 2.3.2.2)
+ What depends upon a few persons is, in a great measure, to be ascribed to chance, or 
+secret and unknown causes  … Chance, therefore, or secret and unknown causes … 
+(‘Of the Rise and Progress of the Arts and Sciences,’ paras 2 & 7, Essays , 112 & 
+114)
+Whether this account of the supposed empirical basis of determinism is 
+adequate to the job is very debatable, but I have already suggested that whatever our contemporary verdict may be on this philosophical issue, there is clear evidence that Hume himself was sufﬁ  ciently persuaded. 
+Harris may understandably ﬁ  nd this regrettable, but in historical per-
+spective it is not in the least surprising, for Hume is in good company. Indeed it is striking just how many thinkers have been convinced by the progress of science that the world is deterministic, which is why the indeterminism of quantum mechanics was widely considered so Hume’s Determinism 637
+shocking, even to such a revolutionary thinker as Albert Einstein.38 We 
+are now used to the idea of such indeterminism, but comparable blind spots may still remain. Amongst contemporary philosophers of mind, for example, it is a common view that physicalism is securely founded on the causal closure of the physical realm,
+39 yet it is very unclear 
+whether the modern evidence for such closure is any stronger than the evidence was for physical determinism at the dawn of the twenti-eth century (prior to quantum mechanics).
+40 We philosophers seem to 
+be strongly drawn towards assessments of the potential for scientiﬁ  c 
+explanation whose optimism outruns the evidence, and the more we are inclined towards science and against what Hume calls ‘superstition’ (e.g. ‘spooky’ as opposed to physicalist accounts of consciousness), the more optimistic we become. Given Hume’s own inclinations in this regard, it is therefore not at all surprising if his optimism also outruns what Harris believes his principles would justify.
+VIII  Conclusion: Hume’s Lapse and His Ultimate Aim
+We have now seen ample evidence to conﬁ  rm that Hume is a Determin-
+ist, as well as signiﬁ  cant indications of his basis for this view. All this 
+contradicts Harris’s indeterminist interpretation, but it does not explain away the main evidence that he adduces for it. Unless we can do this, therefore, a suspicion might remain that Hume is simply inconsistent.
+Disregarding the general points about Hume’s inductive and causal 
+‘scepticism’ dealt with in §1 above, Harris’s interpretation rests on two main pillars. First, there are those passages in which Hume appears to allow that even an imperfect conjunction between ‘cause’ and ‘effect’ can count as ‘necessary,’ of which by far the most explicit (already quoted in §III) is:
+38 Hence the famous phrase ‘God does not play dice,’ though what he actually said 
+in a letter to Max Born of December 4th 1926 was ‘I, at any rate, am convinced that 
+He is not playing dice’ (Born 1971, 91).
+39 See for example Papineau (2000).40 In a system as complicated as the brain there is huge scope for hidden processes 
+of all sorts, and it is hard to see how the existence of non-physical causes could be ruled out in principle by any amount of causal systematisation short of a complete account of the brain’s operation, an aspiration wildly beyond the scope of current science. Yet many contemporary philosophers of mind are as strongly wedded to physicalism as nineteenth century scientists were to physical determinism, pre-sumably because they are attracted by its perceived theoretical virtues (notably, perhaps, the avoidance of ‘spooks’) rather than just by the current record of physi-cal explanation.638 Peter Millican
+… In weakening this conjunction and determination you do not change the nature 
+of the necessity; since even in the operation of bodies, these have different degrees of constancy and force, without producing different species of that relation. (T 1.3.14.33)
+Secondly, there is Hume’s analysis of the idea of necessary connexion as 
+derived from our human tendency to make inductive inferences, a ten-dency that is (notoriously) associated with such imperfect conjunctions. All too often we draw inferences from supposed ‘cause’ to supposed ‘effect,’ only to ﬁ  nd after the event that the correlation was unreliable. 
+But if the idea of necessity is simply derived from our inferential ten-dency, then it might seem that any such inference, however shaky its foundations, must count as ‘necessary.’
+To start with this second point, the issue is complex, but it is very 
+clear indeed that Hume cannot be committed to the view that all human causal inferences reﬂ  ect genuine necessities. Indeed a great deal of Trea-
+tise Book 1 Part 3 is devoted to explaining how causal inferences can be 
+misjudged in various ways, notably due to inappropriate supposition of ‘general rules’ and other forms of ‘unphilosophical probability.’ To guard against these dangers, Hume frames some ‘rules by which to judge of causes and effects,’ ‘by which we may know when [objects] really are … causes or effects to each other’ (1.3.15.2). How far all this is consistent with his own account of the ideas of necessity and causa-tion may be debatable, but that is too big a subject to embark on here, involving difﬁ  cult but familiar controversies over the interpretation 
+and relationship between his two ‘deﬁ  nitions of cause.’
+41 Nevertheless, 
+it is at least obvious that whatever the outcome of such debates, there is no question of Hume’s simplistically identifying instances of neces-sary connexion with correlations that are merely sufﬁ  cient to provoke 
+inductive inference.
+42 This is an issue that he recognised and explicitly 
+addressed, so we can be entirely conﬁ  dent on this point.
+41 For my own view, see Millican (2009, §4).
+42 Garrett (1997, 120-1, 126-30), followed by Pitson (2006, 220), sketches an interpreta-
+tion according to which ‘when [a] conjunction of event-types is constant enough to produce inference in the mind of an (idealized) observer, … the events are an example of causal ‘necessity’; where the conjunction is not constant enough to pro-duce this inference, they instead exhibit ‘‘chance’’’ (126). However, he later hints at a reﬁ  nement of this by stating that on Hume’s principles, deterministic and proba-
+bilistic laws ‘manifest, at most, different degrees of the same kind of necessity’ (135). Since Garrett nevertheless takes Hume to be a determinist (128), and bearing in mind the point in my next paragraph, I would suggest that the most consistent development of his view is to put less weight on the passage at 1.3.14.33, and to see Hume’s Determinism 639
+Another important factor to take into account here is Hume’s treat-
+ment of ‘philosophical probability,’ which he acknowledges to be an entirely legitimate ground of inference, and as having exactly the same foundation as ‘necessary’ causal inference, namely custom . Suppose that 
+I have been presented with 11 initially indistinguishable eggs, of which 9 have turned out to be good and 1 bad. Then if I have no other relevant information, it is perfectly reasonable of me to expect that the ﬁ  nal egg 
+will be good, with a conﬁ  dence (as we would now express it) of 0.9. 
+This is an inference founded on custom, and it is a case of Humean probability  rather than necessity , but it manifestly poses no problem for 
+Hume’s system, even if it might seem superﬁ  cially inconsistent with 
+the principle that ‘necessity … is nothing but a determination of the mind to pass from one object to its usual attendant’ ( T 2.3.1.4). Hume’s 
+account of probability is explicitly derivative  from his account of ‘neces-
+sary’ causal inference, and in this sense, he indeed sees probability as being of fundamentally the same species as Humean necessity. This, I suggest, explains why he sometimes writes misleadingly of all custom-
+ary inference as involving necessity: it is a simpliﬁ  cation in the context 
+of a debate in which his target is quite elsewhere.
+This ﬁ  nally brings us to the passage quoted earlier from Treatise  
+1.3.14.33, which seems to assert directly that genuine necessities — of the very same nature — can ‘have different degrees of constancy and force.’ This passage is unique, never repeated, and is apparently a lapse on Hume’s part. His talk of necessities of different degrees is sloppy, and his point would be better made by explaining his account of prob-ability, and how it shares the same basis as necessity. However, it is easy to see a plausible reason for Hume’s slip, because his focus in this paragraph is on a different point altogether. In denying a distinction between physical  and moral  necessity, he is not thinking primarily of any 
+supposed difference in their relative strength , but rather, is denying the 
+commonly but erroneously supposed difference in their nature . This, 
+recall, is the key point on which he disagrees with Samuel Clarke and other ‘libertarians’ (cf. §V above), and it is in essence the same point that he would later emphasise pithily in both the Abstract  and the Enquiry :
+the ... advocates for free-will ... must shew, that we have an idea of something else 
+in the actions of matter; which, according to the foregoing reasoning, is impos-sible. ( A 34)
+Hume as generally intending to reserve the term ‘necessity’ for strict uniformities, 
+taking the weaker ‘degrees of necessity’ to be probabilities .640 Peter Millican
+Let them ﬁ  rst discuss a more simple question, namely, the operations of body ... 
+and try whether they can there form any idea of causation and necessity, except that of a constant conjunction of objects, and subsequent inference of the mind ... If [not] ... the dispute is at an end. ( E 8.22)
+Hume’s intention here, in denying a distinction between moral  and 
+physical  necessity, is to undermine the claim that the operations of mat-
+ter involve a different kind of necessity from the operations of mind, a 
+physical necessitation (paradigmatically supposed to be exempliﬁ  ed by 
+such things as the collision of billiard balls) that goes beyond his two deﬁ nitions and thus beyond anything apparent in the actions of people. 
+This denial, indeed, is perhaps the most important upshot of his entire discussion of causation, because it forms the heart of his argument con-cerning liberty and necessity, and the crucial link between Enquiry  7 
+and Enquiry  8. It is therefore signiﬁ  cant that when he repeated this cen-
+tral argument in Book 2 of the Treatise , the Abstract , and the Enquiry , he 
+did so without any hint of the acceptance of inconstant ‘necessities’ that is admittedly present in the anomalous passage from Treatise  1.3.14.33.
+Hume’s treatment of liberty and necessity performs a crucial role 
+within his philosophy, clearing the way for moral science (as exempli-ﬁ ed in his Essays ) by establishing that systematic causal explanations 
+(in the consistent sense of efﬁ cient  causation) are possible in the human 
+sphere just as they are in the natural world.
+43 This is the ultimate pay-
+off that Hume seeks, and central to it is his denial of the distinction between moral  and physical  necessity. The upshot of this denial is not, 
+as Harris claims, to reduce all necessity to the weakness of mere moral associations, but on the contrary, to remove a potential obstacle to the claim that absolute necessity — of the very same kind that underlies deterministic physical science — is equally applicable to the moral realm. Hume’s Determinism is thus crucial to his entire project of moral science.
+44
+Received: March 2007
+43 This was argued very effectively by Tatsuya Sakamoto in a hitherto unpublished 
+paper ‘Hume as a Social Scientist,’ delivered to the 2003 Las Vegas Hume Confer-ence.
+44 I am grateful to my audience at the 2005 Toronto Hume Society conference, where 
+an earlier version of this paper was presented, and especially to James Harris, who formally responded to it. I am also grateful to Ted Morris, whose robust paper at the Tokyo conference in 2004 provoked me into writing on this topic, to Lorne Falkenstein for subsequent comments, and to an anonymous Canadian Journal of 
+Philosophy  referee for some helpful suggestions.Hume’s Determinism 641
+References
+Ayer, A. J. 1980. Hume . Oxford: Oxford University Press.
+Born, Max, ed. 1971. The Born-Einstein Letters.  London: Macmillan.
+Botterill, George. 2002. ‘Hume on Liberty and Necessity,’ in Peter Millican, ed., Read-
+ing Hume on Human Understanding: Essays on the First Enquiry . Oxford: Clarendon 
+Press, 277-300.
+Bricke, John. 2008. ‘Hume on Liberty and Necessity,’ in Elizabeth S. Radcliffe, ed., A Com-
+panion to Hume.  Oxford: Blackwell, 201-16.
+Butler, Joseph. 1736. The Analogy of Religion, Natural and Revealed, to the Constitution and 
+Course of Nature . Dublin.
+Clarke, Samuel. 1705. A Demonstration of the Being and Attributes of God . London. Quota-
+tions taken from the eighth edition, London: 1732.
+______. 1717. Remarks upon a Book, Entituled, A Philosophical Enquiry concerning Human 
+Liberty . London.
+Collins, Anthony. 1717. A Philosophical Inquiry concerning Human Liberty . London.
+Falkenstein, Lorne. 1998. ‘Hume’s Answer to Kant,’ Noûs  32: 331-60.
+Garrett, Don. 1997. Cognition and Commitment in Hume’s Philosophy.  New York: Oxford 
+University Press.
+Haddon, Walter. 1581. Against Ierome Osorius, Byshoppe of Siluane in Portingall and against 
+his slaunderous Inuectiues . London. (Haddon having died in 1572, this edition was 
+‘continued’ by John Foxe and ‘Englished’ by James Bell.)
+Harris, James A. 2003. ‘Hume’s Reconciling Project and ‘‘The Common Distinction 
+betwixt Moral  and Physical  Necessity,’’’ British Journal for the History of Philosophy  
+11: 451-71.
+______. 2005. Of Liberty and Necessity . Oxford: Clarendon Press.
+Hobbes, Thomas. 1656. The Questions concerning Liberty, Necessity, and Chance : Clearly 
+stated and debated between Dr. Bramhall Bishop of Derry, and Thomas Hobbes of Malm-esbury . London.
+Honderich, Ted. 1993. How Free are You?  Oxford: Oxford University Press.
+Hume, David. 1739-40. A Treatise of Human Nature: A Critical Edition , 2 vols., David Fate 
+Norton and Mary J. Norton, eds. Oxford: Clarendon Press 2007 (references indi-cated by ‘T’).
+______. 1741-77. Essays, Moral, Political, and Literary , Eugene F. Miller, ed.,Liberty Classics, 
+second edition 1987 ( ‘Essays,’  references given to paragraph number and to page 
+number).
+______. 1745. A Letter from a Gentleman to his Friend in Edinburgh , included in Hume 
+(1739/40) as above (references indicated by ‘L,’ and given to paragraph number).
+______. 1748. An Enquiry concerning Human Understanding , Peter Millican, ed. Oxford: 
+Oxford University Press 2007 (references indicated by ‘E’ and given to section and 
+paragraph number, except when giving page references for additional material such as the editorial introduction).
+______. 1932. The Letters of David Hume , J.Y.T. Greig, ed., 2 vols. Oxford: Clarendon Press 
+(references indicated by ‘HL’).642 Peter Millican
+Kames, Lord Henry Home. 1751. Essays on the Principles of Morality and Natural Religion , 
+Edinburgh. The third edition (1779) provides the basis for the edition by Mary Catherine Moran (Indianapolis: Liberty Fund 2005).
+Kane, Robert. 2005. A Contemporary Introduction to Free Will.  New York: Oxford University 
+Press.
+Kemp Smith, Norman. 1941. The Philosophy of David Hume.  London: Macmillan.
+Millican, Peter. 2002. ‘Hume’s Sceptical Doubts concerning Induction,’ in Peter Millican, 
+ed., Reading Hume on Human Understanding . Oxford: Clarendon Press, 107-73.
+______. 2007a. ‘Humes Old and New: Four Fashionable Falsehoods, and One Unfash-
+ionable Truth,’ Proceedings of the Aristotelian Society , Supplementary Volume 81: 
+163-99.
+______. 2007b. ‘Against the ‘‘New Hume,’’’ in Rupert Read and Kenneth A. Richman, 
+eds., The New Hume Debate: Revised Edition , London: Routledge, 211-52.
+______. 2009. ‘Hume, Causal Realism, and Causal Science,’ Mind  118: 647-712.
+______. Forthcoming. ‘Hume’s ‘‘Scepticism’’ about Induction,’ in Alan Bailey and Dan 
+O’Brien, eds., The Continuum Companion to Hume . London: Continuum.
+Papineau, David. 2000. ‘The Rise of Physicalism,’ in B. Loewer, ed., Physicalism and its 
+Discontents.  Cambridge: Cambridge University Press.
+Penelhum, Terence. 2000. ‘The Freedom of the Will,’ in Penelhum, Themes in Hume: The 
+Self, the Will, Religion . Oxford: Clarendon Press, 156-76.
+Pitson, Tony. 2006. ‘Liberty, Necessity, and the Will,’ in Saul Traiger, ed., The Blackwell 
+Guide to Hume’s Treatise . Oxford: Blackwell.
+Price, Richard. 1758. A Review of the Principal Questions and Difﬁ  culties in Morals , London. 
+Excerpts from the third edition (1787) are included in L.A. Selby-Bigge, ed., British 
+Moralists.  Oxford: Clarendon Press 1897, vol. ii, 103-84.
+Reid, Thomas. 1764. An Inquiry into the Human Mind, on the Principles of Common Sense , 
+Edinburgh. The fourth edition (1785) provides the basis for the edition by Derek R. Brookes (Edinburgh: Edinburgh University Press 1997).
+______. 1790. Essays on the Intellectual and Active Powers of Man.  Dublin, 3 vols.
+Russell, Paul. 1995. Freedom and Moral Sentiment: Hume’s Way of Naturalising Responsibility.  
+New York: Oxford University Press.
+______. 2008. The Riddle of Hume’s Treatise: Skepticism, Naturalism, and Irreligion.  New York: 
+Oxford University Press.
+Strawson, Galen. 2004. ‘Free Will,’ in Edward Craig, ed., Routledge Encyclopedia of Philoso-
+phy. London: Routledge, updated and revised February 29, 2004. Online version 
+retrieved from http://www.rep.routledge.com/article/V014SECT1.
+Stroud, Barry. 1977. Hume . London: Routledge and Kegan Paul.
+Taylor, Richard. 1967. ‘Determinism,’ in Paul Edwards, ed., The Encyclopedia of Philosophy.  
+New York: Macmillan, vol. 2, 359-73.
+Yolton, John W. 1983. Thinking Matter: Materialism in Eighteenth-Century Britain . Minne-
+apolis: University of Minnesota Press.

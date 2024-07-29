@@ -1,0 +1,866 @@
+Hume Studies
+Volume 40, Number 2, 2014, pp. 205–226
+Peter Millican, Department of Philosophy, Hertford College, University of Oxford, Catte 
+Street, Oxford OX1 3BW, United Kingdom. Email: peter.millican@philosophy.ox.ac.uk.Skepticism about Garrett’s Hume : 
+Faculties, Concepts, and Imposed 
+Coherence
+PETER MILLICAN
+Hume , Don Garrett’s new book—long anticipated and well worth the wait—is a tour 
+de force. Garrett’s impressive ability to weave a coherent philosophical account of 
+Hume’s ideas, even when they seem most muddled or contradictory, is here fully 
+displayed, linking together Hume’s thought as a whole and finding systematic 
+themes within it whose potential richness has escaped other commentators. As a 
+great admirer of Garrett’s work, from which I have learned so much over the years, 
+I found it fascinating to see how his overall interpretation of Hume pulls together 
+a variety of strands that are by now very familiar to me, but whose potential close 
+interconnections I had not fully appreciated. Although the book aims to be “ac -
+cessible to readers who have no specialized training in philosophy and little prior 
+knowledge of Hume”—and mostly achieves this—it will undoubtedly prove to be, 
+as Garrett hopes, “of substantial interest to historians of philosophy and to other 
+philosophers grappling with questions like those that animated Hume” ( Hume , 
+xix). Indeed I would judge it to be one of those relatively few secondary works that 
+ought to be read by all serious scholars of Hume, given the sweep of its discussions 
+and insights and the way in which it can help us understand familiar passages in 
+new ways, not least by highlighting some of those general themes and connections 
+that Garrett sees as unifying Hume’s philosophy. Even scholars who disagree with 
+these unifying analyses will learn a great deal through critical engagement with 
+Garrett’s thought-provoking and often ingenious arguments.Hume Studies206 Peter Millican
+1. Teaching and Tone
+Garrett’s book will also provide a valuable resource for teaching, providing cover -
+age of all the main areas of Hume’s philosophy (including aesthetics, morals, and 
+religion) and nicely framing the principal discussions between a first chapter that 
+presents an excellent potted history of Hume’s life and works and an interesting 
+final chapter that discusses Hume’s legacy. In the main body of the book, however, 
+Garrett’s enthusiastic commitment to his distinctive and highly systematic under -
+standing of Hume’s philosophy as a whole—which makes his work so interesting 
+and challenging for other scholars—also brings some corresponding drawbacks for 
+its use as a teaching resource. For in the process of presenting this vision, Garrett 
+makes many general claims about Hume’s usage of terms and how his philosophy 
+is to be understood, but most of these are not backed up in detail here, so they 
+must be taken on trust. Garrett’s general avoidance of detailed scholarly debate is 
+deliberate (see Hume , xx), and for many students this approach might indeed be 
+very suitable, giving them one clear, overall picture of Hume’s thought, without 
+having to worry too much about either scholarly disagreements or inconvenient 
+exceptions, changes of mind, ambiguities, and apparent confusions in Hume’s own 
+texts. But for those who need to get seriously engaged in the scholarly literature 
+and grapple with interpretative debates, it is a shame to see so little distinction 
+drawn between claims that are uncontroversial or very widely accepted and those 
+that are Garrett’s own. He knows the texts very well and weaves a plausible narra -
+tive, so most of his controversial claims are hard to assess in a brief discussion. But 
+some prove to be straightforwardly false. For example, Garrett claims that “[Hume] 
+employs the term ‘justified’ only for persons, never for beliefs, and he applies the 
+term ‘just’ only to reasonings and the drawing of conclusions” ( Hume , 170). This 
+claim—from which Garrett draws further interpretative conclusions—can easily 
+be tested using electronic resources such as Hume Texts  at www.davidhume.org, 
+where a search for “justified” pulls up eight paragraphs, of which the first, in Letter 
+to a Gentleman , applies it to a proposition (31), the fourth to a “verdict” (“Standard 
+of Taste,” 235), the fifth to an assertion (“Original Contract,” 471), the sixth to 
+disputes (“Coalition of Parties,” 494), the seventh to actions (EPM 1.5; SBN 171),1 
+and the eighth to a comparison (DNR 12.5).2 So Garrett’s claim is straightforwardly 
+correct in only two of the eight cases. As for his claim about “just,” this occurs 
+207 times, and again counterexamples can quickly be found. A different sort of 
+case occurs when we are told that “Hume consistently followed his rule of never 
+replying to attacks on his writings” ( Hume , 30), but the Letter from a Gentleman  
+and some other letters—for example, to Hugh Blair in 1761 (Hume to Blair, 1761, 
+in Letters 1:349–51), responding to Campbell’s Dissertation on Miracles —provide 
+counterexamples to this claim.3Volume 40, Number 2, 2014207 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+Of course we all make mistakes, and my concern here is not with the presence 
+of errors, which are inevitable, but rather with “the positive Air, which prevails in 
+that Book” (Hume to John Stewart, February 1754, in Letters 1:187), and which risks 
+misleading the reader about the level of interpretation that is going into Garrett’s 
+assertions. I am not suggesting that Garrett himself is a dogmatist or aiming to sup -
+press debate; indeed, he takes the trouble to conclude his chapters with very useful 
+references to contrary interpretations, and his own view has clearly developed in 
+various respects since his earlier book of 1997, as he acknowledges in respect of 
+Hume’s argument concerning induction ( Hume , 210).4 The worry is rather that a 
+book aimed at preparing students to engage in scholarly discussion needs to be 
+particularly careful in distinguishing between agreed facts and original interpreta -
+tive claims, since otherwise the students are likely to confuse these, which hampers 
+their ability to assess—and contribute effectively to—the relevant debates. This 
+concern is especially pertinent when the book is so interpretatively rich, aspiring 
+to present a systematic Humean philosophy rather than a straightforward and 
+relatively unadorned picture of Hume’s published views.
+2. Boundaries, Abstraction, and Negation
+Again I would like to emphasize that Garrett’s approach has virtues as well as 
+dangers, and for a scholar it is fascinating to see how he weaves together Hume’s 
+different discussions, apparently determined to paint a coherent picture of his 
+philosophy. Regarding that philosophy, he writes, “I am firmly convinced of its 
+overall consistency and coherence, and the organization of this book is intended 
+to highlight those features” ( Hume , xxi). Fairly often this involves developing 
+Hume’s positions, pointing out what view “he must” take, on pain of inconsistency 
+or other error (for example, Hume , 57, 1 13, 148, 216, 305), and apparently with the 
+implicit assumption that Hume could not be guilty of any such error. Sometimes 
+these claims are convincing, but I would prefer to see more of that “doubt, and 
+caution, and modesty, which, in all kinds of scrutiny and decision, ought for ever 
+to accompany a just reasoner” (EHU 12.24; SBN 162).5 Otherwise the risk is that 
+one loses track of the boundary between Hume’s view and the interpreter’s, and 
+in some cases I fear that this may have happened in Garrett’s text.
+Consider two examples from chapter 2, on “Perceptions and Their Principles.” 
+The first of these concerns Hume’s theory of abstract ideas, which Garrett takes 
+to inform a great deal of his philosophy. After outlining the theory, Garrett com -
+ments, “If Hume’s theory of abstract ideas is to explain the full range of cases he 
+intends it to cover, at least four fairly obvious elaborations must be made beyond 
+those that he explicitly offers” ( Hume , 55). These are that an abstract idea of a 
+relation  must involve a “revival set” of pairs (or multiples) rather than singletons, 
+that there should be abstract ideas of individuals , and that judgments can involve Hume Studies208 Peter Millican
+both an expanded  revival set (of things conceived but not necessarily believed) 
+and an idealized  revival set ( Hume , 55–56). Moreover, in explicating T 1.1.7.14 (SBN 
+23), Garrett goes on to argue that Humean abstract ideas must involve in addition 
+what he calls a concept’s “ inferential role ” and “ conceptual role ” (Hume , 57), going 
+well beyond anything implied by that passage.6 In this paragraph of Garrett’s, it 
+is striking that we get references to nine sections of his own book against just the 
+one to Hume’s own text, suggesting a focus on what Garrett thinks Hume ought  
+to have said rather than what he did say: rational reconstruction rather than 
+interpretation. Yet the reconstruction starts with the categorical statement that 
+“[e]xplaining the full meaning of an abstract idea or concept therefore involves, 
+in principle, several elements for Hume ” (Hume , 57, my emphasis). In the remain -
+der of the book, Garrett applies his reconstructed theory of abstract ideas to the 
+understanding of a wide range of Hume’s philosophy, including what he calls 
+the “sense-based concepts,” which are expounded at length in chapter 4 (with 
+the normative subset discussed further in chapter 5) and which provide perhaps 
+the most distinctive central theme of his interpretation. Personally, I doubt that 
+Hume’s theory of abstract ideas had so significant an influence, and I see little to 
+suggest that Hume seriously engaged with the problems that Garrett identifies as 
+requiring its further development, nor—if he did—that he saw how to deal with 
+them. His theory may be referred to in half a dozen or so sections of the Treatise 
+(“quite often,” according to Garrett, Hume , 37),7 but usually without any allu -
+sion to the role of custom that distinguishes it from Berkeley’s theory; moreover, 
+Hume’s only explicit mention of it after the Treatise  is in a first Enquiry  footnote, 
+where he suggests that it might provide “the readiest solution” to the paradoxes 
+of infinite divisibility (EHU 12.20n34; SBN 158n). Garrett’s attempts to develop 
+a more powerful Humean theory are very interesting in themselves, and I would 
+accept that if this theory can make good sense of texts that would otherwise be 
+incoherent, then we should be prepared to consider it as suggestive of genuine 
+tendencies in Hume’s own thought. Any such development, however, is bound 
+to be highly controversial, so even in the best case it remains desirable to see clear 
+boundaries drawn between the texts and their speculative interpretation.
+A second example is provided by Garrett’s interpretation of Hume’s view of 
+negation. We are told that “the simple absence of belief-constituting liveliness 
+would not be denial, but rather mere absence of assent. . . . Accordingly, [Hume] is 
+obliged to explain the mental denial of a proposition in terms of a positive belief 
+in its contrary, and this in turn raises the question of how he understands contra -
+riety” ( Hume , 75). Garrett then acknowledges the “initially puzzling” nature of 
+Hume’s cursory comments on contrariety (at T 1.1.5.8; SBN 15) and goes on to say: 
+“To understand this remark fully, we must distinguish between a conceptualized 
+and a non-conceptualized way of representing the non-existence of something” 
+(Hume , 75). The ensuing discussion—attempting to defend Hume by appeal to Volume 40, Number 2, 2014209 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+his theory of abstract ideas—is interesting and philosophically sophisticated, 
+but notice how Garrett has moved from a claim about what Hume “is obliged” 
+to think to the claim that this position is essential “to understand” what Hume 
+actually wrote. It seems to me implausible that Hume had these sophisticated 
+thoughts in mind. Rather, I believe that his treatment of contrariety—as his text 
+suggests—is ill-considered and cursory, motivated mainly by the recognition that 
+his artificial taxonomy of relations requires some notion of negation, but provid -
+ing no satisfactory treatment of it. That taxonomy itself seems to be an attempt to 
+shoehorn Locke’s theory of relations into a sevenfold structure, prompted by the 
+seductive idea that the nature of the relations involved in a proposition can pro -
+vide a reliable criterion of demonstrability (as applied at T 1.3.3.2 and 3.1.1.19 [SBN 
+79, 463–64]). But sadly, the would-be criterion is nonsense, as Jonathan Bennett 
+showed long ago ( Locke, Berkeley, Hume , 256), since (for example) it is entirely 
+possible for demonstrable statements to involve relations from the supposedly 
+“non-demonstrable” class.8 In the first Enquiry , there is no trace of this dubious 
+theory of relations, and Hume’s sole criterion of demonstrability is based on his 
+Conceivability Principle, which has no such evident weaknesses. Garrett, however, 
+seeks to defend the original theory and builds on his elaborated interpretation 
+of Humean abstract ideas to suggest a possible way in which “knowledge of such 
+truths as {all dogs are mammals} could be accommodated within the constraints 
+of the four knowledge-underwriting kinds of relations” ( Hume , 92–93). But there 
+is no evidence in the text of the Treatise  that Hume has seriously thought through 
+the application of his “knowledge-underwriting” theory of relations (let alone 
+in combination with his theory of abstract ideas), and some evidence in the first 
+Enquiry  that he had by then abandoned it. All this effort at subtle defense of the 
+Treatise  theory, therefore, provides interesting philosophical discussion, but it 
+does not thereby provide plausible interpretation. No doubt the book is richer for 
+it, but I would have liked to see a clearer distinction maintained between Hume’s 
+own views and Garrett’s speculative developments of them.
+3. A Last-Minute Footnote and a Disputed Distinction
+Garrett’s third chapter is devoted to “The mind and its faculties” and, like the 
+second, aims to provide a general structured overview of central aspects of Hume’s 
+philosophy prior to the more detailed discussion of specific topics in the later 
+chapters. As Garrett explains in his preface, this arrangement has expository 
+advantages over the “more obvious and common method of simply devoting suc -
+cessive chapters to coverage of individual topics,” making it easier to understand 
+the overall framework of Hume’s philosophy and to see its “coherence . . . and 
+the consistency of his results” ( Hume , xxi). As might be expected, Garrett presents 
+his overviews persuasively and elegantly. But an obvious risk of this overview  Hume Studies210 Peter Millican
+approach—especially in the hands of an interpreter with Garrett’s commitments 
+and sympathies—is that Hume’s philosophy will be presented as having greater 
+consistency than it actually does, by downplaying changes in his views, ignoring 
+controversies, or simply selective focus. For example, the first main section of this 
+chapter is devoted to “Mind and Consciousness,” centered around Hume’s theory 
+of personal identity and giving prominence to the implications of his Separabil -
+ity Principle (as expounded earlier in chapter 2, Hume , 46–47). And although the 
+doubts Hume expresses in the notorious 1740 Treatise  Appendix are mentioned 
+at the end of this section, no hint is given that this aspect of Hume’s philosophy 
+is particularly unclear in respect of his views subsequent to the Treatise . Personal 
+identity does not feature in the first Enquiry , nor does the Separability Principle, 
+which commits the Treatise  to such absurd and implausible results about the 
+independence of perceptions.9 There is a serious risk here that views published 
+in January 1739 and retracted in October 1740 are given greater prominence than 
+those published—and repeatedly revised—from 1748 until Hume’s death in 1776, 
+in works which Hume himself insisted should be taken as authoritative.
+In the next section of chapter 3, Garrett turns his attention to “imagination 
+and memory,” putting great emphasis on a distinction between what he calls 
+“inclusive imagination ” and “ unreasoning imagination ” (terms he then continues 
+to use in the remainder of the book) as expounded by Hume in the following 
+famous footnote:
+In general we may observe, that as our assent to all probable reasonings 
+is founded on the vivacity of ideas, it resembles many of those whimsies 
+and prejudices,10 which are rejected under the opprobrious character 
+of being the offspring of the imagination. By this expression it appears 
+that the word, imagination , is commonly us’d in two different senses; and 
+tho’ nothing be more contrary to true philosophy, than this inaccuracy, 
+yet in the following reasonings I have often been oblig’d to fall into it. 
+When I oppose the imagination to the memory, I mean the faculty, by 
+which we form our fainter ideas. When I oppose it to reason, I mean the 
+same faculty, excluding only our demonstrative and probable reasonings. 
+(T 1.3.9.19n22; SBN 1 17–18n)
+What Garrett does not mention is that Hume inserted this “important footnote” 
+(Hume , 87) at the very last minute, by means of a specially printed cancel  leaf that 
+readers were asked to substitute physically into the already-printed volume. To 
+enable this to be done, moreover, he had to craft it to fit into a very limited space, 
+compress some of his existing text, and place the note at the end of the section 
+rather than where it most naturally belongs.11 So Hume evidently considered the 
+distinction drawn in the footnote to be important (as Garrett states) but was very Volume 40, Number 2, 2014211 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+restricted in what he could say. This might naturally lead us to expect it to be a 
+distinction that Hume already  had firmly in mind as the Treatise  went to press, 
+but which had not featured explicitly in the text of the Treatise  prior to the inser -
+tion of the footnote. We might also expect that the footnote is unlikely, given the 
+constraints of timing and space, to provide a comprehensive explanation of that 
+distinction.
+To put the footnote in philosophical context, it is important to bear in mind 
+that for Hume, all thinking involves ideas of the imagination  as traditionally un -
+derstood, since our ideas are all imagistic  (consisting of impression-copy content) 
+rather than purely intellectual (see T 1.3.1.7; SBN 72).12 In this broad sense, there -
+fore, the “imagination” can be conceived of as something like a virtual “canvas” 
+on which those sensory (or reflective) images appear. (Of course the imagination 
+incorporates ideas of other sensory modes beside vision, to which the analogy of 
+a “canvas” is less appropriate.) But Hume also wants to use the word “imagina -
+tion” in a narrower sense, distinguished  from “reason,” thus requiring a division 
+amongst the principles that affect our ideas between those that count as “reason” 
+and those that do not. The footnote suggests that the distinction is being drawn 
+between “our demonstrative and probable reasonings” and everything else, thus 
+supporting Garrett’s interpretation of Humean “reason” as a purely inferential 
+faculty (88–89, 184). However, I do not believe that this can possibly be Hume’s 
+view, for, most strikingly, it would immediately imply that intuitive  transitions be -
+tween our ideas—what he refers to as intuitive “arguments” (T 1.3.14.35; SBN 172), 
+“inference” (EHU 4.21; SBN 37), or “proof” (T 2.3.2.2; SBN 408; EHU 8.22n18; 
+SBN 94n)—would have to be assigned to imagination in the narrower rather than 
+the broader sense, thus falling outside the province of “reason.”
+The most obvious objection to such a categorization lies in the fact that the 
+vast majority of early-modern philosophers saw intuition as a function of reason, 
+and I shall return to this shortly. But also, Hume’s own footnote text—despite 
+the superficial impression to the contrary—strongly suggests that he must be of 
+the same view. For the clear motivation behind his footnote is to distinguish the 
+operations of “reason” from “those whimsies and prejudices which are rejected 
+under the opprobrious character of being the offspring of the imagination,” and 
+neither Hume nor philosophical common sense would ever suggest that intu -
+ition—the supposedly rock-solid basis of demonstration—should be classed with 
+the “whimsies and prejudices.”
+These three points—the footnote’s last-minute haste, its brevity, and its appar -
+ent motivation—already give good reason to suspect that it is strictly inaccurate in 
+“excluding only our demonstrative and probable reasonings” from imagination in 
+its narrower, “opprobrious” sense. But there is further strong evidence in the later 
+text of the Treatise , which as mentioned above might reasonably be expected to 
+show some recognition of this ambiguity in “the imagination,” given that Hume Hume Studies212 Peter Millican
+judged it sufficiently important to require the trouble and expense of last-minute 
+editing and page reprinting in section 1.3.9.
+It was perhaps when writing about “unphilosophical probability” that Hume 
+first recognized that he faces a challenge in distinguishing between “the judgment 
+and imagination,” given that “[a]ccording to [Hume’s] system, all reasonings are 
+nothing but the effects of custom; and custom has no influence, but by enliven -
+ing the imagination” (T 1.3.13.1 1; SBN 149).13 In answer to this, he distinguishes 
+between “general rules” that are “attributed to our judgment; as being more exten -
+sive and constant,” and prejudices, which are “attributed . . . to the imagination; 
+as being more capricious and uncertain.”14 Essentially the same challenge arises 
+after his attack on “the antient philosophers” for being “guided by every trivial 
+propensity of the imagination” (T 1.4.3.1 1; SBN 224), given that “the imagina -
+tion, according to my own confession, [is] the ultimate judge of all systems of 
+philosophy” (T 1.4.4.1; SBN 225). In response, Hume famously distinguishes “in 
+the imagination betwixt the principles which are permanent, irresistible, and uni -
+versal; such as the customary transition from causes to effects, and from effects to 
+causes: And the principles, which are changeable, weak and irregular” (T 1.4.3.1 1; 
+SBN 224). This is later echoed in the conclusion to Book 1, where he refers to “the 
+understanding, that is, . . . the general and more establish’d properties of the 
+imagination” (T 1.4.7.7; SBN 267), contrasting these with “trivial suggestions of 
+the fancy” (T 1.4.7. 7; SBN 267). In all of these places, Hume is quite explicit that 
+a distinction is being drawn between different principles that operate on (ideas 
+in) the imagination and drawn not in terms of parts of the mind but rather on the 
+basis of distinguishing between disciplined , rational  thought and unconstrained 
+fantasy —that is, depending on whether or not the relevant principles are respect -
+able and reliable .
+The last-minute footnote begins in exactly the same spirit: “In general we may 
+observe, that as our assent to all probable reasonings is founded on the vivacity 
+of ideas, it resembles many of those whimsies and prejudices, which are rejected 
+under the opprobrious character of being the offspring of the imagination. By 
+this expression it appears that the word, imagination, is commonly us’d in two 
+different senses” (T 1.3.9.19n22; SBN 1 17–18n). Garrett never notes this clear con -
+nexion between the footnote and the later passages—indeed, as far as I can tell, he 
+does not ever discuss those passages.15 This is particularly surprising in respect of 
+the famous paragraph at T 1.4.4.1 (SBN 225–26), which is extremely prominent 
+in Hume’s text and explicitly presents a distinction “in the imagination” which 
+he states to be necessary “[i]n order to justify myself.” Given the importance that 
+Garrett ascribes to the similar distinction in the T 1.3.9 (last-minute) footnote 
+and his evident interest in Treatise  1.4.7 (discussed in his chapter 7), this is also 
+unfortunate. Although I do not have space to debate the matter here, I believe it 
+is the undermining of the T 1.4.4.1 distinction, spelled out in Hume’s “dangerous Volume 40, Number 2, 2014213 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+dilemma” at T 1.4.7.6–7 (SBN 267–68), that is mainly responsible for the skeptical 
+despair he expresses in the conclusion of Book 1, and unlike Garrett, I take this 
+undermining to be genuinely problematic for the philosophy of the Treatise  and a 
+significant factor in Hume’s later expressed dissatisfaction with it. (See my “Chief 
+Argument,” section 5.)16
+To maintain his position regarding the interpretation of the last-minute 
+footnote, Garrett must presumably claim that Hume had in mind two quite 
+separate distinctions amongst the principles that operate on our ideas, drawn 
+on apparently similar grounds and with considerable overlap, yet one of them is 
+expressed in the final text of the Treatise  only within a hastily-composed footnote, 
+and the two distinctions are never mentioned together. This seems so implausible 
+that I consider it overwhelmingly likely that in the footnote Hume is alluding to 
+the very same distinction that he will later be introducing in his main text, most 
+explicitly at T 1.4.4.1 (SBN 225). But if this is correct, then the distinction can -
+not fit Garrett’s interpretation, because it is based not on whether the relevant 
+principles are specific to argument  or inference  but quite clearly on their solidity 
+and respectability. The “general and more establish’d” side of the boundary will 
+thus include the principles of demonstration  and induction  but also of intuition  
+and presumably belief in body ,17 while the “trivial” side will include unreasoned 
+associational fantasies, prejudicial inferences, and the irrational reasoning of the 
+person “who is tormented he knows not why, with the apprehension of spectres 
+in the dark” (T 1.4.4.1; SBN 225–26).18 It is readily understandable why Hume, 
+thinking along these lines, would wish to categorize the latter as “imaginative” in 
+a narrower sense than just in respect of their involving ideas  in the imagination. 
+But it would be bizarre if—as Garrett seems to imply—he intended thus to class 
+them together with the intuition of “relations of ideas.”
+4. Reason, the Understanding, and Induction
+Though we disagree on the interpretation of the distinction that Hume draws 
+within the principles that operate on ideas in the imagination, Garrett and I both 
+see this as hugely important in Hume’s philosophy. But whereas I would put more 
+weight on it in respect of the philosophy of Treatise  Book 1 part 4 (where I believe 
+it is most explicitly introduced and discussed), in Garrett’s book its greatest impact 
+seems to be on the interpretation of part 3, and specifically, of Hume’s argument 
+concerning induction. Garrett and I have been debating Hume’s treatment of 
+induction for many years, and I have learned a great deal as a result, modifying 
+my own position significantly in the process. In his chapter 6, many of his points 
+seem to be pre-emptive moves against criticisms that I and others have made, but 
+since at the end of that chapter he generously mentions the recent paper in which 
+I have most fully urged these criticisms (“‘Scepticism’ about Induction”), I shall Hume Studies214 Peter Millican
+leave the adjudication of most of this discussion as “an exercise for the reader” and 
+continue to focus more specifically on his interpretation of the faculties.
+In Cognition and Commitment , Garrett appealed to the precedent of Locke (and 
+Locke only) when introducing his controversial claim that Humean “reason” is 
+“simply the inferential or argumentative faculty of the mind” ( Hume , 85). This 
+straightforward attribution to Locke is disputable,19 but we can put that aside for now. 
+At the time, Garrett took Humean “understanding” to be broader than “reason,” 
+and in subsequent discussion (starting with my “Hume on Reason,” 157–58n7), I 
+argued against this on the basis of numerous passages in which Hume apparently 
+equates “reason” with “the understanding.” Garrett—again generously—notes and 
+now accepts this ( Hume , 89) but then gives a response that I find very surprising, 
+claiming that Hume typically employs “the understanding” in a way that is also 
+narrowly inferential, thus preserving the equivalence while hanging on to his inter -
+pretation of “reason.”20 This is historically implausible. And it can also be opposed 
+using an objection that Garrett himself has urged repeatedly in the past against 
+those (including myself) who have postulated an ambiguity in Hume’s notion of 
+reason, usually in connection with his argument concerning induction.21 To that 
+claim of ambiguity, Garrett responded:
+[N]owhere in the argument or elsewhere does Hume stipulate, or even 
+imply, that he is employing a special or restricted sense of that term [viz. 
+‘reason’]. By way of contrast, consider Hume’s procedure when he nar -
+rows his sense of the term ‘probability’ at Treatise  I.iii.1 1. . . . Not only does 
+he give explicit warning that he is doing so, he devotes an entire page to 
+explaining and justifying his decision. . . . Presumably, . . . Hume has not 
+explained his use of the term ‘reason’ up to this point . . . [because] he 
+has been following the common Lockean usage of that term. ( Cognition 
+and Commitment , 85)
+Now, however, Garrett is himself postulating an unannounced ambiguity in 
+Hume’s use of the phrase “the understanding,” contrary not only to Lockean usage 
+(dating from 50 years before Hume) but also to the usage—so far as I can tell—of 
+every other prominent philosopher of the intervening period.22 Garrett gives an 
+interesting explanation of why Hume’s discoveries might push in this direction 
+and be consistent with such a narrowing ( Hume , 89–90),23 but this fails to answer 
+the objection and does nothing in itself to justify  the claim of narrowing. If the 
+evidence of the T 1.3.9 footnote is as weak as I have argued above, and Garrett can -
+not appeal to Lockean usage to support his position (since any Lockean support 
+for his interpretation of reason is at the very least counterbalanced by comparable 
+objections to his interpretation of the understanding), then little independent Volume 40, Number 2, 2014215 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+evidence remains for his key claim that the Humean faculty of reason is confined 
+to demonstrative and probable reasoning (with intuition thus excluded).
+The only other significant evidence that Garrett seems to offer is his reference 
+to Hume’s tendency “to argue that various mental operations cannot be produced 
+‘by reason’ solely on the grounds that they can be produced neither by demon -
+strative reasoning, nor by probable reasoning” ( Hume , 92), and here he alludes to 
+T 1.3.6.4, 2.3.3.2, and 3.1.1.18 (SBN 89, 413–14, 463). But this evidence is also quite 
+weak. As I argue in “Sceptical Doubts” (128–30, 155–56) and “‘Scepticism’ about 
+Induction,” (67–68), the argument in Treatise  1.3.6 is far more fully developed in 
+the first Enquiry , where Hume takes the trouble to rule out both sensation and 
+intuition as support for his Uniformity Principle before even considering demon -
+strative and probable reasoning.24 Moreover the absence of these points from the 
+much more cursory Treatise  discussion is easy to explain: Hume presumably just 
+took it to be obvious (as have many of his commentators) that uniformity into the 
+future cannot be justified either by appeal to current sensation or by intuition. A 
+similar point can be made in respect of Treatise  2.3.3.2 (SBN 413–14), particularly 
+given Hume’s gloss there of “demonstration” as “regard[ing] the abstract relations 
+of ideas”—a gloss that would implicitly include intuition . Likewise, at Treatise  
+3.1.1.18 (SBN 463), Hume’s contrast is drawn not between demonstration and 
+probability but between “the comparing of ideas” and “the inferring of matter 
+of fact”—again, the former would include intuition. Quite apart from this, it is 
+clear from Hume’s writings that he almost universally thinks of intuition (which 
+he rarely mentions explicitly) as paired with demonstration: the only significant 
+case where he explicitly draws a significant contrast between them is at T 1.3.1.2 
+(SBN 70) in connection with his theory of relations. This by itself makes it implau -
+sible to suggest that he would assign them to different faculties. Moreover, in a 
+well-known footnote, Hume explicitly rejects the “vulgar division of the acts of 
+the understanding, into conception , judgment , and reasoning ” (T 1.3.7.5n20; SBN 
+96–97n), which also counts strongly against the claim that he himself would place 
+the last of these in a separate faculty from the others.25
+Even if this were not enough, we find in the Treatise  and every one of the three 
+“recast” volumes , explicit definitions of “reason” not in terms of inference  but rather 
+“truth and falsehood”; moreover two of these occur precisely in the sections to 
+which Garrett appeals in the final evidence that we have just considered. Thus, 
+Hume calls reason the faculty “which judges of truth and falshood” (T 2.3.3.8; 
+SBN 417), words echoed in the Dissertation on the Passions  where he says “reason, 
+in a strict sense, as meaning the judgment of truth and falsehood” (DP 5.1).26 At 
+T 3.1.1.9 (SBN 458), Hume states that “[r]eason is the discovery of truth or fals -
+hood”; in the original edition of the first Enquiry  this becomes “[t]hat faculty, 
+by which we discern Truth and Falshood” (EHU 1.1, original footnote); and in 
+the second Enquiry  we read that “reason . . . conveys the knowledge of truth and Hume Studies216 Peter Millican
+falsehood” (EPM App. 1.21; SBN 294). As I have argued elsewhere, this usage is 
+absolutely in line with that of most of Hume’s contemporaries, giving further 
+strength to the claim that Humean “reason” is standardly the faculty of cognition  
+rather than merely of inference .27 There is much more that could be said here, since 
+I also believe that it is very hard to make sense of Hume’s arguments—notably 
+concerning induction—in Garrett’s terms, and this would furnish yet more pres -
+sure against his interpretation of the Humean faculties. But since, as I say, these 
+matters have been discussed extensively elsewhere and space here is limited, I 
+shall now leave them aside.
+5. Sense-Based Concepts and Morality
+One of the most distinctive aspects of Garrett’s interpretation—developed espe -
+cially in his fourth and fifth chapters—is his extension of the parallel between 
+causation and morality as a model for a notion of “sense-based” concepts, which, 
+he claims, informs Hume’s philosophy as a whole, contributing significantly to 
+its “originality, coherence, and power” ( Hume , 5). Such sense-based concepts 
+include not only causation , virtue , and vice but also color, beauty , deformity , and 
+probability . All of these, Garrett thinks (following on from his illuminating dis -
+cussions of causation and virtue in earlier works), are susceptible of paired—but 
+equivalent—definitions in a similar style, one “productive” (in terms of producing 
+an appropriate impression) and one “responsive” (in terms of the relevant objec -
+tive conditions). In consequence of this, these concepts are also “susceptible in 
+principle to a systematic ambiguity” and a related “particular kind of disagreement 
+in application that results from their essential relation to a standard of judgment” 
+(Hume , 125–26). Two other features they share are “a particular kind of simplic -
+ity” ( Hume , 123) and “a certain general resistance to global error ” (Hume , 127). This 
+is fascinating stuff, but there is a great deal of interpretation going on here, with 
+few instances of texts that directly confirm Hume’s endorsement of these claims 
+over the entire range—for example, paired definitions are to be found only in the 
+cases of causation (or causal necessity) and virtue (or personal merit),28 and Hume 
+never refers to any “sense” of causation or of probability. Comprehensive critical 
+appraisal would be a major task, so I shall here make do with some brief observa -
+tions suggesting that Garrett’s highly systematic picture of Hume’s philosophy 
+faces problems even in the central case of our moral concepts.
+Garrett apparently takes inspiration from Kemp Smith’s suggestion that the 
+guiding principle of Hume’s system is an extension to the theoretical realm of the 
+moral sentimentalism that he learned from Francis Hutcheson, with aesthetic and 
+moral judgements becoming the model for “sense-based” concepts as a whole 
+(Hume , 19, 1 15). All this is interesting, and the parallels often illuminating, but 
+one might find the extent of Garrett’s emphasis rather misleading given that Volume 40, Number 2, 2014217 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+Hume refers to a “moral sense” only twice in his philosophical writings, once in 
+the heading of Treatise  3.1.2, “Moral distinctions deriv’d from a moral sense,” and 
+once when referring back to it: “Were nothing esteem’d virtue but what were ben -
+eficial to society, I am persuaded, that the foregoing explication of the moral sense 
+ought still to be receiv’d, and that upon sufficient evidence.” (T 3.3.1.25; SBN 588).
+Moreover, given Hume’s desire to recommend his work to Hutcheson (a factor 
+particularly evident in the re-written Treatise  3.3.6, which Hume edited specially 
+for that purpose,29 I suspect that he is here somewhat misdescribing the tendency 
+of his theory. Admittedly, he refers rather more to a “sense of morals,” “sense of 
+virtue,” and “sense of justice,”30 but these are mostly generic references to moral 
+judgment —just as when Hume repeatedly refers to a “sense of interest” without (I 
+take it) any suggestion that assessing our own interest requires some distinctive 
+sense . (See T 3.2.2.10, 3.2.2.22, 3.2.5.1 1, 3.2.9.4; SBN 490, 498, 522, 553.) Such ref -
+erences therefore do little to justify the idea of morality as involving some special 
+sense  of the kind that Hutcheson hypothesized.
+Perhaps the passages in the Treatise that come nearer than any others are these:
+To have the sense of virtue, is nothing but to feel a satisfaction of a 
+particular kind from the contemplation of a character. The very feeling  
+constitutes our praise or admiration. . . . We do not infer a character to 
+be virtuous, because it pleases: But in feeling that it pleases after such 
+a particular manner, we in effect feel that it is virtuous. The case is the 
+same as in our judgments concerning all kinds of beauty, and tastes, and 
+sensations. Our approbation is imply’d in the immediate pleasure they 
+convey to us. (T 3.1.2.3; SBN 471)
+[W]e may farther confirm the foregoing proposition, that those impressions, 
+which give rise to this sense of justice, are not natural to the mind of man, but 
+arise from artifice and human conventions . (T 3.2.2.21; SBN 496)
+The nearest in the second Enquiry  are where Hume describes the “controversy 
+. . . concerning the general foundation of morals; whether they be derived 
+from reason, or from sentiment; whether we attain the knowledge of them by a 
+chain of argument and induction, or by an immediate feeling and finer internal 
+sense” (EPM 1.3; SBN 170) and goes on to anticipate his conclusion that “[t]he 
+final sentence . . . which pronounces characters and actions amiable or odious, 
+praise-worthy or blameable . . . depends on some internal sense or feeling” (EPM 
+1.9; SBN 172–73). In the first appendix, when he turns to consider these issues in 
+detail, Hume does not describe his theory as involving a sense  at all, and indeed 
+at EPM App 1.6 (SBN 287–88), he seems to be treating a sentiment  as contrasting Hume Studies218 Peter Millican
+with a cognitive account in terms of a “sense or faculty.” Overall, the terms moral 
+sentiment  and taste seem more faithful to his view than talking of a moral sense .
+Certainly Hume is a sentimentalist , who sees our sentiments or feelings as 
+playing a crucial role in moral thinking and judgment. If this is what Garrett 
+means in calling him a “moral sense theorist,” it is perhaps unexceptionable. But 
+if the term is intended to ally him with predecessors such as Hutcheson, then that 
+would be at least to some extent misleading. For Hutcheson, “the Understanding , 
+or Reason , . . . [is] attended with an higher sort of Sensations” which “represent” 
+some things “as Good” and others “as Evil” ( Essay , 32n). So these Hutchesonian 
+senses report to reason or the understanding—which he at any rate considers 
+to be the faculty that judges truth and falsehood—quite distinct from the will 
+which encompasses “the calm desire  of good, and aversion to evil” ( Essay , 31).31 
+This seems a long way from Hume’s famous arguments of T 3.1.1, which argue 
+that morality cannot be derived from reason on the ground that reason “is the 
+discovery of truth or falshood”32 Further discussion of this, however, would bring 
+us back to the debate on Hume’s notion of reason, which would presumably need 
+to be settled first.
+So I shall end this section by briefly linking the discussion of Hume’s moral 
+theory and its supposed “sense-based” character with my earlier comments about 
+the (arguably excessive) coherence—both between topics and over time—that 
+Garrett finds in Hume’s philosophy. In the Treatise , good and evil are repeat -
+edly identified with pleasure and pain (T 2.1.1.4, 2.3.1.1, 2.3.9.1, 2.3.9.8, 3.1.2.4; 
+SBN 276, 399, 438, 439, 471–72), and Hume’s predominant theory of motivation 
+is in terms of the personal pursuit of pleasure and avoidance of pain (T 2.3.3.3; 
+SBN 414).33 He also identifies “the distinguishing impressions, by which moral 
+good or evil is known” as particular pleasures and pains (T 3.1.2.3, 3.1.2.6; SBN 
+471, 473), and thus gets close to something like a sense-based theory, because “as 
+. . . pleasure or pain cannot be unknown to the person who feels it, it follows, 
+that there is just so much vice or virtue in any character, as every one places in 
+it, and that ’tis impossible in this particular we can ever be mistaken” (T 3.2.8.8; 
+SBN 547; see also T 2.1.7.4–5; SBN 295–96). So morality is indeed felt rather than 
+“judged of” (T 3.1.2.1; SBN 470) and has that “resistance to global error” ( Hume , 
+127) which Garrett takes to be characteristic of sense-based concepts in general. 
+However, the passage just quoted from T 3.2.8.8 (SBN 547) seems to be Garrett’s 
+only relatively clear textual Humean authority for ascribing such error-resistance 
+to what he identifies as Hume’s “sense-based concepts,” in which case the change 
+in Hume’s view that I shall now describe seems potentially of wider significance 
+for his interpretation.
+By the time Hume comes to write the second Enquiry , his view of moral ap -
+praisal has developed, and his presentation of it perhaps even more so.34 He no 
+longer argues that morality is “more properly felt than judg’d of” and emphasizes Volume 40, Number 2, 2014219 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+instead the joint role of reason and sentiment, with sentiment declaring “the final 
+sentence” (EPM 1.9; SBN 172) in favor of virtue, while reason does the bulk of the 
+work, identifying the practical tendencies of characters to foster usefulness or agree -
+ableness to oneself or others. Thus, prior to making a moral judgment, “it is often 
+necessary, we find, that much reasoning should precede, that nice distinctions be 
+made, just conclusions drawn, distant comparisons formed, complicated relations 
+examined, and general facts fixed and ascertained” (EPM 1.9; SBN 173).35 Since 
+usefulness  is such a key part of morality, “it is evident, that reason  must enter for a 
+considerable share in all decisions of this kind; since nothing but that faculty can 
+instruct us in the tendency of qualities and actions, and point out their beneficial 
+consequences to society and to their possessor”(EPM App 1.2; SBN 285). Reason 
+thus does most of the heavy lifting, after which the sentiment of humanity —“a 
+feeling for the happiness of mankind, and a resentment of their misery”—delivers 
+the moral verdict “in favour of those [tendencies], which are useful and beneficial” 
+(EPM App 1.3; SBN 286).36 In the second Enquiry , Hume could no longer say “that 
+there is just so much vice or virtue in any character, as every one places in it, and 
+that ’tis impossible in this particular we can ever be mistaken” (T 3.2.8.8; SBN 547); 
+indeed, his stinging attack on the “monkish virtues” highlights how mistaken 
+people can be (EPM 9.3; SBN 270). Garrett must look elsewhere, therefore, for 
+strong and enduring textual evidence to support his claim of “resistance to global 
+error” in Humean “sense-based” concepts.
+6. Religion
+Following his introductory chapter and the four that develop the general framework 
+of his interpretation with “implications . . . across multiple areas of philosophy,” 
+Garrett devotes four chapters to narrower topics, with chapter 6 on “Induction and 
+Causation,” chapter 7 on “Skepticism and Probability,” chapter 8 on “Morality and 
+Virtue,” and chapter 9 on “Religion and God.” Having said something above on all 
+of these except the last, I shall conclude with a brief review of Garrett’s treatment 
+of Hume on religion. The chapter provides very useful summary and discussion 
+of Hume’s treatments of religious belief, the Design Argument, the “argument a 
+priori ” (from Dialogues  9), the problem of evil, “true religion,” miracles, and the 
+relation between religion and morality.
+Hume’s writings on religion are commonly taken to be insincere in various 
+ways, but Garrett prefers to interpret them without resort to irony or theological 
+lying. He nevertheless finds sufficient nuance and qualification in Hume’s (and 
+Philo’s) relatively positive statements to indicate a coherent view of religion that 
+can properly be described as “infidel” (a term which Garrett prefers to “atheist” 
+Hume , 312–13). Considerations of space no doubt required some selectivity (so, 
+for example, the topics of immortality and a “future state”—though mentioned Hume Studies220 Peter Millican
+at Hume , 22, 27–28, and 284—are not discussed here), but overall the chapter pro -
+vides a reliable, efficient, and well-balanced discussion of most of the main themes 
+of Hume’s treatment of religion. This will be especially valuable for teachers and 
+students, given how few books on Hume provide anything similar.
+My own biggest debate with chapter 9 would concern Hume’s argument on 
+miracles, which Garrett interprets as requiring a sharp distinction between “proofs” 
+(definitive of laws of nature  and hence of miracles ) and “probabilities” ( Hume , 
+304, 306). By contrast, I see the argument as arising from general probabilistic 
+considerations, with “proofs” as just an extreme case (thus avoiding the potential 
+criticism that treating them quite differently will simply beg the question against 
+miracles). Garrett generously references my interpretation ( Hume , 313–14), com -
+menting—correctly—that it “cannot fully vindicate or sustain Hume’s argument” 
+(Hume , 306), while acknowledging that his own interpretation raises its own 
+philosophical questions ( Hume , 305–306). The texts give no clear verdict, and there 
+is plenty of scope for interesting discussion, which I look forward to pursuing on 
+a later occasion. As so often, Garrett’s interpretation—though of course disput -
+able—combines deep philosophical understanding and ingenuity, sensitivity to 
+the text, and overall plausibility. And in this very rich book there are many other 
+examples of such cases, with great potential to add to the interest of future Hume 
+scholarship. Garrett’s Hume  is a fine contribution to that scholarship, and it will 
+no doubt continue to provoke both objections and approval—often from the very 
+same sources—for a long time to come!
+NOTES
+1 References to the second Enquiry  are to Hume, An Enquiry concerning the Principles of 
+Morals , ed. Beauchamp, cited in the text as “EPM” followed by section and paragraph 
+numbers, and to Enquiries Concerning Human Understanding and Concerning the Principles 
+of Morals , ed. Selby-Bigge and Nidditch, cited in the text as “SBN” followed by page 
+number.
+2 Hume’s Dialogues concerning Natural Religion are cited in the text as “DNR” followed 
+by part and paragraph numbers.
+3 As these examples suggest, the word “never” in the secondary literature (much like 
+the word “surely” in student essays) very often signposts a point worthy of critical 
+scrutiny.
+4 An instance analogous to the “justified” example above is Garrett’s statement in 
+Cognition and Commitment in Hume’s Philosophy  that “Hume does not use ‘evidence’ as 
+a term of epistemic evaluation at all. On the contrary, he consistently uses it to mean 
+‘evidentness’” ( Cognition and Commitment , 228). Now he has changed his mind, pre -
+senting this as an example of a word which is systematically ambiguous ( Hume , 141), Volume 40, Number 2, 2014221 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+and citing EHU 10.4 (SBN 1 10) as an example on the other side (a section to which I 
+had referred in contesting the original claim when discussing that book in “Reason 
+and Induction,” 159).
+5 References to the first Enquiry  are to Hume, Enquiry concerning Human Understanding , 
+ed. Beauchamp, hereafter cited in the text as “EHU” followed by section and paragraph, 
+and to Enquiries Concerning Human Understanding and Concerning the Principles of Morals , 
+ed. Selby-Bigge and Nidditch, cited in the text as “SBN” followed by page number.
+6 References to the Treatise are to Hume, A Treatise of Human Nature , ed. Norton and 
+Norton, hereafter cited in the text as “T” followed by Book, part, section, and paragraph 
+number, and to Hume, A Treatise of Human Nature , ed. Selby-Bigge, rev. by Nidditch, 
+cited in the text as “SBN” followed by the page number.
+7 Abstract or general ideas are mentioned or alluded to at T 1.1.7, 1.2.3.56, 1.2.4.12, 
+1.3.14.13, 1.4.3.10, 2.3.6.2, and T App. 2; SBN 1725, 345, 43, 1612, 224, 4245, 623, but 
+few of these passages give any hint of the detail of Hume’s own theory, so it is unclear 
+how often he has it specifically in mind. Treatise 1.3.6.15 and 2.3.1.16; (SBN 93, 405) can 
+also be construed as alluding to the theory (as Garrett has pointed out to me), though 
+Hume’s talk of objects which have been found constantly conjoined does not by itself 
+indicate that he is referring to a revival set of pairs of instances (let alone, in the case 
+of the idea of causation itself at Treatise  2.3.1.16, a revival set of revival sets of pairs).
+8 Hume’s shoehorning involves an argument that all of the relations that Locke clas -
+sified as “natural” (T 1.1.4.3; SBN 1 1–12) and “instituted” (T 1.1.4.5; SBN 12) fall under 
+the category of causation. But there are plenty of propositions involving these relations 
+that are intuitively or demonstratively certain, for example, “every grandmother is a 
+mother.”
+9 When discussing the argument concerning induction in section 4 of the Enquiry , 
+Garrett claims to identify “a tacit employment of the Separability Principle” ( Hume , 176). 
+But this is unconvincing and question-begging: the text makes perfect sense without 
+any such dependence. In my “Context, Aims, and Structure,” I briefly explain how the 
+Separability Principle is intimately connected to several of the distinctive theses that 
+are absent from the first Enquiry (50–51n37).
+10 Garrett’s text omits this comma, and replaces Hume’s “vivacity” with “liveliness.”
+1 1 It seems to me extremely likely that Hume appreciated the need for this new note 
+on re-reading the end of paragraph T 1.3.9.4: “All this, and every thing else, which I 
+believe, are nothing but ideas; tho’ by their force and settled order, arising from custom 
+and the relation of cause and effect, they distinguish themselves from the other ideas, 
+which are merely the offspring of the imagination” (SBN 108). This raises exactly the 
+issue addressed in the footnote and is the only other place in any of Hume’s publications 
+that mentions “the offspring of the imagination.” If the footnote was not prompted 
+by this paragraph, then the coincidence of phraseology and appropriateness would be 
+very surprising.
+12 Hume contrasts ideas of the imagination with ideas of memory , but his theory seems 
+to be that when we call on our memory in thought, new ideas in the imagination are 
+copied from those of memory (T 1.3.9.7; SBN 1 10), so it is usually more appropriate to 
+refer to impressions  of the memory, as he frequently does (T 1.3.4.1, 1.3.4.3, 1.3.6.3–7, Hume Studies222 Peter Millican
+1.3.9.3, 1.3.9.7, 1.3.10.9, 1.4.1.9, 1.4.2.42–43, 2.3.1.17; SBN 82, 84, 88–89, 108, 1 10, 123, 
+184, 209, 406). Garrett explains imagination and memory as two faculties for “having 
+ideas” ( Hume , 87) and does not mention this aspect of Hume’s discussion, though I 
+expect he would agree that Hume views all of our thinking  as taking place using ideas 
+in the (inclusive) imagination rather than memory.
+13 Hume refers frequently to “the judgment” in the course of his psychological dis -
+cussions at T 1.3.9–13, but never again in Book 1. What he says at T 1.3.13.1 1 (SBN 149) 
+matches closely with what he will later say about “the understanding,” and the pas -
+sage at T 3.3.4.13 (SBN 613) displays clear alternation between “the judgment” and 
+“the understanding,” suggesting an equivalence. Also relevant here is the footnote 
+at T 1.3.7.5n20 (SBN 96–97n), which rejects the standard “division of the acts of the 
+understanding, into conception , judgment  and reasoning .”
+14 Hume goes on to make reference to “the more general and authentic operations 
+of the understanding,” and “the most establish’d principles of reasoning” (T 1.3.13.12; 
+SBN 150), but the extent of these descriptions is not exactly clear.
+15 Unfortunately, the book does not contain an index of references to passages in 
+Hume’s works, and its index did not help me here (for example, no entries for “modern 
+philosophy,” “permanent,” “general,” “irregular,” or “trivial”), so I cannot be com -
+pletely certain of this.
+16 Garrett sees a resolution to these skeptical concerns at T 1.4.7.1 1 (SBN 270) in what 
+he calls Hume’s “Title Principle” ( Hume , 228–36), but I find this very unconvincing. 
+Superstitious reasoning is frequently “lively, and mixes itself with some propensity,” but 
+Hume would not wish to endorse it, so the canvassed principle gives no solid criterion 
+for discrimination. Nor do I see any evidence in the structure of the Treatise  text (nor 
+indeed in any other primary text) that it has anything like the prominence in Hume’s 
+thought that Garrett ascribes to it.
+17 Although Hume states that the belief in body is based on “trivial qualities of the 
+fancy” (T 1.4.2.56; SBN 217), he seems to consider the belief itself permanent, irresist -
+ible, and universal, with the possible temporary exception of those who are intensely 
+contemplating skeptical arguments (for example, T 1.4.2.1, 1.4.2.56–57; SBN 187, 217–18; 
+EHU 12.7; SBN 151).
+18 Hume says here that such a tormented individual “may, perhaps, be said to reason, 
+and to reason naturally too,” expressing some hesitation that can be explained both 
+on Garrett’s view and my own (according to which Humean “reason” standardly refers 
+to the general faculty of cognition ). But Hume goes on to insist that even if this does 
+count as reasoning, its pathological nature leaves it on the “changeable, weak, and 
+irregular” side of his distinction—thus confirming that it is respectability rather than 
+ratiocination which is the crucial criterion.
+19 See my “Sceptical Doubts,” section 2 for discussion of these matters. Locke’s own 
+usage of “reason” is more variable than Garrett seems to suggest, and indeed his chapter 
+“Of Reason” begins with the observation that “ The Word Reason  in the English  Language 
+has different significations ” (Essay , 4.17.1).
+20 There is a tension here with a response that Garrett made to an earlier criticism 
+when I pointed out that Hume’s argument as presented in the Enquiry  explicitly rules Volume 40, Number 2, 2014223 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+out intuition  as well as demonstration and probable reasoning as a basis for the Unifor -
+mity Principle (Millican, “Hume on Reason,” 151–52). Garrett’s reply acknowledges but 
+deflects the point, stating that “[a]t the same time that Hume expands his argument 
+in the Enquiry , . . . he also expands the famous conclusion to rule out any ‘reasoning or 
+process of the understanding ,’ thereby eliminating such non-inferential processes of the 
+understanding as intuition or the perception of a probable connection between even 
+a single ‘proof’ and a conclusion” ( Cognition and Commitment , 184).
+21 Like many others, I once considered an ambiguity in Humean “reason” to be 
+mandated by the interpretation of Hume’s argument concerning induction. Pressure 
+from Garrett, based partly on the objection discussed here, was a significant factor in 
+my relinquishing such a claim of ambiguity, and in my “‘Scepticism’ about Induction,” 
+I abandon it completely (see particularly 82–83).
+22 For extensive discussion of the usage of Hume’s contemporaries, see my “‘Scep -
+ticism’ about Induction,” 79–81 and accompanying footnotes. For discussion of 
+contemporary usage of terms such as “reasoning,” “proof,” and “argument”—notably 
+as revealed by Johnson’s dictionary of 1756 and confirmed by Hume’s own usage—see 
+“‘Scepticism’ about Induction,” 75.
+23 Likewise, I sought to justify my own claim against Garrett that Humean “reason” 
+required reinterpretation in the wake of his famous argument (“Reason and Induction,” 
+145–47), but now find this ultimately unconvincing.
+24 This form of argument suggests that Hume sees sensation as a possible foundation 
+for judgment by reason but does not imply that sensation is strictly a part of reason, 
+only that—in Hutcheson’s term—it “reports to” reason.
+25 Garrett mentions this footnote in a different connection, arguing that within it 
+Hume’s “use of ‘the understanding’ .  . . is clearly meant to be that of scholastic philoso -
+phers, rather than Hume himself” ( Hume , 91). This is very debatable, partly because 
+Hume’s contemporaries also commonly advocated the “vulgar division” he criticizes 
+and Thomas Reid much later still described it as “of a very general reception” ( Intellectual 
+Powers , 67–68; see Millican, “‘Scepticism’ about Induction,” 81), and partly because 
+Hume himself, later in the same footnote, refers to “[w]hat we may in general affirm 
+concerning these three acts of the understanding,” writing clearly in propria persona  
+(T 1.3.7.5n20; SBN 96–97n).
+26 References to Hume’s Dissertation on the Passions  are cited in the text as “DP” fol -
+lowed by section and paragraph number.
+27 Again, for discussion of and quotations from Hume’s contemporaries, see my 
+“‘Scepticism’ about Induction,” 79–81 and accompanying footnotes. In Reason , Induc -
+tion and Causation in Hume’s Philosophy , Garrett appeals to James Beattie’s usage to 
+support his claims (7), but for reasons I explain in “‘Scepticism’ about Induction,” such 
+an appeal cannot be given much weight and would anyway support at most Garrett’s 
+claim with regard to “reason” and count equally against his claim with regard to “the 
+understanding” (80 and 80n92).
+28 Moreover the latter case is clear only in the second Enquiry . Garrett states that 
+“[i]n both the Treatise  and the second Enquiry  . . . [Hume] does offer both productive 
+and responsive definitions of ‘virtue’ or . . . ‘personal merit’” ( Hume , 125), but the Hume Studies224 Peter Millican
+quotations that follow are only from the Enquiry , and there is no textual reference to 
+the Treatise . I presume that he is alluding to T 3.3.1.30 (SBN 591), though Hume here 
+makes no mention of definition  and, read straightforwardly, seems to be summarizing 
+a hypothesis about what causes  “that particular feeling or sentiment, on which moral 
+distinctions depend.”
+29 This should be borne in mind when assessing Garrett’s appeals to the text of Treatise  
+3.3.6—the final section of the Treatise— to support his somewhat pro-Hutchesonian 
+interpretation, for example, Hume  166–67 and 281.
+30 Reference to a “sense of morals” occurs in the Treatise  at T 3.1.1.10, 3.2.1.18, and 
+3.3.6.3; SBN 458, 483, 619 (twice in the last of these—within the final section of the 
+Treatise  which was specially rewritten and sent to Hutcheson); “sense of virtue” at 
+T 2.1.12.5, 3.1.2.3, 3.1.2.9, 3.2.1.19, 3.2.2.20, 3.2.2.25, and (again) 3.3.6.3 (SBN 326, 
+471, 475, 484, 496, 500, and 619); “sense of justice” at T 3.2.1.17, 3.2.2.20, and 3.2.2.21 
+(SBN 483, 496, 496). None of these phrases occurs at all in the second Enquiry .
+31 For more on the interpretation of Hutcheson and further references, including 
+to his Synopsis of Metaphysics  which contains his most detailed faculty taxonomy, 
+see my “‘Scepticism’ about Induction,” section 3.2. One cannot help wondering 
+whether Hutcheson’s enthusiasm for placing the moral sense as reporting to the under -
+standing—expressed in multiple works published or edited in 1742—might have had 
+something to do with his perusal of an infidel manuscript (that is, Treatise  Book 3) in 
+1740 and then wishing to distance himself from it.
+32 Hume himself seems to have misinterpreted Hutcheson when he wrote the sub -
+sequently deleted footnote at EHU 1.4 crediting Hutcheson with the discovery that 
+“[m]oral Perceptions, therefore, ought not to be clas’d with the Operations of the 
+Understanding, but with the Tastes or Sentiments.” The footnote is present only in 
+the 1748 and 1750 editions and may be found in Beauchamp’s critical edition or in the 
+textual variants section of my own edition (“Textual Variants,” 177–78).
+33 This is, therefore, fundamentally a form of egoistic hedonism, although Hume 
+tempers it with an emphasis on the mechanism of sympathy  which leads us to give 
+weight to other people’s pleasures and pains (albeit only  by making them our own— so 
+the motivation is still at least quasi-egoistic). Hume recognizes that this is not the 
+whole story when he observes the benevolence  we feel towards those we love (and anger 
+towards those we hate), though I take it to be significant that when he does so, it is with 
+a deep expression of disappointment at the consequent loss of theoretical simplicity 
+from his system (T 2.2.6.2; SBN 366–67). This recognition is echoed later, for example, 
+at T 2.3.3.9 and 2.3.9.8 (SBN 417–18, 439).
+34 This also parallels a very strong move away from egoism, conspicuously signalled 
+at the beginning of section 2 of the second Enquiry  with an attack on the selfish 
+theory (later moved into Appendix 2, “Of Self-Love”). This seems to be unmentioned 
+in Garrett’s book, as indeed is the entire issue of egoism, though in Hume’s time, this 
+was a key issue of moral debate.
+35 This greater emphasis on calculation strengthens the analogy with causal judge -
+ments (for example, using Hume’s “Rules by which to judge of causes and effects”), 
+but at the same time makes the overall theory less plausibly describable as involving a 
+sense  of morality or causation.Volume 40, Number 2, 2014225 Skepticism about Garrett’s Hume : Faculties, Concepts, and Imposed Coherence
+36 Note here that humanity— a direct concern for mankind—is not the same as sympa -
+thy in the primary Treatise  sense, which is a mechanism that generates personal pleasure 
+or pain from the pleasure or pain of others. Having rejected his previous tendency 
+towards egoism, Hume no longer believes that we typically care about others only by 
+making their feelings our own.
+WORKS CITED
+Bennett, Jonathan. Locke, Berkeley, Hume: Central Themes . Oxford: Clarendon Press, 1971.
+Blackburn, Simon. How to Read Hume . London: Granta, 2008.
+Craig, Edward. The Mind of God and the Works of Man . Oxford: Clarendon Press, 1987.
+davidhume.org . Hume Texts . http:// www.davidhume.org . Accessed 1st April 2015.
+Garrett, Don. Cognition and Commitment in Hume’s Philosophy . New York: Oxford Uni -
+versity Press, 1987.
+Garrett, Don. Hume . Abington, England and New York: Routledge, 2015.
+Garrett, Don. “Ideas, Reason, and Skepticism: Replies to My Critics,” Hume Studies  24 
+(1998): 171–94.
+Garrett, Don, and Peter Millican. Reason, Induction and Causation in Hume’s Philoso -
+phy, IASH Occasional Paper 19. Edinburgh: Institute for Advanced Studies in the 
+Humanities, 201 1.
+Hume, David. Dialogues concerning Natural Religion . Edited by Norman Kemp Smith. 
+Edinburgh: Nelson, 1947.
+Hume, David. A Dissertation on the Passions and The Natural History of Religion: A Critical 
+Edition . Edited by Tom L. Beauchamp. Oxford: Clarendon Press, 2007.
+Hume, David. Enquiries Concerning the Human Understanding and Concerning the Principles 
+of Morals . Edited by L. A. Selby-Bigge, revised by P. H. Nidditch. Oxford: Clarendon 
+Press, 1975.
+Hume, David. An Enquiry concerning Human Understanding: A Critical Edition . Edited by 
+Tom L. Beauchamp. Oxford: Clarendon Press, 2001.
+Hume, David. An Enquiry concerning the Principles of Morals: A Critical Edition . Edited by 
+Tom L. Beauchamp. Oxford: Clarendon Press, 1998.
+Hume, David. Letter from a Gentleman to his Friend in Edinburgh . In A Treatise of Human 
+Nature: A Critical Edition , vol. 1. Edited by David F. Norton and Mary J. Norton, 
+419–31. Oxford: Clarendon Press, 2007.
+Hume, David. Letters of David Hume.  Edited by J. Y. T. Greig, vol. 1. Oxford: Clarendon 
+Press, 1932.
+Hume, David. “Of the Coalition of Parties,” in Essays: Moral, Political and Literary , revised 
+edition. Edited by Eugene F. Miller, 493–501. Indianapolis: Liberty Classics , 1987.
+Hume, David. “Of the Original Contract” in Essays: Moral, Political and Literary , revised 
+edition. Edited by Eugene F. Miller, 465–488. Indianapolis: Liberty Classics , 1987.
+Hume, David. “Of the Standard of Taste,” in Essays: Moral, Political and Literary , revised 
+edition. Edited by Eugene F. Miller, 226–49. Indianapolis: Liberty Classics , 1987.Hume Studies226 Peter Millican
+Hume, David. A Treatise of Human Nature: A Critical Edition , vol. 1. Edited by David F. 
+Norton and Mary J. Norton. Oxford: Clarendon Press, 2007.
+Hume, David. A Treatise of Human Nature . Edited by L. A. Selby-Bigge, revised by P. H. 
+Nidditch. Oxford: Clarendon Press, 1978.
+Hutcheson, Francis. An Essay on the Nature and Conduct of the Passions and Affections, 
+with Illustrations on the Moral Sense . Edited by Aaron Garrett. Indianapolis: Liberty 
+Fund, 2002.
+Hutcheson, Francis. Synopsis of Metaphysics  in Logic, Metaphysics, and the Natural Socia -
+bility of Mankind . Edited by James Moore and Michael Silverthorne, translated by 
+Michael Silverthorne, 57–187. Indianapolis: Liberty Fund, 2006.
+Kemp Smith, Norman. The Philosophy of David Hume . London: Macmillan, 1941.
+Locke, John. An Essay Concerning Human Understanding . Edited by P. H. Nidditch. Ox -
+ford: Clarendon Press, 1975.
+Millican, Peter. “The Context, Aims, and Structure of Hume’s First Enquiry. ” In Reading 
+Hume on Human Understanding , edited by Peter Millican, 27–65. Oxford: Clarendon 
+Press, 2002.
+Millican, Peter. “Hume on Reason and Induction: Epistemology or Cognitive Science?” 
+Hume Studies  24 (1998): 141–60.
+Millican, Peter. “Hume’s Chief Argument.” In The Oxford Handbook of Hume , edited by 
+Paul Russell, 82–108. New York: Oxford University Press, 2016.
+Millican, Peter. “Hume’s Sceptical Doubts concerning Induction.” In Reading Hume 
+on Human Understanding , edited by Peter Millican, 107–73. Oxford: Clarendon 
+Press, 2002.
+Millican, Peter. “Hume’s ‘Scepticism’ about Induction.” In The Continuum Companion to 
+Hume , edited by Alan Bailey and Dan O’Brien, 57–103. London: Continuum, 2012.
+Millican, Peter. “Twenty Questions about Hume’s ‘Of Miracles.’” In Philosophy and 
+Religion: Royal Institute of Philosophy Supplement  68, edited by Anthony O’Hear, 
+151–92. Cambridge: Cambridge University Press, 201 1.
+Noonan, Harold W. Hume on Knowledge . London: Routledge, 1999.
+Reid, Thomas. Essays on the Intellectual Powers of Man . Edinburgh, 1785.
+Stroud, Barry. Hume . London: Routledge & Kegan Paul, 1977.

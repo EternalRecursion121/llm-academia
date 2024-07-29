@@ -1,0 +1,236 @@
+Comments on Dario Perinetti “Hume’s Sceptical Solutions” 
+Peter Millican, Hertford Colle ge, Oxford and IASH, Edinburgh 
+ 
+Perinetti’s paper is interesting and provocative, covering a broa d range and sugge sting fruitful 
+readings that deserve to be explored further and in detail.  Unfortunately, time prevents me 
+from doing these justice, so I shall confine my self mainly to comments on and objections to 
+his general approach.  In brief,  I shall suggest that his intere sting ideas about Hume’s theory 
+of ideas and their limits might be better divorced  from his consideration of Humean “sceptical 
+solutions”. 
+ First, there is an obviou s difficulty in seeking a general  “understanding [of] what is 
+for Hume a sceptical solution”, because Hume uses the phrase “sceptical solution” only once – in the title of Section 5 of the Enquiry concerning Human Understanding  – and gives no 
+indication there of the phrase’s  having any special significance or  implicit reference to other 
+authors, ancient or modern.  Moreover the phr ase cannot be found, as far as I know (after a 
+search on ECCO and EEBO) in the writings of any of his contemporaries, so any attempt to derive a general  understanding from the sing le instance is bound to be  speculative.  Kripke’s 
+suggestion, quoted in Perinetti ’s second footnote, is perhaps as good a try as any: 
+“a sceptical  solution of a sceptical philosophical problem begins … by conceding that the 
+sceptic’s negative assertions are unanswerable.  Nevertheless our ordinary practice or belief is 
+justified because – contrary appearances notwithst anding – it need not require the justification 
+the sceptic has shown to be untenable.”  (Kripke 1982, p. 66) 
+This fits pretty closely with a plausible interp retation of what Hume is up to in Section 5 of 
+the Enquiry : showing that our i nductive practice is unaffected  by the “sceptical doubts” of 
+Section 4 because it depends on instinctive custom  rather than rational insight .  But I remain 
+doubtful whether there is anything to be ga ined by treating Hume’s use of the phrase 
+“sceptical solution” as a focus of investiga tion into his wider purposes.  Suppose we judge 
+that arguments in other sections of his works di splay a similar pattern – what then?  The more 
+we find similarities between Enquiry  5 and other sections, the mo re reason we have to doubt 
+that we have correctly identified what led Hume to use the phrase in just this one instance.  
+The thematic similarities may be rich and illu minating, but the phrase it self gives us no help 
+at all. 
+ In moving on to consider the general ch aracter of Hume’s sceptical discussions, 
+Perinetti’s own preferred theme is “the re lation between epistemological and semantic 
+scepticism in Hume’s writings”.  Some of Hu me’s discussions can indeed be seen as hinging 
+on this relation, but not his treatment of induction and cust om – his one explicitly identified 
+“sceptical solution” to “sceptical doubt” – which is purely epistemological without a hint of 
+semantic scepticism.  Many Hume commentators,  encouraged by his interweaved discussion 
+in the Treatise , have tended to run togeth er his discussions of i nduction and causation (the 
+latter of which indeed hinges largely on semantic  issues).  But it is striking that in the 
+Enquiry , the very work which talks of a “sceptical solution”, Hume ’s “sceptical doubts” about 
+induction are treated quite indepe ndently of his anal ysis of causation, and come long before 
+there is any mention of his quest for the impr ession of necessary conn exion, with its strong 
+semantic overtones. 
+ I also have a concern about the id ea that Hume’s philosophical views can 
+appropriately be characterised in terms of a co nsistent “relation between epistemological and 
+semantic scepticism”.  Perinetti contrast s what he takes to be the two dominant 
+interpretations, on the one hand that for Hume “epistemological scepticism entails semantic scepticism”, and on the other that “epistemologi cal scepticism … is compatible with holding the cogency of some metaphysical views about th e ultimate structure of reality”.  The latter 
+view, identified as New Humean, enables us “t o read Hume as holding … that, though real 
+causes or external objects cannot be known, th eir existence is neve rtheless a reasonable 
+supposition”.  And by contrast the former, Old Humean, reading is seen as denying the 
+existence of these things.  Perinetti then pr oposes “a third way to understand the relation 
+between epistemological and semantic scepti cism”, whereby “Epistemological scepticism 
+leads 1) to the discovery that the ideas [concer ned] are ‘confused’ or ‘obscure’ and 2) to a 
+radical revision of the content of the beliefs under scrutiny.  The practi cal significance of 
+sceptical arguments lies in [their helping to reveal] the psychological mechanisms 
+underpinning problematic beliefs.” 
+ I think Perinetti is right to endorse this third way in the case of causation, where Hume 
+quite explicitly sets out to identify the impre ssion-source of the idea of power or necessary 
+connexion as a means of removing obscurity a nd clarifying the beliefs concerned.  Here, 
+moreover, Hume succeeds in finding the impression he seeks, proving that the idea is indeed 
+legitimate.  As I read him, Hume is no sceptic about causation, and he does believe in real 
+causes; indeed his investigation re veals what it takes to  be a real cause, namely, satisfaction of 
+his two definitions.1  But I am not convinced that Perinetti is right to see the same pattern at 
+play in the case of the external world, wh ere Hume’s investigation does not discover any bona 
+fide impressions as the original of  our ideas of continuing external  objects, but instead reveals 
+those supposed ideas to be “fictions” of doubtful legitimacy, based on “trivi al qualities of the 
+fancy, conducted by … false suppositions” ( T 1.4.2.56, SB 217).  Here there is no apparent 
+“radical revision of the content of the beliefs under scrutiny”; instead, we are counselled to 
+ignore the difficulty and carry on believing as before as we qu it our study for the dinner or 
+backgammon table: “Carelessness and in-a ttention alone can afford us any remedy” 
+(T 1.4.2.57, SB 218). 
+ Summing up so far, I am sceptical about “big picture” interpreta tions of Hume that 
+gloss his various arguments as f unctioning in more or less the same way.  As I see it, very 
+crudely, on induction, we have an epistemologica l conclusion with implications for cognitive 
+science, but no significant element of seman tic scepticism.  On causation, we have an 
+argument whose direct aim is the clarificati on of our ideas, and with  implications that can be 
+read as sceptical, but can equally be read as constructive (depending on whether one rejects or 
+accepts the Humean view of causation).  On the ex ternal world, we have an investigation into 
+the origin of certain ideas that leads to a sceptical semantic  conclusion about those ideas, and 
+which can also be read as generating an epistemological  scepticism about the corresponding 
+beliefs.  If we went on to include others of  Hume’s famous arguments, we would find yet 
+more variations on these themes. 
+ Despite these cautionary words, I agree wi th much of what Perinetti says about 
+Hume’s Copy Principle, and in particular his key claim that Hume’s use of it is generally 
+“about the pretended origin  of some key ideas” and “not abou t whether they do have an origin 
+or are merely empty words”.  Hume’s own presen tations of the Principle are in this respect 
+rather misleading.  In the Treatise , he introduces it primarily as a way of settling the issue of 
+                                                 
+1 This is not to deny, of course, that there is plenty of room for debate about the interpretation of Hume’s two 
+definitions, and how far they make room for a genuine notion of causal power in objects.  For a sketch of my 
+own preferred approach, see “Hume, Ca usal Realism, and Causal Science”, Mind  118 (2009), pp. 647-712, §4.  
+Perinetti, near the end of his paper, seems to take a more  sceptical view: “The result of the sceptical challenge is 
+not suspension of judgment about causality.  The result is that  we give up all attempts to find causality as a real 
+property of external objects.  And we give up thes e attempts … because the sceptical challenge and solution 
+cause us to no longer wish to understand causality in these terms.  We no longer think, that is, that anything short 
+of realism about causality is an unsatisfactory conception of it.” innate ideas ( T 1.1.1.12), with no indication at that stage of its an alytical role.  In the Abstract  
+and Enquiry , it is presented more as a m eans of identifying bogus ideas: 
+All ideas, especially abstract  ones, are naturally faint and obscure: … They are apt to be 
+confounded with other resembling ideas; and when we have often employed any term, though without a distinct meaning, we are apt to imagine it has a determinate idea, annexed to it.  On 
+the contrary, all impressions, that is, all sensat ions, either outward or inward, are strong and 
+vivid: The limits between them are more exactly determined: Nor is it easy to fall into any error or mistake with regard to them.  When we  entertain, therefore, any suspicion, that a 
+philosophical term is employed without any meaning or idea (as is but too frequent), we need 
+but enquire, from what impression is that supposed idea derived?   And if it be impossible to 
+assign any, this will serve to confirm our suspicion.  …  ( E 2.9, SB 21-2; cf. Abstract  7, SB 
+648-9) 
+Later in the Enquiry , the Copy Principle is applied only to the idea of power or necessary 
+connexion, and as we have noted, is there used to identify the genuine impression rather than 
+to dismiss the idea.  To find cases in which Hu me uses it to “confirm our suspicion … that a 
+philosophical term is employed without any mean ing or idea”, we must look instead to the 
+Treatise .  Candidates for such bogus would-be ideas  include those of material substance, 
+existence, and the self, but ev en as such bogus ideas  are being dismissed there is usually a 
+caveat: 
+“We have therefore no  idea of substance, distinct from that of a collection of particular 
+qualities , nor have we any other  meaning when we either talk  or reason concerning it.”  
+(T 1.1.6.1, SB 16) 
+“… the idea of existence is not deriv’d from any particular impression.  The idea of existence, 
+then, is the very same with the idea of what we conceive to be existent .”  (T 1.2.6.3-4, SB 66) 
+“… we have no impression of self or substance, as something simple and individual .  We 
+have therefore, no idea of them in that sense ”  (Appendix  11, SB 633) 
+Only very rarely do we  find Hume unambiguously rejecting  a term as meaningless using his 
+Copy Principle, as opposed to replacing  a confused notion with a clea rer alternative.  The best 
+examples I have found are those of  mental substance and inherence:2 
+“I know no better method, than to ask these philosophers in a few words, What they mean by 
+substance and inhesion?   …  This question we have found impossible to be answer’d with 
+regard to matter and body: But besides that in the case of the mind, it labours under all the same difficulties, ’tis burthen’d with some addition al ones, which are peculiar to that subject.  
+As every idea is deriv’d from a precedent impressi on, had we any idea of the substance of our 
+minds, we must also have an impression of it; which is very difficult, if not impossible, to be conceiv’d.  …  Thus neither by considering th e first origin of ideas, nor by means of a 
+definition are we able to arrive at any satisfact ory notion of substance …  We have, therefore, 
+no idea of a substance.  …  We have … no idea of inhesion.  What possibility then of 
+answering that question, Whether perceptions inhere in a material or immaterial substance , 
+when we do not so much as understand the meaning of the question?”  ( T 1.4.5.2-6, SB 
+232-3) 
+It would be interesting to see a systematic study of Hume’s use of  the Copy Principle; I 
+believe it would largely confirm the emphasis that  Perinetti suggests on the basis of his own 
+examples: the ideas of a vacuum and absolute time ( T 1.2.5.29, SB 65), and the self ( T 1.4.6.2, 
+SB 251). 
+                                                 
+2 Solidity might be another example ( T 1.4.4.11-14), although Hume’s attitude to it remains somewhat unclear.  
+In the Abstract , (7, SB 649) he says “… if no impression can be produced, he concludes that the term is 
+altogether insignificant.  ’Tis after this manner he examines our idea of substance  and essence ”.  But in fact he 
+never examines the idea of essence  in this way, and standardly talks of  essences himself in a way that seems 
+intended quite sincerely.  However my doubts about Perinetti’s “big pi cture” return again when he goes on – in 
+his section on “Meaning and conf usion”, to “push the claim a bit further”.  That section 
+includes a tantalising discussion of Hume and the blind poet Thomas Blacklock, which 
+deserves attention in itself.3  But given my role as critical  commentator, I want to pick up 
+instead on Perinetti’s grouping together of a ra nge of ideas – “time”, “necessary connexion”, 
+“external object”, “substance” and “God” – most of which Hume seems to  me to treat rather 
+differently from each other.  Most of these have already been mentioned above, and the newcomer, the idea of God, is accounted for by Hume in a very straightforward manner that 
+makes no mention of confusion:
+4 
+“The idea of God, as meaning an infinitely intelligent, wise, and good Being, arises from 
+reflecting on the operations of our own mind, and augmenting, without limit, those qualities of goodness and wisdom.”  ( E 2.6, SB 19) 
+I also have a worry that Perinetti might be runni ng together different kinds of “confusion” and 
+treating them all under the umbrella of his in teresting theory.  His footnote 12 usefully 
+collects together various Hum ean references to confused notions , ideas , or conceptions , but 
+these cover quite a wide range, from losing track in complex arguments ( T 1.3.13.6, SB 146 
+and E 9.5 n. 20, E 107 n.), to mistaken “spreading of  the mind” in the case of a fig’s taste 
+(T 1.4.5.13, SB 238), to misunderstanding terms in di scussions of liberty and responsibility 
+(T 2.3.1.13, SB 404).  Later he glosses Hume as sa ying that “the psychological mechanism of 
+confusion” is “the cause of many mi stakes and sophisms in philosophy” ( T 1.2.5.20, SB 61).  
+But here Hume is referring to the mechanism of association , by which the animal spirits can 
+be speculated to “rummage that cell” in the brain where an idea resides and thus disturb 
+related cells, sometimes leading us to replace on e idea for another without noticing.  It’s not 
+clear to me how well this coheres with Perinett i’s theory: for example, rummaging of cells is 
+presumably indifferent between specific and general ideas.5  But aside from this sort of broad 
+reservation, I think hi s 7-step attempt to reconstruct “Hume’s views on confusion” is 
+interesting and illuminating, well worthy of furt her research.  How far it genuinely reflects 
+Hume’s own worked-out position is unclear, but th at is inevitable: many of us will know what 
+it is like trying to fit together  a mixture of Humean claims, ga rnered from a range of texts 
+written over a decade or more, and having to resort to our own invention to fill in the gaps as 
+coherently as possible.  Perinetti has collected a decent framework of quotations to build his 
+theory, providing a plausible basi s for systematic investigation and refinement in the light of a 
+more comprehensive survey of how his theory will match up to what Hume says elsewhere.  It will not surprise me if something like his theory survives scrutiny as a fairly plausible reconstruction of a strand of Hume’s view on confusion of ideas.  But though open-minded on 
+the matter, I rather doubt that any more solid re sult can be achieved here.  A lot turns on how 
+far Hume’s theory of general or abstract ideas – presented in Treatise  1.1.7 – informs what he 
+says elsewhere, and the evidence for this is rather thin.  Apart from Treatise  1.1.7 itself, that 
+theory gets mentioned only at T 1.2.3.5-6 (ideas of space and time), 1.3.14.13 (a general idea 
+                                                
+ 
+3 Perinetti’s perceptive reference to the Blacklock case ca n perhaps be strengthened by noting that a 1754 letter 
+to Joseph Spence in which Hume discusses it ( HL i 200) seems to be referring to events somewhat earlier, 
+apparently around 1742 (when Hume first met Blacklock) and around 1753 (cf. HL i 183). 
+4 Towards the end of his paper, Perinetti suggests that “The idea of God is ‘contradictory’ because it has a 
+complex relation; on the one hand, to the passions (fear, hope) from which it is derived and, on the other hand, to the understanding that tries to comprehend it.”  But I can not find any text in which Hume says that the idea of 
+God itself is contradictory or dubiously comprehensible for this sort of reason, so I am not sure which passages 
+Perinetti is alluding to here. 
+5 Perinetti draws on the immediately following Treatise  paragraph as suggesting the Humean principle: 
+“(6) Related customs:  two customs are related when ideas in the sets they respectively revive stand in relations 
+of resemblance, contiguity or causation. ( T 1.2.5.21/ SBN 61-2)”.  But again it’s not at all clear to me that Hume 
+here has in mind his theory of general ideas. of power presupposes some particular inst ance), 1.4.3.10 (how a term can rely upon the 
+customary revival of ideas, without any idea present), 2.3.6.2 (general ideas are more obscure 
+and have less influence on the imagination), Appendix  2 (no abstract idea of existence), and 
+E 12.25 n. 34 (the Treatise  theory of abstraction might avoid the paradoxes of infinite 
+divisibility).6  This all adds up to a pretty meagre textual basis for claiming that the theory 
+comprehensively informs Hume’s thinking.  The same comment would apply equally, for 
+example, to Don Garrett’s ingenious r econstruction of Hume’s position on the two 
+“definitions of cause”, in which again the theory of general ideas  plays a key role.  Here too I 
+remain sceptical, while applauding the effort to see how the theory would  apply if Hume 
+himself thought to do so. 
+ After presenting his interest ing 7-step reconstruction of Hume’s theory of confused 
+ideas, Perinetti suggests that it “sheds new li ght” on Hume’s attitude to intelligibility as 
+informed by the Copy Principle.  We should no t read Hume “as suggesting that obscure or 
+confused ideas are radically  unintelligible”.  Even in the case of “metaphysical ideas that 
+cannot possibly be derived – directly or indir ectly – from an antecedent impression, … we 
+should refrain from drawing the conclusion  that the term is  also altogether meaningless .  For, 
+it is still open to us to have a ‘confused’ general  idea about these metaphysical entities.”  
+Maybe that is right, though again I am sceptical th at such claims can be justified in advance of 
+detailed consideration of specific cases.  And any such detailed consideration would have to 
+take account of Hume’s talk of “fictions”, whic h play a major role in some such cases (e.g. 
+our thoughts about external bodies),  but are hardly mentioned in Perinetti’s paper.  How the 
+theory of fictions would mesh with Hume’s disc ussion of general ideas is , as far as I recall, 
+pretty much unexplored terri tory in the literature. 
+ Coming now to the final section of Perinett i’s paper, headed “Sceptical solutions”, I 
+very much like the sentence with which it starts : “One of the conseque nces of the reading I 
+am proposing is that problematic ideas about wh ich sceptical doubts can be raised are not all 
+problematic in the same manner.”  But there is something of a tension in this final section, 
+pulled between the recognition of  variety in Hume’s treatme nts on the one hand, and on the 
+other a desire “to make plain th e general features of Humean so lutions”.  As I have explained, 
+I am not convinced that there are such consistent “general features”, at least in respect of the 
+workings  of those “Humean solutions”, and I see mo re variety here than Perinetti himself 
+acknowledges.  Moreover those “solutions” th at most closely conform to the style he 
+identifies – involving investiga tion of the source and nature of  the relevant ideas – are very 
+distant from the one “sceptical solution” that Hume himself thus  names: his appeal to custom 
+as a “solution” to his problem of induction.  So I would not be  happy for that phrase to be 
+appropriated for that style of treatment.  Neve rtheless I agree with much of the spirit of 
+Perinetti’s final paragraph, wh ich identifies unity in the point  of the various Humean 
+“solutions”, and sees “no tensi on between Hume’s sceptical stan ce and his natu ralistic project 
+of a science of human nature”.  To end on a note of agreement, therefore: 
+“Hume’s science of human nature identifies the particular  disquiets produced by obscure 
+beliefs, and so is conducive to particular positive solutions.  In other words … Hume’s 
+scepticism is compatible with positive revisions of beliefs and with positive reform of 
+personal, social, and political practices.” 
+ 
+____________________  
+   
+                                                 
+6 I have not included T 1.2.4.12, which considers an alleged abstraction without separation rather than Hume’s 
+own theory, nor E 12.15, which endorses Berkeley’s criticism of Lockean abstraction. 

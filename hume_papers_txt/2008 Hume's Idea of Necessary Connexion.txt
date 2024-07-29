@@ -1,0 +1,351 @@
+ Hume’s Idea of Necessary Connexion: 
+Of What is it the Idea? 
+Peter Millican 
+Hertford College, Oxford 
+peter.millican@philosophy.ox.ac.uk 
+ 
+ 
+Abstract 
+I advance what might be thought a paradoxical thesis: that the central topic of Hume’s long discussions 
+“Of the Idea of Necessary Connexion” is not, in fact, the idea of necessary connexion.  However it is not 
+as paradoxical as it first appears, for I shall claim that the “idea” whose origin Hume seeks is, in a sense, an idea-type of which the specific idea of necessary  connexion  is but one instance.  Various lines of 
+evidence support this claim, but my main argument will rest on its ability to solve four puzzles in Hume’s 
+text, which are otherwise hard to explain away.  These are:  (S) the synonymy puzzle, posed by Hume’s apparently reckless assertion that “efficacy”, “agency”, “power”, “force”, “energy”, “necessity”, 
+“connexion”, and “productive quality” are all virtual synonyms;  (C) the complexity puzzle, that Hume 
+seems to ignore the possibility that his target idea might be complex rather than simple;  (V) the vulgar problem, which arises from Hume’s acknowledgement that the vulgar believe in “chancy” causes, even though he takes the very concept of causation to involve necessity;  and (P) the probability problem, of 
+how an allegedly simply idea whose central core involves inexorable necessity could possibly provide a 
+basis for probability.  The paper ends by drawing further support from an analysis of Hume’s two sections “Of the idea of necessary connexion”, showing that his use of the various relevant terms makes good 
+sense on the thesis proposed, thus corroborating the arguments presented.  
+ 
+ My title suggests an apparently paradoxical thesis: that the central topic of Hume’s long discussions 
+“Of the Idea of Necessary Connexion” is not, in fact, the idea of necessary connexion .  And indeed 
+this is what I shall argue.  However it is not as paradoxical as it first appears, for I shall claim that 
+the “idea” whose origin Hume seeks is, in a sense, an idea-type of which the specific idea of necessary  connexion is but one instance.  Various items of evidence can be found to support this 
+claim, but my main argument will rest on its ability to solve four puzzles in Hume’s text, which are 
+otherwise hard to explain. 
+1.  Hume’s Impression-Quest, and its Purpose 
+“Of the Idea of Necessary Connexion” is the title of Section I iii 14 of the Treatise  and Section VII 
+of the (first) Enquiry.  The arguments of the two presentations are broadly very similar, and their 
+main thread is also traced in the Abstract .  However the very first paragraph of Treatise  I iii 14 
+provides an excellent summary, and will serve as a useful context for the following discussion:  2… we must now return upon our footsteps to examine that question, …  What is our idea of necessity, when we say 
+that two objects are necessarily connected together .  …  [A]s we have no idea, that is not deriv’d from an 
+impression, we must find some impression, that gives rise to this idea of necessity, if we assert we have really such an idea.  … [F]inding that it is always ascrib’d to causes and effects, I turn my eye to two objects suppos’d to be plac’d in that relation; and examine them in all the situations, of which they are susceptible. I immediately 
+perceive, that they are contiguous  in time and place, and that the object we call cause precedes  the other we call 
+effect.  In no one instance can I go any farther, nor is it possible for me to discover any third relation betwixt these objects.  I therefore enlarge my view to comprehend several instances; where I find like objects always existing in 
+like relations of contiguity and succession.  At first sight this seems to serve but little to my purpose. The 
+reflection on several instances only repeats the same objects; and therefore can never give rise to a new idea. But upon farther enquiry I find, that the repetition is not in every particular the same, but produces a new impression, and by that means the idea, which I at present examine.  For after a frequent repetition, I find, that upon the 
+appearance of one of the objects, the mind is determin’d  by custom to consider its usual attendant, and to consider 
+it in a stronger light upon account of its relation to the first object.  ’Tis this impression, then, or determination , 
+which affords me the idea of necessity.  ( T 155-6) 
+Based on this quotation, Hume’s initial aim in seeking the impression of necessary connexion might 
+seem to be to vindicate or discredit the corresponding idea – to settle the question of whether “we 
+have really such an idea”.  But the very next paragraph makes clear that the main upshot is rather to 
+illuminate the nature  of that idea: “I think it proper to give warning, that I have just now examin’d 
+one of the most sublime questions in philosophy, viz. that concerning the power and efficacy of 
+causes; where all the sciences seem so much interested.” ( T 156).  The nature of the idea, as 
+determined by the impression from which it is copied, is taken to limit what we can mean  by 
+“necessary connexion” and associated terms such as “power”, “efficacy”, “force”, and “energy”, a 
+point stressed in the Abstract : 
+Upon the whole, then, either we have no idea at all of force and energy, and these words are altogether 
+insignificant, or they can mean nothing but that determination of the thought, acquir’d by habit, to pass from the cause to its usual effect.  ( A 657) 
+The Enquiry  is just as explicit, and indeed makes the aim of clarifying meanings central from the 
+start: 
+The chief obstacle … to our improvement in the moral or metaphysical sciences is the obscurity of the ideas, and 
+ambiguity of the terms.  …  There are no ideas, which occur in metaphysics, more obscure and uncertain, than those of power , force , energy , or necessary connexion , of which it is every moment necessary for us to treat in all 
+our disquisitions.  We shall, therefore, endeavour, in this section, to fix, if possible, the precise meaning of these 
+terms, and thereby remove some part of that obscurity, which is so much complained of in this species of 
+philosophy.  ( E 61-2) 
+The thought that there might turn out to be no relevant impression, and hence no idea, is not even 
+raised in the Enquiry  until the quest is well under way, at the beginning of Section VII Part ii: 
+as we can have no idea of any thing, which never appeared to our outward sense or inward sentiment, the 
+necessary conclusion seems  to be, that we have no idea of connexion or power at all, and that these words are 
+absolutely without any meaning, when employed either in philosophical reasonings, or common life.  ( E 74) 
+This link between meaning and ideas is emphasised just as clearly at the corresponding stage of the 
+Treatise  discussion ( T 162), and all three presentations culminate with the two “definitions of 
+cause”.  Hence all three are essentially in full agreement on the purpose of Hume’s quest for the  3impression of necessary connexion: namely, to define , disambiguate , or clarify the meaning  of the 
+associated expressions, this meaning being determined by the nature of the corresponding idea.  If this supposed idea turns out to be bogus through lack of an appropriate impression from which to be copied, it follows that these expressions must be “altogether insignificant” and “absolutely without 
+any meaning”.  If on the other hand an appropriate impression is identified, its nature and 
+circumstances of occurrence will determine “the very essence” of necessity, a phrase repeated with conspicuous frequency ( T 163, 250, 402, 409, E 94 n., 96 n.). 
+2.  Semantics, or Epistemology? 
+All this seems to imply that Hume’s purpose in his investigation of the origin of the idea of 
+necessary connexion is fundamentally semantic .  And the two puzzles that I shall shortly be 
+highlighting are particularly pressing for this reason, because they directly concern the semantic notions of definition  and synonymy , as employed by Hume within that investigation.  However 
+before going on to address these puzzles, it might be helpful to put to one side a controversial issue 
+that might otherwise be thought to impact on my argument, regarding the appropriate interpretation 
+of the relevant notions. 
+The issue is controversial, because those who read Hume as a realist about “thick causation” 
+(the so-called “New Humeans”) are keen to insist that his apparently semantic terms – “meaning” , 
+“ambiguity”, “significance”, “intelligibility”, “definition” etc. – should instead be interpreted epistemologically .  Kail, for example, states boldly that we should “view Hume’s talk about 
+‘meaning’ as meaning ‘acquaintance with’, as opposed to ‘thinkable content’”.
+1  This approach 
+naturally goes along with a reading of “significance” and “intelligibility” that links them not to linguistic understanding, but instead to representation by material copied from our sensory acquaintance: “impression-copy content” to use Strawson’s term.  And Hume’s “definitions of 
+cause ” can be interpreted epistemologically as giving some sort of account of the conditions under 
+which we form causal beliefs, rather than an analytical specification of necessary and sufficient conditions for the concept’s application.
+2 
+Whether this sort of non-semantic interpretation can make sense of all Hume’s relevant 
+discussions is of course debatable, and I for one am not persuaded.  For example, it seems hard to 
+interpret Hume’s arguments for, and his critical use of, the Copy Principle in these terms.  If by a 
+“meaningful” term Hume understands – as Kail claims – one that is associated with an idea that is 
+                                                
+1 Kail (2001): 39.  Similar suggestions are made by Wright (1983): 129; Costa (1989): 180; Strawson (1989): 121-3 and (2000): 35 , 
+42. 
+2 Thus Craig (1987: 102-8; 2002: 222-7) and Strawson (2000: 47-8) argue that it is a mistake to understand Hume’s two “definitio ns” 
+semantically.  However I suspect that most discussions of this issue offer false alternatives, in that it cannot be taken for g ranted that 
+a semantic approach inevitably implies an analysis of necessary and sufficient conditions.  Hume seems to have a genetic rather  than 
+purely analytic view of meaning, according to which terms’ meaning is determined by the ideas with which they are associated, t hose 
+ideas deriving their character from the impressions from which they are copied.  Thus his two definitions of cause might perhap s be 
+interpreted as specifying “all we can understand” by the notion of cause – this being linked to the genesis of the appropriate ideas – 
+without thereby resulting in a specification of analytic conditions for the notion’s correct application.  4derived from sensory acquaintance (i.e. “impression-copy content”), then the Copy Principle, that 
+all suitable ideas are derived from impressions, looks virtually tautologous, whereas Hume consistently treats it as a proposition that requires support by argument.  Likewise his use of the Copy Principle to reject metaphysical terms whose corresponding ideas are not derived from 
+impressions as meaningless or insignificant and therefore illegitimate seems question-begging, 
+unless “meaning” and “significant” are interpreted semantically.  There is no reason why a rationalist metaphysician should be embarrassed for using a term that lacks “impression-copy 
+content”, when he denies anyway that the term derives its (semantic) meaning from sensory 
+acquaintance.  Hence Hume’s arguments for the Copy Principle can provide a weapon against such a rationalist only if they are intended to provide a link between “impression-copy content” and (semantic) meaning. 
+After that brief hint of disagreement,
+3 I shall here mainly put this issue to one side, but it is 
+important to note before moving on that there is no need for present purposes to adjudicate or 
+prejudge this controversy.  For the points made below can, I believe, stand however the relevant 
+terms are understood.  In my main text I shall write as though taking for granted that definition  and 
+synonymy  (etc.) are straightforwardly semantic terms, but more or less the same issues arise even if 
+they are not. 
+3.  Two Puzzles: Synonyms and Simplicity 
+Hume’s quest for the impression of necessary connexion is explicitly predicated on the assumption 
+that necessity cannot be straightforwardly defined, and hence that the relevant idea must derive 
+(both its existence and its significance) from a corresponding impression.  He highlights this assumption as early as the fourth paragraph of Treatise  I iii 14: 
+I begin with observing that the terms of efficacy, agency, power, forc e, energy, necessity, connexion , and 
+productive quality , are all nearly synonimous; and therefore ’tis an absurdity to employ any of them in defining the 
+rest.  By this observation we reject at once all the vulgar definitions, which philosophers have given of power and 
+efficacy; and instead of searching for the idea in these definitions, must look for it in the impressions, from which 
+it is originally deriv’d.  If it be a compound idea, it must arise from compound impressions. If simple, from simple impressions.  ( T 157) 
+He never again raises the question of whether the idea is simple or complex, although the pattern of 
+his subsequent discussion certainly suggests the former.  The corresponding passage from the 
+Enquiry  suggests it even more strongly: 
+Complex ideas may, perhaps, be well known by definition, which is nothing but an enumeration of those parts or 
+simple ideas, that compose them.  But when we have pushed up definitions to the most simple ideas, and find still 
+some ambiguity and obscurity; what resource are we then possessed of?  By what invention can we throw light 
+upon these ideas, and render them altogether precise and determinate to our intellectual view?  Produce the impressions or original sentiments, from which the ideas are copied.  …  To be fully acquainted, therefore, with 
+the idea of power or necessary connexion, let us examine its impression; and in order to find the impression with 
+greater certainty, let us search for it in all the sources, from which it may possibly be derived.  ( E 62-3) 
+                                                
+3 For far more than a hint of disagreement, see my (2007) which aims to refute the “New Hume” root and branch.  5Moreover a footnote to E 64, commenting on Locke’s account of the genesis of the idea of power 
+(Essay  II xxi),4 is quite unambiguous on the point, for it gives as an objection to him (echoing 
+T 157) that “no reasoning can ever give us a new, original, simple idea; as this philosopher himself 
+confesses.  This, therefore, can never be the origin of that idea.” 
+ Although not commonly discussed in the literature, there are two serious puzzles here, which 
+we can call the “synonymy puzzle” (S) and the “complexity puzzle” (C). 
+(S) Why does Hume feel entitled to presume so nonchalantly, and without any detailed 
+consideration, that “efficacy”, “agency”, “power”, “force”, “energy”, “necessity”, “connexion”, 
+and “productive quality” are virtual synonyms? 
+(C) Why does Hume so completely ignore the obvious possibility, highlighted by his own 
+preamble, that the idea of necessary connexion might be a complex idea and hence prove 
+amenable to definition? 
+I suggest that any adequate interpretation of what Hume is up to in these sections should be able to 
+offer some plausible account of these puzzles.  For initially, at least, they seem very mysterious.  
+And the mysteries deepen when we consider Hume’s attitude to the definition of causation , on 
+which he makes very similar comments in both the Treatise  and the Enquiry  : 
+Shou’d any one … pretend to define a cause, by saying it is something productive of another, ’tis evident he 
+wou’d say nothing.  For what does he mean by production ?  Can he give any definition of it, that will not be the 
+same with that of causation?  If he can; I desire it may  be produc’d.  If he cannot; he here runs in a circle, and 
+gives a synonimous term instead of a definition.  ( T 77) 
+Thus, if a cause be defined, that which produces any thing ; it is easy to observe, that producing  is synonimous to 
+causing .  In like manner, if a cause be defined, that by which any thing exists ; this is liable to the same objection.  
+For what is meant by these words, by which ?  (E 96n) 
+The first point here concerns (C), the complexity puzzle.  For Hume is ruling out the possibility of 
+defining cause  in the same way as he rules out the possibility of defining necessity , despite  the fact 
+that cause  is, on his own principles, a complex  idea (involving necessary connexion and temporal 
+succession).5  How does this square with his stress elsewhere on simplicity  as the key factor that 
+prevents terms’ being explicitly defined?  Evidently this is bound up with his assertion of synonymy 
+between the relevant terms, but this in itself adds another layer to (S), the synonymy puzzle.  For if 
+we put the two passages just quoted together with the quotation from  T 157 above, we first have 
+Hume insisting that power  and necessity  are “nearly synonimous” with productive quality .  Then, he 
+claims that production  and producing  are in turn “synonimous to causing ”.  So unless there is some 
+subtle nuance in Hume’s choice of words here (which seems unlikely given the range of 
+                                                
+4 At Essay  II xxi 3, Locke suggests that the idea of power is simple.  Henry Home, a close associate of Hume who is now best known 
+by his later title Lord Kames, is totally explicit on the matter in the second paragraph of his essay “Of our Idea of Power” pu blished 
+in 1751: “Power denotes a simple idea, which, upon that account, cannot ad mit of a definition.” ( 1751: 272). 
+5 Treatise  I iii 2 argues that causation involves contiguity and temporal succession, as well as necessary connexion ( T 75-7) which is 
+later traced to constant conjunction ( T 87).  The requirement of contiguity is dropped from the Enquiry  (E 76), following a clear hint 
+in the Treatise  that it is inessential (see T 75 and footnote, referring to T 235-9; also T 248-50).  6“synonimous” terms that he throws in), it seems to follow, by the transitivity of synonymy, that 
+necessity  and causation  are at least “nearly synonimous” to each other.  Yet, as just noted, 
+causation  is supposed to be a complex idea which has necessity  as one component amongst others.  
+So how can this possibly be “nearly synonimous” with necessity ? 6 
+4.  A Combined Solution: Consequentiality 
+Taking all this into account, the obvious solution to (S), the synonymy puzzle, is not that Hume 
+really considers the various terms – “ efficacy, agency, power, force, energy, necessity, connexion , 
+and productive quality ” etc. – to be literally equivalent in every respect, but rather, that he considers 
+any differences in meaning between them to be irrelevant  to his concerns at this point.  And the 
+obvious reason why this might be the case, which itself provides a solution to the complexity puzzle 
+(C), is that his interest lies exclusively in a single common element  of all the problematic ideas, an 
+element which he apparently believes to be simple , so that the only way of clarifying or 
+characterising it precisely is by identifying the impression from which it is copied. 
+ How is this common simple element best to be described?  Hume calls it “necessity” or 
+“necessary connexion”, but he also calls it “power”, “force”, “energy”, “connexion” and so forth.  
+Most of these terms have causal overtones, but when Hume traces the idea to its impression-source, 
+he of course finds that source in an inferential  rather than a causal  connexion.  Indeed his argument 
+seems crucially to turn on a deliberate conflation between causal and inferential connexions, most explicitly at T 165: 
+The necessary connexion betwixt causes and effects is the foundation of our inference from one to the 
+other.  The foundation of our inference is the transition arising from the accustom’d union.  These are, 
+therefore, the same. 
+E 75 is clearly in the same spirit: 
+ This connexion, therefore, which we feel in the mind, this customary transition of the imagination from 
+one object to its usual attendant, is the sentiment or impression, from which we form the idea of power 
+or necessary connexion.  …  When we say, therefore, that one object is connected with another, we mean only, that they have acquired a connexion in our thought, and give rise to this inference … 
+The word “connexion” has the considerable virtue of smoothing over this conflation, but by itself 
+stands out as exceptional within the group of terms that Hume gives because it is symmetrical: if 
+there is a connexion between A and B, then it is mutual.  This makes “connexion” less suitable for 
+capturing the distinctive – and clearly asymmetrical – element that characterises causal 
+relationships.  “Necessary connexion” is better in this respect, preserving the causal/inferential conflation while introducing a desirable asymmetry: A’s being necessarily connected to B does not 
+imply a necessary connexion in the opposite direction.  However “necessary connexion” also 
+introduces an additional factor of inexorability , a factor that is not evidently shared by any of 
+                                               
+ 
+6 Moreover Hume explicitly distinguishes between his definitions of cause  and necessity , as made clear at E 97 and T 409, and 
+especially his index to the Enquiry , composed for the 1758 and subsequent editions, which provides separate entries for “C AUSE  and 
+EFFECT  … Its Definition” (referring both to E 76-7 and to E 96n) and for “N ECESSITY , its definition” (referring to E 82 and E 97).  7Hume’s other main terms: there is no obvious contradiction, for example, in a power , force , energy , 
+agency , or productive quality  that sometimes fails to deliver its usual effect.  Accordingly, I would 
+like to suggest that inexorable necessity is not in fact an essential element of the common simple 
+component in which Hume is interested.  It seems, therefore, that none of Hume’s terms is entirely 
+felicitous for characterising the element whose impression-source he seeks.  And in view of this, I 
+suggest that a more appropriate name for that common element is “consequentiality” – the idea of one thing’s being a consequence (causal or inferential) of another.  The following table might help 
+to sum up this discussion: 
+ 
+ covers both causal 
+and inferential links standardly 
+asymmetricalavoids connotation 
+of inexorability 
+power 8 9 9 
+force 8 9 9 
+energy 8 9 9 
+connexion 9 8 9 
+necessary connexion 9 9 8 
+consequentiality 9 9 9 
+ 
+The element of consequentiality, thus understood, does indeed seem to be common to all of Hume’s 
+terms, and it can plausibly be thought of as a simple  element.  It aims to capture the very general 
+notion of one thing’s leading towards another, and it is hard to envisage any simpler components 
+into which it could be analysed, at least from Hume’s point of view.  We might be tempted to think of it as complex on the ground that it is disjunctive , in that it brings together causal and inferential 
+connexions under a single term.  But Hume could not take this view, because as we have seen, it is 
+crucial to his argument that he is able to conflate causal and inferential consequentiality within his simple common element. 
+ Seeing consequentiality as Hume’s real quarry makes good sense of his argument in the 
+sections we are considering.  Because it is (let us accept) simple, and common to all of the 
+expressions that he considers, its meaning cannot be clarified by any definition of one of them in 
+terms of another.  The best we can do to explicate this element, therefore, is to analyse the 
+circumstances that prompt such consequential attributions, and to describe the inferential behaviour (and alleged accompanying impression) that gives these attributions their distinctive content.  The upshot is that it can only be defined in the way that Hume himself does, by reference to constant 
+conjunction and the resulting “inference of the understanding, which is the only connexion, that we 
+have any comprehension of.  Whoever attempts a definition of cause [or indeed any consequential term], exclusive of these circumstances, will be obliged either to employ unintelligible terms or such as are [virtually] synonimous to the term which he endeavours to define [in that they already 
+incorporate the notion of consequentiality itself].” ( E 96).  85.  Two More Puzzles, and their Solution 
+Seeing consequentiality, rather than inexorable necessity, as the key to Hume’s discussion can help 
+to solve two more puzzles that lurk in his text, less obvious than (S) and (C) and indeed generally 
+overlooked, but nevertheless potentially very significant.  We can call these the “vulgar puzzle” (V) and the “probability puzzle” (P).  The first is that although Hume repeatedly insists that necessity  is 
+an essential element of our idea of causation (e.g. T 77, 155, 407, E 95-6, 97), he nevertheless 
+elsewhere firmly attributes to “the vulgar” a belief in causes that are less than absolutely necessary: 
+The vulgar, who take things according to their first appearance, attribute the uncertainty of events to such an 
+uncertainty in the causes as makes the latter often fail of their usual influence; though they meet with no 
+impediment in their operation.  ( E 86, cf. T 132) 
+“Philosophers” refine this belief, but not on the basis that it is incoherent or self-contradictory.  
+Rather, they find from experience that “upon an exact scrutiny, a contrariety of effects always 
+betrays a contrariety of causes” and accordingly they “form a maxim, that the connexion between all causes and effects is equally necessary, and that its seeming uncertainty in some instances 
+proceeds from the secret operation of contrary causes”  ( E 87; T 132 is virtually identical).  But if 
+necessity – genuine full-blooded necessity  – is an ineliminable part of our very idea of causation, 
+then how can the question of whether some causal connexions are “uncertain”, or whether all are “equally necessary”, even arise? 
+ The probability puzzle (P) is even less obvious but perhaps deeper, and concerns the origin and 
+nature of the idea of probability .  Book I Part iii of the Treatise  – by far the longest part of the entire 
+work – is entitled “Of Knowledge and Probability”, with knowledge being dealt with summarily in 
+Section 1.  Section 2 is then entitled “Of probability; and of the idea of cause and effect”, which might lead us reasonably to expect an in-depth discussion of probability, including perhaps the origin of its idea.  In fact, following this title, Section 2 contains only a single use of the word 
+“probable” and its cognates, within an inconspicuous passage discussing the role of cause and effect 
+in judgements of objectual identity (“we consider … whether possibly or probably any cause cou’d operate in producing the change and resemblance”, T 74).  In the main course of Hume’s argument 
+here, probability is not mentioned at all, nor is it mentioned in Sections 3 to 5.  It only comes into 
+some sort of focus in Section 6, embedded within the famous argument concerning induction, when Hume asks whether his so-called Uniformity Principle can be founded on “knowledge or probability”.  Only now does he go to the trouble of explicitly spelling out that probable inference 
+must depend on causation, thus retrospectively explaining why his section “Of probability; and of 
+the idea of cause and effect” had been almost entirely devoted to the latter. 
+ The main sections of the Treatise  that are devoted to probability as such are I iii 11-12, where 
+Hume explains in detail how “probability of chances” and “probability of causes” are developments 
+of inductive, causal inference, which result when the experience that underlies such inferences is variable rather than uniform.  He never seems to recognise that there could be, on his own 
+principles, a question to be answered regarding the origin of the very idea  of probability.  What he 
+says about the development of our understanding of probability, however, seems to imply that it is  9entirely derived from our understanding of causation, and hence from our idea of “necessary 
+connexion”.  All very well, but if the idea of “necessary connexion” is a simple idea which has inexorability as part of its very nature, then how can an idea of mere probability possibly be derived from it?  A simple idea can apparently only give rise to another idea by being part of a complex, 
+and any complex that contains necessity  will also, presumably, inherit that implication of 
+inexorability, and therefore cannot represent mere probability.  We seem to be threatened by a serious potential contradiction in the central core of Hume’s system. 
+ These two additional puzzles are easily solved if the distinctive component of our idea of 
+causation is not really strict necessity  per se, but rather the general notion of consequentiality  – of 
+which necessity is but one species.  First, it then becomes entirely consistent that the vulgar idea of 
+causation should involve a force or agency that can be less than absolute, while leaving it possible for philosophers (including Hume) to refine this to yield a more tightly defined idea of causation which implies strict necessity.  Both the vulgar and the philosopher, on this account, have the same 
+sort of generic idea, with consequentiality as the common central element whose impression source 
+proves so elusive.  And although Hume’s explicit emphasis on necessity  is misleading, this can 
+fairly easily be accounted for given his  own clear commitment to the philosopher’s point of view. 
+ Likewise the probability puzzle (P) is easily dealt with, because probability  is clearly another 
+species of consequentiality, and so can plausibly be ascribed the same impression-source as the idea 
+of necessary connexion.  Thus we can make good sense of Hume’s treatment of probability as a 
+natural development from his treatment of causal inference. 
+6.  “Power” and “Necessity” in Hume’s Text 
+Despite the consistency that it brings to Hume’s philosophy by resolving the four puzzles identified 
+above, it might seem that my thesis has the ring of a “just so” story – a speculation that might be 
+interesting, but fails to be convincing because it lacks sufficient positive basis in the key Humean texts.  In particular, it might well be felt that the title and text of Hume’s discussions “Of the idea of 
+necessary connexion”, lay down a huge onus of proof against anyone who might claim that 
+something other than literal necessary connexion  is the discussions’ topic.  However this evidence 
+is more ambiguous than might appear: the original title of Section VII of the Enquiry , used in the 
+1748 and 1750 editions, was “ Of the I
+DEA of POWER  or necessary CONNEXION ”, and we shall soon 
+see that the text of both the Treatise  and the Enquiry  reflect that version of the title much better than 
+the final version.  There is, besides, plenty of other evidence (some of which we saw in §§1 and 3 above) that Hume took “necessary connexion” and “power” (etc.) to be equivalent for the purposes of this discussion.  So it is clear in any case that the discussion concerns a family  of concepts 
+including both of these; the key issue is whether “necessary connexion” is the best characterisation 
+of what unites that family and provides the focus of Hume’s interest.  In effect, I am suggesting that “power” – the term consistently favoured by other writers on the topic including Locke, Malebranche, Kames and Reid – would be a less misleading way of describing the crucial idea,  10more faithful to the real focus of Hume’s discussion.7 
+ This suggestion can be backed up with an analysis of Hume’s usage of the various terms 
+concerned, which reveals an interesting and significant pattern in both main discussions of the idea 
+in question.  In Treatise  I iii 14, he refers to the idea of “power” or “efficacy” ro ughly three times 
+more often than he does to the idea of “necessity” or “necessary connexion”, and the only parts of that long discussion where he prefers the latter terms are in the section’s title, the very first 
+paragraph (as quoted in §1 above), and in a short passage of less than 250 words between the end of 
+paragraph 20 and paragraph 22 ( T 165-6).  Shortly before this passage he introduces talk of “power 
+or connexion” ( T 163), without any clear implication of strict necessity.  In Enquiry  VII, Hume 
+refers numerous times to the idea of “power or necessary connexion”, though mainly in parts of his 
+discussion where he is introducing ( E 63, E 64) or reviewing ( E 73, 78) the main stages of the 
+argument, and in the section’s original title.  Within the body of the argument itself, he almost always prefers either “power” alone or various combinations of “power”, “force” and “energy”, 
+never referring to the idea of necessity  or necessary connexion  except in one short passage, the first 
+half of a single paragraph ( E 75) in which he refers initially to “this idea of a necessary connexion 
+among events” and later to “the idea of power and necessary connexion”.  In the vicinity of this passage, both earlier and later, he also talks of the “idea of connexion”, a term used nowhere else in 
+the section. 
+ It is not surprising that Hume emphasises “necessary connexion” in the title of these two 
+sections and when summing up his conclusion, because this emphasis is required for his application 
+of that conclusion to solve the problem of “liberty and necessity” (and thus to vindicate the “doctrine of necessity” in the moral sphere).  But this makes it all the more surprising how little he refers to the idea of “necessity” or “necessary connexion” within the main body of his Treatise  and 
+Enquiry  arguments, consistently preferring the term “power” except only in the two short passages 
+just mentioned ( T 165-6 and E 75).  Significantly, these two passages correspond to the same stage 
+of the argument, where Hume is identifying the elusive impression as the transition of the mind in causal inference.  And this provides a natural explanation for his switch in terminology, because as 
+remarked earlier, “necessary connexion”, unlike “power”, has just the right ambiguity to make this 
+conclusion appear relatively unproblematic, smoothing over the distinction between a causal and an inferential connexion.  Moreover the language of the Enquiry  at this point strongly corroborates my 
+suggestion that it is this desirable ambiguity, rather than the connotation of inexorability, that 
+mainly motivates Hume’s switch.  For even in this one place where “necessary connexion” is 
+emphasised more than “power”, simple “connexion” is even more prominent, apparently signifying what I have call consequentiality , and thus embracing both causal and inferential succession but 
+                                               
+ 
+7 Locke talks about the idea of necessity only in connection with determinism ( Essay  II xxi 9); Kames and Reid both deny Hume’s 
+claim that power and necessary connexion are virtual synonyms (Kames 1751: 288-9; Reid 2001: 10-11).  Malebranche (1674-5) 
+VI ii 3 treats necessary connexion as a criterion  of genuine causal power, his aim being to refute the idea that external objects can 
+have such power.  11without any suggestion of inexorability.8 
+All this is not, of course, to deny that Hume himself sees causation as involving genuine 
+necessity.  My claim is just that the idea whose source he seeks is less specific, being the general 
+idea of a connexion or consequential relation between one thing and another, and thus sufficiently comprehensive to encompass the deterministic necessity of Humean philosophers, the “uncertain” causation of the vulgar, and even the philosophical notion of probability. 
+ 
+Bibliography 
+Costa, Michael J. (1989), “Hume and Causal Realism”, Australasian Journal of Philosophy  67: 172-90. 
+Craig, Edward (1987), The Mind of God and the Works of Man , Oxford: Clarendon Press. 
+Craig, Edward (2002), “The Idea of Necessary Connexion”, adapted from chapter 2 §§3-4 of Craig (1987), 
+in Peter Millican (ed.), Reading Hume on Human Understanding , (Oxford: Clarendon Press): 211-29. 
+Kail, Peter (2001), “Projection and Necessity in Hume”, European Journal of Philosophy  9: 24-54. 
+Kames, Henry Home Lord (1751), Essays on the Principles of  Morality and Natural Religion , Edinburgh: 
+Kincaid and Donaldson. 
+Malebranche, Nicolas (1674-5), The Search after Truth , trans. T. M. Lennon and P. J. Olscamp, Columbus, 
+Ohio: Ohio State University Press, 1980. 
+Millican, Peter (2007), “Against the ‘New Hume’”, in Read and Richman (2007): 211-52. 
+Read, Rupert and Richman, Kenneth A. (eds) (2007) The New Hume Debate: Revised Edition , London: 
+Routledge 
+Reid, Thomas (2001), “Of Power”, Philosophical Quarterly  51: 3-12. 
+Strawson, Galen (1989), The Secret Connexion: Causation, Realism, and David Hume , Oxford: Clarendon 
+Press. 
+Strawson, Galen (2000), “David Hume: Objects and Power”, in Read and Richman (2007): 31-51. 
+Wright, John P. (1983), The Sceptical Realism of David Hume , Manchester: Manchester University Press. 
+ 
+                                                
+8 Apart from here and T 163, the only other places where Hume talks of the idea of “connexion” are in Enquiry  Section VIII, in the 
+form “necessity or connexion” ( E 82, 97).   These two occurrences both closely follow statements of his two definitions of necessity, 
+in contexts where Hume has an obvious motive for stressing the comprehensiveness of those definitions.  

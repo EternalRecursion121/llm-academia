@@ -1,0 +1,792 @@
+Hume Studies
+Volume XXIV, Number 1, April 1998, pp.141-159
+SYMPOSIUM
+A version of this paper was presented at the symposium on Cognition and
+Commitment in Hume's Philosophy by Don Garrett, held at the XXIVth
+International Hume Conference, Monterey, California, July 1997.
+Hume on Reason and Induction:
+Epistemology or Cognitive Science?
+PETER MILLICAN
+The fourth chapter of Don Garrett's book Cognition and Commitment in
+Hume's Philosophy,1 entitled "Reason and Induction," contains a powerful
+and provocative discussion of Hume's argument concerning induction,
+in which Garrett first outlines the well-known traditional "skeptical" and
+contemporary "nonskeptical" types of interpretation, before criticising both
+types very effectively. He then ends by proposing his own rival
+interpretation which sees Hume's argument as descriptive rather than
+normative, and takes its aim as being to establish a fundamental thesis in
+cognitive psychology concerning the causes of our inductive reasonings,
+with no direct implications, either skeptical or non-skeptical, regarding their
+epistemic basis. In Garrett's view, Hume's concern is to establish that our
+practice of reasoning inductively, though itself involving the exercise of our
+inferential faculty (i.e., "reason"), does not have a foundation in that
+facultyÂ—in other words, that our inductive reasoning does not result from
+our first having made a higher-level inference about the reliability of such
+reasoning:
+In arguing that inductive inferences are not "determin'd by reason,"
+Hume is neither expressing an evaluation of the epistemic worth of
+inductive inferences.... Nor is he denying that inductive inferences
+are a species of reasoning. He is denying only that we come to
+engage in this species of reasoning as a result of any piece of
+reasoning about it. (CCHP 94)
+Peter Millican is in the School of Philosophy, University of Leeds, Leeds LS2 9JT UK.
+email: peter@scs.leeds.ac.uk
+142     Peter Millican
+If correct, this interpretation implies that we radically rethink what Garrett
+describes as "one of the most famous arguments in the entire history of
+philosophy," which Hume himself "clearly regards...as one of his most
+important and most original contributions," and which is indeed commonly
+regarded today as constituting "the essential core of Hume's philosophy"
+(CCHP 76-77). So it is to Garrett's discussion on the interpretation of this
+argument that I shall devote most attention here. I shall begin with an
+outline of his objections to the familiar interpretations of it.
+I.  Garrett's Objections to the Skeptical Interpretation
+The traditional interpretation of Hume's argument concerning
+induction sees it as a straightforwardly skeptical attack on the rationality of
+inductive reasonings, aimed at proving that such reasonings are entirely de-
+void of evidential value. In relatively recent years this interpretation has
+been advanced and developed most prominently by Antony Flew (1961) and
+David Stove (1973), both of whom see Hume's argument as founded on an
+implicit assumption of deductivism, thus explaining Hume's own endorse-
+ment of it whilst undermining its pretensions to persuade anyone who is not
+already convinced of the illegitimacy of non-deductive inference. Against
+this interpretation, Garrett presents three powerful objections. First, that
+Hume's supposed extreme skeptical conclusion seems incompatible with his
+own widespread use and endorsement of inductive reasoning. Secondly, that
+even if this first objection can be blunted by appeal to Hume's involuntarist
+and non-rationalist psychology (which implies that he, like everyone else,
+will inevitably continue to reason and believe regardless of his philosophy)
+nevertheless a skeptical reading is hard to square with the unconcerned
+manner in which Hume continues to use and to recommend induction.
+Thirdly, that Hume's argument is logically inadequate to yield the skeptical
+conclusion traditionally ascribed to it: "there is no reason why Hume should
+regard the famous argument as itself sufficient to establish that inductive
+inferences lack evidentiary value" (CCHP 81-82). Garrett backs up this third
+objection with an outline of the structure of the argument as it occurs in the
+Treatise, an outline which (unlike Stove's well-known structure diagram) is
+both plausible and faithful to the text.2
+II.   Garrett's Objections to the Nonskeptical Interpretation
+The contemporary nonskeptical interpretation of Hume's famous
+argument, like the traditional skeptical interpretation, sees it as yielding a
+negative epistemological result about the basis of induction in reason, but
+crucially reinterprets this result by taking "reason" here to be understood by
+Hume in only a narrow "rationalist" or deductivist sense which is not
+Hume's own. On this interpretation, therefore, the argument does nothing
+Hume Studies
+Hume on Reason and Induction      143
+to impugn the reasonableness of induction, but shows only the impotence
+of a concept of reason that is itself Hume's primary target and which he
+rejects, manifesting this rejection most clearly by thereafter proceeding to
+use the term "reason" in a quite different, broader and non-rationalist sense
+that unashamedly embraces both demonstrative and probable inference.
+Garrett devotes a fair amount of space to discussing four different
+versions of this interpretation, dealing in turn with the work of Beauchamp
+and Rosenberg (1981), Arnold (1983), Broughton (1983), and Baier (1991).
+However his objections to all of them are very similar, and again essentially
+reduce to three main points. First, that it seems implausible, given Hume's
+general Lockean understanding of the notion of reason (according to which
+reason comprises both demonstrative and probable inference), to take him
+to be using that notion in a special non-Lockean "rationalist" sense within
+the famous argument, when he in no way signals such a departure from his
+usual practice. Secondly, that Hume's various summaries of his own conclu-
+sionÂ—when he states that "we have no reason" to draw inductive inferences
+(T 139) and suchlikeÂ—seem to be far stronger than merely a denial that
+induction meets narrow rationalistic standards. Thirdly, that if the
+argument's intended conclusion were really so modest, then much of its
+structure, and in particular Hume's careful proof that the "Uniformity
+Principle" cannot be supported by probable reasoning, would be entirely,
+and manifestly, redundant.
+III. Garrett's Three Criteria of Adequacy
+Whether by design or otherwise, Garrett's three points against each of
+the skeptical and nonskeptical interpretations follow parallel themes. The
+first objection in each case concerns Hume's consistency in his use of the
+term "reason" and in his implicit or explicit normative judgements about
+what is, and is not, reasonable. The second objection in each case concerns
+the strength of Hume's conclusion and his perception of its impactÂ—the
+words in which he expresses it and the extent to which it does, or does not,
+unsettle him. Finally, the third objection concerns the force and structure of
+the famous argumentÂ—whether it has the power to imply the conclusion
+that Hume supposedly draws from it, and whether its various parts make
+sense when seen in the context of an attempt to reach that conclusion. So
+we can draw from Garrett's discussion three corresponding criteria of
+adequacy for any interpretation of Hume's argument, which will shortly
+enable us to examine his own position in an appropriate contrast to those
+that he dismisses. First, however, we must see in a little more detail how he
+spells out that position in his book.
+Volume XXIV, Number 1, April 1998
+144     Peter Millican
+IV. Garrett's Own Interpretation
+Having dismissed, on what are genuinely strong grounds, both of the
+hitherto dominant interpretations of Hume's argument, Garrett presents his
+own interpretation relatively briefly, somewhat giving the impression that it
+will succeed by default as long as it can evade the objections already raised
+against the "skeptical" and "nonskeptical" alternatives. In contrast to both
+of these, his approach is radically unconventional in seeing the argument as
+concerned only with cognitive psychologyÂ—with what causes us to draw
+inferences in the way that we doÂ—and not at all with the epistemic
+credentials of those inferences. So he takes the word "reason" and its
+cognates here to be referring not to any normative, evidential conception of
+rationality (whether narrowly "rationalist" or otherwise), but simply to the
+natural human faculty that is responsible for our actual reasoning behaviour:
+the faculty that determines how we argue and make inferences. This natural
+faculty of reason is therefore, by definition, the causal foundation of every
+one of our probable inferences, and this might seem to be in direct conflict
+with the oft-repeated conclusion of Hume's argument, that probable
+inference is not founded on reason. This apparent conflict is, no doubt, why
+previous interpreters have almost universally taken Hume's "reason" to be
+primarily a normative notion distinct from that natural faculty, and why
+many have as a consequence felt compelled to see Hume as at some point
+either inconsistent or equivocal in his use of that term and its cognates.3 But
+Garrett has noticed that this circle could conceivably be squared by
+interpreting Hume's conclusion not as a claim about the immediate
+causation of each of our probable inferences, but rather, as a higher-order
+claim about what determines us to indulge in the general practice of probable
+inference in the first place. As he puts the point:
+Hume should be interpreted quite literally, as making a specific
+claim, within cognitive psychology, about the relation between our
+tendency to make inductive inferences and our inferential/
+argumentative faculty: he is arguing that we do not adopt induction
+on the basis of recognizing an argument for its reliability, for the
+utterly sufficient reason that there is no argument ("reasoning" or
+"process of the understanding") that could have this effect.
+It must be emphasised that this does not mean that inductive
+inferences are not themselves instances of argumentation or
+reasoning.... His point is rather that...they are a class of "reasonings"
+(inferences or arguments) that "reason" (the faculty of making
+inferences or giving arguments) does not itself "determine" (cause)
+us to make. (CCHP 91-92)
+Hume Studies
+Hume on Reason and Induction      145
+Let us now examine how well this interpretation stands up to the three
+criteria of adequacy that we have drawn from Garrett's own discussion.
+V. First Criterion: Lockean and Humean "Reason"
+Garrett claims that his own univocal interpretation of Hume's notion of
+"reason" corresponds with Locke's notion, in encompassing both
+demonstrative and probable inference (CCHP 85). However the matter is not
+nearly so simple, because a proper comparison between Lockean and
+Humean reason must take into account not only their presumed scope, but
+also their supposed nature. In the chapter on "Reason" in the Essay,4 Locke
+states repeatedly that he takes this faculty to be one whose operations
+(notably inference) essentially involve mental perception, and this applies
+both to demonstrative and probable inference:
+Inference...consists in nothing but the Perception of the connexion
+there is between the Ideas...; as Reason perceives the necessary, and
+indubitable connexion of all the Ideas...one to another, in each step
+of any Demonstration...so it likewise perceives the probable con-
+nexion of all the Ideas...one to another, in every step of a Discourse,
+to which it will think Assent due. (ECHU IV xvii 2).
+It is not clear whether Locke views the direct perception of demonstrative
+and probable connexions between ideas as itself an operation of reason, or
+whether instead he sees reason as working with perceptions provided by a
+separate faculty or faculties (presumably intuition in the case of
+demonstrative connexions).5 But whatever the verdict on this taxonomic
+issue, it is clear that Hume's account of probable reasoning is radically differ-
+ent from Locke's, for if there is one uncontroversial truth about Hume's
+account of induction, it is surely that according to him probable inference
+depends crucially on instinctive custom and not at all on mental perception
+of probable connexions. The upshot is that Hume must differ from Locke
+eirÂ«er in denying that probable inference falls completely within the
+province of reason, or else in denying that reason is a faculty whose opera-
+tions essentially involve mental perception. Both denials are indeed to be
+found in the Treatise, but significantly they occur in different places. The
+first (which implies that probable inference, though indeed a form of
+reasoning, is "not determined by" the faculty of reason) is emphasised
+repeatedly immediately after the argument concerning induction itself (e.g.,
+T 91, 92, 97). The second (which openly admits, as operations of the faculty
+of reason, inferences that are founded on the vivacity of ideas through
+association rather than on mental perception) occurs later, when as we shall
+see Hume reassesses the relationship between "reason" and "the imagina-
+tion" (e.g., T 103, 225, 265).
+Volume XXIV, Number 1, April 1998
+146     Peter Millican
+All this substantially reduces the force of Garrett's first objection to
+interpretations that see Hume's notion of reason as being reinterpreted
+between the famous argument and most of the remainder of the Treatise.
+For it is precisely that argument which forces Hume to move away from
+the Lockean paradigm, providing a clear motive for some such reinter-
+pretation even if (as Garrett stresses) none is explicitly announced or
+highlighted in the Treatise. And there is significant, albeit controversial,
+evidence that a reinterpretation of "reason" was indeed intended or at
+least belatedly acknowledged by Hume, in a footnote occurring quite
+soon after the famous argument (and inserted while the Treatise was
+going through the press), in which he points out a closely related
+equivocation in his notion of the imagination:
+In general we may observe, that as our assent to all probable
+reasonings is founded on the vivacity of ideas, it resembles many
+of those whimsies and prejudices, which are rejected under the
+opprobrious character of being the offspring of the imagination.
+By this expression it appears that the word, imagination, is
+commonly us'd in two different senses; and tho' nothing be
+more contrary to true philosophy, than this inaccuracy, yet in
+the following reasonings I have often been oblig'd to fall into it.
+When I oppose the imagination to the memory, I mean the
+faculty, by which we form our fainter ideas. When I oppose it to
+reason, I mean the same faculty, excluding only our
+demonstrative and probable reasonings. (T 117-118n)
+My own view of what is going on here can perhaps best be summarised
+diagrammatically:
+Demonstration   Induction    Whimsies & Prejudices     Memory
+Lockean
+Strict
+Humean
+Loose
+HumeanReason = Perception of
+evidential connexionsImagination =
+Representation of ideas
+Imagination = Representation
+and association of ideas
+Reason = Established
+operations of associationImagination = Irregular
+operations of associationMemory
+Memory
+Hume Studies
+Hume on Reason and Induction     147
+For the Lockean, demonstration and induction fall unequivocally within the
+domain of reason because they are founded on mental perception of
+evidential connexions. The imagination is quite distinct, and closely allied
+with the memory (if not necessarily encompassing it). Hume's argument
+concerning induction undermines this picture by showing that induction is
+founded not on mental perception but on the vivacity of ideas through
+association; even further, his notorious argument on scepticism with regard
+to demonstrative reason (T I iv 1) indicates that this, too, crucially depends
+upon the idea-enlivening propensities of the imagination (so we reach the
+"Strict Humean" position illustrated in the diagram). However, having thus
+done away with the Lockean understanding of reason's essential nature and
+its implied warrant based on mental perception, Hume is anxious to avoid
+the consequence that probable reasoning is on all fours with the "whimsies
+and prejudices" that are the imagination's more typical offspring, so he
+continues to make use of a reinterpreted reason/imagination distinction by
+drawing the line between them in the same place as Locke, albeit on a very
+different basis (the "Loose Humean" position in the diagram). Now the
+distinction has to be founded not on the absolute contrast between mental
+perception and the operations of the imagination, but instead on a division
+within the operations of the imagination, between on the one hand those
+that are "established," "general" (T 267), "permanent," "irresistable," "uni-
+versal," "solid" and "consistent" (T 225-226), and on the other hand those
+that are relatively "irregular," "changeable," "weak" (T 225), "trivial" (T 267)
+and "frivolous" (T 504n).
+To sum up, therefore, the attribution to Hume of an ambiguity or
+transformation in his notion of reason is by no means gratuitous or ad hoc,
+but has considerable justification, both philosophical and textual. If the
+point of his argument concerning induction is, as I have suggested, to deny
+that probable inference can be warranted through mental perception in the
+way that Locke had supposed; and if, as seems clear, Hume was nevertheless
+anxious to preserve the honorific title of "reason" for probable inference
+(e.g., to distinguish respectable inductive science from superstition); then it is
+entirely to be expected that his notion of reason should be transformed as a
+result of his famous argument. And so ironically the same point that Garrett
+rightly urges against the contemporary nonskeptical interpretation of that
+argumentÂ—namely, the importance of sensitivity to the dominant Lockean
+paradigm within which Hume was writingÂ—is precisely what might lead us
+to expect such an ambiguity or transformation in his writings. The non-
+skeptical interpretation may indeed have gone seriously wrong in seeing the
+notion of "reason" within the argument as being essentially deductivist (and
+hence non-Lockean), but this view of the argument as a pivot for the
+Humean reinterpretation of that notion is independently quite plausible.
+Volume XXIV, Number 1, April 1998
+148     Peter Millican
+VI. Second Criterion: Hume's Conclusion and its Impact
+How radical is the conclusion of Hume's famous argument, and how far
+should he, or we, be seriously unsettled by it? Garrett sees his interpretation
+as steering an appropriate middle course between the two extreme answers
+to these questions that have previously dominated the literature: on the one
+hand, the skeptical reading that takes the argument to be denying induction
+any evidential force whatever; and on the other, the nonskeptical reading
+according to which induction is left entirely unaffected by an argument
+whose target is not induction itself, but only a bogus rationalistic ideal of
+reason that was wrongly supposed to provide its foundation. Against the
+latter interpretation, Garrett quotes a well-known passage from T 139, but in
+doing so he omits what I believe is a sting in its tail against his own position:
+Let men be once fully perswaded of these two principles, That there
+is nothing in any object, consider'd in itself, which can afford us a reason
+for drawing a conclusion beyond it; and, That even after the observation
+of the frequent or constant conjunction of objects, we have no reason to
+draw any inference concerning any object beyond those of which we have
+had experience; I say, let men be once fully convinc'd of these two
+principles, and this will throw them so loose from all common
+systems, that they will make no difficulty of receiving any, which
+may appear the most extraordinary.
+Garrett comments on Hume's second italicised clause:
+Hume clearly offers [this] as a recapitulation of his conclusion about
+induction. But the claim that we have...no reason for making
+inductive inferences appears considerably stronger than...the claim
+that they are [less than certain]. (CCHP 86)
+I fully agree, but to my mind the claim that we have no reason for making
+inductive inferences also appears considerably stronger than the mere denial
+that we reason inductively because we have been moved to do so by a
+higher-level argument concerning induction's reliability.6 Moreover Hume's
+final clause (omitted by Garrett) makes very clear that this appearance is no
+illusionÂ—for how could he imagine that the denial that we are led by an
+argument to take up the practice of induction would be sufficient to "throw
+[men] loose from all common systems," when it was anyway no part of the
+established Lockean orthodoxy to suppose that our inductive practices were
+founded on such an argument? Rather, Locke sees induction as founded on
+the immediate perception of probable connexions, conditioned by what we
+observe "in the ordinary course of Things" (ECHU IV iii 28), and as far as I
+know he never presents any further argument aimed at proving that such
+Hume Studies
+Hume on Reason and Induction      149
+perception, or the inductive inferences based on it, must be reliable, and
+never claims that people are moved to take up induction through the
+recognition of any such argument. The nearest he gets to doing so is when
+accounting for our idea of power (ECHU II xxi 1), where he hints at an
+argument which Hume was later to spell out but dismiss as a putative
+justification of induction (T 90-91; EHU 36-38). But this argument makes no
+appearance in Locke's discussion of reason itself, and an insistence that
+induction should be based on such an argument seems somewhat contrary to
+the spirit of his view of reason, which he saw as having a God-given "native
+Faculty" to draw inferences without dependence on formal rules (ECHU IV
+xvii 4), and operating accordingly, as we have seen, on the basis of directly
+perceived demonstrative and probable connexions between ideas rather than
+such higher-level reflections.
+The passage from T 139 is not the only statement of Hume's conclusion
+that seems too strong to square with Garrett's interpretation. For on this
+interpretation it is only the general practice of induction that fails to be
+determined by reason, and each of our particular inductive inferences is itself
+an instance of the operation of our reason. But Hume's sceptical
+pronouncements do not confine themselves in this way:
+When the mind...passes from the idea or impression of one object
+to the idea or belief of another, it is not determin'd by reason. (T 92;
+see also the similar passage at T 97)
+I say then, that, even after we have experience of the operations
+of cause and effect, our conclusions from that experience are Â«or
+founded on reasoning, or any process of the understanding. (EHU
+32)
+If "reason," or equivalently "the understanding,"7 is just the human faculty
+that underlies our inferential behaviour, then it is hard to see why Hume
+should deny that a specific inference, and the drawing of a particular conclu-
+sion, are "determin'd by" or "founded on" that faculty. And if he is merely
+denying that we are moved to practise induction by some process of higher-
+order reasoning, then why when he uses this very word rather than the
+faculty term "reason," does he pointedly broaden it to the all-inclusive
+"reasoning, or any process of the understanding"? The following passage is
+even more emphatic:
+He...infers the existence of one object from the appearance of the
+other...[but it is not] by any process of reasoning, he is engaged to
+draw this inference.... And though he should be convinced that his
+understanding has no part in the operation... (EHU 42)
+Volume XXIV, Number 1, April 1998
+150     Peter Millican
+On Garrett's interpretation, our reason or understanding is precisely our
+inferential faculty, and is therefore certainly responsible for our inductive
+reasoning even if it is not the source of any higher-order reasoning that leads
+us to practise it. So Hume must here be seen as sloppy to the point of explicit
+self-contradiction, in saying that our inferential faculty "has no part" in the
+drawing of a probable inference.
+VII. Third Criterion: The Argument's Force and Structure
+In the course of criticising the traditional skeptical interpretation,
+Garrett provides an excellent summary of Hume's argument as it occurs in
+the Treatise, adding the comment that "the structure and language of the
+other versions of the argument are parallel" (CCHP 82). On the basis of this
+summary he describes Hume's argumentative procedure as follows:
+The general strategy is clear: to argue (i) that "determination of"
+inductive inferences "by reason" requires that a certain proposition
+(the Uniformity Thesis) be "founded" on some argument, an
+argument that must be of one of two kindsÂ—demonstrative or
+probable...Â—and then to argue (ii) that neither kind of argument
+can do the job required. (CCHP 82)
+He goes on to draw two contrasting moralsÂ—that on the one hand, stage (i)
+is too narrowly focused (on types of argument) if Hume's aim were to show
+that induction is devoid of evidential value (the most it could show is that
+induction cannot be founded on argument, which of course fits Garrett's own
+interpretation well); while on the other hand, stage (ii) seems too broad if
+Hume's aim here were to show only that induction cannot be founded on
+demonstration. So for the purposes of the skeptical interpretation Hume's
+argument is too weak, and for those of the nonskeptical interpretation, it is
+too strong.
+I shall now try to show that on Garrett's own interpretation, Hume's
+argument is in different respects both too weak and too strong. Too weak, in
+that Hume focuses only on legitimate forms of argument which on Garrett's
+principles he has no right to do; too strong, in that at least in the Enquiry,
+Hume clearly addresses and dismisses the possibility that induction could be
+based on non-inferential grounds.
+To start with the second and less crucial part of my claim, it can I
+believe be conclusively shown that the argument of the Enquiry is signi-
+ficantly different in structure from that of the Treatise, and in more than one
+respect. However, I shall not go into detail here, because I have written on
+this extensively elsewhere (see endnote 2), and for present purposes it is
+sufficient to draw attention to the passage in the Enquiry where Hume
+explicitly   establishes   the   point   that   argumentÂ—a   chain   of  reasoning
+Hume Studies
+Hume on Reason and Induction     151
+involving intermediate propositionsÂ—is necessary if induction is to be
+appropriately founded:
+Now this is a process of the mind or thought, of which I would
+willingly know the foundation. It is allowed...that there is no
+known connexion between the sensible qualities and the secret
+powers; and consequently, that the mind is not led to form such a
+conclusion concerning their constant and regular conjunction, by
+anything which it knows of their nature. As to past Experience...why
+this experience should be extended to future times, and to other
+objects...this is the main question on which I would insist.... At
+least, it must be acknowledged that there is here a consequence
+drawn by the mind; that there is a certain step taken; a process of
+thought, and an inference, which wants to be explained.... I shall al-
+low, if you please, that the one proposition may justly be inferred
+from the other.... But if you insist that the inference is made by a
+chain of reasoning, I desire you to produce that reasoning. The con-
+nexion between these propositions is not intuitive. There is required
+a medium, which may enable the mind to draw such an inference....
+(EHU 33-34)
+It is only after this that Hume goes on to itemise the various types of
+argument, and to examine both demonstrative and probable reasoning in
+turn. So on Garrett's interpretation this passage seems hard to account for:
+why should Hume go to the trouble of explicitly denying that induction can
+be founded on perception of objects' powers, or on intuition, if his only
+concern is to rule out argument as its basis?
+Although this objection is very similar in spirit to that which Garrett
+correctly urges against the nonskeptical interpretation, it is admittedly less
+decisive, because it concerns only the argument as it occurs in the Enquiry,
+and indeed a passage within that argument in which Hume might fairly
+plausibly be thought to be "beating about the neighbouring fields" (T 78)
+rather than going straight to the heart of the matter.8 Besides, the additional
+considerations that Hume adduces here, even if they are irrelevant to his
+purpose on Garrett's interpretation, clearly do nothing to undermine his
+argument. Far more serious, therefore, is my complementary claim, that
+Hume's argument in both the Treatise and the Enquiry is far too weak to
+establish the proposition which, according to Garrett, is his intended
+conclusion.
+Suppose Hume were indeed primarily concerned to show that we are not
+moved to practise induction on the basis of a higher-order argument about
+itÂ—what would be the appropriate way for him to proceed? Surely it would
+be to focus on considerations such as the following. First, that infants, and
+Volume XXIV, Number 1, April 1998
+152     Peter Millican
+animals, universally make use of inductive prediction even though they
+are clearly in no position to understand, let alone to frame for themselves,
+higher-order arguments about it. And secondly, that we often character-
+istically draw inductive conclusions unreflectively and immediately, even in
+cases where we have never before reflected on the relevant uniformity. Both
+of these have to do with ratiocination, or more precisely, with its absence,
+and both happen to be points that are indeed made by Hume, but im-
+portantly only after the statement of his famous argument (the first at EHU
+39 and in his discussions on the reason of animals; the second at T 103-104).
+In both cases, he draws the moral that these points corroborate the conclu-
+sion of that argument, but they clearly do not constitute essential, or even
+significant, parts of it.
+Now let us contrast all this with the considerations that Hume actually
+does adduce in the development of his argument:
+Â•  That causal connections cannot be known a priori, but can only be
+discovered by experience.
+Â•  That any inference from experience, if it is to be founded on reason,
+must be based on the supposition of a resemblance between observed
+and unobserved.
+Â•  That this supposition cannot be known by intuition, nor established
+through sensory knowledge of objects' powers, but must therefore be
+founded on argument if it is to play the required role.
+Â•  That any argument for this supposition can only be demonstrative or
+probable.
+Â•  That because its contrary is conceivable, it cannot be the subject of
+demonstration.
+Â•  That no probable argument for the supposition is possible either,
+because any probable argument must take it for granted and would
+therefore be "going in a circle" (EHU 36).
+Now on Garrett's interpretation I just do not see how Hume has any right to
+help himself to all these "cannots," "can onlys," and "musts." He was well
+aware that previous philosophers had purported to know truths about
+causation a priori and to demonstrate matters of fact,9 and his writings
+include plenty of refutations of bogus arguments that fit neither of the
+categories of demonstrative or probable inference as he characterises them
+(indeed the notorious final paragraph of the first Enquiry is directed precisely
+against such bogus arguments, and "Hume's Fork," as it has come to be
+called, is entirely premised on their existence).10 So the only way to make
+sense of what Hume says, in my opinion, is to see him as prescribing limits
+not on what can be claimed, or inferred, or argued, but on what can
+legitimately be claimed, or inferred, or argued. In other words he must be
+Hume Studies
+Hume on Reason and Induction      153
+operating with a concept of reason which is epistemological and normative
+rather than, as Garrett claims, purely psychological and descriptive. Otherwise
+his argumentative strategy is gratuitous at best, and at worst incom-
+prehensible.
+As a particular example, let us take his claim that the Uniformity
+Principle has to be founded on argument if it is to play the required role.
+Why on earth should Hume feel able to claim this, if the "required role" is
+simply to function as a premise in some process of ratiocinationÂ—
+specifically, some piece of reasoning, good or bad, for the conclusion that
+induction will be reliable? The Uniformity Principle could play this role even
+if it were merely an arbitrary flight of fancy, or an assumption which we take
+for granted because it has been implanted by God, by nature, by Descartes's
+evil demon, or by we-know-not-what. The appropriate way to show that it
+doesn't play this role, therefore, would be not to ask questions about its
+epistemological credentials, or the arguments on which it itself might be
+founded, but to focus purely on whether it features in the psychology of the
+reasoning subjectÂ—the sort of thing that Hume considers at T 103-104 but
+not within his famous argument.
+Again, suppose the suggestion were to be made that we reason
+inductively on the basis of something like the Lockean argument which
+Hume canvasses at T 90 and EHU 36-37: we see that objects have behaved in
+uniform ways, infer the existence of powers which make them do so, and
+conclude that future objects will behave in the same ways because of these
+powers. Hume himself responds to this suggestion (T 90-91; EHU 37-38) by
+showing that the Lockean argument itself presupposes an inductive assump-
+tionÂ—that similar objects will continue to be endowed with similar powers
+Â—and he concludes that such an argument cannot provide a basis in reason
+for induction. This response makes perfect sense if Hume's aim is to show
+that the argument cannot justify inductive inference, but is largely beside the
+point if instead he is aiming to show that the argument cannot motivate us
+to perform inductive inference. For even if the Lockean argument indeed
+takes for granted a particular inductive assumption, and hence can persuade
+us only if we are already disposed to reason inductively in that respect, this
+leaves quite open the possibility that such an argument might motivate us to
+perform other inductive inferences. The fact that this inductive assumption
+has no non-circular justification indeed makes it inappropriate as a solid
+epistemological basis for any further inductive inference, but in no way
+prevents its playing a role psychologically as a premise in such an inference.
+In fact Hume acknowledges that a general principle of uniformity can
+indeed be derived from experience (T 105, T 132, T 173), and can then play
+the role of a premise in further inductive inference, for example when we
+draw general conclusions from a single "experiment" (T 104-105, T 131). He
+also states that most inductive inferences, where past experience is not
+Volume XXIV, Number 1, April 1998
+154     Peter Millican
+completely uniform, involve the conscious weighing of "the experiments,
+which we have on each side" (T 133). So as regards the psychology of
+induction, no very substantial universal conclusion can be drawnÂ—some
+inductive inferences are immediate unreflective operations of custom (T 104,
+T 133); others involve significant ratiocination, including not only careful
+consideration of past instances but sometimes even explicit application of a
+principle of uniformity, with this principle itself being supported in turn by
+reflection on past experience. However, Hume presents the conclusion of his
+argument concerning induction as one that applies to all inductive
+reasoning: "in all reasonings from experience, there is a step taken by the
+mind which is not supported by any argument or process of the
+understanding" (EHU 41). Not only does the language of "support" here
+sound distinctly epistemological, but also, it is hard to seeÂ—in view of the
+points just madeÂ—how this conclusion could instead be understood as any
+psychological claim that Hume himself would wish to maintain.11
+VIII. Conclusion: Garrett's Hume and the Hume of the Enquiry
+Garrett has performed a major service to Hume scholarship in
+developing his interpretation of Hume as a thoroughgoing empirical
+cognitive psychologistÂ—every chapter in his book is interesting and
+illuminating, and sheds new light on controversies both old and new. Nor is
+this verdict shaken in the least by my suggestion that his interpretation is
+fundamentally mistaken: even where Garrett (in my view) misunderstands
+Hume's intentions, he does so because of a genuine unclarity or
+inconsistency in Hume's writings, and thus highlights areas where further
+research and discussion are needed.
+The particular example of such an area on which I have focused here
+centres on Hume's notion of "reason," which Garrett takes to be simply the
+natural human "faculty of reasoning: of making inferences, or providing,
+appreciating, and being moved by arguments" (CCHP 27). He accordingly
+interprets Hume's famous argument about induction as concerned not with
+epistemology (what warrant we may have for inductive inference), but with
+psychology (what causes or motivates our inductive inferences). In developing
+this position Garrett criticises, very effectively, the two hitherto dominant
+readings of Hume's argument, which he calls the "traditional skeptical" and
+the "contemporary nonskeptical" interpretations. Some of his criticisms of
+the latter are, I believe, unanswerable,12 while his criticisms of the former at
+least demand a careful reply from anyone who would continue to interpret
+Hume as the inductive skeptic of traditional philosophical history. Such a
+reply can, I believe, be made, but not without cost. In particular, it requires
+that Hume's notion of "reason" be interpreted as ambiguous, with a
+significantly different meaning within the famous argument from that
+which it carries later in the Treatise and elsewhere.13
+Hume Studies
+Hume on Reason and Induction     155
+What I have tried to show here is that Garrett's interpretation too carries
+a significant cost. Admittedly it has the merit of simplicity and elegance in
+reading Hume's "reason" as univocal, but I have claimed that the price of
+this is to render Hume's famous argument inappropriate and even
+incoherent. If Hume's primary intention in that argument were, as Garrett
+maintains, to establish only psychological truths about the causes of our
+inferential behaviour, then HumeÂ—of all peopleÂ—could not consistently
+set about this by means of a prioristic reasoning regarding the possible
+arguments that might motivate us. It is a central pillar of his thought that
+causal relations can be established only by observation and experience, and I
+find it inconceivable that the author of Section VII of the Enquiry (much of
+which has the explicit purpose of refuting any claim to a prioristic knowl-
+edge of the mind's workings) would proceed to investigate an issue of
+psychological causation in any other way.14
+Garrett's interpretation also carries another related cost, that of making
+Hume's thought far less relevant to us as philosophers today. For Garrett's
+Hume seems to me to be guilty of precisely the sin which generations of
+analytic philosophers have alleged, namely a "psychologism" which
+damagingly confuses psychological with epistemological issues. There is, I
+suspect, a fair amount of truth in this allegation, at least as regards the Hume
+of the Treatise. But in my view the Hume of the Enquiry is a far more
+coherent figure, who no longer uses terms such as "reason" and "evidence"
+in the psychologistic way that Garrett emphasises,15 and whose principal
+focus is now very clearly on epistemology and questions of rational warrant.
+Again, the Hume of the Enquiry views argument in a far more modern way
+than does Garrett's HumeÂ—thus Section IV of the Enquiry seems to operate
+with a distinction between "demonstrative" and "probable" (or "moral")
+arguments which, like the modern deductive/inductive distinction, depends
+primarily on the logical relationship between premises and conclusion rather
+than on the psychological "degree of evidence" which the argument confers,
+or on the assurance we have regarding the epistemological status of the
+argument's premises (cf. CCHP 27, 87, 94).16 All this adds up to a clear trend
+in Hume's thought towards seeing his theory of reason and induction in
+epistemological rather than psychological terms, a trend that we would
+surely do well to follow.
+To conclude, Garrett's interpretation of Hume's views on reason and
+induction is interesting and suggestive, supported by solid scholarship and
+by a powerful vision of what Hume is up to. However I believe that its
+emphasis on Hume the cognitive psychologist undervalues the most central
+contribution of Hume the philosopher, a contribution which Hume himself
+was able to appreciate far more clearly by the time he came to write the
+Enquiry, and whose presentation was modified accordingly. Garrett's Hume is
+located squarely in the Treatise, where there are indeed strong currents of
+Volume XXIV, Number 1, April 1998
+156      Peter Millican
+psychology mixing in with the epistemology. Even in the Treatise, however,
+Garrett's interpretation of Hume as a purely empirical cognitive psychologist
+has great difficulty in making good sense of the famous argument
+concerning induction, and certainly if we are to take our cue from Hume's
+later example, we have compelling grounds for seeing the concept of reason
+on which that argument hinges as primarily normative and epistemological
+rather than psychological. Garrett is quite right (CCHP 95) to see Hume's
+argument as a fundamental and seminal contribution to human learning,
+and as a far stronger argument than most of Hume's previous interpreters
+have supposed. But it earns this status as a fundamental contribution not, as
+Garrett claims, in descriptive cognitive psychology, but rather in normative
+epistemology.17
+NOTES
+1    Don Garrett, Cognition and Commitment in Hume's Philosophy (New York:
+Oxford University Press, 1997). Hereafter abbreviated "CCHP," with page
+numbers inserted parenthetically in the text. References to Hume's works will
+be to the following editions: David Hume, A Treatise of Human Nature, edited
+by L. A. Selby-Bigge, 2nd ed. revised by P. H. Nidditch (Oxford: Clarendon
+Press, 1978), hereafter abbreviated as "T" with page numbers inserted
+parenthetically in the text; and David Hume, Enquiries Concerning Human
+Understanding and Concerning the Principles of Morals, edited by L. A.
+Selby-Bigge, 3rd ed. revised by P. H. Nidditch (Oxford: Clarendon Press,
+1975), with the first Enquiry abbreviated as "EHU" with page numbers
+inserted parenthetically in the text.
+2    Though Garrett's structural analysis does not fit nearly so well the
+argument presented in Section IV of the Enquiry concerning Human
+Understanding, a point which I believe to be philosophically significant but
+will not develop further here. For a detailed analysis and interpretation of the
+argument as it appears in the Enquiry see my "Hume's Argument Concerning
+Induction: Structure and Interpretation," in David Hume: Critical Assessments,
+edited by Stanley Tweyman, six volumes (London: Routledge, 1995): II
+91-144 (hereafter abbreviated "Millican").
+3    Sometimes Hume clearly does use the term "reason" in a purely
+descriptive and hence normatively neutral sense, for example when he talks
+about "the reason of animals," or describes our reason as "fallacious" (EHU
+55) and "weak" (T 182; EHU 72). But as we shall see, it is difficult to provide a
+coherent interpretation of his arguments on the supposition that he is always
+using the term in this neutral sense, and there are even some passages in the
+Treatise where he seems very explicitly to adopt a normative posture, ruling
+out reason as the source of some argument or belief on the ground that the
+Hume Studies
+Hume on Reason and Induction      157
+latter fails to meet an appropriate standard of solidity, reasonableness or truth
+(e.g., T 90-91, T 193, T 209). Hence it is perhaps not surprising that, as Garrett
+says, "Few interpretive remarks about Hume meet with more widespread
+agreement than the common claim that he uses the term 'reason' in several
+different senses in his writings" (CCHP 94).
+4    All references to Locke are to John Locke, An Esssay concerning Human
+Understanding, edited by P. H. Nidditch (Oxford: Clarendon, 1975). Hereafter
+abbreviated "ECHU" with page numbers inserted parenthetically in the text.
+5    Locke is generally rather vague about assigning operations to faculties,
+even in his chapter on reason itself. Compare for example "we may in Reason
+consider these four Degrees...the third is the perceiving [ideas'] Connexion"
+(ECHU IV xvii 3) with "In the Discovery of, and Assent to [intuitive] Truths,
+there is no Use of the discursive Faculty, no need of Reasoning" (ECHU IV xvii
+14). But this vagueness is perhaps less a symptom of carelessness than of
+Locke's somewhat sceptical and even anti-realist attitude to faculties, as
+expressed quite forcefully in ECHU II xxi 17-20.
+6    For example it would seem odd to say that "I have no reason" for
+believing that 1+1=2, that I exist, or that I am now imagining a yellow circle,
+simply on the ground that there is no argument which would persuade me of
+these immediately apprehended truths. And it would seem equally odd in
+any scientific or philosophical discussion to say that "I have a reason" for
+believing that extraterrestrials have landed just because my imagination is
+captivated by some patently fallacious argument to that conclusion. "No
+reason" in this sort of context typically means "no warrant" rather than "no
+argument," and I see no reason to suppose that Hume means anything
+different in T 139, despite Garrett's argument to the contrary! Garrett's
+interpretation can claim more textual plausibility within the famous
+argument itself in Treatise I iii 6, since Hume here seems to take for granted
+that argument is the only possible source of warrant for induction,
+understandably giving the impression that when he says "no reason" he
+means "no argument." But as we shall see, even in the Treatise his discussion
+makes sense only if we take him to mean "no good argument," and in the
+Enquiry he significantly clarifies the normative thrust of his claims by
+explicitly ruling out other kinds of warrant also.
+7    Garrett has suggested to me in conversation that these faculty terms are
+not in fact equivalent, and that Hume sees "reason" as just one part or aspect
+of "the understanding," with intuition as another (the relationship between
+"the understanding"' and "the imagination" is discussed particularly on
+pages 28-29 of his book, but without any explicit statement of the
+relationship between "the understanding" and "reason"). This suggestion
+would not, of course, remove the difficulty of reconciling the above
+quotations with Garrett's account, but I do not anyway agree with it, mainly
+because there is clear evidence in Hume's writings of a tendency to use
+"reason" and "the understanding" interchangeably, often apparently
+alternating between them (as he does also between "the fancy" and "the
+imagination") merely for the sake of elegant variation. Even in Book I of the
+Treatise alone there are numerous examples of such apparent variation (e.g.,
+T 88, T 92, T 150, T 180, T 186-187, T 193, T 211, T 218, T 268), and I would
+Volume XXIV, Number 1, April 1998
+158     Peter Millican
+be very surprised if all of these can be interpreted consistently except on the
+supposition that "reason" and "the understanding" are, for Hume, one and
+the same.
+8    Nevertheless it clearly does provide an answer to Garrett's corresponding
+objection to the skeptical interpretation: stage (i) of Hume's argument in the
+Enquiry does not focus only on types of argument after all, so it becomes far
+more plausible to claim that his intention there is indeed to show that
+induction is, in some sense, devoid of evidential value rather than merely not
+founded on argument.
+9    See for example the would-be demonstrations of the causal maxim
+considered in T I iii 3, "Why a Cause is Always Necessary," of which Hume
+says that "every demonstration, which has been produc'd for the necessity of
+a cause, is fallacious and sophistical." Clearly he accepts that the human
+faculty of reason is capable of producing "demonstrations" of propositions
+whose falsehood is conceivableÂ—but he sees such "demonstrations" as
+irrelevant to his claims about causation and induction because they are
+fallacious. Dismissal of them on this ground is clearly inappropriate, however,
+unless his notion of reason is nonnative rather than purely descriptive. For if
+by "reason" he simply means our natural reasoning faculty, then he cannot
+rule out a priori the possibility that reason might motivate us (as it
+presumably has in fact motivated many people) through fallacious
+arguments.
+10    Note also that on Garrett's interpretation of Hume, he here overlooks a
+whole class of perfectly good arguments which previous philosophers had
+taken very seriously, namely deductive arguments which do not have "only
+'self-evident a priori premises'" (CCHP 87). For the contrary claim, that Hume
+did in fact countenance "demonstrative" arguments with non-a priori
+premises, see Millican 96-98.
+11    It will no doubt be true that in any inductive reasoning there is some
+premise or inferential step which is psychologically taken for granted and not
+itself inferred by further argument, and Hume might well agree, but this is an
+unlikely candidate as his intended conclusion because it will obviously be
+true of any (non-circular) human reasoning whatever, owing simply to the
+impossibility of infinite chains of inference. Besides, Hume's claim is anyway
+clearly intended to be more specific than this: given the logic of his argument
+he surely means that in any inductive inference there is a particular step taken
+by the mindÂ—namely the assumption of uniformityÂ—"which is not
+supported by any argument or process of the understanding." This claim
+seems plausible, and plausibly Humean, only if interpreted epistemologically
+rather than psychologically.
+12    For criticisms in a very similar spirit see Millican, 135-136.
+13    In fact it arguably requires a three-way ambiguity, when the "neutral"
+(see note 3), "Lockean" and "Loose Humean" (see section V above) senses are
+all taken into account. Here the "neutral" sense is purely descriptive, while
+the other two are normative, the "Lockean" sense applying within the
+famous argument, whereupon it is displaced by the intermediate "Loose
+Humean" sense for most of the remainder of the Treatise. For more on all of
+Hume Studies
+Hume on Reason and Induction      159
+this, see Millican, 130-135.
+14    Consider how Hume treats a parallel issue concerning the senses: "not to
+lose time in examining, whether 'tis possible for our senses to deceive us ...let
+us consider whether they really do so" (T 190). Abstract reasoning about what
+might be possible can play at best a subordinate role in any Humean
+empirical psychologyÂ—what really counts is what we observe to be actually
+the case.
+15    On page 228 Garrett states that "Hume does not use 'evidence' as a term
+of epistemic evaluation at all. On the contrary, he consistently uses it to
+mean 'evidentness'Â—that is, as equivalent to 'belief, 'assurance', or 'vivacity',
+construed as properties of ideas." This is arguable as an interpretation of that
+term in the Treatise, but it seems quite wrong in relation to the Enquiry, for
+example Hume's uses of the term at EHU 26-27 and throughout Section X.
+16    For defence of this claim, see Millican, 94-98.
+17    This is not of course to say that Hume's philosophy of reason and
+induction is purely normative, for it forms part of a largely empirical
+investigation into the nature of the human understanding. The crucial point
+is that it is not purely descriptive either.
+Received February 1998
+Volume XXIV, Number 1, April 1998

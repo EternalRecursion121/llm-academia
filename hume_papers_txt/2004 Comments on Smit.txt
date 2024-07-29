@@ -1,0 +1,271 @@
+Response to “A Priority, Reason, and Induction in Hume”  
+Peter Millican, University of Leeds  
+ 
+Over the last three years Hume’s use of the term “a priori” has suddenly become very topical.  Three 
+discussions, by Stephen Buckle, myself, and Houston Smit, all focusing  on Hume’s  argument 
+concerning induction in Section IV of the Enquiry , have independently picked up on this question , 
+which seems previously to have gone almost unnoticed.1  That there is an issue her e can be seen by 
+examining what Hume says when c onsidering the foundation of our inferences concerning matter of 
+fact; why, for example, we expect a billiard ball to move in a particular way when struck by another:  
+“I shall venture to affirm, as a general proposition, which admits of no exception, that the knowledge of 
+[cause and effect] is not, in any instance, attained by reasonings a priori ; but arises entirely from 
+experience …  Let an object be presented to a man of ever so strong natural reason and abilities; if that 
+object be entirely new to him, he will not be able, by the most accurate examination of its sensible 
+qualities, to discover any of its causes or effects.  …   No object ever discovers, by the qualities which 
+appear to the senses, either the causes, which produced it, or the effects, whic h will arise from it; nor can 
+our reason, unassisted by experience, ever draw any inference concerning real existence and matter of 
+fact.”  (E 27, 4.6)  
+In this passage Hume is clearly allowing an object’s “qualities which appear to the senses” as being 
+available to Reason “unassisted by experience”.  So what he counts as “experience”  seems essentially 
+to involve some  memory of prior experience , rather than merely  current experience . 
+ Various interpretations are possible .  The line I took in my paper “Hume’s  Sceptical Doubts 
+concerning Induction”, published in my 2002  collection , took Hume’s notion of “a priori” in this 
+context as being only minimally different in spirit from the modern notion, and str aightforwardly 
+motivated by his enquiry into the foundatio n of our inferences from what we perceive :2 
+“when [Hume] denies that some kind of knowledge or inference is a priori, he usually means not simply 
+that it requires experience , but that it requires experience beyond mere perception of the objects 
+concerned .  …  [according to  this] more relaxed Humean notion … a proposition counts as a priori if it 
+can be known without appeal to any experience beyond what is currently being perceived  (and hence 
+without any appeal to memory as opposed to sensation).”  ( Millican  2002, pp. 121 -2) 
+                                                   
+1 In a footnote on earlier discussions on Hume’s use of “a priori”, Buckle (2001), p. 42 refers only to two articles from the 
+1960s, but neither of these focused on the usage in Enquiry  IV. 
+2 I also linked this with my more general  claim that the notion of Reason with which Hume is concerned in Enquiry  IV is 
+essentially perceptual , and an acknowledgement that in some other contexts he uses the stricter modern notion of a priority.   2 Buckle’s book Hume’s Enlightenment Tract , which appeared in 2001 while my own was going 
+through the press, took a radically different line:  
+“Hume’s unfamiliar use of ‘a priori’ makes sense if placed against a background of Aristotelian th ought: 
+the inspection of the sensory properties of an object will properly be described as priori – as prior to 
+experience – if by ‘experience’ we mean, not individual sensations, but the Aristotelian sense of 
+connected experience of the world – experience s in the sense of ‘being experienced’, the fruit of extended 
+contact with the world over time.”  (Buckle 2001, p. 42)  
+Here I shall not discuss Buckle’s position, except to say that I find his interpretation of Enquiry  IV as 
+primarily directed against Stoic  and Aristotelian positions wildly implausible both textually and 
+historically.  Far more historically plausible is Houston Smit’s suggestion  that the Humean notion of a 
+priority derives from that mentioned in the Port Royal Logic  and apparently used by Le ibniz, which is 
+founded on a distinction between arguments from causes to effects, and those from effects to causes.   
+Whether this can also make sense of Hume’s text s is the question  to be debated in what follows.  
+Smit’s “from c auses” interpretati on of Hum ean a p riority  
+The Port Royal Logic  mentions the notions of a priori and a posteriori only once, “in passing ”, 
+explaining them as follows:  
+“[There are some]  subjects whose truth [the mind] is capable of finding and understanding, either by 
+proving effects by their causes, which is called an a priori  proof, or, on the contrary, by demonstrating 
+causes by their effects, which is called an a posteriori  proof.”  (Arnaud and Nicole 1662, p. 233)  
+In ascribing this notion of  a priority to Hume , Smit clarifies and expands on the Port Royal  
+characterisation , and then goes on to develop it  in various ways : 
+“‘Cause’ is here used in the broad Aristotelian sense of ‘ground’ or ‘explanatory factor’: the material 
+cause (i.e., material constitution) of a statue, and not jus t its efficient cause, could constitute the starting 
+point of an a priori proof.”  
+“On this notion, to know the truth of a proposition a priori is to grasp how certain causes, or grounds, 
+make that proposition true.  To know the truth of a proposition a pri ori, then, requires not just establishing 
+that the proposition is true, by appeal to grounds that suffice to show that it is true.  It requires, rather, 
+knowing why that proposition is true, by intellectually perceiving, as such, the grounds, or causes, th at 
+make it true.”  
+“What is distinctive of a priori proofs is … that they proceed by way of one’s grasp of how causes 
+determine their effects – we might say, from a rational perception of the way the causality of a cause 
+determines some effect.”  
+“to prove a  proposition from the cause, or ground, that makes it true just is to explain why it is true, as 
+against merely establishing that it is true.”  
+“to adopt this notion of the a priori is to conceive of a priori proofs as resting on grounds that we 
+apprehend, not through experience, but rather through the operation of our reason – our faculty for 
+appreciating why certain propositions are true.”   3 Perhaps the best sort of candidate for such  rational perception of causal grounds would come from 
+applied mathematics,  for example  an engineer’s understanding of the mechanical principles that enable 
+a bridge to support some particular weight.  But there is a n apparent  problem in Hume ’s countenancing  
+this as “a priori ”, because h e famously  denies that any causal relations  are known a priori, and 
+explicitly extends this denial even to the principles of mechanics.3  To his credit, Smit himself presents 
+such an example and tackles the  issue  head on : 
+“the engineer’s reasoning is a priori, insofar as it is based on her rational  perception of the way in which 
+the geometrical structure of the bridge makes it the case that it has the load bearing properties in question.  
+It is, however, not purely a priori.  …  insofar as it relies on … knowledge of the causal properties of the 
+materials, the engineer’s a priori proof relies on, and incorporates, antecedent a posteriori proofs.”  
+This deflects the immediate objection , but it can be pushed fur ther, as we shall see below . 
+Is Smit’s “from c auses”  notion clear and d istinct?  
+An initial  worry about Smit’s position is that his preferred notion of a priority may, at least as ascribed 
+to Hume, collapse under analysis into something very like the modern notion.  First, Hume rejects the 
+Aristotelian categori sation of types of cause, stating expl icitly “ that all causes are of the same kind, and 
+that, in particular, there is no foundation for that distinction which we sometimes make … betwixt 
+efficient causes, and formal, and material, and exemplary, and final causes ” (T 171, 1.3.14.32).  
+Secondly,  the one type of causation  that Hume accepts  – namely, efficient  causation – he takes as the 
+foundation of all reasoning concerning matter of fact , fundamentally distinguishing this  experiential 
+causal reasoning from abstract reasoning concerning relations  of ideas .  So it  seems odd that he should  
+operat e with a notion that embraces together “proving effects by their causes” with “proofs … resting 
+on grounds that we apprehend, not through experience, but rather through the operation of our reason”.  
+ Another  way of pressing this point is to pursue the issue of the engineer.  Smit  grants that her 
+reasoning is not purely  a priori, but then it is natural to ask: “what kind of reasoning would  be purely a 
+priori?”.  Since Hume takes causal relations to be knowable  only through experience, it seems to 
+follow that any reasoning whatever that relies on such relations – whether it proceeds from causes to 
+effects or from effects to causes – must be classed by him as not purely a priori, even on Smit’s 
+understanding of the notion.  So it appears that Smit’s Humean apriority divides, under analysis, in 
+ways that make it hard to sustain both its coherence and its distinctness from the modern notion:  
+ 
+                                                   
+3 For the general denial, see the first quotation in  this paper.  For the treatment of applied mathematics in particular, see 
+E 31, 4.13.   4  “relations of 
+ideas”, e.g. logic, 
+pure mathematics  “mixed 
+mathematics”, 
+e.g. mechanics  “deduction” of 
+effects from 
+causes  “induction” of 
+causes from 
+effects  
+modern “a priori”  
+(knowable independently of all 
+experience  whatever )     
+Port Royal “a priori”  
+(founded on reasoning from 
+causes or grounds to “effects”)  Given the Arist otelian taxonomy, all of these 
+types of reasoning can be categori sed together 
+as involving “causes” of various kinds.   
+Smit’s Humean “a priori”  
+(founded on reasoning from 
+causes or rational grounds)  Reasoning from 
+rational 
+grounds  Reasoning from 
+empirical ly 
+established laws  Ordinary causal 
+reasoning from 
+causes to effects  Ordinary causal 
+reasoning from 
+effects to causes  
+Smit’s  “pure a priori”  
+(founded on reasoning from 
+causes or rational grounds alone)      
+ 
+It is not clear that Smit’s general characteris ation of Humean a priority represents a coherent position, 
+because it relies on categorising together types of reasoning that on Humean principles are quite 
+distinct, and also involves  distinguishing two types of reasoning – from causes to effects and from  
+effects to causes – that Hume often categorises together.4  But if Smit avoids this objection by focusing 
+instead on his stricter pure  notion of a priori ty, then it becomes  doubtful  whether this can remain 
+distinct from the modern notion, given Hume’s ins istence that absolutely no knowledge of causal 
+relations can be completely independent of experience.  
+Is the “from c auses” notion Humean?  
+I think Smit  has raised a genuine and interesting issue in highlighting the “from  causes” notion of a 
+priority within Hume’s writings, though consistently with the discussion above, I believe the most 
+convincing  examples of this occur in contexts where Hume is treating a priority as a relative  notion, 
+contrasting  some “prior” general empirical knowledge of causal relation s with specific observation of 
+“posterior” effects.  Such contexts occur at various points in Books II and III of the Treatise , the Moral 
+Enquiry  and the Essays  (T 334, 2.2.2.6 -7; T 571, 3.2.12.4; M 230, 5.43; “That Politics may be Reduced 
+to a Science”, para. 6).  However Hume’s usage here closely mirrors – in both significance and to 
+                                                   
+4 Particularly explicitly at T 113, 1.3.9.12; T 166, 1.3.14.22; and T 225, 1.4.4.1, in which Hume talks respectively of “our 
+inferences …”, “that determination of the tho ught to pass …”, and “the customary transition …”, but in every case 
+continues “… from causes to effects, and from effects to causes”.   5 some extent in subject -matter – his account of the “universally received [but] at bottom, erroneous , or 
+at least, superficial ” notion of “reason” discussed in the long footno te in Enquiry  V (E 43-4 n., 4.5 n.) 
+to which Smit usefully draws attention.5  But unlike Smit I do not take this to be  the same notion of 
+reason that is operative in Enquiry  IV or the Dialogues , where Hume is considering fundamental 
+epistemological questio ns and is therefore well advised  to avoid such vague and defective  notions.  
+ To turn first to the Dialogues , Smit finds evidence of his “from causes” notion in Demea’s 
+claim that his “a priori” theistic argument has an advantage over Cleanthes’ “a  posterio ri” argument  
+because it has  the potential to prove the deity’s infinity .  But this evidence is very double -edged, 
+because Demea’s claim of advantage is equally comprehensible  – and arguably more so – on the 
+modern   understanding of a priority.6  Demea’s po int is primarily a negative one against Cleanthes’ 
+argument from God’s supposed (finite) effects, and this point is equally effective whether Demea  
+views his own rival argument as running from ultimate causes to effects, or as being founded on 
+principles t hat are known independently of experience.   Moreover I would suggest that Cleanthes’ 
+subsequent rejection  of Demea’s argument points in a direction opposite to that which Smit favours:  
+“I shall begin with observing, that there is an evident absurdity in pr etending to demonstrat e a matter of 
+fact, or to prov e it by any arguments a priori .  Nothing is demonstrable, unless the contrary implies a 
+contradiction.  Nothing, that is distinctly conceivable, implies a contradiction.  Whatever we conceive as 
+existent,  we can also conceive as non -existent.  …”  ( D 189, cf. E 35, 4.18 ) 
+This seems to connect something’s being provable a priori with the idea of its being demonstrable,7 
+and being such that its contrary implies a contradiction.  But this seems to be far more  closely related 
+to the modern notion of a priority than to Smit’s, because if a proposition’s contrary is known to imply 
+a contradiction, then it can be known to be true independently of experience, whether or not this 
+knowledge involves causation or rati onal grounding in the way required by Smit’s notion.8 
+                                                   
+5 If Hume indeed intends his criticism of the notion of “reason” in this footnote to apply to the notion of a priority as  used in 
+the contexts mentioned, then this would provide evidence that, although Smit is importantly correct in seeing Hume as 
+inheriting the “from causes” notion, nevertheless he is wrong in seeing Hume as retaining it in his central arguments.  If so, 
+then Hume could perhaps justly be credited with being the true source of the modern notion of a priority, precisely through 
+his explicit recognition and rejection of the older notion.  Kant has often been ascribed this honour in the past (e.g. in the 
+Edwards  Encyclopedia ), a major irony if, as Smit suggests, he actually continued to hold to the “from causes” notion.  
+6 “Arguably more so” because the notion of reason explained by Hume in the Enquiry  V footnote would not have the 
+advantage claimed, being essenti ally a posteriori and thus unable to yield an infinite conclusion.  
+7 Not to be confused with the idea of its being merely the conclusion of a demonstrative argument – see Millican (2002) 
+§7.1 for a discussion of what Hume means by “demonstrative”.  
+8 It mig ht be suggested that whenever a proposition’s contrary is seen to involve a contradiction, this in itself involves the 
+grasp of rational grounds that would satisfy Smit’s notion of a priority.  However this suggestion would serve to highlight 
+the worry abo ve, that under critical analysis his notion may lose its apparently distinctive character.  If the Port Royal 
+Logic ’s notion of a priority can be stretched so far than an indirect proof by reductio ad absurdum  is counted as a proof 
+“from causes to effects” , then it is hard to see what essential character it retains, distinct from the modern notion.   6  Perhaps significantly, the same nexus of concepts plays a role much earlier in Part  ii of the 
+Dialogues , in which Philo gives as clear a statement as one could wish of the impossibility of a priori 
+knowledge of the world, in what is recognisably the modern  sense:  
+“Were a man to abstract from every thing which he knows or has seen, he would be altogether incapable, 
+merely from his own ideas, to determine what kind of scene the universe must be, or to giv e the 
+preference to one state or situation above another.  For as nothing, which he clearly conceives, could be 
+esteemed impossible or implying a contradiction, every chimera of his fancy would be upon an equal 
+footing; nor could he assign any just reason,  why he adheres to one idea or system, and rejects the others, 
+which are equally possible.”  (D145)  
+Philo then develops this thesis by relaxing the constraints to include  immediate observation : 
+“Again; after he opens his eyes, and contemplates the world, a s it really is, it would be impossible for 
+him, at first, to assign the cause of any one event …  He might set his fancy a rambling; and she might 
+bring him in an infinite variety of reports and representations.  These would all be possible; but being all 
+equally possible, he would never, of himself, give a satisfactory account for his preferring one of them to 
+the rest.  Experience alone can point out to him the true cause of any phenomenon.”  (D145 -6) 
+This passage  very obviously echo es Enquiry  IV Part i, and hence provides significant evidence that the 
+term “a priori” in that section of the  Enquiry  is to be interpreted accordingly  – as a slightly relaxed 
+variant of the modern notion , rather than Smit’s radical ly different “from causes” notion . 
+Is the “from  causes” notion required to make s ense of Enquiry IV ? 
+To turn finally – and all too briefly – to the text of Enquiry  IV itself,9 Smit argues persuasively that his 
+proposed notion of a priority could  illuminate Hume’s  argument concerning induction at variou s 
+points, and would in particular establish  causation as central to that argument (thus undermining  a 
+suggestion made in my 1995, pp. 191 -2, and 2002, pp. 141 -2).  My reservations about this aspect of his 
+paper would overlap with points already made about his characterisation of the notion, so I shall not 
+pursue them further here.  But suppose we accept Smit’s positive case for the benefits of understanding 
+Hume’s famous argument in his terms; it is still unclear to me whether he believes that this can be 
+complemented with a negative case against rival ways of understanding it such as my own.  My final 
+question is, then: are there any stages of Hume’s argument concerning induction which cannot  be 
+made sense of given the sort of interpretation of “a priori” t hat I favour?  I don’t believe there are, but 
+would invite Smit to take up this challenge in our discussion.  
+                                                   
+9 Anyone familiar with the long papers Millican (1995) and (2002) will no doubt consider it a mercy to see me here 
+spending so little time on the discussion of Enquiry  IV!  7 Conclusion  
+To conclude by pulling to gether the questions posed by my three last sections:  
+1. I would find it helpful if Smit could spell out in de tail his understanding of apriority as it 
+applies in Hume’s philosophy , with concrete examples to highlight situations in which it comes 
+apart from the modern notion (or from my suggested slight relaxation of the modern notion).  
+When the notion is duly cl arified in the light of the sorts of points made  above , will there in fact 
+remain any cases that , from a Humean point of view,  would straightforwardly count  as “a 
+priori” under one notion  but not under the other?  
+2. If such cases do remain in principle , do any of them actually  occur in Hume’ s texts ?  Are there, 
+for example, any propositions that Hume describes as “a priori”, which are so on the “from 
+causes” notion but not on the modern notion (or its relaxation), and which cannot be explained 
+away as insig nificant in the light of the “erroneous, or at least, superficial” distinction that he 
+rejects in his Enquiry  V footnote?  
+3. Smit has made an interesting and plausible positive case for understanding a priority within 
+Enquiry  IV in a way that makes essenti al reference to causation.  But in order to establish his 
+position there i s also a negative case to be made against rival interpretations.  Are there in fact 
+any stage s of Hume’s argument that fail to  make sense if “a priori” is understood  in the way I 
+favour, as meaning “knowable independently of any experience beyond what is currently being 
+perceived?”  If so, then these are  presumably  likely to depend on cases in w hich the two 
+notions come apart, so this query is somewhat  dependent on the previous two . 
+Postscript  
+I have focused above on objections to Smit’s interpretation of a priority in its application to Hume .  
+But even if these objections are correct , this does not in itself impugn Smit’s “over -arching concern … 
+to explicate Kant’s reply to Hume’s pro blem of induction” (n. 18) in such  terms – it is after all entirely 
+possible that Kant should have interpreted  Hume’s use of “a priori” as Leibnizian, even if he was 
+thereby  misunderstanding  Hume’s argument.  This might indeed possibly help to explain why Kant’s 
+supposed reply to Hume is so spectacularly ineffective, founded as it is on transcendental arguments 
+which – even if they work on their own terms in revealing some ultimate transcendental necessity for 
+the uniformity of the phenomenal world (which I  very much doubt) – are essentially backward -looking 
+and therefore do nothing to solve Hume’s epistemological question about the future.  According to  8 Kant, we know that the world is conditioned in such and such a way because we have (i.e. have had ) 
+experi ence of such and such a type, and experience of this type would be impossible were the world 
+not so conditioned.  Suppose we accept this.  But still nothing (apart perhaps from God or a dogmatic 
+slumber) protects the Kantian from the prospect of an imminen t descent into chaos in which such 
+experience suddenly and unexpectedly becomes impossible.  So even if the transcendental argument is 
+successful, it does nothing whatever to solve Hume’s  problem of induction.  
+ 
+References  
+Arnauld, Antoine and Nicole, Pierr e (1662), Logic of the Arts of Thinking , translated and edited by Jill Vance Buroker, 
+Cambridge: Cambridge University Press, 1996 . 
+Buckle, Stephen (2001), Hume’s Enlightenment Tract , Oxford: Clarendon Press . 
+Millican, Peter (1995), “Hume’s Argument concern ing Induction: Structure and Interpretation”, in Stanley Tweyman (ed.), 
+David Hume: Critical Assessments , London: Routledge, volume ii, pp. 91 -144; reprinted in David Owen (ed.), 
+Hume: General Philosophy  (Ashgate, 2000), pp. 165 -218. 
+Millican, Peter (2002) , “Hume’s Sceptical Doubts concerning Induction”, in Peter Millican (ed.), Reading Hume on Human 
+Understanding: Essays on the First Enquiry , Oxford: Clarendon Press, pp. 107 -73. 
+Smit, Houston (2003), “A Priority, Reason, and Induction in Hume”, paper submi tted for the July 2004 Hume Society 
+Conference in Tokyo.  
+ 
+Page references to the Treatise  and Enquiry  are to the Selby -Bigge editions, and paragraph numbers as in the recent Norton/ 
+Beauchamp editions.  Page references to the Dialogues  are to the standard 1947 Kemp Smith edition.  

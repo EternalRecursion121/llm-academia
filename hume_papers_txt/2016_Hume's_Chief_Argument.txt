@@ -1,0 +1,1074 @@
+Chapter 6
+Hume’s Chief Argument
+Peter Millican
+I Skepticism, Empiricism, Naturalism, 
+and Irreligion
+David Hume’s philosophy is complex and multifaceted, generating considerable debate 
+over which themes within it should be seen as dominant. Historically, most of his crit -
+ics have viewed him as a negative skeptic  who either deliberately sets out to show the 
+weaknesses and contradictions in human reason,1 or else is driven to do so by follow -
+ing through the logical implications of his philosophical premises.2 Prominent among 
+these premises is the concept-empiricist  assumption inherited from Locke, which 
+Hume expresses as his Copy Principle, that all ideas are derived from impressions   
+(T 1.1.1.7/4; EU 2.5/19). But this is not in itself a skeptical principle, and some interpret -
+ers have seen it as providing the keystone of a more constructive philosophy.3 Another 
+very prominent theme in Hume’s work is his “ Attempt to introduce the experimental 
+Method of Reasoning into Moral Subjects. ” In accordance with this ambitious subtitle, 
+the Treatise  aspires to lay the groundwork of a science of human nature that can explain 
+cognitive operations (such as factual belief and the apprehension of external objects) in 
+terms of the association of ideas, enabling Hume to be seen as an associationist  or early 
+cognitive scientist .4 Although the associationism fades in his later works,5 Hume’s epis-
+temic-empiricist  commitment to the “experimental” science of man remains a pervasive 
+theme in virtually all of his philosophy, including the two Enquiries  and Dissertation on 
+the Passions , the essays on politics, economics, and aesthetics, and his various contribu -
+tions to the philosophy of religion. This strong Humean commitment to moral science is 
+often described in terms of his “naturalism. ”
+Hume is a thoroughgoing naturalist  in at least three senses of that ambiguous word. 
+First, he aims for a natural  science of human thought and behavior, appealing to down-
+to-earth causal mechanisms (such as association) rather than any supposed tran -
+scendental insight or psychic powers—this has been called explanatory naturalism . Hume’s Chief Argument   83
+Second, his science of man places us squarely in the natural world alongside the other 
+animals, a point emphasized strongly by his explicit comparisons between humans 
+and animals, and by the prominence of these sections within the Treatise .6 Perhaps 
+the most appropriate name for this is biological naturalism .7 Third, Hume argues 
+vigorously against “invisible intelligent powers, ”8 and shows hostility to all forms of 
+established religion: this is anti-supernaturalism . He is also commonly thought to be a 
+naturalist in yet a fourth sense, appealing to the naturalness of certain beliefs or meth -
+ods of reasoning as vindicating  them against skepticism—what we might call justifi -
+catory naturalism . But this is controversial, and it is unclear whether Hume sees the 
+resistance of our beliefs to skeptical attack—where this derives from human inability 
+to resist the blind force of nature rather than from our own rational powers—as the 
+defeat  of skepticism or rather, its victory :
+I may, nay I must yield to the current of nature, in submitting to my senses and 
+understanding; and in this blind submission I shew most perfectly my sceptical dis -
+position and principles. (T 1.4.7.10/269)
+Here, at least, Hume presents no conflict  between his skeptical and naturalist orienta -
+tions, and is perhaps best understood as intending his analysis of the human intellectual 
+condition to give both skepticism and natural instinct their due, without declaring vic -
+tory for either of them.
+Hume’s naturalism—in yet a fifth sense which combines various elements of these 
+others—is enduringly associated with Norman Kemp Smith, who played a major 
+role in challenging the previously dominant trend of skeptical interpretation. Taking 
+his cue from Hume’s notoriously provocative claim that “Reason is, and ought only to 
+be the slave of the passions” (T 2.3.3.4/415), he argued that “the determining factor in 
+Hume’s philosophy” is “the establishment of a purely naturalistic conception of human 
+nature by the thorough subordination of reason to feeling and instinct” (Kemp Smith 
+1905: 150). On this reading, instinctive practice dominates theoretical reason, and “our 
+ultimate and unalterable tendencies to action are the test of practical truth and falsity” 
+(1905: 156). The primary concern for Kemp Smith’s Hume is moral  philosophy, and the 
+guiding principle of his system—what we might call sentimentalist naturalism —is an 
+extension to the theoretical realm of the moral sentimentalism that he learned from 
+Francis Hutcheson. Just as our natural moral sentiments can provide a basis for moral 
+commitment, so our fundamental commitments to the external world and to objective 
+causality are explained as “natural beliefs” grounded on “the ultimate instincts or pro -
+pensities that constitute our human nature” and which are “thus removed beyond the 
+reach of our sceptical doubts” (1905: 151, 152). In this way, naturalistic feeling trumps 
+skeptical reason.
+Kemp Smith’s legacy of naturalistic interpretation was developed further by Barry 
+Stroud, who argued explicitly for the predominance of Hume’s naturalism over both 
+his skepticism and his concept empiricism (1977: 76–77, 219–224). And Kemp Smith’s 
+influence continues to be evident in the work of more recent scholars, some of whom 84   Peter Millican
+(like Stroud) repeat approvingly his improbable speculation that Hume wrote the bulk 
+of Treatise  Book 3 before Book 1, his philosophical system having grown from the basis 
+of a Hutchesonian moral theory.9
+It is a shame that Kemp Smith himself—like most who followed his lead—never care -
+fully analyzed his key term “naturalism” or teased apart its various strands to clarify its 
+relationship with “skepticism” (which also, as Hume himself stressed, comes in several 
+varieties). Hume’s explanatory naturalism, manifest in his efforts towards a “science of 
+man, ” coheres closely with his biological naturalism and anti-supernaturalism. But jus-
+tificatory naturalism  fits far less straightforwardly with any of these, because treating 
+beliefs as justified in virtue of their naturalness could easily point towards supernatural -
+ism and the view of humans as semi-divine, both of which apparently come quite natu -
+rally to us (if cognitive science of religion is anything to go by, cf. Thornhill-Miller and 
+Millican, 2015). Likewise, Kemp Smith’s sentimentalist naturalism , subordinating reason 
+to feeling, seems positively contrary to Hume’s scientific ambitions.10 For this crucially 
+privileges “the ordinary consciousness”—embracing the two vulgar “natural beliefs” 
+that our perceptions are independent objects and that external objects somehow con -
+tain a “feeling of necessitated transition” (1905: 158–159, 161–162)—in such a way as to 
+make these immune to attack, even when that attack is in the service of Hume’s science of 
+man . Hume himself is clear that the vulgar belief in independently continuing percep -
+tions is false  (T 1.4.2.45/210–11; EU 12.9/152), while his account of how the mind “spreads 
+itself on external objects” when ascribing necessity to them is the dismissive explaining 
+away of an erroneous objection to his theory, not a central part of it (T 1.3.14.25/167).11 If 
+Hume really did view these as privileged “natural beliefs” in the way that Kemp Smith 
+claims, then his declared ambition to lay the groundwork of an objective science that 
+might “discover, at least in some degree, the secret springs and principles, by which the 
+human mind is actuated in its operations” (EU 1.15/14; cf. T Intro. 6–8/xvi–xvii) seems 
+fatally compromised. In short, Kemp Smith’s sentimentalist naturalism, by systemati -
+cally elevating feeling over reason, may “defeat skepticism” to the very minimal extent of 
+insulating our vulgar everyday beliefs, but in the more significant battle between scien -
+tific irrationalism (e.g., the claim that science has no more rational warrant than super -
+stition) and naturalistic moral science, it is on the wrong side.
+We have seen that there are serious dangers of misrepresentation in categorizing 
+Hume as a “naturalist, ” and it is also far too simplistic to think of his philosophical ori -
+entation as involving a balancing act between “naturalism” and “skepticism. ” Some of his 
+naturalistic aims conflict with certain types of skepticism but at the same time cohere 
+very well with other types, so we must be sensitive to these nuances and avoid the temp -
+tation to pigeonhole Hume into crude contemporary categories. If we seek for a more 
+plausible simple label for Hume’s philosophy, combining appropriate elements of both 
+naturalism and skepticism, then Paul Russell (2008) has recently suggested irreligion , 
+focusing on the hostility to religion which is central to Hume’s anti-supernaturalism, 
+and yet which also counts as seriously skeptical from the point of view of Hume’s con -
+temporaries and early critics. Russell’s interpretation has considerable merit, for as we 
+shall see, there is plenty of evidence that Hume had religious concerns from early in his Hume’s Chief Argument   85
+life (plausibly providing the main impetus for his interest in philosophy), and much of 
+his writing is either overtly or covertly antitheistic. But “irreligion” is a very broad theme, 
+and my aim here is to capture the specific  ways in which Hume’s philosophy developed 
+and the particular arguments that attracted him. Even though religion is indeed com -
+monly in his sights, he often pursues an independent philosophical agenda of his own, 
+and he is certainly no indiscriminate peddler of anti-religious arguments.
+A narrower version of the irreligious interpretation was proposed by Edward Craig 
+(1987), who argued that Hume’s primary target is the Judaeo-Christian “Image of God” 
+doctrine or “Similarity Thesis” that man—and most importantly his epistemic faculty 
+of reason—is made in the image of God. Opposition to this thesis nicely combines 
+biological naturalism with skepticism about human reason, and Hume would indeed 
+have been fundamentally opposed to any such assertion of human quasi-divinity. 
+But beyond this obvious point, Craig’s interpretation has little solid basis, because 
+although there is a profusion of evidence for Hume’s general irreligion, not only in his 
+explicitly anti-religious works but also in the Treatise ,12 there are very few of his texts 
+that can plausibly be interpreted as specifically  targeting the Image of God doctrine.13 
+Most of these few, moreover, occur when he is criticizing the Design Argument, whose 
+whole point is to argue for a Deity analogous to the human mind; hence such pas -
+sages are easily explained by Hume’s opposition to that argument without any need 
+to hypothesize some deeper and more general antipathy to the Similarity Thesis. In 
+default of much direct textual support, therefore, Craig’s evidence for his interpreta -
+tion is almost all indirect,14 but what he supplies looks very insubstantial, especially 
+in the light of subsequent scholarship. Most specifically, he argues (1987: 77–84) that 
+a focus on the Image of God doctrine would naturally lead to Hume’s operating with 
+a deductivist conception of reason within the famous argument concerning induc -
+tion, as was then commonly supposed; but more recent work has convincingly refuted 
+this supposition.15 Craig goes on to examine three of Hume’s other best-known 
+discussions—on the idea of necessary connexion, the two definitions of cause, and 
+personal identity—which he thinks make little sense on the rival interpretation that 
+Hume is an “embryonic positivist” for whom the analytical Copy Principle (rather 
+than the epistemically-focused Similarity Thesis) is of central importance (1987: 121). 
+Again, his case now looks relatively weak in the light of more recent scholarship,16 and 
+anyway virtually none of what Craig says here points strongly towards the Image of 
+God doctrine: so even if he is right to see Hume’s overtly analytical discussions as con -
+fused in various ways, his suggestion that the Similarity Thesis lies behind the con -
+fusion is mere speculation until backed up with substantial and specific evidence. 
+Meanwhile, we have good reason for distrusting any interpretation that so fundamen -
+tally turns on the idea that Hume is muddled in putting such an emphasis on his Copy 
+Principle, a problem which Craig acknowledges:
+it remains obscure what motive [Hume] can have had for being hospitable, even to 
+the extent that he was, to the theory of ideas and impressions, and I am driven to an 
+explanation of the fact in terms of an early enthusiasm for Locke and the “way of 86   Peter Millican
+ideas. ” Hume never got it out of his system, or realised how little, deep down, it actu -
+ally meant to him. (1987: 123)
+Craig thus follows Stroud in taking Hume’s concept-empiricist commitments to be rel -
+atively shallow, despite Hume’s enthusiastic highlighting of his Copy Principle in the 
+Treatise , the Abstract , and the Enquiry , and his continued defence of it (cf. Section III 
+below). There is a strong whiff of philosophical fashion here, whereby just as commen -
+tators in the heyday of positivism were inclined to overstress Hume’s concept empiri -
+cism, so more recent scholars have been inclined to dismiss it as a mildly embarrassing 
+Lockean legacy. Far more satisfactory than either extreme would be a more balanced 
+view that can explain why Hume was so conspicuously attracted to the Copy Principle, 
+even though his interests indeed seem, on the whole, to be epistemological and 
+anti-religious rather than analytical.
+II The Biographical Background of 
+Hume’s Philosophy
+In attempting to construct a more balanced account of the fundamentals of Hume’s phi -
+losophy, it will be helpful to start by reviewing briefly what we know of his background 
+and intellectual context, delegating further detail to M. A. Stewart’s useful 2005 paper 
+on “Hume’s Intellectual Development, 1711–1752. ” As Stewart illustrates from various 
+sources, Hume’s philosophy teaching at Edinburgh University, which he attended from 
+1721 until 1725 (aged between 10 and 14), would have been traditional and even reaction -
+ary, delivered in Latin, thoroughly infused with religion, and generally unlikely to have 
+inspired his interest (2005: 11–16, 19–25). After university, living mainly at the family 
+home at Chirnside (eight miles west of Berwick) and neglecting his intended legal stud -
+ies, Hume became a voracious reader of classical authors such as Cicero, Virgil, Seneca, 
+and Plutarch (Stewart, 2005: 28–29). These classical interests would have been encour -
+aged by his reading of Shaftesbury’s Characteristicks , which Hume purchased in 1726 
+(Stewart 2005: 37–38). At this point his orientation seems to have been broadly Stoical, 
+and it is his efforts towards the introspective Stoic ideal that he blames for the break -
+down that followed his enthusiasm for the “new Scene of Thought” which “seem’ d to be 
+opened up” to him in 1729 (LET 1.13). Hume’s personal experience of the failure of Stoic 
+discipline seems to have encouraged him towards more down-to-earth empirical psy -
+chology, in which he apparently made some progress from early in 1731, as he described 
+in his well-known draft letter to a physician of March or April 1734:
+I found that the moral Philosophy transmitted to us by Antiquity, labor’ d under 
+the same Inconvenience that has been found in their natural Philosophy, of being 
+entirely Hypothetical, & depending more upon Invention than Experience. Every Hume’s Chief Argument   87
+one consulted his Fancy in erecting Schemes of Virtue & of Happiness, without 
+regarding human Nature, upon which every moral Conclusion must depend. This 
+therefore I resolved to make my principal Study, … I believe … that little more is 
+requir’ d to make a man succeed in this Study than to throw off all Prejudices … At least 
+this is all I have to depend on for the Truth of my Reasonings, which I have multiply’ d 
+to such a degree, that within these three Y ears, I find I have scribbled many a Quire of 
+Paper, in which there is nothing contain’ d but my own Inventions. (LET 1.16)
+Perhaps Hume’s skepticism towards previous philosophers was also fostered by his 
+reading of Pierre Bayle, who is mentioned in a letter of March 1732 (LET 1.12). Another 
+major factor here seems to have been a loss of religious faith, which we know about 
+principally from a 1751 letter to Gilbert Elliot of Minto and the 1776 deathbed interview 
+recorded by James Boswell. In the letter, which invites Elliot to help in strengthening 
+the theistic arguments of the draft Dialogues , Hume tells of having recently “burn’ d an 
+old Manuscript Book, wrote before I was twenty; which contain’ d, Page after Page, the 
+gradual Progress of my Thoughts on that Head. ” This began “with an anxious Search 
+after Arguments, to confirm the common Opinion, ”17 while “ Any Propensity … to the 
+other Side, crept in upon me against my Will, ” in “a perpetual Struggle of a restless 
+Imagination against Inclination” (LET 1.154). All this suggests that Hume’s progressive 
+loss of faith—apparently extending until 1730 or 1731 (“before I was twenty”)—was pro -
+longed and difficult, as indeed is typically the case.
+In the deathbed interview with Boswell, Hume said that he was “religious when he 
+was young, ” but that “the Morality of every Religion was bad” and “he never had enter -
+tained any belief in Religion since he began to read Locke and Clarke” (Boswell 1931: 76). 
+There is clear irony here, in that Hume lost belief when reading these two defenders  of 
+theism, and the pairing is suggestive, because both John Locke and Samuel Clarke were 
+prominent advocates of a particular form of Cosmological Argument for God’s exis -
+tence, in which they drew upon the principle that matter and motion alone cannot give 
+rise to thought.18 This connection is confirmed by the one mention of Clarke in Hume’s 
+Treatise , in a footnote to T 1.3.3.5/80, which is followed in the very next paragraph by 
+a footnote mentioning Locke. For here Hume attacks their arguments for the Causal 
+Maxim that “ whatever begins to exist, must have a cause of existence ” (T 1.3.3.1/78), 
+which is the other fundamental principle of their Cosmological Argument (e.g., Locke, 
+Essay  IV x 3; Clarke 1732: 8–9). Although the Treatise  prudently makes no mention of 
+this irreligious connection, it was not lost on the author of the anonymous 1745 pam -
+phlet to which Hume’s Letter from a Gentleman  was a response: the second “Charge” it 
+lays against him, after “1. Universal Scepticism, ” is “2. Principles leading to downright 
+Atheism, by denying the Doctrine of Causes and Effects, … he maintains, that the 
+Necessity of a Cause to every Beginning of Existence is not founded on any Arguments 
+demonstrative or intuitive” (LG 15).19
+Hume’s interest in Locke and Clarke probably came not from his formal stud -
+ies (Stewart 2005: 16), but through his friendship with Henry Home, a distant cousin 
+whose family home at Kames was only nine miles southwest of Chirnside. Home—who 88   Peter Millican
+later became Lord Kames and is now most commonly known by that name—was 
+born in 1696, and as a philosophically minded lawyer, he seems to have taken young 
+David under his wing at Edinburgh. During 1723, Kames will no doubt have talked to 
+the twelve-year-old student about the debates he was then pursuing through corre -
+spondence with Samuel Clarke and Clarke’s most prominent Scottish follower Andrew 
+Baxter (who also resided in the Scottish borders, six miles west of Chirnside at Duns). 
+We know from Boswell that around that time Kames also grappled with Locke’s Essay , 
+of which “The chapter on Power  crucified him” (Boswell 1932: 273). A particular focus of 
+Locke’s chapter, as of Kames’s correspondence with Clarke, was the topic of free will and 
+necessity, so it seems safe to assume that Kames would likewise have taken a keen inter -
+est in the prominent controversy on this topic between Clarke and Anthony Collins, 
+which had occurred in 1717 through the publication of Collins’s Philosophical Inquiry 
+concerning Human Liberty  and Clarke’s responding Remarks .20 Some years later, echoes 
+of this debate came to Hume’s own doorstep when, in 1732, William Dudgeon, a tenant 
+farmer residing near Coldstream (eight miles south of Chirnside) published The State 
+of the Moral World Consider’ d , a dialogue promoting necessitarian optimism which was 
+sharply answered by Andrew Baxter, provoking Dudgeon’s prosecution for heresy by the 
+Chirnside Presbytery where Hume’s uncle George Home was minister.21 In opposition, 
+Baxter explicitly champions the views of Clarke, a “great Man” and “the best Defender 
+of Liberty” (1732: 27 n.), and insinuates that Dudgeon is an admirer of “Mr. L—z” and 
+“Mr. C—ns” (i.e., Leibniz and Collins) (1732: 35). It seems certain that Hume would have 
+heard of these dramatic events, and the natural expectation that they would leave some 
+mark on him—then just twenty-one but already moving on from his religious crisis to 
+the philosophical thoughts that would lead to the Treatise —is at least corroborated by 
+the similarity of his views on “liberty and necessity” to those of Collins.
+Dudgeon’s prosecution for heretical views on free will and necessity highlights the 
+religious significance of these topics, which were far from narrowly theoretical.22 Seeing 
+human behavior as causally necessitated generates tensions with religious belief in a 
+number of ways, not only by favoring explanatory and biological naturalism, but, more 
+specifically, by making it hard to absolve any supposed divine Creator of responsibil -
+ity for the apparent imperfections of His creation (unless, like Leibniz and Dudgeon, 
+one is prepared to see that creation as actually the best of all possible worlds). We know 
+that Hume had an intense early interest in the Problem of Evil from a recently discov -
+ered manuscript fragment which seems part of a much longer discussion (Stewart 1994). 
+Moreover, the Free Will Defence is one of the main topics in his “early memoranda” 
+on philosophy, apparently written at about the same time as the Treatise  was published. 
+One memorandum, for example, says:
+Liberty not a proper Solution of Moral Ill: Because it might have been bound down 
+by Motives like those of Saints & Angels. Id. [King].23
+To provide a solution to the Problem of Evil, free will must be such that God—in giving it 
+to his creatures—ipso facto becomes unable to ensure in advance that they will be freely Hume’s Chief Argument   89
+virtuous (for otherwise, He has no excuse for failing to ensure this). Hume here points 
+out that if “Saints & Angels” can freely act virtuously from good motives (as orthodoxy 
+maintains, especially in respect of the heavenly afterlife), then God cannot be excused 
+from the problem of “Moral Ill” by appeal to “Liberty, ” because He could have made all 
+His creatures such that they likewise freely acted virtuously from good motives. There 
+seems little doubt that Hume had this point in mind when he came to compose Enquiry  
+Section 8, with its compatibilist account of free will that makes it impossible to absolve 
+God from the wickedness of His creation (EU 8.36/103).
+III Causation and the Copy Principle
+So far, we have seen that Hume had strong personal reasons to be skeptical about the 
+classical and Christian moralists on whom he had been raised, and that this skepticism 
+gave him a resolve to make “human Nature” his “principal Study” and to base that study 
+on “Experience” rather than “Invention. ” Contemporary views of human nature were 
+overwhelmingly bound up with the Christian conception of the universe and man’s 
+place in it, but by the age of twenty Hume had rejected religion—probably for both 
+metaphysical and moral reasons—and was seeking a science of man that would be quite 
+independent of it. We have here a strong nexus of influences that provide a promising 
+explanation of many of the general tendencies of Hume’s philosophy, from skepticism  
+about established orthodoxies, explanatory naturalism  and epistemic empiricism  in the 
+quest for an observational science of human nature, and biological naturalism  both from 
+seeing human nature as a subject of empirical study, and from anti-supernaturalism  
+consequent on his loss of faith and revulsion for religious ethics. But more specifically, 
+it is remarkable how this intellectual journey had taken him through such a significant 
+cluster of topics associated with causation : the Cosmological Argument, the attempts 
+of Locke and Clarke to establish both the Causal Maxim and the principle that thought 
+cannot arise from matter, Kames’s correspondence with Clarke and Baxter and his 
+struggles over Locke’s “chapter on Power , ” and the prominent and locally salient debates 
+about free will and necessity. All this, I suggest, does much to explain Hume’s obvious 
+preoccupation with the idea of causation in his theoretical philosophy.
+Turning now to the shape of Hume’s early philosophy as we find it in the Treatise , we 
+are struck in the very first section by the prominence that he gives to his Copy Principle 
+“that all our simple ideas in their first appearance are deriv’ d from simple impressions, 
+which are correspondent to them, and which they exactly represent” (T 1.1.1.7/4). Hume 
+trumpets this as his “first principle” (T 1.1.1.12/7 cf. T App. 6/626) and later extols its 
+philosophical value (T 1.2.3.1/33; cf. TA 7/648). Moreover, he remains equally attached 
+to it in his later writings,24 although it does not yet fit neatly into the picture we have 
+been building of his philosophy and its background. As we shall see, however, there is 
+a straightforward and elegant way of integrating it into that picture, if we allow our -
+selves one undocumented—but highly plausible—speculation. Namely, that Hume was 90   Peter Millican
+strongly motivated at an early stage by the prospect of applying Locke’s concept empiricism 
+to settle the debate over free will and necessity through clarifying and delimiting what could 
+possibly be meant by causal “necessity. ”  Certainly Hume did in fact so apply his Copy 
+Principle, which he acknowledges to be a reformulation of Locke’s denial of innate ideas 
+(TA 6/647–8). What remains to be explained is how such an application would naturally 
+have enticed the young philosopher.
+Like most of his British philosophical contemporaries, Hume appears to have 
+accepted Locke’s concept empiricism relatively uncritically: in both the Treatise  and the 
+Enquiry  he gives arguments to support it, but they are rather perfunctory and unsatis -
+factory, evincing little inclination to dig deeper.25 The attraction of the Copy Principle 
+as a weapon against bogus ideas (e.g., of Cartesian or scholastic souls or essences) is 
+obvious enough, but what really excites Hume is the analytical bounty that he intends to 
+draw from it:
+Our author thinks, “that no discovery cou’ d have been made more happily for decid -
+ing all controversies concerning ideas …” Accordingly, wherever any idea is ambigu -
+ous, he has always recourse to the impression, which must render it clear and precise. 
+(TA 7/648–9; cf. EU 2.9/21–2)
+We shall probably never know which ideas first came under Hume’s scrutiny in this way, 
+although his self-quoted words in the Abstract  passage above—taken from T 1.2.3.1/33—
+may reflect the joy of new discovery when analyzing our ideas of space and time, most 
+likely in response to Bayle’s discussion of Zeno’s paradoxes of infinite divisibility.26 But at 
+some stage early in his philosophical development, as we have seen, it is very likely that 
+Kames would have drawn Hume’s attention to Locke’s “chapter on Power , ” which begins 
+as follows:
+The Mind, being every day informed, by the Senses, of the alteration of those simple 
+Ideas , it observes in things without; and taking notice how one comes to an end, and 
+ceases to be, and another begins to exist, which was not before; reflecting also on 
+what passes within itself, … and concluding from what it has so constantly observed 
+to have been, that the like Changes will for the future be made, in the same things, by 
+like Agents, and by the like ways, considers in one thing the possibility of having any 
+of its simple Ideas  changed, and in another the possibility of making that change; and 
+so comes by that Idea which we call Power . (Essay  II xxi 1)
+As Hume points out in both the Treatise  and the Enquiry , however, “this explication is 
+more popular than philosophical” (T 1.3.14.5/157) because “no reasoning can ever give 
+us a new, original, simple idea; as this philosopher himself confesses” (EU 7.8 n12/64 n1).  
+Having noticed the flaw in Locke’s “explication, ” Hume would no doubt be keen to 
+develop his own more rigorous account, soon realizing the difficulties involved and the 
+futility of attempting to define power  using other equally problematic causal terms such 
+as efficacy . Ultimately, of course, this led to his now famous analysis in Treatise  1.3.14, Hume’s Chief Argument   91
+which begins by observing “that the terms of efficacy, agency, power, force, energy, neces -
+sity, connexion , and productive quality , are all nearly synonimous” (T 1.3.14.4/157),27 and 
+which then goes on to identify the source of the crucial idea as an impression of reflec -
+tion before culminating in Hume’s two “definitions of cause” (T 1.3.14.31/169–70; cf. T 
+2.3.2.4/409–10).
+Suppose now that Hume, having contemplated this issue at least in general terms, 
+came to consider the debate between Clarke and Collins, perhaps in the context of the 
+Dudgeon affair. This debate involves a conceptual  disagreement about the meaning of 
+“necessity, ” Collins equating this with deterministic predictability and ascribing it to 
+human actions as well as physical events (1717: 110–111).28 In response, Clarke makes 
+clear that his own conception of genuine necessity is very different, involving not mere 
+predictability but something like mechanical impulse , whereas by contrast the “moral 
+necessity” which characterizes human behavior 
+is not indeed any Necessity  at all; but ’tis merely a figurative Manner of Speaking  … 
+But now [Collins] makes Moral Necessity  and Physical Necessity  to be exactly and 
+Philosophically the same Thing … In which Matter, the Author is guilty of a dou -
+ble Absurdity. First , in supposing Reasons  or Motives  … to make the same neces -
+sary Impulse  upon Intelligent  Subjects, as Matter in Motion  does upon unintelligent 
+Subjects ; which is supposing Abstract Notions  to be Substances . And Secondly , in 
+endeavouring to impose it upon his Reader as a thing taken for granted , that Moral 
+Necessity  and Physical Necessity  do not differ intrinsically in their own Nature . 
+(Clarke 1717: 15–16)
+Hume sides with Collins and has ample motive for doing so, both irreligious and natu -
+ralistic (as we saw earlier). But he also wields a novel and powerful weapon, in the form 
+of his own analysis of causation:
+We may learn from the foregoing [two definitions], that all causes are of the same 
+kind, … The same course of reasoning will make us conclude, that there is but one kind 
+of necessity , … and that the common distinction betwixt moral  and physical  necessity 
+is without any foundation in nature. This clearly appears from the precedent explica -
+tion of necessity. ’Tis the constant conjunction of objects, along with the determina -
+tion of the mind, which constitutes a physical necessity: And the removal of these is 
+the same thing with chance … . ’tis impossible to admit of any medium betwixt chance 
+and an absolute necessity. (T 1.3.14.32–3/170–1)
+In the Treatise , Hume does not immediately point out the consequences for human 
+free will, but quickly presents another fruit of his analysis, namely, confirmation that the 
+Causal Maxim—the main foundation of Clarke’s Cosmological Argument—cannot be 
+“founded on any arguments either demonstrative or intuitive”:
+If we define a cause to be, An object precedent and contiguous to another, and where all 
+the objects resembling the former are plac’ d in a like relation of priority and contiguity 92   Peter Millican
+to those objects, that resemble the latter ; we may easily conceive, that there is no abso -
+lute nor metaphysical necessity, that every beginning of existence shou’ d be attended 
+with such an object. (T 1.3.14.35/172)
+In a similar spirit, he later exploits the same definition to refute that other key principle 
+of Clarke’s Cosmological Argument, that matter and motion could not possibly give rise 
+to thought:
+we are never sensible of any connexion betwixt causes and effects, and … ’tis only by 
+our experience of their constant conjunction, we can arrive at any knowledge of this 
+relation. Now as all objects, which are not contrary, are susceptible of a constant con -
+junction, and as no real objects are contrary; I have inferr’ d from these principles [cf. 
+T 1.3.15.1/173], that to consider the matter a priori , anything may produce anything, 
+and that we shall never discover a reason, why any object may or may not be the 
+cause of any other … [W] e find by the comparing their ideas, that thought and motion 
+are different from each other, and by experience, that they are constantly united; 
+which being all the circumstances, that enter into the idea of cause and effect, when 
+apply’ d to the operations of matter, we may certainly conclude, that motion may be, 
+and actually is, the cause of thought and perception. (T 1.4.5.30/247–8)
+Thus Hume’s analysis of causation has the direct implication that causes and effects can 
+be discovered only through experience, delivering both a vindication of empirical sci -
+ence and a devastating blow against a priori metaphysics. But an even more important 
+implication—because hard to establish in any other way—is revealed when he returns to 
+the territory of Clarke and Collins in Treatise  2.3.1–2 on the crucial question of “liberty 
+and necessity. ” Here, Hume’s two definitions of cause yield parallel definitions of causal 
+necessity  (T 2.3.2.4/409–10; cf. T 2.3.1.4/400–1), capturing all that we can mean by the 
+term. Then, because human actions satisfy the definitions, it immediately follows that 
+those actions are as necessary as the motion of billiard balls. Clarke and his allies will 
+object that human actions lack genuine physical  necessity, but the upshot of Hume’s anal -
+ysis is that they are using terms without meaning: their supposed distinction between 
+moral  and physical  necessity (as Hume has already observed at T 1.3.14.32–3) can be con -
+signed to the same metaphysical dustbin as scholastic substances:
+this reasoning puts the whole controversy in a new light, by giving a new defini -
+tion of necessity. And, indeed, the most zealous advocates for free-will [e.g. Clarke] 
+must allow this union and inference with regard to human actions. They will only 
+deny, that this makes the whole of necessity. But then they must shew, that we have 
+an idea of something else [i.e. whatever it is that characterises “physical” necessity] 
+in the actions of matter, which, according to the foregoing reasoning, is impossible.  
+(TA 34/661)
+Hume’s application of his Copy Principle to the idea of causal necessity thus both 
+brings human behavior within the reach of deterministic causal science,29 and Hume’s Chief Argument   93
+triumphantly solves “the question of liberty and necessity; the most contentious ques -
+tion, of metaphysics, the most contentious science” (EU 8.23/95). We now have a very 
+satisfying answer—firmly rooted in his biography and early writings—to the puzzle of 
+why Hume put such emphasis on his Copy Principle and gave it pride of place as the 
+“first principle” of his philosophy. Through its application to the idea of causal necessity, 
+his concept empiricism turns out to be closely integrated with his other main theoretical 
+commitments and purposes, providing a support for explanatory and biological natu -
+ralism, a refutation of causal apriorism in favor of epistemic empiricism, and a further 
+multiple attack on supernaturalism by undermining the principles of the Cosmological 
+Argument and of the Free Will Defence.30
+In recent years, it has become fashionable to play down Hume’s commitment 
+to the Copy Principle, in line with the declining popularity of concept empiricism 
+noted at the end of Section I above. Indeed the “skeptical realist” or “New Hume” 
+interpretation—developed mostly by John Wright, Edward Craig, and Galen Strawson, 
+but since attracting others—centers on the claim that Hume is content to allow mean -
+ingful (and potentially truth-apt) thought in the absence of impression-derived ideas. 
+This claim has some textual support in respect of topics such as the external world, 
+where Hume accounts for our thinking in terms of “fictions” that result from asso -
+ciational confusion (rather than bona fide ideas). But in the case of causation, Hume 
+is always very explicit that his analysis delivers both a genuine idea—copied from an 
+impression—and two definitions that are precise enough to yield the host of valuable 
+philosophical results that we have just seen. The “skeptical realist” reading of Hume on 
+causation has, I believe, seemed plausible only because its advocates have systematically 
+avoided addressing those passages where Hume exploits his analysis for philosophi -
+cal gain, most notably his discussions of materialism (at T 1.4.5.29–33) and “liberty and 
+necessity” (in T 2.3.1–2; TA. 31–4/660–1; and EU 8). If the account just sketched is cor -
+rect, however, this amounts to a fundamental reversal of Hume’s own priorities.31
+IV The Formation of Treatise  
+Book 1 Parts 1–3
+Hume’s enthusiasm for the Copy Principle explains and structures much of the early 
+content of Treatise  Book 1.  Impressions can arise from either sensation  or reflection   
+(T 1.1.2), with ideas their precise copies (albeit having less “force and vivacity”). It follows 
+that ideas are quasi-sensory and must be determinate; hence thought involving general -
+ity requires an appropriate treatment of “abstract ideas” (cf. T 1.1.7.5/19). Combined with 
+Hume’s sensory atomism—which provides the basis for his treatment of space and time 
+and his solution to the paradoxes of infinite divisibility—this also means that complex 
+ideas are susceptible of literal division and rearrangement, thus explaining the other -
+wise puzzling jump from what at first seems like a harmless “second principle, of the 94   Peter Millican
+liberty of the imagination to transpose and change its ideas”  (T 1.1.3.4/10), to a full-blown 
+Separability Principle (T 1.1.7.3/18–9) which is far less innocuous and goes on to play a 
+major role in the Part 2 treatment of space and time (and later generates problems in 
+Part 4).
+Interleaved with all this analysis and metaphysics is a more epistemological stream 
+of thought, starting with the association of ideas (T 1.1.4) and a taxonomy of relations 
+(T 1.1.5), in preparation for the treatment of “knowledge and probability” in Part 3. 
+Here Hume saw the prospect for another neat theory, based on the observation that 
+all inferences “from one object to another” rely on causation and are at best probable , 
+while demonstrative  inferences tend to be confined to mathematics. This invited the 
+tempting thought that mental operations can be categorized in terms of the relations 
+involved, with resemblance, contrariety,  and degrees in quality  corresponding to intu -
+ition (T 1.3.1.2/70); proportions of quantity or number  to demonstration (T 1.3.1.3/70); 
+identity  and relations of time and place  to perception (T 1.3.2.2/73–4); and causation  to 
+probable inference (T 1.3.2.3/74). With this in mind, Hume (T 1.1.5.2/14) shoehorns the 
+multiplicity of relations that Locke had painstakingly identified ( Essay  II xxv–xxviii) 
+into just seven categories.32 Later in the Treatise  Hume twice appeals to this taxonomy, 
+to prove the non-demonstrability of the Causal Maxim (T 1.3.3.2/79) and of morality 
+(T 3.1.1.19/463–4). Sadly this whole theory is seriously flawed, but fortunately the bulk 
+of the Treatise  is unaffected because Hume mostly relies instead on a far more plausible 
+criterion of demonstrability, namely, the Conceivability Principle. However the theory 
+plays a significant role in shaping Book 1 Part 3, which although entitled “Of Knowledge 
+and Probability, ” is mainly framed by Hume’s analysis of the causal relation informed by 
+the Copy Principle (from T 1.3.2.3/74 to T 1.3.15.11/175).33 Within this overarching frame -
+work, Hume inserts his discussions of the Causal Maxim (T 1.3.3) and of causal inference 
+(T 1.3.4–7), but both are presented as “neighbouring fields” (T 1.3.2.13/77–8) to his main 
+analytical business. His famous argument concerning induction in T 1.3.6 shows that 
+the assumption of uniformity which induction presupposes cannot be established on 
+any independent rational basis, instead being taken for granted through the instinctive 
+operation of custom  (or habit). But it is striking, in view of this argument’s subsequent 
+fame, how cursory and relatively muted it is here, set within a section whose main role 
+seems to be to reveal constant conjunction  as the key to causal ascription, as another step 
+towards analysis of the causal relation (with T 1.3.6.3 echoing T 1.3.2.11). When Hume 
+reassessed the 1739 Treatise  in his Abstract  (composed only nine months or so later), the 
+famous argument was elevated from this humble role to become the centerpiece of his 
+theoretical philosophy, as it remained in the Enquiry  of 1748 and has been considered 
+ever since. So what we find in Treatise  Book 1 Part 3, apparently, is an organizational 
+structure that reflects the development of Hume’s ideas rather than their maturely con -
+sidered arrangement. And this strongly corroborates our hypothesis, that he came to his 
+theoretical philosophy predominantly through an interest in the analysis of causation 
+rather than in the epistemological assessment of induction.
+When Hume does finally turn explicitly to the assessment of “probable reason -
+ings”—again in a long detour (or series of detours) from his search for the source of the Hume’s Chief Argument   95
+idea of necessary connexion—his discussion is scientific rather than skeptical in tone. 
+T 1.3.8 provides experimental support for his analysis of belief in terms of the transfer 
+of vivacity by customary association (typically from the impression of a cause to the 
+idea of its experienced effect); T 1.3.9 explains why the vivacity of belief arises from 
+causation rather than from other relations; T 1.3.10 discusses the mutual influence of 
+belief on the passions and imagination; T 1.3.11 explains “the probability of chances” 
+and T 1.3.12 “the probability of causes, ” both involving the division of force and vivac -
+ity where there is a multiplicity of associational links; while T 1.3.13 discusses “unphi -
+losophical probability” prior to Hume’s belated return—at T 1.3.14—to his analysis of 
+the idea of causation (on hold, apparently, since T 1.3.6). These intervening sections 
+include numerous remarks describing the various factors that bear on our judgments 
+of probability, many of which can also be construed as normative: highlighting fac -
+tors that ought  (or ought not ) to bear on such judgments. The overall message here is in 
+favor of basing our beliefs on experience, drawing causal inferences through custom 
+in line with the constant conjunctions that we have observed, and assigning probabili -
+ties based on statistical regularities. Probable reasoning accordingly merits categoriza -
+tion amongst what Hume will later call the “general and more establish’ d” operations 
+of the mind (T 1.4.7.7/267–8), and beliefs thus formed deserve to be called products 
+of “judgment” or “reason, ” distinguished from trivial and flighty “whimsies and preju -
+dices, which are rejected under the opprobrious character of being the offspring of the 
+imagination” (T 1.3.9.19 n22/117–8 n1).34 Irrationalities of the latter kind are particu -
+larly associated with religion, which encourages stimulation of the imagination by such 
+things as the “mummeries” of Roman Catholicism (T 1.3.8.4/99–100), saintly relics  
+(T 1.3.8.6/100–1), pilgrimages (T 1.3.9.9/110–11), terrifying sermons (T 1.3.9.15/115), and 
+miracle stories (T 1.3.10.4/120).
+V Skepticism: Corrosive or Mitigated?
+So far, we have seen nothing in Hume’s formative ideas that is corrosively skeptical , in 
+the sense of undermining his scientific ambitions. Many of his views would indeed 
+have been considered skeptical by his contemporaries, such as his denial of the demon -
+strability of the Causal Maxim, his treatment of induction as founded on instinctive 
+custom (rather than perception of evidential connexions),35 his analysis of causation 
+in terms of our own inferential behavior (rather than apprehension of objective neces -
+sities), and his various criticisms—either explicit or implicit—of religious claims. But 
+none of this seriously threatens his own  scientific researches, as long as he is content 
+to accept the deliverances of his faculties in a spirit consistent with his theory. A scien -
+tist who accepts that his faculties are fallible and his discoveries less than certain does 
+not thereby undermine them, except by the unrealistic standards of a wishful-thinking 
+dogmatist or extreme skeptic who cannot reconcile himself to working within the limits 
+of what human nature allows.96   Peter Millican
+This attitude is most clearly expressed by Hume in the final section of the Enquiry  
+of 1748, where he draws attention to the varieties and different degrees of skepticism 
+before himself adopting a mitigated  or academic  skepticism (EU 12.24–26/161–3) 
+which recognizes the fallibility of our faculties and is accordingly modest and undog -
+matic, accepting that there may be limits to the range of our enquiries. He spells this 
+out in respect of induction, responding to his own argument (EU 4, summarized at 
+EU 12.22/153) that our most important method of reasoning about the world rests 
+on a brute assumption—namely, the uniformity of nature—for which no indepen -
+dent justification can be given. The rationalist and the extreme “Pyrrhonian” skeptic 
+will bemoan this lack and demand a more solid basis for induction, but if none is to 
+be had, then we are faced with a stark choice between giving up induction entirely 
+or accepting “the whimsical condition of mankind, who must act and reason and 
+believe; though they are not able, by their most diligent enquiry, to satisfy themselves 
+concerning the foundation of these operations” (EU 12.23/160). Given this pragmatic 
+situation, even the Pyrrhonian can offer no reason for preferring the negative choice, 
+for “he must acknowledge, if he will acknowledge any thing, that all human life must 
+perish, were his principles universally and steadily to prevail” (EU 12.23/160).36 The 
+upshot is that as long as our investigations do not undermine  our faculties by showing 
+them to be unreliable, it is entirely reasonable for us to rely on them by default.37
+Relying on our faculties by default, moreover, is entirely consistent with refining our 
+use of them on the basis of our investigations. Most importantly, although our general 
+presumption of inductive uniformity may have to be taken for granted as indispensable 
+and incapable of further support, this does not require us to accord equal authority to 
+every individual inductive inference, treating thoughtless superstition (e.g., belief in a 
+“lucky charm”) with as much respect as careful, disciplined scientific extrapolation. On 
+the contrary, we find by experience that the former is hopelessly unreliable whereas the 
+latter is highly effective, and it is important to notice that there is nothing viciously circu -
+lar or fundamentally skeptical about such inductive investigation of our own inductive 
+tendencies (any more than there is about empirical cognitive science in general). Much of 
+Treatise  Book 1 Part 3 can be understood in this scientific spirit, and indeed Hume there 
+seems almost oblivious to the possibility that he might be thought to be raising corro -
+sive skeptical worries about induction.38 Only in the Enquiry  does he explicitly acknowl -
+edge that his famous argument raises “sceptical doubts concerning the operations of the 
+understanding, ” before going on to lay these to rest in the way that we have just seen.
+The project of the Treatise  does run into serious trouble, however, when Hume’s cog -
+nitive investigations ultimately lead to the conclusion that our thought is irremediably 
+incoherent. As we saw earlier (cf. note 34), in analyzing human reasoning he attempts 
+to draw a distinction between the “general” and “universal” principles of the mind that 
+deserve our respect and the “irregular” or “trivial” ones that do not, most explicitly at 
+the beginning of Treatise  1.4.4:
+In order to justify myself, I must distinguish in the imagination betwixt the principles 
+which are permanent, irresistable, and universal; such as the customary transition Hume’s Chief Argument   97
+from causes to effects, and from effects to causes:  And the principles, which are 
+changeable, weak, and irregular; … The former are the foundation of all our thoughts 
+and actions, so that upon their removal human nature must immediately perish and 
+go to ruin. The latter are neither unavoidable to mankind, nor necessary, or so much 
+as useful in the conduct of life; but on the contrary are observ’ d only to take place in 
+weak minds … (T 1.4.4.1/225)
+But once Hume becomes engaged in the skeptical arguments of Book 1 Part 4, this 
+distinction becomes hard to maintain, as he himself laments retrospectively in the 
+concluding section T 1.4.7.39 First, at T 1.4.1.10/185, we are saved from extreme skep -
+ticism not by the “general and more establish’ d” principles of the mind, but by “that 
+singular and seemingly trivial property of the fancy, by which we enter with difficulty 
+into remote views of things” (T 1.4.7.7/268). Second, at T 1.4.2.56/217–8, after a long 
+and fraught discussion of our belief in the continued and distinct existence of external 
+objects, Hume concludes that this belief is founded on “trivial qualities of the fancy” 
+and on “false suppositions, ” including the “gross illusion … that our resembling percep -
+tions are numerically the same. ” Third, at T 1.4.4.15/231, he finds that standard causal 
+reasoning leads to the conclusion that material objects do not resemble our sensory 
+impressions, which in turn makes it impossible for us to form any “satisfactory idea” 
+(T 1.4.4.9/229) of them;40 thus causal reasoning and the belief in external objects, 
+“tho’ these two operations be equally natural and necessary in the human mind, yet 
+in some circumstances they are directly contrary” (T 1.4.7.4/266). Finally, Hume 
+ultimately finds his account of personal identity in T 1.4.6 to be deeply problematic, 
+based on principles that he “cannot render consistent” (T App. 21/636), although this 
+recognition comes only in the Appendix  to the Treatise , published with Book 3 late in 
+1740. One major source of the trouble here is Hume’s Separability Principle, which he 
+takes to imply the extraordinary claim that his perceptions are independent existences 
+that “may exist separately, without any contradiction or absurdity” (T App.12/634; cf.  
+T 1.4.5.5/233; T 1.4.6.3/252; T 1.4.6.16/259–60).
+The conclusion of Treatise  Book 1 exposes the disastrous breakdown of Hume’s 
+would-be distinction between the “general” and “trivial” principles of the mind, 
+making it difficult to mount any consistent defence against corrosive skepticism  
+(T 1.4.7.6–8/267–9). In the end, he can do no more than appeal to our natural tendency 
+to ignore skeptical worries and his own inclination towards metaphysical curios -
+ity despite them (T 1.4.7.9–12/269–71). For those who share such curiosity, he suggests 
+that philosophy can at least be recommended above superstition as the “safest and most 
+agreeable” guide (T 1.4.7.13/271), but this defence appears lame given the obvious retort, 
+that on religious principles Hume’s philosophy holds far more danger than Christianity, 
+risking falsehood and eternal hellfire in place of divine truth and salvation.41 If human 
+reason is as hopelessly inconsistent as Hume has portrayed, then any objective assess -
+ment is beyond us, and we seem to be reduced to falling back on personal inclination, 
+with selective “carelessness and in-attention” towards skeptical considerations that 
+would upset our equanimity (as at T 1.4.2.57/218). The upshot is that any Christian who 98   Peter Millican
+is as attracted towards his faith as Hume is towards philosophy has been given no good 
+reason to reconsider.42
+From the perspective on Hume’s philosophy developed earlier, we have excellent 
+reason to interpret his skeptical despair in the conclusion of Treatise  Book 1 as entirely 
+genuine: his project has been holed beneath the waterline, and his makeshift defence, by 
+which he attempts to justify the continuation of his investigations, is palpably uncon -
+vincing. Hence so far from seeing Hume as a deliberate corrosive skeptic, as so many of 
+his readers have done, there is a lot to be said for Reid’s view that he is forced into such 
+skepticism by his own logical rigor and the premises from which he starts.43
+VI Hume’s Chief Argument and His 
+Taming of Skepticism
+Barely nine months after Treatise  Books 1 and 2 were published, Hume was reformu -
+lating its “Chief Argument” in the Abstract , which was eventually published in March 
+1740.44 His choice of topics for inclusion strongly corroborates the account given ear -
+lier, whereby it is his views on inductive probability, causation, and free will that are 
+most important to him. He devotes paragraphs 5–7 to the Copy Principle; 8–14 to his 
+argument concerning induction; 15–25 (and 4) to custom, belief, and probability; 26 to 
+the idea of cause (applying the Copy Principle); and 31–4 to free will. By contrast, just 
+one paragraph each is given to skepticism (27), substance and the soul (28), geometry 
+(29), the passions (30), and the association of ideas (35). Hume thus greatly emphasizes 
+the positive aspects of his philosophy, somewhat playing down his skeptical doubts 
+although he seems no closer to resolving them:
+Our author … concludes, that we assent to our faculties, and employ our reason only 
+because we cannot help it. Philosophy wou’ d render us entirely Pyrrhonian , were not 
+nature too strong for it. (TA 27/657)
+At much the same time, he was also preparing Book 3 of the Treatise  for publication, 
+with its Appendix  bewailing the “labyrinth” into which he had been led by the conun -
+drum of personal identity. So any resolution of the corrosive skepticism of Book 1 Part 4 
+was still, apparently, some years away.
+Such a resolution was finally achieved with the first Enquiry  of 1748, where Hume 
+puts an even more systematic emphasis on his “chief argument” running from the Copy 
+Principle (Section 2) through induction (4), custom and belief (5), probability (6), cau -
+sation (7), and free will (8). Section 4 crucially rules out a priori knowledge of the world 
+and thus establishes epistemic empiricism, after which Sections 5 to 8 all strongly sup -
+port a causal understanding of human thought and behavior. This explanatory natu -
+ralism is reinforced by biological naturalism in Section 9 on “the reason of animals, ” Hume’s Chief Argument   99
+followed by anti-supernaturalism in the next two sections, which illustrate how Hume’s 
+inductive theory can undermine superstitious beliefs by first revealing their own depen -
+dence on induction and then appealing to methodological consistency.45 In this spirit, 
+Section 10 explains why the inductive evidence against any reported miracle is almost 
+certain to outweigh the inductive evidence for the report’s reliability, while Section 11 
+points out that induction cannot justify any inference from the observed world to a 
+Designer having qualities (notably justice) that are not manifested in what we observe. 
+The Enquiry  is rounded off by Section 12, whose calm mitigated skepticism we have 
+already discussed.
+It is illuminating to see how the balanced scientific naturalism of the Enquiry —whose 
+overall epistemological perspective can seem common sense today—avoids destruction 
+on the skeptical rocks that sank the project of the Treatise . First, Hume omits the corro -
+sive skeptical argument of T 1.4.1, perhaps recognizing its serious flaws. That argument 
+depended on the idea that rational judgment must always be reflexive , in the sense of 
+requiring a further judgment about our initial judgment’s reliability (T 1.4.1.5/181–2). 
+But this requirement, which Hume sees as leading to a vicious regress and a continual 
+diminution of probability,46 is implicitly challenged in the Enquiry  by his rejection of 
+antecedent skepticism at EU 12.3/149–50. There, he points out that it is self-evidently 
+hopeless to make reliance on our faculties conditional on a logically prior justification 
+of them, for any would-be justification must itself rely on them. Hence, as we saw earlier, 
+it is entirely reasonable to ascribe them default authority from the start, without tying 
+ourselves in reflexive knots.
+Second, in the Enquiry  Hume omits any discussion of identity over time, and hence 
+has no occasion to repeat his allegations from the Treatise  that our ascriptions of such 
+identity (either to physical objects, organisms, or persons) are radically incoherent 
+and sustainable only by a “fiction of the imagination. ”47 It is tempting to surmise that 
+Hume had come to see the error of his ways here, and was no longer taking for granted 
+that numerical identity  over time necessarily requires qualitative invariableness .48 
+Recognition of such an error might explain why he never again discusses identity in any 
+of his works—thus the labyrinth of personal identity is completely unmentioned in the 
+Enquiry .49
+Third, in the Enquiry  Hume treats our belief in external objects as a natural instinct 
+which is potentially true (as long as we are careful to distinguish objects from our per -
+ceptions of them), even though we cannot provide any rational argument to support that 
+belief.50 We risk incoherence if we try to conceptualize the nature  of external objects in 
+terms of primary and secondary qualities (EU 12.15/154; cf. T 1.4.4), but apparently there 
+is no harm in thinking of them using the merely relative idea of “a certain unknown, 
+inexplicable something , as the cause of our perceptions” (EU 12.16/155; cf. T 1.2.6.9/68).
+Finally, although Hume in the Enquiry  retains his beloved Copy Principle (and its 
+vital application to the issues of causal necessity and free will), he no longer treats ideas 
+so simplistically as sensory images that can be literally divided into independent atomic 
+perceptions and rearranged. Accordingly his Separability Principle disappears, along 100   Peter Millican
+with the extravagant commitment to the possibility of self-subsisting perceptions which 
+made the metaphysics of the Treatise  so incredible.51
+Most of these features of the Enquiry  involve omission of Treatise  material, and since 
+Hume does not explicitly disavow what he omitted, we cannot be certain where his edit -
+ing reflects a genuine change of mind as opposed to pragmatic silence or mere abridge -
+ment. In general, the differences seem philosophically well-motivated and hence likely 
+to have resulted from greater maturity and reflection. With respect to the external 
+world, however, the Enquiry  account is somewhat unsatisfactory in failing to pursue dif -
+ficult questions raised by the Copy Principle. Part 1 of Section 12 ends by pointing out 
+that if our thinking about external objects is restricted to ideas copied from our sensa -
+tions, then the merely relative notion that we can have of them as independent entities 
+seems to be “so imperfect, that no sceptic will think it worth while to contend against 
+it” (EU 12.16/155). This subtle phrase, however, is ambiguous, and I suspect deliberately 
+so, reflecting Hume’s two minds on the issue. On the one hand, thinking of “the cause 
+of our perceptions” as “a certain unknown, inexplicable something ” is so pathetically 
+contentless that it hardly qualifies as a thought of a substantial object. But on the other 
+hand, this lack of substantial content perfectly suits Hume’s irreligious purposes and 
+his desire to cripple any ambition towards a rival metaphysics based on supposed ratio -
+nal insight into the nature of matter (such as Locke’s and Clarke’s insistence that matter 
+and motion cannot create thought).52 Having found a phrase that nicely captures this 
+ambivalence, and without any more satisfactory philosophical resolution to offer, Hume 
+allows his discussion to end here,53 with a footnote which credits Berkeley for the pre -
+ceding argument about primary and secondary qualities and observes that such “merely 
+sceptical” arguments typically “ admit of no answer and produce no conviction ” (EU 12.16 
+n32/155 n1). This observation corresponds with his already-stated pretext for giving so 
+little attention to such arguments: that they “can so little serve to any serious purpose”  
+(EU 12.15/154). Thus Hume apparently wants to rise above extreme skepticism even 
+when he has no satisfactory philosophical answer to it.54
+VII Conclusion: Hume’s Consistent 
+Purposes
+If this account is on the right lines, then Hume’s philosophy has a consistent under -
+lying core, which probably first started to crystallize when he brought his concept 
+empiricism—the Copy Principle—to bear on a cluster of issues involving causation. 
+But his ultimate aim here was not merely to analyze concepts, and he was motivated 
+more by the valuable corollaries that he saw flowing from his definition of causal neces -
+sity: bringing human thought and behavior within the reach of causal science, refuting 
+the supposed apriority of the Causal Maxim, and concluding that causal relations (and 
+hence the properties of matter) can be known only through experience. These results Hume’s Chief Argument   101
+also struck heavily against Christian orthodoxy by undermining the Cosmological 
+Argument, the Free Will Defence, the immateriality of the soul, and more generally the 
+conception of man as radically distinct from the animal creation. Thus we see Hume’s 
+explanatory naturalism, epistemic empiricism, anti-supernaturalism, and biological 
+naturalism all fitting together into a coherent system.
+This system is also profoundly skeptical by the standards of Hume’s day, most nota -
+bly in regard to its irreligion and denial of the possibility of a priori insight into the 
+nature of things. But Hume does not intend it to be corrosively  skeptical, in the sense 
+of posing a direct threat to the possibility of a philosophically respectable human sci -
+ence. Thus the extreme skepticism that arises in Treatise  Book 1 Part 4 is not central 
+to his philosophical plans, but derives instead from what he takes to be the logical 
+following-through of his own principles, compelling him towards conclusions with 
+which he is deeply uncomfortable. On this conception of his project, therefore, the dis -
+may that he expresses in the conclusion of Book 1 is genuine rather than a charade, 
+revealing his intense awareness that he has no adequate answer to the corrosive prob -
+lems that he has unearthed. This extreme skepticism is no part of his intention, let alone 
+a central theme, and the Abstract  and Enquiry  therefore reflect his fundamental pur -
+poses far more faithfully than does Book 1 of the Treatise .55 The central line of thought 
+made plain in the Abstract  was in Hume’s eyes the “Chief Argument” of the Treatise  
+right from the start. His achievement in the Enquiry  was to refine it further and thus to 
+show how he could avoid the rocks of Pyrrhonism while steering the apparently “leaky, 
+weather-beaten vessel” (T 1.4.7.1/263) of human reason safely towards the possibility of 
+a fruitful, naturalistic science of man.
+Abbreviations of Hume’s Works Cited
+D Dialogues Concerning Natural Religion . In D. Coleman, ed. Dialogues Concerning 
+Natural Religion and Other Writings . Cambridge: Cambridge University Press, 2007.
+EM Enquiry Concerning the Principles of Morals: A Critical Edition . Edited by Tom 
+L. Beauchamp. Oxford: Clarendon, 1998.
+EU An Enquiry Concerning Human Understanding: A Critical Edition . Edited by Tom L. 
+Beauchamp. Oxford: Clarendon Press, 2000.
+LET The Letters of David Hume , 2 Vols. Edited by J.  Y . T.  Greig. Oxford:  Clarendon 
+Press, 1932.
+LG A Letter from a Gentleman to His friend in Edinburgh . Edited by E. C. Mossner and J. V . 
+Price. Edinburgh: Edinburgh University Press, 1967.
+NHR The Natural History of Religion . In Tom L. Beauchamp, ed. A Dissertation on the 
+Passions; The Natural History of Religion . Oxford: Clarendon Press, 2007.
+T A Treatise of Human Nature: A Critical Edition . Edited by D. F. Norton and M. J. Norton. 
+Oxford: Clarendon, 2007.
+TA An Abstract of a Treatise of Human Nature . Reprinted in  T.102   Peter Millican
+Notes
+ 1. As understood by many hostile critics from Beattie (1770) to Stove (1973), and at least some 
+admirers (e.g., Popkin 1951; Fogelin 1985).
+ 2. A tradition of interpretation begun by Reid (1764) and promoted by Green (1874).
+ 3. Morris (2009), for example, argues that “it is [Hume’s] use of [the Copy Principle’s] reverse 
+in his account of definition that is really the most distinctive and innovative element of his 
+system. ”
+ 4. Garrett (1997) interprets Hume’s central arguments as contributions to cognitive science.
+ 5. The Dissertation on the Passions  retains a fair amount of associationism, while the basic 
+principle of custom —which Hume sees as analogous  to the association of ideas (EU 
+5.20/53–4)—figures strongly in the first Enquiry . There is some suggestion in the Enquiry  
+(EU 5.9/47) that Hume may have lost confidence in more specific associationist claims, but 
+it seems likely that he continued to think that associationist mechanisms play a major role 
+in human cognition.
+ 6. Three parts of the Treatise  end with sections on “the reason of animals” (T 1.3.16), “the 
+pride and humility of animals” (T 2.1.12), and “the love and hatred of animals” (T 2.2.12), 
+all of which stress human parallels. Hume ends Part 2.3 without a section on “the will 
+and direct passions” of animals only because, he says, the parallel there is too obvious to 
+require discussion (T 2.3.9.32/448). He also devotes Section 9 of the first Enquiry  to “the 
+reason of animals. ”
+ 7. The term evolutionary naturalism  is tempting, but would be anachronistic as applied 
+to Hume. Darwin’s theory of evolution did not appear until 1859, although his note -
+books of around 1839 show that he was reading Hume’s Enquiry  section on the reason of 
+animals—published more than ninety years earlier—at the time that he came up with his 
+theory.
+ 8. Hume uses this phrase many times in the Natural History of Religion  (NHR Intro.1, 2.2, 2.5, 
+3.4, 4.1, 5.2, 8.2, 15.5); at EU 7.21/69 he talks of “some invisible intelligent principle. ”
+ 9. See for example Stroud (1977), pp. 186, 251 n. 9, 263 n. 10; Craig (1987) p. 71; Noonan (1999), 
+pp. 18–19; Blackburn (2008), p. 108 n. 15. Quite apart from other objections, it is chrono -
+logically very implausible that Hume left for France in 1734 with his moral ideas signifi -
+cantly worked out, composed the bulk of the Treatise  there within three years, and then on 
+his return delayed publishing Book 3 until twenty-one months after the others.
+ 10. Note that the famous hyperbolic statement about reason’s being “the slave of the passions” 
+(T 2.3.3.4/415), which so inspired Kemp Smith, does not really involve any subordination  
+of reason to passion, for as Hume has just explained in the same paragraph, the two are not 
+(and cannot be) in conflict. His theory of action is essentially that passion sets the ends  of 
+our action whereas reason works out the means . Without some desire to motivate us, we 
+would not prefer one outcome over another, and hence reason would be inert because it 
+has nothing to aim for, not because it is dominated .
+ 11. Hume took the mind-spreading metaphor from Malebranche (1674–5/1997, p. 58), but its 
+vividness and apparent fit with various aspects of Hume’s own philosophy has contrib -
+uted to a widespread enthusiasm for characterizing him as a projectivist , especially among 
+those attracted to Kemp Smith’s view of him as privileging our sentiments in understand -
+ing the world. The point made here should at least give pause to those inclined to speak 
+of “Humean projection, ” for it is far from clear that his attitude to causation—where 
+he clearly presents such projection as an error —is to be assimilated with his attitude to Hume’s Chief Argument   103
+morality, where he talks apparently approvingly of the mind’s “gilding or staining all natu -
+ral objects with the colours, borrowed from internal sentiment” (EM App. 1.21/294). The 
+complications involved in ascribing projection to Hume are explored by Kail (2007).
+ 12. As documented at length in Russell (2008).
+ 13. Craig’s case for seeing the Similarity Thesis as the “dominant philosophy” of the Early 
+Modern period (1987,  chapter 1) also seems to me extremely thin. Given that God is under -
+stood as an infinite mind, theist philosophers will almost inevitably draw comparisons 
+with the human mind, but unless these are frequent and pervasive (which Craig’s limited 
+citations suggest not), they provide negligible evidence of a “dominant philosophy. ”
+ 14. Craig’s presentation of indirect evidence (1987: 75–128) is fifteen times longer than his 
+direct evidence (1987: 71–74), which cites only T 3.1.1.4/456–7 and various passages from 
+the Dialogues  (on the Design Argument).
+ 15. See Millican (1995) pp. 123–124, 127–129, 136; (2002) pp. 155–156, 161–163; Garrett (1997) pp. 
+85–88. Since these appeared, support for the “deductivist” and “antideductivist” interpre -
+tations of Hume’s argument seems to have vanished.
+ 16. See, for example, Millican (2009) §5 (especially pp. 671–674) on the idea of necessary con -
+nexion and §4 on the two definitions, and also Section III of the current paper.
+ 17. The “common Opinion” here seems most likely to mean theism in general, rather than 
+anything more specific.
+ 18. Compare Locke’s Essay  IV x 10 with Clarke (1732: 53).
+ 19. The more general connection between Hume’s causal topics and irreligion—to be dis -
+cussed later—is also strongly corroborated by the references made to Treatise  Book 1 
+in the “Sum of the Charge”: seven are to T 1.4.5, five to T 1.3.14, one each to T 1.3.2, 1.3.7, 
+1.3.15, and 1.4.1, and one to the entirety of 1.4.7 (in relation to the first charge of “Universal 
+Scepticism”). T 1.4.5 was clearly far more significant in context than it seems to most 
+commentators today.
+ 20. Kames refers explicitly to the Clarke-Collins debate in his Essays  (1751: 171). Kames’s own 
+debate with Baxter concerned the causation of motion, his views on which were later pub -
+lished in the Essays and Observations  of 1754.
+ 21. For a useful summary account of this affair, see Russell (2008: 42–45), who speculates (p. 
+45) that it might have played some role in encouraging Hume to leave Scotland two years 
+later. The free-thinking nephew of a Chirnside minister could certainly expect unwelcome 
+attention and intrusion in such an inquisitorial context.
+ 22. For more on this, see Millican (2007a: §§4–6).
+ 23. The forty philosophical memoranda are in Mossner (1948: 500–503), and, for their dating, 
+see Stewart (2000), especially p. 280, and Stewart (2005: 47). Memorandum 23, quoted 
+here, is one of six that concern the Free Will Defence to the Problem of Evil (the others 
+being numbers 19, 24, 25, 26, and 32).
+ 24. See EU 2.9/21–22 and EU 7.4/62. In a letter to Hugh Blair of July 4, 1762, Hume defends 
+himself against Thomas Reid’s suggestion that “I had been hasty, & not supported by any 
+Colour of Argument when I affirm, that all our Ideas are copy’ d from impressions” by 
+responding that “I have endeavourd to build that Principle on two Arguments, ” namely 
+those from EU 2.6/19–20 and EU 2.7/20 (Brookes 1997: 257).
+ 25. For a defence of these arguments, however, see Garrett (1997: 41–48).
+ 26. Writing to Michael Ramsay on August 26, 1737, Hume recommends Bayle’s article on Zeno 
+of Elea as one of the readings that will help his friend to “easily comprehend the meta -
+physical Parts” of the Treatise  (Mossner 1980: 627). Hume remained proud of his treatment 104   Peter Millican
+of space and time until at least 1755, when a noted mathematician, Lord Philip Stanhope, 
+dissuaded him from publishing his treatise “on the metaphisical Principles of Geometry” 
+(LET ii 253).
+ 27. For discussion of Hume’s assumption that the idea in question is simple , and of his insis -
+tence that all the various causal terms in his list are “nearly synonimous, ” see Millican 
+(2007b) §2.2.
+ 28. For further details of the debate, including relevant quotations, see Millican (2010) §II.
+ 29. For the overwhelming evidence that Hume saw causation (and the universe) as determin -
+istic, see Millican (2010).
+ 30. The last and most dangerous of these implications—although perfectly clear in Hume’s 
+early memoranda—was prudently omitted from the Treatise . It saw the light of publi -
+cation only in the Enquiry , but even there is expressed as a “mystery” rather than as an 
+explicit threat to theism (EU 8.36/103).
+ 31. For much more on this, see Millican (2009) and (2011). It is revealing how little of the 
+New Hume literature makes any mention whatever of Clarke, Collins, moral and physical 
+necessity, or the application of Hume’s definitions to the problems of thinking matter and 
+of “liberty and necessity. ” These issues are now sufficiently prominent in the literature that 
+readers can draw their own conclusion from New Humean discussions that strategically 
+ignore them.
+ 32. Hence Hume’s insistence that all of Locke’s “natural” and “instituted” relations ( Essay  II 
+xxviii 2 and 3) should be classed as instances of causation (T 1.1.4.3/11–2 and T 1.1.4.5/12 
+respectively). Comparison of the two accounts clearly reveals the taxonomic motive here, 
+thus undercutting Kemp Smith’s influential claim (1941: 245; cf. Noonan 1999: 18) that 
+Hume’s citing of blood and duty relationships as examples of causation is indicative of a 
+predominant interest in moral philosophy. For detailed assessment of Hume’s theory of 
+relations, see Millican (forthcoming) §2.
+ 33. So much so that the title word “probability” does not even appear in the main text until  
+T 1.3.6.4/89.
+ 34. This footnote was an afterthought, inserted into the Treatise  while it was going through the 
+press by means of a “cancel” leaf, which I believe accounts for its placement at the end of the 
+section: it really belongs at the end of T 1.3.9.4/108 and should be read as a comment on T 
+1.3.9.3–4/107–8. Hume presents it as revealing an ambiguity in “the imagination, ” although 
+more precisely he is drawing a distinction between two types of principle  that operate on 
+our ideas in the imagination: those that deserve the accolade of “reason” and those that 
+do not. The same distinction is made more prominently at T 1.4.4.1–2/225–6, between the 
+“permanent, irresistible, and universal” principles and those that are “changeable, weak, 
+and irregular. ” Allusions to the distinction are also evident at T 1.3.13.11–12/149–50 and 
+especially T 1.4.7.6–7/267–8, where its undermining seems to put Hume’s entire philo -
+sophical project at risk, as we shall see in Section V of the current paper.
+ 35. Compare Locke’s suggestion that “Reason … perceives the probable connexion of all the 
+Ideas  or Proofs one to another” in a discourse that involves probable inference ( Essay  IV 
+xvii 2).
+ 36. If he refuses to acknowledge anything , of course, then he can present no reason either way.
+ 37. See §1 of Millican (2012) for a detailed discussion of this response to extreme skepticism, 
+which is more substantial than a crude appeal to justificatory naturalism : Hume is not 
+merely  saying that we cannot help reasoning inductively.Hume’s Chief Argument   105
+ 38. Later, at T 1.4.7.3/265 and T 1.4.7.5/266–7, Hume does show concern about the skepti -
+cal impact of his conclusions that induction relies on the mind’s enlivening of ideas and 
+that the impression of necessity is subjective. But until Part 4, the word “scepticism” and 
+its cognates do not appear at all in the Treatise , except for a disapproving comment at  
+T Intro.3/xiv.
+ 39. It is puzzling—and perhaps a symptom of Hume’s order of composition and haste in 
+publication—that his most explicit presentation of the distinction, which moreover pres -
+ents it as unambiguously required in order to “justify” his position, comes after  two sec -
+tions (T 1.4.1 and 1.4.2) that cast serious doubt on its tenability.
+ 40. The key causal principle, “from like effects we presume like causes, ” is applied at  
+T 1.4.4.4/227.
+ 41. Indeed the supposed eternity  of salvation or hellfire invites Pascal’s famous Wager: better 
+to “bet” on religion if the stakes are so high (and ignore the theoretical objections to the 
+Wager as “cold, and strain’ d”—T 1.4.7.9/269).
+ 42. I am unconvinced by Garrett’s appeal (1997, pp. 233–237) to what he calls Hume’s “Title 
+Principle” (at T 1.4.7.11/270) as a solution to this problem. It has no clear basis, gives no 
+solid criterion for discrimination, and seems to be a stage in Hume’s train of thought rather 
+than a principle to which he gives enduring weight (e.g., it is not repeated in the Enquiry ).
+ 43. Hume might also have been motivated to seek out and present skeptical arguments 
+because of their irreligious consequences (a case made strongly by Russell 2008), some -
+times perhaps to the detriment of his scientific ambitions.
+ 44. The full title is An Abstract of a Book lately Published, entituled, A  Treatise of Human 
+Nature, &c. wherein the Chief Argument of that Book is farther illustrated and explained .
+ 45. Note again that Hume considers our inductive beliefs to be subject to rational discipline: 
+as pointed out in Section V and note 37 above, his wholehearted support of induction is 
+not simply an appeal to what we naturally believe.
+ 46. The claim of continual diminution seems unjustified: if I mistake the reliability of my own 
+mathematical judgment, for example, that error might require adjustment upward  rather 
+than downward, and in any case, my mathematical reliability is quite independent of my 
+reliability in assessing my own faculties. Moreover such reflexive thinking, so far from 
+being a rational duty, might well distract me from the mathematics and thus be ill-advised. 
+On Humean principles, the optimal self-monitoring policy is only discoverable by experi -
+ence, and cannot be a priori.
+ 47. See, for example, T 1.4.2.26–36/200–5, T 1.4.3.2–4/219–20, and T 1.4.6.5–16/253–60.
+ 48. As stated, for example, at T 1.4.2.31/201–2, T 1.4.3.2/219, and T 1.4.6.6/253–5.
+ 49. In the Dialogues , Demea asks “What is the soul of man?” and presents something like the 
+Humean bundle theory, pointing out that this is radically at odds with “that perfect immu -
+tability and simplicity, which all true Theists ascribe to the Deity” (D 4.2). But there is no 
+suggestion here—nor in Cleathes’s response—that change and complexity are incompat -
+ible with identity over time.
+ 50. “It is a question of fact, whether the perceptions of the senses be produced by external 
+objects, resembling them” (EU 12.12/153), but as Hume then explains, we have no observa -
+tional basis for an inductive argument to decide this question (cf. T 1.4.2.47/212).
+ 51. The atomistic Treatise  theory of space and time, closely associated with the Separability 
+Principle, is reduced in the Enquiry  to a tentative “hint” at EU 12.20 n34/158 n1, which 
+clearly acknowledges the motivation “to avoid … absurdities and contradictions, ”  106   Peter Millican
+so that “lovers of science” will not “expose themselves to the ridicule and contempt of the 
+ignorant. ”
+ 52. By contrast, Hume presumably considers that even a minimal and relative conception of 
+objects is enough to sustain the inductive science that he himself favors.
+ 53. The final sentence of EU 12.16/155 was added only in the posthumous 1777 edition, perhaps 
+corroborating my speculation that Hume was in two minds, composing his ambivalent 
+conclusion only when his terminal illness was making clear that he would never person -
+ally resolve this.
+ 54. To find an answer, I believe Hume would have had to reject his Copy Principle and crude 
+“constant conjunction” view of inductive inference, countenancing both “inference to the 
+best explanation” and postulation of entities with which we are not acquainted. It is unsur -
+prising, in view of Section III above, that he did not explore this avenue.
+ 55. Hence, presumably, the famous 1775  “ Advertisement” in which Hume repudiated the 
+Treatise as a “juvenile work” in favor of the Enquiry  (and the other pieces in Volume 2 of 
+the Essays and Treatises on Several Subjects ).
+Bibliography
+Baxter, Andrew. (1732). Some Reflections On a late Pamphlet, called, The State of the Moral 
+World Considered . Edinburgh: Hamilton.
+Beattie, James. (1770). An Essay on the Nature and Immutability of Truth; in opposition to 
+Sophistry and Scepticism.  Edinburgh.
+Blackburn, Simon. (2008). How to Read Hume . London: Granta Books.
+Boswell, James. (1931). “ An Account of My Last Interview with David Hume, Esq., ” in 
+Private Papers of James Boswell from Malahide Castle, volume 12 , prepared for the press by 
+Geoffrey Scott and Frederick A. Pottle (Mount Vernon NY: William Edwin Rudge, Inc.) 
+and reprinted in Norman Kemp Smith (ed.), Hume’s Dialogues concerning Natural Religion  
+(London: Nelson, second edition 1947—see “D, ” Hume 1779, above), 76–89.
+Boswell, James. (1932). Private Papers of James Boswell from Malahide Castle, volume 15 , pre -
+pared for the press by Geoffrey Scott and Frederick A. Pottle. Mount Vernon, NY: William 
+Edwin Rudge.
+Brookes, Derek. (1997). “The Hume-Reid Exchange, ” in Thomas Reid (1764), An Inquiry into 
+the Human Mind on the Principles of Common Sense , edited by Derek R. Brookes. Edinburgh: 
+Edinburgh University Press, 255–265.
+Clarke, Samuel. (1717). Remarks Upon a Book, Entituled, A Philosophical Enquiry concerning 
+Human Liberty.  London.
+Clarke, Samuel. (1732). A Discourse concerning the Being and Attributes of God,  8th edition, 
+London.
+Collins, Anthony. (1717). A Philosophical Inquiry concerning Human Liberty.  London.
+Craig, Edward. (1987). The Mind of God and the Works of Man . Oxford: Clarendon Press.
+Dudgeon, William. (1732). The State of the Moral World Consider’ d . Edinburgh.
+Fogelin, Robert. (1985). Hume’s Skepticism in the Treatise of Human Nature.  London: Routledge 
+& Kegan Paul.
+Garrett, Don. (1997). Cognition and Commitment in Hume’s Philosophy . New Y ork: Oxford 
+University Press.
+Green, T. H. (1874). “Introduction” to David Hume, A Treatise of Human Nature , edited by T. H. 
+Green and T. H. Grose. London: Longman.Hume’s Chief Argument   107
+Kail, Peter. (2007). Projection and Realism in Hume’s Philosophy . Oxford:  Oxford 
+University Press.
+Kames, Henry Home Lord. (1751). Essays on the Principles of Morality and Natural Religion . 
+Edinburgh: Kincaid and Donaldson.
+Kames, Henry Home Lord. (1754). “Of the Laws of Motion, ” in David Hume and Alexander 
+Munro (eds), Essays and Observations, Physical and Literary.  Edinburgh: Philosophical 
+Society of Edinburgh, 1–69.
+Kemp Smith, Norman. (1905). “The Naturalism of Hume (I.). ” Mind  14, 149–173.
+Kemp Smith, Norman. (1941). The Philosophy of David Hume . London: Macmillan.
+Locke, John. (1690/1975). An Essay Concerning Human Understanding , edited by P . H. Nidditch. 
+Oxford: Clarendon Press (“ Essay” ).
+Malebranche, Nicolas. (1674–5/1997). The Search after Truth , trans. T. M. Lennon and P . J. 
+Olscamp. Cambridge: Cambridge University Press.
+Millican, Peter. (1995). “Hume’s Argument Concerning Induction: Structure and 
+Interpretation, ” in Stanley Tweyman (ed.), David Hume: Critical Assessments  (London: 
+Routledge), vol. 2: 91–144; reprinted in David W . D. Owen (ed.), Hume: General Philosophy . 
+Aldershot: Ashgate, 2000, 165–218.
+Millican, Peter. (2002). “Hume’s Sceptical Doubts concerning Induction, ” in Peter Millican 
+(ed.), Reading Hume on Human Understanding . Oxford: Clarendon Press, 107–173.
+Millican, Peter. (2007a). “Introduction, ” in Oxford World’s Classics edition of Hume’s Enquiry 
+concerning Human Understanding . Oxford: Oxford University Press.
+Millican, Peter. (2007b). “ Against the ‘New Hume’ , ” in Rupert Read and Kenneth A. Richman 
+(eds), The New Hume Debate, Revised Edition . London: Routledge, 211–252.
+Millican, Peter. (2009). “Hume, Causal Realism, and Causal Science. ” Mind  118, 647–712.
+Millican, Peter. (2010). “Hume’s Determinism. ” Canadian Journal of Philosophy  40, 611–642.
+Millican, Peter. (2011). “Hume, Causal Realism, and Free Will, ” in Keith Allen and Tom 
+Stoneham (eds), Causation and Modern Philosophy . New Y ork: Routledge, 123–165.
+Millican, Peter. (2012). “Hume’s ‘Scepticism’ about Induction, ” in Alan Bailey and Dan O’Brien 
+(eds), The Continuum Companion to Hume . London: Continuum, 57–103.
+Millican, Peter. (forthcoming). “Hume’s Fork, and His Theory of Relations, ” in Philosophy and 
+Phenomenological Research .
+Morris, William Edward. (2009). “David Hume. ” The Stanford Encyclopedia of Philosophy  
+(Spring 2013 Edition).
+Mossner, Ernest Campbell. (1948). “Hume’s Early Memoranda, 1729–1440. ” Journal of the 
+History of Ideas  9, 492–518.
+Mossner, Ernest Campbell. (1980). The Life of David Hume , 2nd ed. Oxford: Clarendon Press.
+Noonan, Harold W . (1999). Hume on Knowledge.  Routledge.
+Popkin, Richard. (1951). “David Hume:  His Pyrrhonism and His Critique of Pyrrhonism. ” 
+Philosophical Quarterly  1, 385–407.
+Reid, Thomas. (1764/1997). An Inquiry into the Human Mind on the Principles of Common 
+Sense , edited by Derek R. Brookes. Edinburgh: Edinburgh University Press.
+Russell, Paul. (2008). The Riddle of Hume’s Treatise:  Skepticism, Naturalism, and Irreligion . 
+New Y ork: Oxford University Press.
+Stewart, M. A. (1994). “ An Early Fragment on Evil, ” in M. A. Stewart and John P . Wright (eds), 
+Hume and Hume’s Connexions . Edinburgh: Edinburgh University Press, 160–170.
+Stewart, M. A. (2000). “The Dating of Hume’s Manuscripts, ” in Paul Wood (ed.), The Scottish 
+Enlightenment: Essays in Reinterpretation . Rochester, NY: University of Rochester Press, 
+267–314.108   Peter Millican
+Stewart, M. A. (2005). “Hume’s Intellectual Development, ” in Marina Frasca-Spada and P . J. E. 
+Kail (eds), Impressions of Hume . Oxford: Clarendon Press, 11–58.
+Stove, D. C. (1973). Probability and Hume’s Inductive Scepticism . Clarendon Press.
+Stroud, Barry. (1977). Hume . London: Routledge & Kegan Paul.
+Thornhill-Miller, Branden and Peter Millican (2015). “The Common-Core/Diversity 
+Dilemma: Revisions of Humean Thought, New Empirical Research, and the Limits of 
+Rational Religious Belief. ” European Journal for Philosophy of Religion 7, 1–49.

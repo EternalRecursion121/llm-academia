@@ -1,0 +1,1145 @@
+Humes Old and New
+Peter Millican and  Helen Beebee
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXI
+163I—P ETER  MILLICAN
+HUMES  OLD AND NEW: FOUR FASHIONABLE  
+FALSEHOODS , AND ONE UNFASHIONABLE  TRUTH
+Hume has traditionally been understood as an inductive sceptic with pos-
+itivist tendencies, reducing causation to regular succession and anticipat-
+ing the modern distinctions between analytic and synthetic, deduction and
+induction. The dominant fashion in recent Hume scholarship is to rejectall this, replacing the ‘Old Hume’ wi th various New alternatives. Here I
+aim to counter four of these revisi onist readings, presenting instead a
+broadly traditional interpretation but with important nuances, based es-pecially on Hume’s later works. He asked that we should treat these—
+notably the first Enquiry —as his authoritative philosophical statements,
+and with good reason.
+I
+Introduction . The contemporary student of Hume has every right to
+feel bewildered by the range of interpretations on offer. And this ex-
+traordinary variety is not conf ined to the murky depths of Treatise
+Book I—Hume’s discussions of the external world, or of personalidentity, or the concluding sect ion—where almost every commenta-
+tor seems to find a new reading. Ev en in the far mo re familiar topics
+of induction and causation, which generations of scholars took tobe relatively well understood, several would-be revolutions havebeen initiated over the last coup le of decades, and their pace has
+been increasing. Helen Beebee’s excellent book Hume on Causation
+(London: Routledge, 2006 ) is only the latest of an impressive series
+of recent scholarly works, each pres enting an interpre tation that dif-
+fers markedly from the classic Hu me as portrayed for most of the
+twentieth century by introductory books and university courses: ac-knowledging deduction, sceptical about induction, reductionistabout causation, and a paradigm soft determinist.
+All these new debates are exciting , and have greatly enriched our
+understanding of Hume’s philosophy in many ways. But neverthe-less I take what is currently a minority view amongst the active par-I—PETER  MILLICAN 164
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIticipants, namely, that the classic picture of Hume is broadly
+correct. This is not to say that the revolutionary interpretations aregroundless. On induction, for ex ample, there really is a problem
+about reconciling a sceptical interpretation of Hume’s famous argu-ment (in Treatise  1.3.6 and Enquiry  IV) with the positive view of in-
+ductive science that he takes el sewhere. And it is no longer
+considered plausible fo r commentators simply to dismiss as crude
+inconsistency his repeated recommendation that we should rigor-ously base our factual beliefs on experience, like ‘the wise man’ who‘proportions his belief  to the evidence’ ( Enquiry  10.4) when judging
+miracle stories.
+1 Similarly on causation, a crude anti-realist reading
+is no longer convincing, and any comprehensive understanding ofHume’s philosophy has to be able to explain how, after presentinghis seemingly sceptical a ccount of our idea of cause , he can so soon
+follow up by urging us to search systematically for hidden underly-ing causes of both physical and mental phenomena (e.g. Enquiry
+8.13–15, cf. Treatise  1.3.12.5). I believe such an understanding to
+be achievable, and that the overa ll picture of Hume that emerges is
+philosophically far more powerful than either the straightforward
+scepticism of the tradit ional reading or the relatively anaemic natu-
+ralism of more recent rivals.
+There will not be time now to di scuss even the broader features of
+this position, let alone to consider it in any detail. I shall focus in-stead on a more limited negative ta sk, of sketching and then attack-
+ing four major ‘Humean heresies’ th at have been advanced in recent
+years, and explaining—fairly br iefly—why I think each of them
+should be dismissed. None of them  will be given any sort of compre-
+hensive treatment, but I shall try to  give a flavour of what I consider
+to be the most damning points against them, together with referenc-es to other publications where thes e criticisms can be followed up.
+My aim is provide a generally s ceptical overview of the relevant
+contemporary Hume scholarship, and—by blowing away some re-
+cently acquired cobwebs—to reveal a cleaned up, but still eminently
+recognizable, Old Hume that so many of us know and love.
+1 Compare Antony Flew ( 1961 , p. 171): ‘The inconsistency [is] flagrant and embarrassing
+… [and] has not escaped the notice or the assault of his critics [e.g. Broad and Taylor].’HUMES  OLD AND NEW 165
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIII
+The Good Old Hume.  To situate the discussions that follow, I shall
+start with an outline of what I take to be the genuine main themes ofHume’s mature treatment of induction and causation; in other words,a sketch of the Old Hume as I believe he ought to be understood. Tomany of the new ‘heretics’, this may seem like a crude positivist car-icature of the real Hume, but I shall make no attempt to defend it indetail. Instead, I shall use it as a framework for locating the variousheresies, and a base from which I can set out to attack them.
+The main thrust of Hume’s theo retical philosophy concerns the
+epistemology of induction and the metaphysics of causation, whichare closely related. His primary targ et is the view of reason taken by
+philosophers such as Desc artes, who claimed to be able to establish
+certain knowledge of the world through rational insight based (atleast in part) on innate ideas, a nd Locke, who more modestly sought
+to achieve probable belief through rational insight based on ideas de-rived from experience.
+2 Hume denies that we have any such capacity
+for rational insight into the worl d and its workings. Instead we must
+rely on fallible inductive generalization from experience, ultimatelybased on the brute assumption—for which no rational foundationcan be given—that the laws of na ture are uniform. Though this as-
+sumption itself is instinctive rather than reasoned, it can neverthelessprovide a sufficient grounding for science if we follow it through sys-
+2 Two positions I reject but cannot consider fully here are those of Stephen Buckle ( 2001 ),
+who sees Hume’s Enquiry  as primarily an attack on Aristotelianism and Roman Catholi-
+cism, and Edward Craig ( 1987 ), who takes Hume’s main target to be the Judaeo-Christian
+idea of man as made in the image of God. One obvious objection to Buckle is that Hume, at
+least by 1748 , viewed ‘The fame of … Aristotle  [as] utterly decayed’ ( Enquiry  1.4).
+Buckle ignores this passage, and his response to the objection (pp. 53–6) is unconvincing.
+Nor, as I argue in my ( 2002 b) and ( 2007 a), is there any difficulty in reading the Enquiry  as
+systematically aimed at early modern targets, contrary to Buckle (pp. 35–43). Craig’s posi-
+tion is more plausible, because it incorporates an evident truth: that a major part of Hume’s
+aim is to attack a view of rational insight which was thought by its early modern adherents
+to be in some sense angelic or godlike rather than based on animal instinct. Where I partcompany with him is in seeing this view itself as specifically tied to the Image of God doc-
+trine, or that doctrine as specially pervasive. Many philosophers, since pre-Christian times,
+have understood our reason to be a distinctively human faculty of perceptual insight, andnothing in Hume’s main arguments against this notion requires reference to Craig’s Similar-
+ity Thesis. I also consider Craig mistaken in viewing Hume’s arguments, and that concern-
+ing induction in particular, as in any way taking for granted a deductivist view of reason,which as he points out (pp. 77–8) would favour his case. If, as I believe ( 2002 c, §2), it is
+Locke’s perceptual view of probable  reason that was Hume’s main target here, then for the
+same reason this counts strongly on the other side.I—PETER  MILLICAN 166
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXItematically. This involves weighing up evidence in the light of expe-
+rience, preferring those beliefs th at are best inductively supported,
+rejecting claims that ar e contrary to our experience (such as religious
+miracle stories), and generally seeking reliable causal uniformitiesthat underlie the inconstant superficial phenomena. By this means wecan distinguish reasonable from unreasonable belief, the ‘philosophy’of the ‘wise’ from the ‘superstition’ of the ‘vulgar’, without any reli-ance on Cartesian or Lockean insigh t into the workings of the world.
+There are two main threads to Hu me’s ‘chief argument’ by which
+he reaches this overall position, and which is most thoroughly de-veloped in the first Enquiry .
+3 The first of these starts from ‘Hume’s
+Fork’, his distinction between relations of ideas  and matters of fact ,
+which corresponds roughly to the distinction between analytic andsynthetic propositions (as understood by the logical positivists, rath-er than by Kant or Frege). Closely related to this is another distinc-tion, between two different types of reasoning: demonstrative ,
+which we now call deduction (in the general informal sense of an ar-gument whose premisses guarantee the truth of its conclusion), and
+reasoning concerning matter of fact (factual reasoning  for short),
+which we now call induction. Since no ‘matter of fact, beyond thepresent testimony of our senses, or the records of our memory’ ( En-
+quiry  4.3) can be inferred deductively from what we observe, only
+induction can enable us to discover  such matters of fact. Hume ac-
+cordingly investigates the epistemolo gical basis of induction, finding
+that it ultimately depends on an animal instinct, custom , which irre-
+sistibly leads us to expect that unobserved objects will resemblethose we have observed. This principle of resemblance or uniformity(often called his Unifor mity Principle, or UP) has no possible basis
+in reason, because it is not intuitively evident, cannot be establishedon the basis of what we perceive , cannot be inferred deductively
+from anything that we have experienced, and cannot be inferred in-ductively without begging the question. Thus our factual inferencenot only is not , but could not be , founded on reason. And so were
+we to rely on reason ‘without the influence of custom, we should be
+3 The full subtitle of Hume’s Abstract  of the Treatise  is ‘Wherein The chief argument  of
+that book  is farther illustrated  and explained ’. Of the thirty-five paragraphs in the
+Abstract , only three ( 28–30) are devoted to material that falls outside the scope of the sum-
+mary that follows here. Apart from the sections on religion and the final Section XII, the
+Enquiry  broadly follows the pattern of the Abstract ; see Millican ( 2002 b, §7) for an outline
+comparison of the two.HUMES  OLD AND NEW 167
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIentirely ignorant of every matter of fact beyond what is immediately
+present to our memory and senses’ ( Enquiry  5.6).
+The second main thread of Hume’s ‘chief argument’ starts from
+the conceptual empiricism which he  inherited from Locke. Expressed
+in Hume’s terminology, this becomes his Copy Principle that all ideasare composed of—and derive thei r significance from—material cop-
+ied from impressions of sensation or reflection. He applies this Prin-ciple to convict some terms (e.g. ‘substance’) of meaninglessness,
+through lack of any appropriate impression to generate the supposedidea.
+4 In other cases, he searches for the impression-source of the
+idea to shed light on the corres ponding term’s meaning. The Copy
+Principle’s most important application—which takes this secondform—is to the idea of power, for ce, or necessary connexion, the key
+consequential  component of the idea of causation.
+5 This turns out to
+be derived not from anything that we perceive or understand aboutcausal interactions in the world (e.g. collisions of billiard balls), butinstead from our reflexive awarenes s of making inductive inferences
+under the influence of custom in response to observed constant con-junctions. Thus causal necessity—in so far as it is anything beyondthe constant conjunct ions that induce our predictions—is not so
+much ‘read off’ the world, as ‘read into’ it. Hume concludes his dis-cussion of causation with two ‘definitions of cause’, one of whichmakes reference only to the objective  factor of constant conjunction,
+while the other focuses instead on the subjective  factor of the mind’s
+tendency to infer accordingly. Thes e definitions are intended to en-
+capsulate all that we can legitimately mean by ‘cause’ or ‘necessity’.
+So far this picture is very familiar, even though, as I have acknowl-
+edged, some might describe it as a po sitivist caricature rather than the
+real Hume. But rather less well known is how he goes on to connectone more important topic to his ‘chief argument’, namely, free willand determinism. Having framed his two definitions of ‘cause’, he
+4 For Hume’s discussions of the supposed simple idea of substance in the light of his Copy
+Principle, see especially Treatise  1.1.6 and 1.4.5.2–6, Appendix  11, Abstract  7 and 28, ‘Of
+the Immortality of the Soul’, paragraph 3 (Essays , p. 591), and New Letters , p. 20.
+5 My term ‘consequential’ is intended to capture what is in common to terms such as
+‘power’, ‘force’, and ‘necessary connexion’, in that all of them involve one thing’s being, in
+some sense, a consequence of another. Hume treats them all as virtually synonymous for thepurposes of his argument, whcih suggests that his concern is with this simple common ele-
+ment, whose impression-source turns out to be a different kind of consequential relation:
+‘that inference of the understanding, which is the only connexion, that we have any com-prehension of’ ( Enquiry  8.25). For more on this, see § 2.2 of my ( 2007 b).I—PETER  MILLICAN 168
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIuses the corresponding understanding of ‘necessity’ to argue against
+the libertarian claim that human acti ons lack the necessity that char-
+acterizes physical events. He accord ingly endorses the ‘doctrine of ne-
+cessity’, but as a soft determinist , pursuing a compatibilist ‘recon-
+ciling project’ ( Enquiry  8.23) that interprets moral freedom in terms
+of intentional agency rather than libertarian contingency. Much ofthis has Hobbesian echoes, but though Hume is often taken to be aparadigm compatibilist,
+6 his position is actually rather different from
+those in the mainstream compatibilist tradition passed from Hobbesdown to twentieth-centu ry positivists such as Schlick and Ayer.
+7
+III
+Four Fashionable ‘Heresies’ of Hume Interpretation . Non-special-
+ists might be slightly surprised by the very approving attitude to in-
+ductive science that I have attributed to Hume (though mention ofhis discussion of  miracles, and his emphati c contrast between sci-
+ence and superstition, might allay this). But in other respects, mostof them would, I imagine, take the account that I have given aboveas more-or-less orthodox, and as describing—perhaps with somesmall refinements here or there—th e standard Hume of so many in-
+troductory books and courses in epistemology and history of philos-ophy. Yet almost every fundamental aspect of it has been vigorouslychallenged in recent years, in a sequence of high-p rofile scholarly
+publications by numerous well-respected authors. Some of thesehave had to be confined here to brief footnotes, but the followingare the four main ‘Humean heresies’ on which I shall focus:
+Stove: Demonstration and Deduction . My account of Hume’s impor-
+tant distinction between demonstrative  and factual  reasoning equates
+6 James Harris has recently challenged this soft determinist consensus, arguing that Hume
+‘does not subscribe to determinism of any kind, whether Hobbesian or merely nomological’(2005 , p. 69, n.15; cf. 2003 , p. 464). Harris’s discussion is valuable but I believe this claim
+to be quite wrong, and in my ( 2008 ) pull together the relevant evidence from various
+sources, including letters, Hume’s discussions of the Causal Maxim and the Rules by whichto Judge of Causes and Effects, his accounts of scientific practice and the search for hidden
+causes, and also a range of other texts and philosophical considerations.
+7 For a very clear account of Hume’s position and how it is commonly misunderstood, see
+Botterill ( 2002 ).HUMES  OLD AND NEW 169
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIit more or less with the familiar distinction between deduction  (in the
+informal sense) and induction . But numerous interpreters over the
+last few decades have disputed this, claiming that Hume’s notion ofdemonstration is confined to deductive reasoning from a priori (or
+even self-evident) premisses . Most influential here has been David
+Stove, whose Probability and Hume’s  Inductive Scepticism  (1973 )
+was widely considered for some ti me to be the most authoritative
+analysis of Hume on induct ion. Stove’s arguments (pp. 35–6) against
+the equation of demonstration  with deduction  are still widely accept-
+ed, even by some (for example, David Owen and Helen Beebee) who
+nevertheless reject Stove’s own account of Humean demonstration.
+Garrett: Not Epistemology but Cognitive Science . Don Garrett’s in-
+fluential interpretation of Hume’s famous argument concerning in-duction, proposed in his major book Cognition and Commitment in
+Hume’s Philosophy  (1997 ), takes it to be an exercise in cognitive sci-
+ence rather than epistemology. Ther e are also some variations on this
+theme, developed by a range of scholars including Harold Noonan,David Owen and Helen Beebee, but what is common to all of them isthe idea that Hume’s argument is essentially descriptive  rather than
+normative , and is intended to draw a conclusion about the causation
+of our inductive inferen ces (or of the resultin g beliefs), rather than
+about their rationality. Thus the argument in itself is entirely non-sceptical, and its conclusion—that induction is not ‘founded onreason’—should be read as merely denying that induction resultsfrom some psychological process of reasoning  (i.e. stepwise argument
+or ratiocination ). This leaves open the possibility that Hume may con-
+sider induction to be entirely rational, and indeed those who advocatethis sort of interpretation are keen  to emphasize that he does so.
+Loeb: Hume the Externalist . Louis Loeb is strongly critical of Gar-
+rett’s ‘descriptivist’ interpretation, but is motivated by somewhatsimilar considerations in viewing Hume’s famous argument as non-sceptical. Loeb takes Hume to be an externalist, whose criterion of
+epistemic justification is based not so much on a belief’s resultingfrom (internalist) reason, but rather, on its arising from a processthat effectively c ontributes to the be liever’s cognitive stability . Loeb
+explored this approach in detail in his Stability and Justification in
+Hume’s Treatise  (2002 ), but other externalist interpretations haveI—PETER  MILLICAN 170
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIalso been tried, replacing stability as a criterion with such things as
+irresistibility, proper functioning, adaptiveness, or reliability (Loeb,2006 , p. 334).
+Wright: The Causal Realist ‘New Hume’ . John Wright’s The Scepti-
+cal Realism of David Hume  (1983 ) was the first ma jor salvo in the
+most intense debate in recent Hume  scholarship, with his claim that
+Hume is not a reductionist about causation, but is instead a believerin ‘thick’ (or ‘upper-case’) Causal powers that outrun his two ‘defi-nitions of cause’. Evidence adduced in favour of this claim includes
+Hume’s comments on the apparent  defectiveness of those defini-
+tions, his frequent references to hidden powers or causes, and hisapparent assumption that a genuine impression of necessity must li-cense a priori inference from caus e to effect. The main evidence on
+the other side appeals to the texts of his discussions ‘Of the Idea of
+Necessary Connexion’ in Treatise  1.3.14 and Enquiry  VII, and in
+particular, Hume’s apparent use of the Copy Principle to circum-scribe the limits of our ideas an d hence the possible meaning of
+‘power’ or ‘necessity’. Those following Wright’s ‘New Hume’ revo-lution,
+8 such as Edward Craig, Galen Strawson, Stephen Buckle and
+Peter Kail, have sought to undermine this objection by insisting thatHume countenances ‘relative ideas’  (e.g. of ‘the ultimate cause of
+any natural operation’, Enquiry  4.12) which need not be impres-
+sion-derived, and hence can extend beyond the limits of the CopyPrinciple.
+That completes my catalogue of th e four ‘Humean heresies’, all of
+which concern aspects of the centr al core of his philosophy on in-
+duction and causation. If the field were drawn more widely, itwould be easy to add more would-be revolutionary readings, someequally surprising to traditionalists.
+9 But for fecundity of novel in-
+8 The term ‘New Hume’ was originally due to Winkler ( 1991 ), but has since caught on more
+generally. Most of the main papers are to be found in The New Hume Debate , ed. Read and
+Richman, whose forthcoming second edition will also include a long paper of my own
+(2007 b) in which I attempt a comprehensive refutation.
+9 It was particularly tempting to include here John Earman’s gratuitously abusive account
+(2000 ) of the famous argument on miracles, which is a direct application of Hume’s philos-
+ophy of induction. I discuss Earman’s interpretation in my ( 2003 ), but its inadequacy can
+quickly be shown. A careful reading of Enquiry  10.5–8 makes very clear that Hume sees the
+unusualness of a reported event as one factor amongst others  bearing on the credibility of
+testimony. Where the other factors are all maximally favourable (so we have a ‘proof’ of theHUMES  OLD AND NEW 171
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIterpretation in the most familiar philosophical territory, the last dec-
+ade or two of scholarship on Hume’s ‘chief argument’ would, Iimagine, be hard to match.
+IV
+The Treatise , the Enquiry,  and Induction . Besides these four recent
+‘Humean heresies’, my subtitle alludes to ‘one unfashionable truth’,which I shall not defend in much detail but is of considerable signif-icance. Namely, that in interpreting  and assessing the central core of
+Hume’s philosophy—his epistemology of induction and his meta-physics of causation—we must take the Enquiry Concerning Hu-
+man Understanding , originally published in 1748  and revised
+numerous times during his life, as our authoritative source. Again I
+have argued extensively for this elsewhere,
+10 and will here just
+sketch my reasons. They start from  the evidence of Hume’s letters in
+the wake of the publication of Books I and II of the Treatise , which
+took place in January 1739 . In these letters, starting barely four
+months later, Hume already expr esses serious dissatisfaction with
+his work and regrets his haste in pu blishing; this message is then re-
+peated through 1740  to 1745  and 1754 , and even in his posthu-
+mous ‘My Own Life’ written in 1776 . At first, Hume looks forward
+to making corrections in a second edition ( Letters , i, 38), and indeed
+he inserted some revisions into the appendix published with Book
+10 See for example my ( 1995 , pp. 93–4; 2002 b, pp. 40–52; and especially 2006) . testimony), but the event would be miraculous (so we also have a ‘proof’ of its falsehood),
+we are to weigh these proofs against each other in the balance, and it is the result of this
+comparison that yields the overall judgement as to whether the testimony should be be-lieved. Earman’s interpretation, by contrast, involves the prior calculation of two overall
+judgements—namely the conditional probability (given the testimony) of the event, and of
+its absence—which are then put in the balance against each other. But since these two con-ditional probabilities must sum to 1, this reduces the weighing operation to a complete
+triviality: the first ‘wins’ simply if it exceeds 0.5, and a probability exceeding 0.5 is, by def-
+inition, precisely what is required to make the event credible. Trivial indeed, but the trivial-ity is Earman’s, not Hume’s. In view of the regrettably insulting tone of Earman’s book, I
+wonder why a reading of my ( 1993 )—which appears in his bibliography (but nowhere
+else), explicitly anticipates his formula, and expresses serious reservations about its inter-pretative adequacy—did not inspire him with a little more of that ‘degree of doubt, and
+caution, and modesty, which … ought for ever to accompany a just reasoner’
+(Enquiry 12.24).I—PETER  MILLICAN 172
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIIII in November 1740  (plus a frank admission of defeat in respect of
+personal identity). Later he loses all interest in a second edition, andby 1754  is confiding that the Treatise  ‘so much displeases me, that I
+have not Patience to review it’ ( Letters,  i, 187). Hume’s recasting of
+his philosophy instead took a different path, starting with the Ab-
+stract  of the Treatise —probably composed late in 1739 —in which
+his arguments get substantially reorganized and refocused. The Ab-
+stract’ s subtitle declares its intended purpose of illustrating and ex-
+plaining ‘the chief argument’ of the 1739  Treatise  (see note 3
+above). But since it cl osely anticipates the Enquiry  both in approach
+and choice of material, we have good reason for taking the laterwork—which is of course far more substantial than the Abstract —
+as representing the main core of Hume’s philosophy not only as he
+saw it after 1748 , but even as early as 1739 . Moreover Hume’s atti-
+tude to the Enquiry  after publication was in complete contrast with
+his attitude to the Treatise , as shown by his written recommenda-
+tions to his friends, for example Gilbert Elliot in 1751 :
+I believe the philosophical Essays [i.e. the Enquiry  as originally titled]
+contain every thing of consequence relating to the Understanding,
+which you would meet with in the Treatise; & I give you my Adviceagainst reading the latter. ( Letters,  i, 158)
+Nearly twenty-five years later, su ffering from terminal cancer and
+anxiously preparing his philosophical legacy for posterity, he wroteto his printer William Strahan with the ‘Advertisement’ that he in-sisted should be affixed to all future editions of the volume contain-ing the Enquiry . This famously refers to the Treatise  as a ‘juvenile
+work’, and ends with the request:  ‘Henceforth, the Author desires,
+that the following Pieces may alone be regarded as containing hisphilosophical sentiments and principles’.
+No doubt Hume’s complete dismissal of his own Treatise  goes too
+far, but this does not warrant that we should ignore his request inthe wholesale way exhibi ted by so much work on Hume over recent
+decades. For it is very clear that on a number of the most prominent
+topics in his philosophy—for example induction, free will, naturaltheology, and the overall orientation of his scepticism—the Enquiry
+is not only more superficially polished, but is also more fully devel-oped, explicit and comprehensive. This point is entirely obvious inrespect of free will, miracles, the Design Argument, and his mitigat-HUMES  OLD AND NEW 173
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIed scepticism, so I shall take as my  illustration the case of induction.
+It is, I suggest, surprising and even  perverse that so many of those
+who wish to understand Hume’s famous argument concerning in-duction study it primarily in the pages of the Treatise , where it is
+somewhat convoluted and condensed beyond the limits of clarity, asopposed to the Enquiry , where it is far more explicitly spelt out and
+more than twice as long. In pr actice, such interpreters commonly
+find themselves obliged to sm uggle in passag es from the Enquiry  to
+plaster over stages that are unclear or omitted from the Treatise . For
+example, the distinctio n between relations of ideas and matters of
+fact is a frequent import from Enquiry  4.1–2, brought in as a clari-
+fying refinement of the distinction in Treatise  1.3.1 between the ‘sev-
+en different kinds of philosophical relation’.
+11 But other passages are
+often imported that have no such parallel in the Treatise , and some-
+times even structur al aspects of the Enquiry  argument may be super-
+imposed onto what purports to be an analysis of Treatise  1.3.6. In
+Barry Stroud’s well-known book Hume , for example, shortly after
+introducing the ‘Uniformity Principl e’, consideration is given to the
+various ways in which this Principle could be supported:
+The uniformity principle cannot be  established by observation alone,
+since it makes a claim about some things that are not, and have not
+been, observed. … Therefore, any expe riential justification for the uni-
+formity principle must consist of a justified inference from what has
+been observed to the truth of that principle. (Stroud, 1977 , pp. 54–5)
+The trouble is that these stages of  the argument are completely ab-
+sent from the Treatise  version. Instead, at Treatise  1.3.6.4, Hume’s
+first statement of the Uniformity Principle is immediately followed
+by the sentence:
+In order therefore to clear up this matter, let us consider all the argu-
+ments, upon which such a proposition may be suppos’d to be found-ed; and as these must be deriv’d either from knowledge  or probability ,
+let us cast our eye on each of these degrees of evidence, and see wheth-
+er they afford any just conclusion of this nature.
+He then moves on to dismiss demonstrative and probable reasoning
+as possible sources of foundation for the Uniformity Principle, and
+11 For example, in Noonan ( 1999 , pp. 92–6).I—PETER  MILLICAN 174
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIthus concludes his main argument.12 Hence he is clearly taking for
+granted here that if the Principle is to be established, then this mustbe on the basis of either a de monstrative argument (yielding knowl-
+edge) or a probable argument. In the Enquiry , by contrast, he ex-
+plicitly includes the stages that Stroud takes to be implicit:
+It is allowed on all hands, that there is no known connexion between
+the sensible qualities and the secret powers; and consequently, that the
+mind is not led to form such a conclusion concerning their constant
+and regular conjunction, by any thing which it knows of their nature.As to past Experience , it can be allowed to give direct  and certain  in-
+formation of those precise objects only, and that precise period of
+time, which fell under its cognizan ce: But why this experience should
+be extended to future times, and to other objects, which, for aught we
+know, may be only in appearance similar; this is the main question on
+which I would insist. … The connexion [from past to future] is not in-
+tuitive. There is required a medi um, which may enable the mind to
+draw such an inference, if indeed it be drawn by reasoning and argu-
+ment. ( Enquiry  4.16)
+Hume thus carefully rules out inference to the Uniformity Principle
+from anything that we can learn a priori through ‘the sensible quali-ties’ of bodies.
+13 He also emphasizes the ad ditional point that there
+is no intuitively evident link betw een past and future occurrences, so
+that we require some  ‘medium’ or intermediate step—hence some
+demonstrative or probable reasonin g—if we are to have a basis for
+extrapolating from one to the other (he then goes on to dismiss bothtypes of reasoning in the familiar way). In short, where the Treatise
+rules out only demonstrative and pr obable argument as potential
+grounds for the Unifor mity Principle, the Enquiry  deals also with
+sensation and intuition.
+All this impacts quite directly on  the interpretation of Hume’s fa-
+mous argument, because one of the most popular recent heresies
+which I shall be discussing below, originally due to Don Garrett andthen strongly promoted by Harold Noonan, holds that:
+12 The last of these passages, in which Hume presses the charge of circularity against any
+would-be inductive argument for the Principle, is immediately followed by a sentence begin-ning ‘Shou’d any one think to elude this argument …’ ( Treatise  1.3.6.8).
+13 For detailed analysis of the Enquiry  argument, see my ( 1995 ) and especially ( 2002 c).
+§§3.2 and 10.2 of the latter discuss the nature and role of the Uniformity Principle, while
+§4.1 explicates the relevant Humean notion of ‘a priori’.HUMES  OLD AND NEW 175
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIHume should be interpreted … as making a specific claim, within cog-
+nitive psychology, about the underly ing causal mechanism that gives
+rise to inductive inferences: namely, that it is not itself dependent on
+any reasoning or in ference. (Garrett, 2002 , p. 333; cf. 1997 , pp. 91–2)
+Likewise David Owen, whose interpre tation is in some respects fol-
+lowed by Helen Beebee, claims th at Hume’s fundamental concern is
+to rule out any possibility of reasoning —understood as ratiocina-
+tion involving intermediate steps—that could underlie our inductiveprocesses:
+Hume … is denying that [inductive] inferences can be explained as an
+activity of the faculty of reason c onceived as functioning by the dis-
+covery of intermed iate ideas … (Owen, 1999 , p. 132)
+Both Garrett’s analysis ( 1997 , p. 82) and Owen’s focus almost ex-
+clusively on the text of the Treatise , and both therefore ignore the
+wider scope of the Enquiry  discussion, which as we have seen is not
+confined to argument by means of intermediate ideas. In the En-
+quiry , indeed, Hume does not even give overt priority to demonstra-
+tive and probable (i.e. ‘moral’)  argument, since he moves on to
+consider them only after having ruled out sensation and intuition aspotential sources of support for the Uniformity Principle. Considernow a passage from Hume’s Letter from a Gentleman to his friend
+in Edinburgh  (p. 22), composed in 1745  at exactly the time when he
+was working on the Enquiry :
+It is common for Philosophers to distinguish the Kinds of Evidence
+into intuitive , demonstrative , sensible , and moral .
+Is it coincidental that Hume’s argument in Enquiry  IV rules out ex-
+actly these four ‘Kinds of Eviden ce’ for the Uniformity Principle? I
+don’t think so. But if he really does conceive his argument as rulingout any kind of evidence  for the Principle, this puts a far more scep-
+tical light on it than something like  a mere denial that the Principle
+is ‘dependent on … reasoning … c onceived as functioning [through]
+intermediate ideas’. I would sugges t, therefore, that the currently
+fashionable non-sceptical interpretations of Hume’s argument de-rive much of their plausibility from their predom inant reliance on
+the relatively cursory an d crude version in the Treatise , and their ne-
+glect of the far more comprehens ive, polished, and authoritative
+version in the Enquiry . Analysing the Treatise  on induction—as onI—PETER  MILLICAN 176
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXImuch else—may be more fun for Hu me scholars, precisely because
+its confusing (and sometimes conf used) unclarity allows so much
+more scope for inventive new interp retation. But the widespread fo-
+cus on it as Hume’s supposedly au thoritative text, against his explic-
+it and oft-repeated wishes, and in the teeth of such clear evidence of
+the Enquiry ’s more systematic treatment of the issue, seems utterly
+indefensible.14
+So much for my one unfashionable truth. Now let us move on to
+my four fashionable falsehoods.
+V
+What Does Hume Mean by ‘Demonstrative’?  Anyone who ap-
+proaches Hume’s texts having a basic familiarity with the standarddistinctions of analytic philosophy is likely to be tempted to identifyhis notion of demonstration  with what we now call deduction . Here
+of course I do not mean formal  deduction; that would be most im-
+plausible given the informality of Hume’s texts, and his contemptfor the formal logic he knew. But his talk of ‘demonstrative argu-
+ments’ seems to map very ea sily onto our very familiar informal  no-
+tion, of an argument whose prem isses guarantee the truth of its
+conclusion.
+15 Yet a host of recent interpreters insist that any such
+identification would be mistaken,16 and most of these take Hume’s
+notion of a demonstrative argument to be confined to deductive ar-guments with a priori, and perhap s even self-evident, premisses.
+Two main pieces of evidence ar e usually given against the
+straightforward identification of Humean demonstration with de-
+14 This is not to deny value in investigating ‘the view of the Treatise ’ on its own terms and
+independently of any later thoughts that Hume might have had. But if the aim of such aninvestigation is genuinely to establish Hume’s own view in early 1739 —rather than merely
+to use the Treatise  text as a platform for imaginative ‘rational reconstruction’—then it is
+obvious that some of the very best evidence to be had lies in Hume’s published texts of 1740
+and 1748 , which treat many of the same topics as the Treatise , and sometimes do so far
+more clearly and unambiguously.
+15 Though it seems unlikely that Hume—with his dislike of the artificialities of formal logic—
+would have welcomed the somewhat paradoxical implications of the standard refinement of
+this informal notion, as an argument whose counterexample set is inconsistent. Hence I am
+unmoved by Owen’s arguments that appeal to such considerations ( 1999 , pp. 90–1).
+16 See, for example, Garrett ( 1997 , p.87), Owen ( 1999 , p.87), Buckle ( 2001 , p.166), and
+Beebee ( 2006 , p. 20). For references to earlier scholars (Beauchamp and Rosenberg, Gaskin,
+Passmore, and Stove) see my ( 2002 c, p. 113, n.36).HUMES  OLD AND NEW 177
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIduction. First, the various passages in which he appears to say ‘that
+there can be no demonstrative arguments for any conclusion con-cerning matter of fact’ (Stove, 1973 , p. 35). And secondly, his com-
+ments on the limited province of demonstration, most notably:
+It seems to me, that the only objects of the abstract sciences or of dem-
+onstration are quantity and number, and that all attempts to extend
+this more perfect species of knowledge beyond these bounds are mere
+sophistry and illusion. ( Enquiry  12.27)
+If Hume believes that demonstr ative arguments can lead only to
+pure mathematical truths, and never to matters of fact, then doesn’tthat settle the question? Well, it wo uld if he did believe these things,
+but in fact he doesn’t believe either of them. To start with, his rea-son for limiting the scope of useful demonstration to the realm ofmathematics has nothing to do with apriority , but is instead a mat-
+ter of precise composition  of ideas. The quotation above continues:
+As the component parts of quantity  and number are entirely similar,
+their relations become intricate an d involved [which enables us] to
+trace, by a variety of mediums, their equality or inequality, through
+their different appearances.
+Non-mathematical ideas, by contra st, have no such identical com-
+ponent parts, so in attempting to reason demonstratively with them,‘we can never advance farther … th an to observe this diversity’.
+Notice, however, that in confining useful demonstrative argument
+to the realm of mathematics, Hume has not confined it only to pure
+mathematics. So the crucial test ca se has to be what he says about
+applied  mathematics, in which the sa me precisely composed ideas
+are used, but within arguments whose premisses and conclusions
+concern the contingent world. I have elsewhere ( 2002 c, pp. 133–4)
+taken as illustration the example of conservation of momentum atEnquiry  4.13, where Hume makes a point  of emphasizing the con-
+tingency of that physical law. But fo r variety I shall here turn instead
+to the Treatise :
+Mechanics are th e art of regulating th e motions of bodies to some de-
+sign’d end or purpose ; and the reason why we employ arithmetic in
+fixing the proportions of numbers, is only that we may discover the
+proportions of their influence and operation. A merchant is desirous
+of knowing the sum total of his ac counts with any person: Why? butI—PETER  MILLICAN 178
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIthat he may learn what sum will have the same effects  in paying his
+debt, and going to market, as all the particular articles  taken together.
+Abstract or demonstrative reasoning, therefore, never influences any
+of our actions, but only as it di rects our judgment concerning causes
+and effects. ( Treatise  2.3.3.2)
+This looks pretty decisive: if demonstrative reasoning is applicable
+in this way to mechanics and acco unting, then it’s  clearly not con-
+fined to the realm of a priori truths. Nor is it is possible to weaselout of this by claiming that applied mathematics is somehow purelyhypothetical and therefore a priori after all. First, such a manoeuvre
+is psychologically implausible: the merchant does not think ‘ If I owe
+her £ 60 plus £ 50 minus £ 20 then I owe her £ 90’.
+17 But even if he
+did, in drawing the conclusion that he in fact owes £ 90 by modus
+ponens , he is still applying demonstrative reasoning to yield a con-
+tingent truth.18
+All this is just as well for Hume, because if he were to insist that
+demonstrative reasoning can only have a priori premisses and con-clusions, then he would leave a massive lacuna in his logical taxono-my. He repeatedly insists that ‘a ll reasonings may be divided into
+two kinds’, namely demonstrative  and factual  (Enquiry  4.18, cf.
+Treatise  1.3.6.4, 2.3.3.2, 3.1.1.18), with the former proceeding on
+the basis of relations of ideas, and the latter on the basis of causalinference from experien ce. Moreover his argument concerning in-
+duction crucially depends on this claim, since he uses it toenumerate—with a view to elimin ation—‘all the branches of hu-
+17 Besides which, if the line between categorical and hypothetical reasoning is blurred in this
+way, then it becomes impossible to sustain the view that Hume distinguishes between argu-ments on the basis of the modal status of their premisses. An argument from one contingent
+premiss P to conclusion Q requires exactly the same logic as the corresponding argument
+with no contingent premiss and the conclusion if P then Q . Hume, I believe, would not dis-
+tinguish between these, but those who hold that demonstrative reasoning is possible only
+from a priori premisses clearly must do so.
+18 It seems deeply implausible to go to the extreme of denying that a simple application of
+modus ponens  (if P then Q; P; therefore Q) or modus tollens  (if P then Q; not- Q; therefore
+not-P) is demonstrative, purely on the grounds that P and Q themselves are contingent.
+Hume cannot consistently count such simple logical inference as ‘reasoning concerning mat-
+ter of fact’ because it does not in any way depend on causation (cf. Enquiry  4.4), but it can
+hardly be ignored. Without it, Hume will be unable ever to draw a conclusion from any
+hypothetical piece of reasoning, even an application of reductio ad absurdum . For example,
+at Treatise  1.2.4.10 he talks of ‘demonstrations from these very ideas to prove, that they are
+impossible’; but this sounds like a categorical rather than hypothetical conclusion. Note
+also the clear implication of this passage, that Hume doesn’t in fact require the premisses of
+a demonstration to be possibly  true, let alone self-evidently  or a priori  true.HUMES  OLD AND NEW 179
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIman knowledge’ ( Enquiry  4.17) that might be thought to furnish an
+argument for the Uniformity Principle. But if demonstration is re-stricted to deduction from a priori or self-evident premisses, then hissupposedly exhaustive taxonomy is manifestly incomplete, over-looking entirely any deductive argument from contingent premiss-es.
+19 This would be particularly egregious when his taxonomy is
+presented in the context of his di scussion of inferences that may be
+drawn from a contingent premiss: ‘such an object has always beenattended with such an effect’ ( Enquiry  4.16). Hume has not lacked
+valiant defenders, going to great and elaborate lengths to save his
+system from disaster (e.g. Owen, 1999 , pp. 87–112; Beebee, 2006 ,
+pp. 20–31), and one can learn much from their interesting discus-
+sions. But I believe their efforts to  be entirely unnecessary: every-
+thing is much more straightforward if we simply identify‘demonstrative’ with ‘deductive’, as generations of Hume’s readers
+have been happy to do without a second thought.
+That will do for the positive ca se, but how should we then re-
+spond to Stove’s influential appeal to those familiar passages inwhich Hume appears to assert ‘that there can be no demonstrative
+arguments for any conclusion concerni ng matter of fact’? Is he just
+flatly inconsistent? Well again, he might be if he were saying this,but in fact he never does. What he actually says is subtly different:
+To form a clear idea of any thing [is] a refutation of any pretended
+demonstration against it. ( Treatise  1.3.6.5)
+[N]o matter of fact is capable of being demonstrated. ( Treatise
+3.1.1.18)
+[W]herever a demonstration takes place, the contrary … implies a
+contradiction. ( Abstract  11)
+What is possible can never be demonstrated to be false. ( Abstract 14;
+cf. Enquiry  4.2)
+[The contrary of a matter of fact] ca n never be proved false by any de-
+monstrative argument or abst ract reasoning a priori. ( Enquiry  4.18)
+19 Nor, as indicated in the previous note, can such deductions be classed as ‘reasoning con-
+cerning matter of fact’ on pain of even greater damage to Hume’s system, since this would
+blow apart his fundamental claim that all factual inference is founded on causation and
+experience, on which he builds the core of his philosophy.I—PETER  MILLICAN 180
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXI[M]atter[s] of fact and existence ar e evidently incapable of demonstra-
+tion. ( Enquiry  12.28)
+To focus on this difference, note  that even in our everyday speech,
+we would draw a clear distinction between ‘demonstrating Q’ tout
+court  and ‘demonstrating Q from  P’. And a similar point applies to
+what I claim to be our modern equivalent, ‘deductive proof’. If Iprovide a valid argument from P to Q, then I can legitimately claim
+to have deductively proved Q from P . But if my premiss P itself is
+controversial or uncertain, then it would be grossly misleading ofme to claim on this basis to have deductively proved Q tout court .
+Applying this lesson to the Humean quotations above, there is nodifficulty whatever for my interpretation in Hume’s denying that amatter of fact can be demonstrated tout court , or its contrary
+‘proved false by any demonstrative argument … a priori’. Neither ofthese denials implies any such ba r on demonstrating one matter of
+fact from another . Nor, I believe, is there any significant problem in
+dealing with Hume’s claim that ‘the contrary [of a demonstration]implies a contradiction’. If the demonstration in question is a proofof Q from P , then its ‘contrary’ is not simply the negation of Q, but
+rather the conjunction of P with that negation. And again this con-
+forms with our everyday understanding: if I claim that P necessarily
+implies Q, and you contradict me, then  you are clearly asserting
+that ( P and not Q) is a possibility.
+To sum up, then, Hume’s notion of demonstration is best read in
+the most straightforward manner, as broadly equivalent to deduc-tion (in the familiar informal sense). A successful demonstration istherefore a deductively valid argume nt, either from some hypotheti-
+cal premiss(es) to a conclusion, or for a conclusion tout court  (in
+which case any premisses must themselves be already certain).
+When Hume says that some proposition ‘cannot be demonstrated’,he invariably means the latter, as  indeed would be expected from
+our own standard usage. All of Hu me’s relevant texts can, I believe,
+be straightforwardly understood in this way, and—unless this claimcan be refuted—I would conclude that the far more complex inter-pretations proposed by Owen a nd Beebee are entirely unwarranted.HUMES  OLD AND NEW 181
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIVI
+Hume’s Epistemology of Induction . I have written at considerable
+length on Hume’s argument concerning induction, and it would beimpossible here to rehearse all the objections that can be broughtagainst the now fashionable claim that his argument is primarily de-scriptive rather than normative.
+20 Instead, I shall repeat a simple
+challenge to those who take th is view: to account for the logic of
+that argument in terms consistent with their interpretation. This re-quires a clear statement of the argument’s premisses and conclusion,
+an elucidation of the main concepts that play a significant role with-in it (such as the ‘founded on’ relation and the Uniformity Princi-ple), and finally—most crucially—an explication of the argument’sstructure which demonstrates how its logical sequence is appropri-
+ate for getting from the pr emisses to the conclusion.
+All this might seem obvious and unproblematic, but in fact work-
+ing out such an account within a non-normative, descriptive inter-pretation is far from straightforward, and this challenge (which Ifirst delivered six years ago in the presence of Don Garrett and
+David Owen) is so far unanswered. To illustrat e the difficulties, I
+shall focus mainly on Ow en’s interpretation,
+21 according to which—
+as we saw earlier—the conclusion to Hume’s argument can be
+glossed as follows:
+Hume … is denying that [inductive] inferences can be explained as an
+activity of the faculty of reason c onceived as functioning by the dis-
+covery of intermed iate ideas … (Owen, 1999 , p. 132)
+Hume’s own stated conclusion is  that factual inference is not
+‘founded on reason’, so if Owen’s interpretation is to work, ‘ X is
+founded on reason’ must mean something like ‘ X is explicable in
+terms of ratiocination involving intermediate steps’. But consider
+now Hume’s argument for this conclusion, which in broad outline,
+20 My 1995  paper gives detailed criticism of the old ‘deductivist’ (e.g. Stove) and ‘anti-
+deductivist’ (e.g. Beauchamp) interpretations, whereas ( 2002 c) focuses more on Garrett and
+Owen, incorporating criticisms sketched originally in my PhD thesis of 1996  and presented
+at greater length in my ( 1998 ). Various of these later criticisms are collated, supplemented,
+and summarized very effectively by Loeb ( 2006 , pp. 324–30). The challenge mentioned
+below is first presented at the end of my ( 2001 ), and then repeated in ( 2002 c, §10.3).
+21 For more detailed criticism of a similar kind focusing on Garrett’s interpretation, see my
+(1998 ; 2002 c, pp. 157–60).I—PETER  MILLICAN 182
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIand on detailed textual grounds, I take to have the logical structure
+shown below:22
+22 See my ( 2002 c, pp. 146–7) or pp. 170–3 for a more detailed analysis which is built up
+between pp. 120–39.All reasonings from 
+experience are found-
+ed on the Uniformity Principle (UP): 
+FO(e,u)All causal reasoning
+is founded on experience: FO(c,e)All factual inferences 
+to the unobserved are 
+founded on causation: FO(f,c)
+UP is not founded on 
+demonstrative infer-
+ence (from past uni-formity): ¬FO(u,d)
+UP is not founded on 
+intuitive evidence: 
+¬FO(u,i)
+UP is not founded on 
+sensory evidence: 
+¬FO(u,s)All factual inferences 
+to the unobserved are founded on UP: 
+FO(f,u)All factual inferences 
+to the unobservedare founded on experience: FO(f,e)
+UP is not founded on 
+factual inference to 
+the unobserved: ¬FO(u,f)
+UP is not founded on 
+reason: ¬FO(u,R)No factual inference 
+to the unobserved is 
+founded on reason: 
+¬FO(f,R)Key to Formulae
+FO(x,y): x is founded on y
+c: causal reasoning
+d: demonstrative inference
+e: reasoning from experience
+f: factual inference to the 
+unobserved
+i: intuition
+R:r e a s o n
+s:s e n s a t i o n
+u: the Uniformity PrincipleHUMES  OLD AND NEW 183
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXISuppose (though this is far from obvious) that Owen is able to ex-
+plain all of this argument up to the final stage, and let us put to oneside the query hinted at earlier, of why on his account Hume shouldshow any interest in whether or not the Uniformity Principle can befounded on sensory or intuitive ev idence (neither of which essential-
+ly involves intermediate ideas). The remaining problem is then tojustify the concluding step:
+All factual inferences to the unobserved are founded on UP.
+UP is not founded on reason.
+∴No factual inference to the unobserved is founded on reason.
+On Owen’s account, recall, ‘found ed on reason’ means roughly ‘ex-
+plicable in terms of ratiocination involving intermediate steps’, andhence ‘founded on the Uniformity Principle’ presumably meanssomething like ‘explicable in terms of the Uniformity Principle’. Butthe mystery here is why Hume shoul d then see this step as valid.
+Compare, for example, the fo llowing two short arguments:
+David’s only surviving parent is Katherine.
+Katherine has no surviving ancestors.
+∴David has no surviving ancestors.
+This is plainly invalid, because Katherine herself—if alive—
+furnishes David with a surviving ancestor, even though she has none
+herself.
+23
+Factual inference F is explicable in terms of UP.
+UP is not explicable in terms of ratiocination involving
+intermediate steps.
+∴Factual inference F is not explicable in terms of ratioci-
+nation involving intermediate steps.
+23 The argument is also invalid for another reason, since David’s dead father could yet have
+surviving ancestors. This too provides some analogy to the argument that follows, if factualinference F is explained by UP together with some other proposition P which is itself expli-
+cable in terms of ratiocination. Here, however, I shall ignore this further difficulty for the
+Owen/Garrett/Noonan account.I—PETER  MILLICAN 184
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIIf a factual inference F is founded on UP, then UP presumably plays
+some role in explaining F. Suppose that role is  precisely to serve as
+an intermediate step by which F functions (so we might call UP a
+‘parent’ proposition for F’s conclusion). Clearly this is not in any
+way ruled out by the premiss that UP itself has no such intermedi-
+ate-involving explanation (i.e. no ‘parent’ proposition of its own).On Owen’s account, therefore, this  argument is as invalid as the
+previous one, and it is left completely obscure why Hume shouldtake for granted that a lack of inferential  foundation for UP itself
+should then be ‘inherited’ by conclusions that are themselves in-
+ferred  on the basis of UP.
+Exactly the same sort of inheritance difficulty arises on the ac-
+count of Garrett and Noonan, who interpret ‘ X is founded on rea-
+son’ as (roughly) ‘ X is caused by argument’. For the fact—if it be
+one—that a belief in UP is not caused by argument cannot prevent
+UP from itself featuring in an  argument that causes some further  be-
+lief. UP could be a whimsy, an innate prejudice, a God-given instinc-tive belief, or whatever: none of this would a priori prevent it fromplaying a role in argument for other  propositions. So the entire
+structure of Hume’s argument is re ndered inexplicable on this inter-
+pretation: we have been given no  apparent reason why the founda-
+tion of the Uniformity Principle itself should be thought to have anydirect relevance to the question su pposedly at issue (i.e. whether in-
+dividual factual infere nces are ‘caused by argument’). The only re-
+course seems to be to appeal to very un-Humean rationalistprejudices, such as those expresse d by Noonan, who recognizes the
+problem and attempts to address it:
+We could not be caused to engage in the practice  of inductive inference
+by our acceptance of an argument, a premiss of which was the Uni-formity Principle, unless we al so had available an argument for the
+Uniformity Principle (for we could not  believe in the Uniformity Prin-
+ciple, antecede ntly to acquiring a dispositi on to engage in inductive in-
+ference, except on the basi s of argument). (Noonan, 1999 , pp. 11920)
+But where has Hume given any rati onale whatever for saying that
+‘we could not believe in the Unif ormity Principle … except on the
+basis of argument’? Surely one of the main points of his philosophyis precisely that we do, and have to , take that Principle for granted
+all the time, even though it has no independent foundation! TheHUMES  OLD AND NEW 185
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIsame objection can be made against Owen, and—with a caveat to
+be discussed in §VII below—against Beebee:
+[S]ince [the Uniformity Principle] is neither intuited nor sensed, then if
+it is available to us at all, it must be known demonstratively or be-
+lieved as a result of probable reasoning. (Owen, 1999 , p. 129)
+We cannot know a priori  … that unobserved in stances resemble ob-
+served instances … Nor can we come to believe  [this] Uniformity Prin-
+ciple without employing causal reasoning. (Beebee, 2006 , p. 44)
+Such interpretations are thus forced to turn Hume into a twofold ra-
+tionalist about the human mind. First, he thinks that we can onlycome to have belief in the Unif ormity Principle on some (at least
+quasi-) rational basis: it cannot just be the causal result of a bruteinstinct, a whimsy, or whatever. Secondly, he can supposedly tell apriori that this must be the case: in framing his discussion of induc-tion, he is apparently purporting to  have a priori knowledge of the
+mind’s causal processes!
+This entire problem disappears if ‘ X is founded on Y’ is interpret-
+ed normatively  rather than just causally, as involving the derivation
+of rational authority  (an interpretation I justify at length in my 2001
+and 2002 c, §10.1). For it seems clear that a proposition can pass on
+rational authority to its ‘inheritors’ only if it has such authority it-self. The final stage of Hume’s ar gument then becomes the plainly
+valid:
+Factual inferences to the unobserved derive whatever
+authority they possess from UP.
+UP has no authority derived from reason.
+∴No factual inference to the unobserved has authority
+derived from reason.
+But any such normative interpretation will make the negative con-
+clusion of the argument, at le ast to some extent, sceptical.
+24 To sum
+24 Beebee ( 2006 ) is non-committal regarding the nature of Hume’s conclusion, but she
+instances Owen’s and Garrett’s interpretations as illustrating ‘that Hume’s remarks aboutour not being “determin’d by reason” to infer from causes to effects are perfectly consistent
+with the claim that he is no inductive sceptic’ (p. 40). If my argument here is successful,
+however, their interpretations fail to provide any such illustration.I—PETER  MILLICAN 186
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIup, proponents of the recently fash ionable non-scepti cal readings of
+Hume’s famous argument have appare ntly tended to assume that its
+logic can survive transposition fr om a normative to a descriptive
+key. But it is far from clear that this is the case, and the challenge re-mains.
+VII
+Humean Externalism?  Very recently yet another novel interpreta-
+tion of Hume on induction has been proposed by Louis Loeb, shar-ing some interesting features wi th Helen Beebee’s discussion. Loeb
+endorses the criticisms I have made of what he calls the ‘descriptiv-
+ist’ readings of Hume, but he is anxious also to avoid any scepticalinterpretation, given the manife st and widespread evidence that
+Hume is committed to inductive science. Loeb finds a surprising
+middle way between these two extr emes, by suggesting that Hume is
+a non-sceptical externalist , who takes for granted from the start that
+induction is epistemically justified, and indeed sees that as part ofwhat is to be explained:
+Does recognition of the epistemic character of [ Treatise  1.3.6] saddle
+us with the skeptical interpretation … after al l? It would, if Hume
+thought that a belief is justified only if it is supported or supportableby good argument. Roughly speaking, this is an internalist  assump-
+tion. … In light of the massive evid ence that Hume is not a skeptic
+about induction, he must reject this  internalist way of thinking. (Loeb,
+2006 , p. 333)
+The linchpin in my interpretation is … [that Hume] incorporates this
+positive epistemic status into his de scription of the subject matter un-
+der investigation. … [T]h e assumption that induct ive inference is justi-
+fied is part and parcel of the phenomenon under investigation  …
+(Loeb, 2006 , pp. 330–1)
+Helen Beebee hints at a somewhat similar approach, though with-
+out stressing any externalist implications:
+Hume’s argumentative method in his discussion of the Uniformity Prin-
+ciple presupposes  that causal reasoning is ‘ju st’ reasoning. After all, why
+should we think that the Uniformi ty Principle depends on the relation
+between causes and effects, as Hume claims? Because that relation isHUMES  OLD AND NEW 187
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXI‘the only one, on which we can found a just inference from one object to
+another’ … if he did not think that causal reasoning is ‘just’ inference …
+he would not be in a position to cl aim that the Uniformity Principle de-
+pends on causal reasoning, since ther e are many other possible sources
+of the principle (see Millican 2002[ c]: 157–8). … Presumably Hume ig-
+nores [these] other possible sources … because they manifestly  do not
+provide a ‘just’ way of inferring effects from causes. … The upshot of all
+this is that Hume is not solely  concerned with the genetic question [of
+the causal basis of our inductive beliefs]. … But it does not follow that
+he is interested in whether or not causal reasoning can be justified. On
+the contrary: it is his assumption  that causal reasoning is just reasoning
+that explains this omission. (Beebee, 2006 , pp. 55–6)
+This is an ingenious way of attempting to square the circle, by intro-
+ducing normative constraints into a discussion whose upshot is nev-ertheless seen as descriptive. If we can take for granted from the
+start that the causal explanation of inductiv e inference must render
+it epistemically justified, then this will indeed restrict the range ofacceptable explanations to thos e that satisfy normative require-
+ments, and thus evade the objections of §VI above which devastatea purely ‘descriptivist’ approach.
+25
+But there is, I suggest, an elepha nt in the room, namely, the clear-
+ly negative thrust of Hume’s argument, which delivers no such epis-temically satisfying explanation, and indeed appears to rule out thevery possibility. Having identified the Uniformity Prin ciple as the es-
+sential prerequisite for any rational foundation of factual inference,Hume then explicitly and systemat ically eliminates any possible ra-
+tional foundation for the Uniformity Principle itself,
+26 and he goes
+on to draw the natural conclusion, that factual inference lacks any
+25 Perhaps there is space—at least on Beebee’s account—for taking Hume to be merely
+seeking a causal explanation that does not conflict  with its being epistemically justified.
+Then the idea would be that normative constraints enter into his famous argument because
+explanation in terms of a Uniformity Principle that is founded on whimsy or innate preju-
+dice (etc.) would be ruled out. However this seems rather implausible: if Hume can accept
+that induction is somehow justified, in a way that does not depend at all  on rational consid-
+erations, then why should the involvement of faulty  rational considerations undermine this?
+The point is particularly clear if we consider the possibility that the Uniformity Principlemight be a natural belief providentially implanted by God. It is hard to envisage a concep-
+tion of justification which would, on the one hand, rule out reliance on any such natural
+belief as incompatible with justification, but on the other hand, accept that induction is nev-ertheless justified in some way that doesn’t depend on our use of reason. An externalist
+could not do the former, and an internalist could not do the latter.
+26 Again, this is particularly clear in the Enquiry  version of the argument: see §IV above.I—PETER  MILLICAN 188
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIfoundation in reason. Nothing here suggests that he is taking for
+granted that factual inference is ju stified; quite the reverse. And at
+least in the Enquiry , he entitles his sect ion ‘Sceptical Doubts Con-
+cerning the Operations of the Understanding’, and later refers backto his argument as containing ‘ philosophical  objections’ that give
+‘the sceptic … ample ma tter of triumph’ ( Enquiry  12.22). Even Hu-
+me’s ultimate appeal to custom—the ‘Sceptical Solution’ to his‘Sceptical Doubts’—seems an unlike ly candidate as an explanation
+intended to deliver epistemic justification:
+[N]othing leads us to this inference but custom or a certain instinct of
+our nature; which it is indeed difficult to resist, but which, like other
+instincts, may be fallacious and deceitful. ( Enquiry  12.23)
+Hume is clearly aware that custom’s  having served us well in the
+past gives no guarantee whatever fo r the future. So even if he is
+tempted towards externalist consid erations in pondering custom’s
+past success (e.g. in delivering apparent truth, reliability or stability
+to our beliefs), he cannot extrapol ate these into th e future and com-
+mend custom on that basis, unless he is already  under the spell of in-
+ductive convictions. He is, of course, under this spell: he does, infact, firmly believe that the future will resemble the past, that thesame causal laws will continue to operate, and that custom will con-
+tinue to be reliable. But if the future externalist sanction of customdepends entirely on the truth of th is inductive belief , then what ben-
+efit does that hypothetical sanction bring? The epistemic problemthat Hume seems to be addressing is why we should be justified in
+believing anything about the future , in advance of knowing how
+well custom will serve us. If this is his agenda, then any appeal tocustom’s externalist virtues ‘must be  evidently going in a circle, and
+taking that for granted, which is the very point in question’ ( En-
+quiry  4.19).
+All this suggests that externalism is ill-suited to providing what
+Hume—on these interpretations—is supposed to be looking for: anaccount of induction that explains why it is epistemically justified.There seems to be something pecu liarly problematic about appeal-
+ing to externalism to justify induction (as opposed to perception,say, or even specific inductive beli efs), since any inference to induc-
+tion’s enduring  reliability, truth, stability, or whatever, presupposes
+exactly  the point in question. Some have suggested that the problemHUMES  OLD AND NEW 189
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXImight be tractable by using second-order inductive arguments to
+justify first-order i nduction from an exte rnalist perspective (see
+Lipton, 2000 ). But given how uncompromi singly Hume dismisses as
+circular the Enquiry  4.21 argument from past regularity of powers
+to future powers, I find the attribution of any such viewpoint to himdeeply implausible. It is also, I would suggest, quite unnecessary.
+As we have seen, Loeb attribut es externalism to Hume on the
+ground that it is the only way of resolving what would otherwise bea contradiction, between  the sceptical internal ism of his famous ar-
+gument, and his positive attitude to inductive science. But this is notthe only option left, nor is it the best. Far simpler is to allow Humeto build directly  on his basic inductive beli ef that the world is uni-
+form, the same belief that an externalist Hume must  appeal to any-
+way to get his account off the grou nd. If Hume is right to say that
+we cannot help having this belief, then even if his sceptical argument
+succeeds in denying it an y rational foundation, the plain fact is that
+we are stuck with it. Well, if we are stuck with it, then let us at leastreason consistently on that basis, for consistency is clearly a rational
+virtue. ‘But why should there be any virtue in being consistent witha totally unjustified belief?’ That response misses the point by ignor-
+ing our genuine doxastic immersion: if we really believe  that the
+world is uniform, then in seeking consistency with that belief, weare motivated by consistency with what we take to be true. That, at
+any rate, is surely a paradigm internalist epistemic virtue.
+In short, there is available to Hu me a straightforward way of rec-
+onciling his sceptical argument with inductive science, without com-promising the scepticism, and without having to take on board anyinterpretatively implausible (and surely anachronistic) externalism.
+Now is not the time to explore this further, but I believe it can pro-vide the basis for a persuasive account of Hume’s epistemology andphilosophy of science, especially as portrayed in his Enquiry Con-
+cerning Human Understanding .
+27
+27 For much more on this, see Millican ( 2002 b; 2002 c, §§ 11–12; 2007 a). My new edition of
+the Enquiry , Hume ( 2007 ), is informed by this perspective, and has the aim of explicating
+the work as a thoroughly coherent and self-contained presentation of Hume’s core philoso-
+phy, responding to the historical context explained in the edition’s Introduction.I—PETER  MILLICAN 190
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIVIII
+The New Hume, Liberty, and Necessity . The contentious and some-
+times heated ‘New Hume’ debate over Hume’s metaphysics of cau-sation is far too big to take on comprehensively here, but in mysurvey of prominent ‘Humean here sies’ it could hardly be over-
+looked. Having recently written a su bstantial discussion of the de-
+bate as a whole—coming down strongly on the ‘Old Hume’ side—Ishall make do with referring reade rs to that for most of the issues
+(2007 b), and focus here on just one: the vital, but generally ignored,
+connections with Hume’s treatment of ‘liberty and necessity’, or as
+we call it today, ‘free will and determinism’.
+This crucial finale of Hume’s ‘chief argument’ is presented first in
+two sections of Book II of the Treatise , is given no fewer than four
+paragraphs in the Abstract , and constitutes the principal subject-
+matter of the long est section of the Enquiry .
+28 Moreover it involves
+the only clear and repeated application of Hume’s two ‘definitionsof cause’, which are amongst the mo st famous passages in his entire
+corpus. In the Enquiry , this link is explicitly highlighted by the posi-
+tioning and naming of the relevant sections, with the two definitionsoccurring in the penultimate paragraph of Section VII, ‘Of the Ideaof Necessary Connexion’, and their application being explained inthe first six paragraphs of Secti on VIII, ‘Of Liberty and Necessity’.
+Yet most students of Hume’s philosophy are taught about his viewson causation without any mention of this crucial argument, and it iscommonly omitted completely from books on his philosophy. Mostsurprising of all, it has even been generally overlooked in the litera-ture of the recent New Hume debate , even though the main topic of
+that debate is precisely the interpretation of Hume’s views on causa-tion and necessity!
+29 Such is the impact of wh at I consider to be the
+lopsided enduring focus on the text and topics of Treatise  Book I to
+the exclusion of Hume’s  more mature philosophical works, in clear
+violation—as we saw in §IV above—of his explicit and settledwishes.
+28 At least as measured by body text, though Section X is longer if the note on Jansenist mir-
+acles is included. Both of these sections are significantly longer than any other, togethermaking up over 30% of the Enquiry  text.
+29 In Read and Richman’s collection The New Hume Debate , for example, not one of the
+authors mentions the role of the two definitions in Hume’s argument on liberty and neces-
+sity, and only Winkler ( 1991 , pp. 73–4) even refers to their occurrence there.HUMES  OLD AND NEW 191
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIHume’s key argument concerning li berty and necessity is very ex-
+plicit, straightforward, and logical, and it is consistent in all threepresentations, though its main st ages appear at various places and
+sometimes differently ordered:
+30
+(1) A cause may be defined in one of two ways:
+either ‘an object, followed by another, and where all the ob-
+jects, similar to the first, are followed by objects sim-
+ilar to the second’
+or ‘an object followed by another, and whose appear-
+ance always conveys the th ought to that other’ ( En-
+quiry  7.29; cf. Treatise  1.3.14.31, Abstract  32).
+(2)‘Necessity  may be defined two ways, conformably to the
+two definitions of cause , of which it makes an essential
+part. It consistseither in the constant conjun ction of like objects
+or in the inference of the understanding from one object
+to another’ ( Enquiry  8.27; cf. Treatise  2.3.1.4, Trea-
+tise 2.3.2.4, Abstract  32, Enquiry  8.5).
+(3)‘These two circumstan ces form the whole of that necessity,
+which we ascribe to matter. Beyond the constant conjunction
+of similar objects, and the consequent inference  from one to
+the other, we have no notion of any necessity, or connexion’
+(Enquiry  8.5
+; cf. Treatise  1.4.14.33, Enquiry  8.21–2).
+(4) ‘If it appear, therefore, that  all mankind have ever allowed
+… that these two circumstances take place in the voluntary
+actions of men, and in the operations of the mind; it mustfollow, that all mankind have ev er agreed in the doctrine of
+necessity’ [i.e. the doctrine that determinism applies to hu-man actions and the mind’s operations, just as it does tomaterial things] ( Enquiry  8.6; cf. Treatise  2.3.1.3).
+30 In particular, the argument occurs twice both in the Treatise  and the Enquiry , first to
+make the case as presented here, and then relatively briefly ( Treatise  2.3.2.4, Enquiry  8.27)
+with a different emphasis, to remove an objection based on its supposed pernicious conse-
+quences. In this second occurrence, Hume’s concern is to show that the necessity he ascribes
+to the mind is ‘innocent’, neither conflicting with ‘orthodoxy’ nor undermining morality. Sohere he stresses the apparent relative mildness of his notion of necessity, rather than the cen-
+tral point of his argument that this notion of necessity is the only one available.I—PETER  MILLICAN 192
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXI(5) ‘[I]t appears, not only that the conjunction between motives
+and voluntary actions is as re gular and uniform, as that be-
+tween the cause and effect in any part of nature; but also
+that this regular conjunction has been universally acknowl-edged among mankind’ ( Enquiry  8.16; cf. Treatise  2.3.1.16,
+Treatise  2.3.2.4, Abstract  32, Enquiry  8.27).
+(6) ‘[T]his experienced uniformi ty in human actions, is a
+source, whence we draw inferences  concerning them … this
+experimental inference and re asoning concerning the ac-
+tions of others enters so much into human life, that no man,while awake, is ever a moment without employing it’ ( En-
+quiry  8.16–17; cf. Treatise  2.3.1.17, Treatise  2.3.2.4, Ab-
+stract  33, Enquiry  8.18–20, Enquiry  8.27
+).
+(7) ‘It may … perhaps, be pretended, that the mind can per-
+ceive, in the operations of ma tter, some farther connexion
+between the cause and effect; and a connexion that has not
+place in the voluntary actions of intelligent beings’ ( Enquiry
+8.21; cf. Enquiry  8.27, Treatise  2.3.2.4, Abstract  34).
+(8) But the mind cannot even frame an idea of any such farther
+connexion: ‘a constant conjunction of objects, and subse-quent inference of the mind from one to another … form, inreality, the whole of that n ecessity which we conceive in
+matter’, and ‘there is no idea  of any other necessity or con-
+nexion in the actions of body’ ( Enquiry  8.22 and 8.27; cf.
+Treatise  2.3.2.4, Abstract  34).
+These last four stages are elegantly summa rized in the Abstract  (34):
+[T]he most zealous advocates for fr ee-will must allow this union and
+inference with regard to human acti ons. They will only deny, that this
+makes the whole of necessity. But th en they must shew, that we have
+an idea of something else in the actions of matter; which, according to
+the foregoing reasoning, is impossible.
+Note that here Hume is explicitly appealing to the limits of coherent
+thought, as revealed by his search  for the impression of necessary
+connexion, and summ arized at stage ( 3):HUMES  OLD AND NEW 193
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIBeyond the constant conjunction  of similar objects, and the conse-
+quent inference  from one to the other, we have no notion of any neces-
+sity, or connexion.
+Thus his libertarian opponent, in supposing that ‘the actions of mat-
+ter’ involve some objective necessi ty that outruns the Humean defi-
+nitions, is trying to think the unthinkable.
+This simple argument, is—it seems to me—a torpedo into the
+core of the New Humeans’ position , for Hume is here denying ex-
+actly what they assert, namely, that we can coherently ascribe tothings some kind of ‘upper-case’ Causation or ‘thick’ necessity thatgoes beyond his two definitions. If we could indeed do this, then thelibertarian would be able to ascr ibe that thick n ecessity to matter
+but not to minds, and thus undermine Hume’s claim of equivalencebetween the necessity of the two do mains, which is the entire point
+of his argument. Nor can there be any serious doubt about his in-tentions here: the argument occurs in the Treatise , the Abstract  and
+the Enquiry , and it is the principal application of his two definitions
+in all three of these works. Those definition s are clearly intended
+precisely for this role, and it is a role that requires them to be inter-preted semantically  rather than merely epistemologically : as con-
+straining what we are able to mean  or coherently refer to. Thus we
+can completely invert  the typical New Hume an claim, that we
+should ‘view Hume’s talk about “meaning” as meaning “acquaint-ance with”, as opposed to “thinkable content”’ (Kail, 2001 , p. 39).
+To the contrary: when Hume tells us  that he plans to give ‘a precise
+definition of cause and effect ’ to ‘fix their meaning’ ( Treatise
+1.3.14.30), he is preparing the ground for one of his most important
+arguments, which turns crucially on the use of his definitions to cir-cumscribe the limits of our thinkable content.
+31
+31 In the Treatise  there is another important argument that rarely gets into the standard text-
+books, in the long section ‘Of the Immateriality of the Soul’. This is an attack on those whoclaim that thinking matter is impossible (usually with a theological agenda, cf. my 2007 a, §6),
+and again appeals to Hume’s analysis of causation. Having argued ‘that all objects, which are
+found to be constantly conjoin’d, are upon that account alone to be regarded as causes andeffects’, he draws the corollary ‘that for aught we can determine by the mere ideas, any thing
+may be the cause or effect of any thing’ ( 1.4.5.32). This then clears the way for concluding
+that ‘as the constant conjunction of objects constitutes the very essence of cause and effect,matter and motion may often be regarded as the causes of thought’ ( 1.4.5.33). Here Hume’s
+underlying project is much the same as in his discussion of liberty and necessity: to bring the
+mental realm within the reach of causal explanation and thus open the way for systematicinductive moral science, in opposition to aprioristic metaphysics or superstition.I—PETER  MILLICAN 194
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIIX
+Conclusion: Hume and Inductive Science . I started by declaring my
+allegiance to an ‘Old Hume’ who is sceptical about induction, re-ductionist about causation, soft determinist about free will, andwho acknowledges (more or less) the same fundamental logical dis-tinctions that would have been familiar to a twentieth-century posi-tivist: between analytic and synthetic propositions (i.e. relations ofideas and matters of fact), and between deduction and induction(i.e. demonstrative and factual reasoning). But despite all this agree-ment with interpretative tradition, it is probably clear by now thatmy picture of Hume’s philosophy is  in other respects very different
+from the classic sceptica l caricature. Here the most crucial need is to
+get a balanced view of Hume’s ‘s cepticism’ about in duction. On the
+one hand, I have insisted—aga inst Garrett, Owen, Noonan and
+Beebee—that Hume’s famous argument on the matter is genuinely
+sceptical, and I have rejected Loeb’s  suggestion that he is an exter-
+nalist. But it would be quite wrong to conclude from this that, asLoeb would imply, the only logical space remaining is that of thetraditional undiscrimating sceptic for whom (in Stroud’s delightfulphrase) ‘as far as the competition for degrees of reasonableness isconcerned, all possible beliefs abou t the unobserved are tied for last
+place’ ( 1977 , p. 54). Indeed it is this false dichotomy—the assump-
+tion that Hume’s attitude to induction must either be totally scepti-cal, or totally non-sceptical—that lies behind so many distortedinterpretations of his philosophy.
+The key to Hume’s attitude is to  focus clearly on what his scepti-
+cal argument is attack ing, and I have argued at length elsewhere
+(2002 c) that his primary target is Locke’s view of probable reason-
+ing as founded on rational perception . Hume obliterates this target,
+by proving that our inductive inferences must all take for grantedsomething that cannot be rationally perceived, namely, that the pastis a guide to the future (or more precisely, that the behaviour ofthings we have observed is positively evidentially relevant  to the be-
+haviour of things we have not observed). So far, Hume’s argument isindeed purely sceptical, but he does  not rest there. Because his result
+is so fundamental, impacting on all our beliefs that outrun the nar-row reach of our senses and memory, he has no option but to movebeyond it, and nor do we. Here a reasoned pragmatic argument canHUMES  OLD AND NEW 195
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIbe given, on the basis that accepting some beliefs is better than re-
+jecting all. But in practice any such  strategic deliberation is unneces-
+sary, because a far more pressing pragmatic factor comes into play.
+The instinctive mechanism of custom , though not in any way sup-
+plying the rational perception that Locke had taken for granted as arequirement for rational belief, step s into the breach and leaves us
+psychologically unable to refrain from forming beliefs about the un-observed.
+Having identified custom as the ‘sceptical solution’ to his ‘scepti-
+cal doubts’, Hume’s procedure is to follow through its demands sys-tematically. If we cannot help making judgements and formingbeliefs on the basis of conformity with our past experience, then we
+can at least be discriminating in applying this standard.
+32 We can
+also dismiss aprioristic metaphysic s, since only experience can re-
+ceive custom’s endorsement. The best illustration of Hume’s appli-cation of this technique is to th e case of miracles, which is yet
+another very important section of his philosophy that is all too fre-quently neglected in discussions of his epistemology, partly becauseit had the misfortune to be removed from Treatise  Book I when
+Hume ‘castrated’ that work shortly before publication.
+33 What
+Hume first does in this case is to  emphasize that te stimony lacks any
+a priori warrant, its strength bein g derived from the inductive force
+of custom. Thus the religionist’s own belief in a miracle is itself im-plicitly founded on custom, in so far as experience tells in favour of
+the credibility of the reporting wi tnesses. Against this, Hume now
+sets the countervailing  inductive evidence of nature’s lawlike uni-
+formity, together with a range of observations that highlight the rel-ative empirical unre liability of testimony (especially when
+religiously inspired). Whether all this can succeed as a way of vindi-
+cating empirical science over superstition can, of course, be debated.But I think it is very clear that Hume himself was committed tosomething like this strategy, which is sufficient to refute that perva-sive false dichotomy which has for so long bedevilled his interpret-
+ers. The key to understanding Hume is to appreciate that he is both
+deeply sceptical about induction (in a sense), and totally committed
+to inductive science.
+32 As I have sketched in response to Loeb in §VII above, such a prescription can perfectly
+well be supported by appeal to rational considerations that are conventionally internalist.
+33 See New Letters , p. 2 and Millican ( 2002 b, p. 34).I—PETER  MILLICAN 196
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIA somewhat similar conclusion can be drawn about his view of
+causation, though the case for this  must be made elsewhere (cf. my
+2007 b). On the one hand, Hume is de eply sceptical about what cau-
+sation is usually taken to be, and he denies even the meaningfulnessof anything that purports to go beyond functional relations of regu-lar succession and our corresponding tendency  to make customary
+inferences.
+34 On the other hand, and as in the case of induction, this
+negative result makes room for a positive thesis, that causation—
+genuine causation —is to be understood in accordance with his two
+definitions, and that we should apply it accordingly. Hence his une-quivocal recommendation ‘that all objects, which are found to beconstantly conjoin’d, are upon that account alone to be regarded ascauses and effects’ ( 1.4.5.32). This is central to much of his mature
+philosophy, for as we saw in §VIII above, it is the basis for his insist-ence that deterministic causal laws are as applicable to the moral
+world as to the natural, and thus paves the way for his advocacy ofinductive moral science.
+Hume’s philosophy involves a de licate balance between science
+and scepticism, which play complementary roles in his overallproject: on the one hand to promot e systematic inductive investiga-
+tion of man and nature, and on the other hand, to undermine anywould-be alternative way of understanding the world, whetherthrough aprioristic metaphysics or religious doctrine. These
+themes—both positive and negative—dominate most of his philo-sophical writings, from the Essays  whose publication began in
+1741 , through the first Enquiry  in 1748 , the Four Dissertations  and
+especially the Natural History of Religion  of 1757 , and ultimately
+the Dialogues Concerning Natural Religion  which Hume prepared
+for publication on his deathbed. They are also pervasive in the Trea-
+tise, though not so emphasized or clearly developed, presumably be-
+cause in that ‘juvenile work’ Hume had yet to clarify the main focus
+of his thought. ‘Carry’d away by the Heat of Youth & Invention’(Letters , i, 158), he could not resist pack ing his work with fascinat-
+ing but confusing lines of thought on other topics, including his du-
+34 The phrase ‘functional relations of regular succession’ is intended to take into account
+Hume’s full recognition that scientific causal laws tend to be framed in terms of complexmathematical relationships involving quantitative forces (e.g. Enquiry  4.13, 7.25 n.16,
+7.29 n.17), rather than just the simple ‘constant conjunctions’ on which he tends to focus
+in his discussions. For more on this, see my ( 2002 c, §9.2) and especially ( 2007 b, §3.2).HUMES  OLD AND NEW 197
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXIbiously aprioristic discussions of space and time, and those
+famously obscure arguments on the external world and personalidentity that continue to challeng e his commentators. The latter are
+dramatic and conveniently focused on familiar ‘topics’ of the historyof philosophy curriculum, but they play relatively little role in hisoverall philosophical orientation or his mature thought. If we wishto understand the central  thrust of Hume’s epistemology and meta-
+physics correctly, I suggest, then it is instead to the later works, and
+especially the first Enquiry , that we must turn.
+35
+REFERENCES
+Beebee, H. 2006 : Hume on Causation  (London: Routledge).
+Botterill, G. 2002 : ‘Hume on Liberty and Necessity’, in Millican ( 2002 a,
+pp. 277–300).
+Buckle, S. 2001 : Hume’s Enlightenment Tract: The Unity and Purpose of An
+Enquiry Concerning Human Understanding  (Oxford: Clarendon Press).
+Craig, E. 1987 : The Mind of God and the Works of Man  (Oxford: Claren-
+don Press).
+Earman, J. 2000 : Hume’s Abject Failure: Th e Argument against Miracles
+(Oxford and New York: Oxfo rd University Press).
+Flew, A. 1961 : Hume’s Philosophy of Belief  (London: Routledge & Kegan
+Paul).
+Garrett, D. 1997 : Cognition and Commitment in Hume’s Philosophy  (Ox-
+ford and New York: Oxford University Press).
+—— 2002 : ‘The Meaning of Hume’s Conclusion Concerning “Inductive”
+Inferences’, in Millican ( 2002 a, pp. 332–4).
+Harris, J. A. 2003 : ‘Hume’s Reconciling Project and “The Common Dis-
+tinction betwixt Moral  and Physical  Necessity”’, British Journal for the
+History of Philosophy , 11, pp. 451–71.
+—— 2005 : Of Liberty and Necessity: The Fr ee Will Debate in Eighteenth-
+Century British Philosophy  (Oxford: Clarendon Press).
+Hume, D. 1739 –40: A Treatise of Human Nature, ed. D. F. Norton and
+M. J. Norton (Oxford and New York : Oxford University Press, 2000 ).
+(References given to book, part, se ction and paragraph numbers, or to
+paragraph number of the Appendix .)
+35 For discussions on the topics of this paper over the years, I am especially grateful to Mar-
+tin Bell, Simon Blackburn, Lorne Falkenstein, Don Garrett, Jani Hakkarainen, James Har-ris, Peter Kail, Peter Lipton, Louis Loeb, David Owen, Paul Russell, Ken Winkler and John
+Wright. I—PETER  MILLICAN 198
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXI—— 1740 : Abstract  of the Treatise , ed. P. Millican, in Millican ( 2002 a,
+pp.399–411). (References given to  paragraph numbers.)
+—— 1741 –77: Essays, Moral, Political, and Literary , ed. E. F. Miller (Indi-
+anapolis: Liberty Classics, 2nd edn., 1987 ). (References indicated by ‘ Es-
+says’.)
+—— 1745 : A Letter from a Gentleman to his Friend in Edinburgh, ed. E. C.
+Mossner and J. V. Price (Edinburgh: Edinburgh University Press, 1967 ).
+—— 1748 : An Enquiry Concerning Human Understanding , ed. T. L. Beau-
+champ (Oxford and New York: Oxford University Press, 1999 ). (Refer-
+ences given to section and paragraph numbers.)
+—— 1777 : ‘My Own Life’, ed. P. Millican, in Millican ( 2002 a, pp. 393–8).
+—— 1932 : The Letters of David Hume , ed. J. Y. T. Greig (Oxford: Claren-
+don Press). (References indicated by ‘ Letters ’.)
+—— 1978 : New Letters of David Hume , ed. R. Klibansky and J. V. Price
+(Oxford: Clarendon Press). (References indicated by ‘ New Letters ’.)
+—— 2007 : An Enquiry Concerning  Human Understanding [1777  edition],
+ed. P. Millican (Oxford: Oxford University Press).
+Kail, P. 2001 : ‘Projection and Necessity in Hume’, European Journal of Phi-
+losophy , 9, pp. 24–54.
+Lipton, P. 2000 : ‘Tracking Truth Records’, Proceedings of the Aristotelian
+Society Supplementary Volume  74, pp. 179–205.
+Loeb, L. 2002 : Stability and Justification in Hume’s Treatise  (New York:
+Oxford University Press).
+—— 2006 : ‘Psychology, Epistemology, and Skepticism in Hume’s Argument
+about Induction’, Synthese , 152, pp. 321–38.
+Millican, P. 1993 : ‘“Hume’s Theorem” Concerning Miracles’, Philosophical
+Quarterly , 43, pp. 489–95.
+—— 1995 : ‘Hume’s Argument Concerning Induction: Structure and Inter-
+pretation’, in S. Tweyman (ed.), David Hume: Critical Assessments , Vol-
+ume 2, (London: Routledge), pp. 91–144; reprinted in Owen ( 2000 ,
+pp.165–218).
+—— 1998 : ‘Hume on Reason and Induction: Epistemology or Cognitive
+Science?’, Hume Studies , 24, pp. 141–59.
+—— 2001 : ‘The Logic of Hume’s Sceptical Doubts’. Presented to the Hume
+Conference, Victoria, British Columb ia, and available from <http://www.
+davidhume.org>.
+—— 2002 a (ed.): Reading Hume on Human Understanding: Essays on the
+First Enquiry  (Oxford: Clarendon Press). (See 2002 b, 2002 c and 2002 d
+below.)
+—— 2002 b: ‘The Context, Aims, and Structure of Hume’s First Enquiry ’;
+chapter 1 of 2002 a, pp. 27–65.
+—— 2002 c: ‘Hume’s Sceptical Doubts Concerning Induction’; chapter 4 of
+2002 a, pp. 107–73.HUMES  OLD AND NEW 199
+©2007 The Aristotelian Society
+Proceedings of the Aristotelian Society Supplementary Volume LXXXI—— 2002 d: ‘Critical Survey of the Lite rature on Hume and the First En-
+quiry ’, in 2002 a, pp. 413–74.
+—— 2003 : ‘Hume, Miracles, and Probabilities: Meeting Earman’s Chal-
+lenge’. Presented to the Hume Conference, Las Vegas, and available from
+<http://www. davidhume.org>.
+—— 2006 : ‘Hume’s “Compleat Answer to Dr Reid”’. Presented to the
+Hume Conference, Koblenz, and available from <h ttp://www.david-
+hume.org>.
+—— 2007 a: ‘Introduction’ to Hume ( 2007 , pp. ix–lvi).
+—— 2007 b: ‘Against the New Hume’, fort hcoming in R. Read and K. A.
+Richman (eds.), The New Hume Debate , 2nd edn. (London: Routledge).
+—— 2008 : ‘Hume’s Determinism’, forthcoming in Canadian Journal of Phi-
+losophy .
+Noonan, H. 1999 : Hume on Knowledge  (London: Routledge).
+Owen, D. 1999 : Hume’s Reason  (New York: Oxford University Press).
+—— 2000  (ed): Hume: General Philosophy  (Aldershot: Ashgate).
+Read, R. and K. A. Richman (eds.) 2000 : The New Hume Debate , 1st edn.
+(London: Routledge).
+Stove, D. 1973 : Probability and Hume’s Inductive Scepticism  (Oxford:
+Clarendon Press).
+Strawson, G. 1989 : The Secret Connexion: Caus ation, Realism, and David
+Hume  (Oxford: Clarendon Press).
+Stroud, B. 1977 : Hume  (London: Routledge & Kegan Paul).
+Winkler, K. P. 1991 : ‘The New Hume’, Philosophical Review , 100, pp. 541–
+79; reprinted in Owen ( 2000 , pp. 347–85) and in Read and Richman
+(2000 , pp. 52–74).
+Wright, J. P. 1983 : The Sceptical Real ism of David Hume  (Manchester:
+Manchester University Press).

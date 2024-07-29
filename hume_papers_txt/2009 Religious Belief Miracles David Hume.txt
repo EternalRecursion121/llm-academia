@@ -1,0 +1,151 @@
+ 
+Miracles and David Hume 
+Peter Millican, Hertford College, Oxford 
+for the Royal Institute of Philosophy, 6/2/09  
+Some Basic Probability 
+Probabilities range from 0 to 1.  If a proposition has a probability 
+of 0, then it’s certainly false; if 1, then it’s certainly true.  A proposition with a probability of ½ (or 0.5, or 50%) is equally likely to be true as false, and a proposition with a probability of 
+¾ (or 0.75, or 75%) is three times as likely to be true as false. 
+If two propositions are mutually exclusive  (i.e. they can’t both be 
+true together), then the probability that at least one of them is true is equal to the sum of the individual probabilities.  So if the 
+probability that Teasing Tom will win the race is 0.3 (or 30%), 
+and the probability that Jumping Jane will win is 0.25 (or 25%), then the probability that either  Teasing Tom or Jumping Jane 
+will win the race is 0.55, or 55%: 
+ Pr(T or J) = Pr(T) + Pr(J) = 0.3 + 0.25 = 0.55  2If two propositions are independent  – so the truth or falsehood of 
+one of them has no impact whatever on the probability of the 
+other – then the probability that both of them are true is simply 
+the product of the two individual probabilities.  So if Jumping Jane moves to the weaker second race to improve her chances, giving Teasing Tom a 40% chance of winning the first race, and 
+Jumping Jane a 60% chance of winning the second, then the 
+probability that they’ll both win their respective races is: 
+ Pr(T and J) = Pr(T) × Pr(J) = 0.4 × 0.6 = 0.24 (i.e. 24%) 
+ 
+Often, the probability of one event depends on another, and we 
+can get sequences of dependent events.  Suppose, for example, 
+I have a 0.8 probability of catching the 12:00 train for Reading 
+(R), and if I manage to catch that train, I will then have a 0.6 
+probability of catching the 12:45 train for Didcot (D).  The 
+probability that I will catch both trains is then 0.8 × 0.6 = 0.48, 
+slightly less than half.  So the relevant equation in this case is: 
+    Pr(R & D) = Pr(R) × Pr(D | R) 
+where “Pr(D | R)” represents the probability of D given  R.  3(b)  Bayes’ Theorem 
+Suppose I hold this sheet of paper out under a greying sky, and 
+wait until the first spot of rain drops within the area E.  What is 
+the probability that this will also lie within the area H? 
+ 
+The answer is “about 0.75”, because this is the chance that the 
+rain drop will be in the area marked “E & H”, given that  it is in 
+the area E.  The overlap area E & H – where both E and H are 
+“true” – constitutes roughly three quarters of E. 
+It can be helpful to think of probabilities in terms of these sorts 
+of diagrams, where the regions represent “spaces of possible 
+situations” whose areas are proportional to their probabilities.  
+(You might like to imagine Destiny throwing a dart randomly at the diagram to determine what is going to happen.) E H E & H  4Now suppose that H represents the space of possible situations in 
+which some hypothesis  is true, while E represents the space of 
+possible situations in which some proposition about evidence  
+bearing on the hypothesis is true. 
+We can calculate the probability of H given E  as follows: 
+    P r ( H  | E) = Pr(E  & H) / Pr(E) 
+“Pr(H  | E)” means the probability of H, given that E is true  – that 
+is, the probability to be given to H once we know that E is true (so this is called a conditional  probability).  By contrast, “Pr(E)” 
+is the initial probability of E  – the probability that E had before  
+we found out that it was true – and “Pr(E
+ & H)” is the initial 
+probability of both E and H  – that is, the probability that E and H 
+would turn out to be true, before  we found out that E was true. 
+This result, a simple form of Bayes’ Theorem , is essential 
+background for understanding Hume’s argument concerning 
+miracles in probabilistic terms.  In my talk, I use “M” (instead of “H”) to signify some unlikely event, and “t(M)” (instead of “E”) to signify some testimony for that event.  The symbol “¬” is used 
+to mean “not”.  5The Diagnostic Test example 
+Suppose that I develop a test to diagnose a debilitating genetic 
+condition which suddenly manifests itself in middle age, but 
+which fortunately afflicts only one person in a million.  The 
+test is fairly reliable, in that no matter who is tested, and 
+whether they actually have the disease or not, the chance that 
+the test will give a correct diag nosis is 99·9%, an d an incorrect 
+diagnosis only 0·1%.  Fred, a hypochondriac, anxious because 
+of his approaching fiftieth birthday, comes to my clinic for a 
+test, which much to his horror proves positive.  On the basis of this information, is it probable that Fred has the disease? 
+To put his mind at ease, Fred might ask himself:  “ Is the test 
+of such a kind, that its falsehood would be more surprising, 
+than the disease, which it indicates? ” 
+In fact the falsehood of the test would be much less surprising 
+than it would be for Fred to have the disease.  Hence if we calculate the probabilities of a true-positive and of a false-
+positive result, we find that the latter is far greater (by a factor 
+of 1001, so Fred’s probability of illness is only 1 in 1002):
+1 
+ True positive:  000,000,11 ×  000,1999 =  000,000,000,1999 
+ False positive:  000,000,1999,999 ×  000,11 =  000,000,000,1999,999 
+                              
+1 Imagine the test being performed on a billion people, one thousand of whom have the 
+disease.  We’d expect 999 true positives, and 999,999 false positives (1001 times as many).  6The Aleph Particle Detector example 
+Imagine that I am conducting an experiment on some type of 
+sub-atomic particle – let’s call them “aleph” ( א )particles – 
+created by nuclear collisions.  Whenever a relevant collision 
+takes place, various particles result, and let us suppose that 
+1% of these collisions will yield an א particle (event “M”).  
+My detector is highly reliable, but not infallible: if an א 
+particle is present, it will be registered with 99.9% probability, 
+but 0.1% of those collisions  that do not create an א particle 
+will also register on the detector (hence both “false negatives” 
+and “false positives” have an identical probability of 0.1%).  
+Now suppose that on the next collision, my detector gives a positive result (testimony “t(M)”) – should I believe it? 
+The initial probabilities of a positive result are: 
+ True positive:     Pr(M & t(M))   =  1% × 99.9%   =   0.999% 
+ False positive:    Pr(¬M & t(M)) =  99% × 0.1%   =   0.099% 
+So the overall probability of a positive result = 0.999% + 0.099% 
+= 1.098%, and applying Bayes’ Theorem: 
+ Pr(M  | t(M)) = Pr(M  & t(M)) / Pr(t(M)) 
+    = 0.999% / 1.098%  = 0.9098… ≈ 91%  ≈ 1110 
+This fits, because a True positive is around 10 times as likely as 
+a False positive.  The “testimony” of my detector is credible!  7Bibliography 
+ 
+Earman, John (2000), Hume’s Abject Failure: The Argument Against Miracles , Oxford 
+University Press 
+ 
+Earman, John (2002), “Bayes, Hume, Price, and Miracles”, Proceedings of the British 
+Academy  113: 91-109 
+Earman attacks Hume aggressively, describing the argument concerning miracles as “tame and 
+derivative and something of a muddle” (2002, p. 93)),  “a shambles from which little emerges intact, 
+save for posturing and pompous solemnity” (2002, p. 108).  However he misinterprets Hume’s 
+argument badly, and the account given in my talk is intended to refute his dismissal of it. 
+ 
+ 
+Garrett, Don (1997), Cognition and Commitment in Hume’s Philosophy , Oxford 
+University Press, chapter 7, pp. 137-62; revised version in Peter Millican (ed.), 
+Reading Hume on Human Understanding , Oxford 2002: 301-32 
+A very useful discussion of various issues that  can make Hume’s argument hard to understand.  
+Focuses on pure philosophical points rather than discussing probabilistic interpretations. 
+ 
+ 
+Hume, David (1748/77), Enquiry Concerning Human Understanding , ed. Peter 
+Millican, Oxford “World’s Classics”, 2007 
+Gives Hume’s final edition, together with other relevant Hume texts (e.g. the Abstract, “Of the 
+Immortality of the Soul”, excerpts from the Dialogues Concerning Natural Religion, and various 
+letters).  Also includes editorial material to se t the work in context and assist with understanding 
+(e.g. explanatory notes, a glossary, and a glossari al index of major philosophers and philosophical 
+movements).  The Introduction sketches the relevant history of philosophy from Aristotle to the Early 
+Modern period, putting Hume’s interests – notably religion – in a wider context.  8 
+Hume, David (1779), Dialogues Concerning Natural Religion , ed. Norman Kemp 
+Smith, Nelson, second edition 1947 
+The funniest truly great work of Philosophy ever written!  Hume’s famous demolition of the Design 
+Argument for God’s existence.  The Kemp Smith edition is standardly used for references, but there 
+are several good modern editions, e.g. edited by John Gaskin in the Oxford University Press 
+“World’s Classics” series, or by Martin Bell in the “Penguin Classics” series.  To start with you 
+may find the 18th century English a bit hard to get used to, but once you’re over that hurdle, it’s 
+entertaining and extremely hard-hitting. 
+ 
+ 
+Millican, Peter (2002), “Critical Survey of the Literature on Hume and the First 
+Enquiry ”, in Peter Millican (ed.), Reading Hume on Human Understanding , 
+Clarendon Press: 413-74 
+A survey of 250 articles and books concerning Hume’s philosophy, with particular reference to the 
+Enquiry concerning Human Understanding.  Includes 5 pages on miracles, and 13+ on religion. 
+ 
+ 
+Owen, David (1987), “Hume versus Price on Miracles and Prior Probabilities:  
+Testimony and the Bayesian Calculation”, Philosophical Quarterly  37: 187-202 
+and reprinted in Peter Millican (ed.), Reading Hume on Human Understanding , 
+Oxford 2002: 335-48 
+An engaging discussion of philosophical issues surrounding the probabilistic interpretation of Hume 
+on miracles, drawing attention in particular to th e work of Hume’s contemporary Richard Price. 
+ 

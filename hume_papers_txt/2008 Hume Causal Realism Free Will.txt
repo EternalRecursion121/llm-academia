@@ -1,0 +1,208 @@
+peter.millican@philosophy.ox.ac.uk       P e t e r  M i l l i c a n ,  Y o r k ,  2 6th March 2008 Hume, Causal Realism, and Free Will: The State of the Debate 
+Hume’s (lower-case) causal realism 
+all objects, which are found to be constantly conjoin’d, are upon that account only  to be regarded as causes and effects.  …  
+the constant conjunction of objects constitutes the very essence  of cause and effect …  ( T 1.4.5.32, my emphasis) 
+Here then are two particulars, which we are to consider as essential to necessity, viz. the constant union  and the inference  of 
+the mind; and wherever we discover these we must acknowledge a necessity.  …  ( T 2.3.1.4) 
+Kames’ accusation 
+we have … this author’s [i.e. Hume’s] own evidence … against himself … in his philosophical essays [i.e. the Enquiry ].  
+For tho’, in this work, he continues to maintain “That necessity exists only in the mind, not in objects, and that it is not 
+possible for us even to form the most distant idea of it, considered as a quality in bodies;” [cf. T 1.3.14.22] yet, in the course 
+of the argument, he more than once discovers, that he himself is possessed of an idea of power , considered as a quality in 
+bodies, tho’ he has not attended to it.  Thus he observes, “That nature conceals from us, those powers and principles, on which the influence of objects entirely depends.” [ E 4.16.1]  And of these powers and principles, he gives several apt 
+instances, such as a power or quality in bread to nourish [ E 4.16.2]; a power by which bodies persevere in motion 
+[E 4.16.3].  This is not only owning an idea of power as a quality in bodies, but also owning the reality of this power.  … 
+here is the author’s own acknowledgement, that he has an idea of a power in one object to produce another; for he certainly will not say, that he is here making use of words, without having any ideas annexed to them.  (Kames 1751: 290-1) 
+Hume’s apparent response 
+But notwithstanding this ignorance of natural powers * and principles …  ( E 4.16, 4th sentence) 
+   * The word, Power, is here used in a loose and popular sense.  The more accurate explication of it would give additional evi dence to 
+this argument.  See Sect. 7.  (n. 7) 
+Imperfect definitions? 
+Yet so imperfect are the ideas which we form concerning [the relation of cause and effect], that it is impossible to give any 
+just definition of cause, except what is drawn from something extraneous and foreign to it.   [… H ERE OCCUR THE TWO 
+DEFINITIONS OF CAUSE …]   But though both these definitions be drawn from circumstances foreign to the cause, we cannot 
+remedy this inconvenience, or attain any more perfect definition, which may point out that circumstance in the cause, which gives it a connexion with its effect.  We have no idea of this connexion; nor even any distinct notion what it is we desire to know, when we endeavour at a conception of it.  … * ( E 7.29) 
+   * A CCORDING  to these explications and definitions, the idea of power  is relative as much as that of cause ; and both have a reference to 
+an effect, or some other event constantly conjoined with the former.  When we consider the unknown  circumstance of an object, by 
+which the degree or quantity of its effect is fixed and determined, we call that its power:  And accordingly, it is allowed by all 
+philosophers, that the effect is the measure of the power.  But if they had any idea of power, as it is in itself, why could no t they 
+measure it in itself?  The dispute whether the force of a body in motion be as its velocity, or the square of its velocity; thi s dispute, I 
+say, needed not be decided by comparing its effects in equal or unequal times; but by a direct mensuration and comparison.  (n.  17) 
+Quantitative powers 
+the utmost effort of human reason is, to reduce the principles, productive of natural phaenomena, to a greater simplicity, and 
+to resolve the many particular effects into a few general causes …  ( E 4.12)  … abstract reasonings are employed, either to 
+assist experience in the discovery of these laws, or to determine their influence in particular instances, where it depends upon any precise degree of distance and quantity.  Thus, it is a law of motion, discovered by experience, that the moment or force of any body in motion is in the compound ratio or proportion of its solid contents and its velocity …  ( E 4.13) 
+We find by experience, that a body at rest or in motion continues for ever in its present state, till put from it by some new 
+cause; and that a body impelled takes as much motion from the impelling body as it acquires itself. These are facts. When 
+we call this a vis inertiae , we only mark these facts, without pretending to have any idea of the inert power; in the same 
+manner as, when we talk of gravity, we mean certain effects, without comprehending that active power.  ( E 7.25 n 16) 
+Conceivability and possibility 
+The mind can always conceive  any effect to follow from any cause, and indeed any event to follow upon another:  whatever 
+we conceive  is possible, at least in a metaphysical sense …  ( A 11) 
+Wherever ideas are adequate representations of objects, the relations, contradictions and agreements of the ideas are all 
+applicable to the objects …  The plain consequence is, that whatever appears  impossible and contradictory upon the 
+comparison of these ideas, must be really  impossible and contradictory, without any farther excuse or evasion.  ( T 1.2.2.1) 
+ 
+For more on all this, see Peter Millican, “Against the ‘New Hume’”, pp. 211-52 in Rupert Read and Kenneth A. Richman 
+(eds), The New Hume Debate, Revised Edition  (Routledge, 2007), which also includes P. J. E. Kail, “How to Understand 
+Hume’s Realism”, pp. 253-69.  See also Peter Millican, “Humes Old and New: Four Fashionable Falsehoods, and One 
+Unfashionable Truth”, Proceedings of the Aristotelian Society, Supplementary Volume  81 (2007): 163-99 and Helen 
+Beebee, “The Two Definitions and the Doctrine of Necessity”, Proceedings of the Aristotelian Society  107 (2007): 413-31. (Annotation:  main stages of argument, parallel to Treatise  and Abstract ;  quoted by Kail;  other significant passages) 
+ Enquiry  Section VIII: Summary 
+Preamble: a controversy turning merely upon words 
+8.1 [One might expect that in any long-running debate the meaning of the terms would have been agreed upon.  But on 
+the contrary: its remaining undecided suggests] that there is some ambiguity … and that the disputants affix 
+different ideas to the terms employed in the controversy.  …  It is true; if men attempt the discussion of questions, 
+which lie entirely beyond the reach of human capacity … they may … never arrive at any determinate conclusion.  
+But if the question regard any subject of common life and experience; nothing, one would think, could preserve the 
+dispute so long undecided, but some ambiguous expressions ... 
+8.2 This has been the case in the long disputed question concerning liberty and necessity [in which] a few intelligible 
+definitions would immediately have put an end to the whole controversy.  … 
+8.3 I hope, therefore, to make it appear, that all men have ever agreed in the doctrine both of necessity and of liberty, 
+according to any reasonable sense, which can be put on these terms; and that the whole controversy has hitherto 
+turned merely upon words.  We shall begin with examining the doctrine of necessity. 
+Clarifying our idea of necessity 
+8.4 It is universally allowed, that matter, in all its operations, is actuated by a necessary force, and that every natural 
+effect is so precisely determined by the energy of its cause, that no other effect, in such particular circumstances, 
+could possibly have resulted from it.  …  Would we, therefore, form a just and precise idea of necessity , we must 
+consider whence that idea arises, when we apply it to the operation of bodies. 
+8.5 It seems evident, that [if the succession of events bore no resemblance to what had gone before] we should never 
+… have attained the least idea of necessity … Our idea, therefore, of necessity and causation arises entirely from 
+the uniformity, observable in the operations of nature; where similar objects are constantly conjoined together, and 
+the mind is determined by custom to infer the one from the appearance of the other .  These two circumstances form 
+the whole of that necessity, which we ascribe to matter.  Beyond the constant conjunction  of similar objects, and 
+the consequent inference  from one to the other, we have no notion of any necessity, or connexion . 
+What therefore needs to be shown … 
+8.6 If it appear, therefore, that all mankind have ever allowed … that these two circumstances take place in the 
+voluntary actions of men, and in the operations of mind; it must follow, that all mankind have ever agreed in the 
+doctrine of necessity , and that they have hitherto disputed, merely for not understanding each other. 
+(a): Constancy and regularity in the actions of men 
+8.7 As to the first circumstance, the constant and regular conjunction of similar events  …  It is universally 
+acknowledged, that there is a great uniformity among the actions of men, in all nations and ages, and that human 
+nature remains still the same, in its principles and operations.  … 
+8.8 [This conditions our belief in the tales of travellers and historians.] 
+8.9 [It also explains our learning from social experience, and why those with greater experience are better judges.] 
+8.10 [This doesn’t imply that everyone will act exactly the same.] 
+8.11 [We find from experience that culture, education, sex, and age all affect people’s behaviour in regular ways.] 8.12 I grant it possible to find some actions, which seem to have no regular connexion with any known motives … [But 
+we should consider these in the same sort of way as] those irregular events, which appear in the course of nature, 
+and the operations of external objects. 
+8.13 [The vulgar tend to attribute unpredictable events to uncertain causes which] often fail of their usual influence; 
+though they meet with no impediment …  But philosophers … find, that it is at least possible the contrariety of 
+events may not proceed from any contingency in the cause, but from the secret operation of contrary causes.  This 
+possibility is converted into certainty by farther observation; when they remark, that, upon an exact scrutiny, a contrariety of effects always betrays a contrariety of causes …  From the observation of several parallel instances, philosophers form a maxim, that the connexion between all causes and effects is equally necessary, and that its seeming uncertainty in some instances proceeds from the secret oppos ition of contrary causes. 
+8.14 [The human body, for example,] is a mighty complicated machine … [which] to us … must often appear very 
+uncertain in its operations: … therefore the irregular events, which outwardly discover themselves, can be no proof, 
+that the laws of nature are not observed with the greatest regularity in its internal operations … 
+8.15 The philosopher, if he be consistent, must apply the same reasoning to the actions and volitions of intelligent 
+agents.  …  The internal principles and motives may operate in a uniform manner, notwithstanding these seeming 
+irregularities; in the same manner as the … weather … 
+8.16 Thus it appears, not only that the conjunction between motives and voluntary actions is as regular and uniform, as 
+that between the cause and effect in any part of nature; but also that this regular conjunction has been universally 
+acknowledged … and has never been the subject of dispute, either in philosophy or common life .  Peter Millican, York, 26th March 2008  3(b): Experienced uniformity of human actions as a basis of prediction 
+ Now … it may seem superfluous to prove, that this experienced uniformity in human actions is a source, whence 
+we draw inferences  concerning them.  But … we shall also insist, though briefly, on this latter topic.  
+8.17 … scarce any human action … is performed without some reference to the actions of others, which are requisite to 
+make it answer fully the intention of the agent.  …  In all these conclusions, they take their measures from past 
+experience …  In short, this experimental inference and reasoning concerning the actions of others enters so much into human life, that no man, while awake, is ever a moment without employing it.  Have we not reason, therefore, to affirm, that all mankind have always agreed in the doctrine of necessity, according to the foregoing definition and explication of it? 
+8.18 [Philosophers also agree in the doctrine] … there are even few of the speculative parts of learning, to which it is 
+not essential.  [For example history , politics , morals , and criticism .]  It seems almost impossible … to engage, 
+either in science or action of any kind, without acknowledging the doctrine of necessity, and this inference  from 
+motives to voluntary actions; from characters to conduct. 
+8.19 [We often link natural  and moral  evidence together in a chain of reasoning.]  The same experienced union has the 
+same effect on the mind, whether the united objects be motives, volition, and actions; or figure and motion.  … 
+8.20 [Some predictions regarding human behaviour are as certain as those of physics.]  Above one half of human 
+reasonings contain inferences of a similar nature, attended with more or less degrees of certainty, proportioned to 
+our experience of the usual conduct of mankind in such particular situations. 
+Why do people deny the doctrine of necessity? 
+8.21 I have frequently considered [why people who have] acknowledged the doctrine of necessity, in their whole 
+practice and reasoning, have yet [professed] the contrary opinion.  If we examine [causation in] the operations of 
+body … we shall find, that all our faculties can never carry us farther in our knowledge  of this relation, than barely 
+to observe, that particular objects are constantly conjoined  together, and that the mind is carried, by a customary 
+transition , from the appearance of one to the belief of the other.  But though this conclusion concerning human 
+ignorance  be the result of the strictest scrutiny of this subject, men still entertain a strong propensity to believe, 
+that they … perceive something like a necessary connexion between the cause and the effect.  When again they 
+turn their reflections towards the operations of their own minds, and feel no such connexion of the motive and the 
+action; they are thence apt to suppose, that there is a difference between the effects, which result from material 
+force, and those which arise from thought and intelligence.  But being once convinced, that we know nothing 
+farther of causation of causation of any kind, than merely the constant conjunction  of objects, and the consequent 
+inference  of the mind from one to another … we may be more easily led to own the same necessity common to all 
+causes.  …  It may only, perhaps, be pretended, that the mind can perceive, in the operations of matter, some 
+farther connexion between the cause and effect; and a connexion that has not place in the voluntary actions of 
+intelligent beings .  … it is incumbent on these philosophers to make good their assertion, by defining or describing 
+that necessity, and pointing it out to us in the operations of material causes.  (bold indicates Kail’s emphasis) 
+8.22 [Men make a mistake by entering this issue with an examination of human behaviour.  Better instead to start with] 
+the operations of body and of brute unintelligent matter; and try whether they can there form any idea of causation 
+and necessity, except that of a constant conjunction of objects, and subsequent inference of the mind from one to 
+another .  If these circumstances form, in reality, the whole of that necessity, which we conceive in matter , and if 
+these circumstances be also universally acknowledged to take place in the operations of the mind, the dispute is at 
+an end; at least, must be owned to be thenceforth merely  verbal.  But as long as we  will rashly suppose, that we 
+have some farther idea of necessity and causation in the operations of external objects … there is no possibility of 
+bringing the question to any determinate issue, while we proceed upon so erroneous a s upposition.   … 
+The doctrine of liberty 
+8.23 But to proceed in this reconciling project with regard to the question of liberty and necessity; the most contentious 
+question, of metaphysics, the most contentious science; it will not require many words to prove, that all mankind 
+have ever agreed in the doctrine of liberty as well as in that of necessity …  By liberty … we can only mean a 
+power of acting or not acting, according to the determinations of the will  …  Now this hypothetical liberty is 
+universally allowed to belong to every one, who is not a prisoner and in chains.  … 
+8.24 Whatever definition we …may give of liberty [should be] consistent with plain matter of fact [and with] itself. 
+8.25 It is universally allowed, that nothing exists without a cause of its existence  …  But it is pretended, that some 
+causes are necessary, some not necessary.  Here then is the advantage of definitions.  Let any one define  a cause, 
+without comprehending, as a part of the definition, a necessary connexion  with its effect; and let him shew 
+distinctly the origin of the idea, expressed by the definition; and I shall readily give up the whole controversy. But 
+if the foregoing explication of the matter be received, this must be absolutely impracticable.  Had not objects a regular conjunction with each other, we should never have entertained any notion of cause and effect; and this 
+regular conjunction produces that inference of the understanding, which is the only connexion, that we can have 
+any comprehension of.  Whoever attempts a definition of cause, exclusive of these circumstances, will be obliged, 
+either to employ unintelligible terms, or such as are synonimous to the term, which he endeavours to define. And if the definition above mentioned be admitted; liberty, when opposed to n ecessity, not to constraint, is the same thing 
+with chance; which is universally allowed to have no existence.  Peter Millican, York, 26th March 2008  4Part II: Moral consequences of the doctrines: (a) Necessity 
+8.26 … I shall venture to affirm, that the doctrines, both of necessity and of liberty, as above explained, are not only 
+consistent with morality, but are absolutely essential to its support. 
+8.27 Necessity may be defined two ways, conformably to the two definitions of cause , of which it makes an essential 
+part.  It consists either in the constant conjunction of like objects, or in the inference of the understanding from one 
+object to another .  Now necessity, in both these senses, (which, indeed, are, at bottom, the same) has universally , 
+though tacitly, in the schools, in the pulpit, and in common life, been allowed to belong to the will of man; and no 
+one has ever pretended to deny, that we can draw inferences concerning human actions, and that those inferences 
+are founded on the experienced union of like actions, with like motives, inclinations, and circumstances .  The only 
+particular, in which any one can differ, is, that either, perhaps, he will refuse to give the name of n ecessity to this 
+property of human actions:  But as long as the meaning is understood, I hope the word can do no harm:  Or that he 
+will maintain it possible to discover something farther in the operations of matter.  But this, it must be 
+acknowledged, can be of no consequence to morality or religion, whatever it may be to natural philosophy or 
+metaphysics.  We may here be mistaken in asserting, that there is no idea of any other necessity or connexion in the 
+actions of body : But surely we ascribe nothing to the actions of the mind, but what every one does, and must 
+readily allow of.  We change no circumstance in the received orthodox system with regard to the w ill, but only in 
+that with regard to material objects and causes.  Nothing therefore can be more innocent, at least, than this doctrine. 
+8.28 [Laws, rewards and punishments all suppose that] motives have a regular and uniform influence on the mind …  
+We may give to this influence what name we please; but, as it is usually conjoined with the action, it must be 
+esteemed a cause , and be looked upon as an instance of that necessity, which we would here establish. 
+8.29 [We only blame people for things that result from] some cause  in the character and disposition [which] is durable 
+and constant …  According to the principle, therefore, which denies necessity, and consequently causes, a man is 
+as pure and untainted, after having committed the most horrid crime, as at the first moment of his birth, nor is his 
+character any wise concerned in his actions; since they are not derived from it … 
+8.30 [This explains why we blame men less for actions performed] ignorantly and casually, … [or] hastily and 
+unpremeditately, than for such as proceed from deliberation.  [It also explains repentance, because] … actions 
+render a person criminal, merely as they are proofs of criminal principles in the mind; and when, by an alteration of 
+these principles, they cease to be just proofs, they likewise cease to be criminal.  But, except upon the doctrine of necessity, they never were just proofs, and consequently never were criminal. 
+(b) Liberty 
+8.31 … liberty , according to that definition above mentioned, in which all men agree, is also essential to morality …  
+For as actions are objects of our moral sentiment, so far only as they are indications of the internal character, passions, and affections; it is impossible that they can give rise either to praise or blame, where they proceed not 
+from these principles, but are derived altogether from external violence. 
+Consequences regarding God and evil 
+8.32 I pretend not to have obviated or removed all objections to this theory, with regard to necessity and liberty.  [For 
+example it might be argued that necessity makes the Deity responsible for all evil that occurs.] 
+8.33 This objection consists of two parts …  First , that, if human actions can be traced up, by a necessary chain, to the 
+Deity, they can never be criminal; on account of [His] infinite perfection …  Or, Secondly , if they be criminal, we 
+must retract the attribute of perfection, which we ascribe to the Deity … 
+8.34 The answer to the first objection seems obvious  …  You would surely more irritate, than appease a man, lying 
+under the racking pains of the gout, by preaching up to him the rectitude of those general laws, which produced the 
+malignant humours in his body [to] excite such acute torments.  …  The affections take a narrower and more natural survey of their object … and are actuated by such events as appear good or ill to the private system. 
+8.35 The case is the same with moral  as with physical  ill.  …  The mind of man is so formed by nature, that, upon the 
+appearance of certain characters, dispositions, and actions, it immediately feels the sentiment of approbation or 
+blame; nor are there any emotions more essential to its frame and constitution.  …  A man who is robbed of a considerable sum; does he find his vexation for the loss any wise diminished by … sublime reflections [about theodicy]?  Why then should his moral resentment against the crime be supposed incompatible with them?  Or why should not the acknowledgment of a real distinction between vice and virtue be reconcileable to all speculative systems of philosophy, as well as that of a real distinction between personal beauty and deformity?  Both these distinctions are founded in the natural sentiments of the human mind: And these sentiments are not to be 
+controuled or altered by any philosophical theory or speculation whatsoever. 
+8.36 The second  objection admits not of so easy and satisfactory an answer; nor is it possible to explain distinctly, how 
+the Deity can be the mediate cause of all the actions of men, without being the author of sin and moral turpitude.  These are mysteries, which mere natural and unassisted reason is very unfit to handle … 
+ 
+Parallel passages:   Definitions of cause:
+  E 7.29, T 1.3.14.31, A 32;   Definitions of necessity :   E 8.5, E 8.27, T 2.3.1.4, 
+T 2.3.2.4, A 32;   No other notion of necessity:   E 8.5, E 21–2, T 1.4.14.33;   What is to be proved:   E 8.6, T 2.3.1.3;   
+Regular conjunction of motives and actions:   E 8.16, T 2.3.1.16, T 2.3.2.4, A 32–3;   Pretence of farther connexion in matter:   
+E 8.21, E 27, T 2.3.2.4, A 34;   No such farther idea is possible:   E 8.22, E 27, T 2.3.2.4, A 34. 

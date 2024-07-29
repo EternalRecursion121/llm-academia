@@ -1,0 +1,1434 @@
+Twenty Questions about Hume ’s
+“Of Miracles ”*
+PETER MILLICAN
+Hume ’s essay on the credibility of miracle reports has always been
+controversial,1with much debate over how it should be interpreted,
+let alone assessed. My aim here is to summarise what I take to be
+the most plausible views on these issues, both interpretative and phi-
+losophical, with references to facilitate deeper investigation if desired.The paper is divided into small sections, each headed by a question
+that provides a focus. Broadly speaking, §§1 –3 and §20 are on
+Hume ’s general philosophical framework within which the essay is
+situated, §§4 –11 and §19 are on Part 1, §12 –18 are on Part 2, and the
+final three sections §§18 –20 sum up my assessment of his arguments.
+1. Is “Of Miracles ”Consistent with Hume ’s Inductive
+Scepticism?
+Hume ’s discussion of miracles is commonly alleged to be in serious
+tension with the somewhat sceptical views developed earlier in boththeTreatise and the Enquiry .
+2Traditionally, he has been interpreted
+as an extreme sceptic about induction, one who argues that “as far
+* This paper was completed whilst enjoying the delightful hospitality and
+stimulating environment of the Institute for Advanced Studies in theHumanities (IASH) at Edinburgh, in the role of Illumni David HumeFellow. I am profoundly grateful to the Edinburgh Illumni and to IASHfor giving me this opportunity. I should also like to express my appreciationof innumerable helpful discussions with members of the excellent HumeSociety, with particular thanks to Lorne Falkenstein, Don Garrett, andDavid Owen.
+1Hume ’sEnquiry was originally published as Philosophical Essays con-
+cerning Human Understanding . Hence Section 10, which provoked contro-
+versy right from the start, quickly became known as his “essay ”on miracles.
+2For example by Broad (1917, p. 92), Flew (1961, p. 171), and Larmer
+(1996, pp. 29 –32).
+151doi:10.1017/S1358246111000105 © The Royal Institute of Philosophy and the contributors 2011
+Royal Institute of Philosophy Supplement 682011as the competition for degrees of reasonableness is concerned, all
+possible beliefs about the unobserved are tied for last place ”
+(Stroud 1977, p. 54). And if this is his view, then the case he makes
+in“Of Miracles ”–that miracle stories cannot be inductively estab-
+lished –seems a pointless exercise. To such an undiscriminating
+sceptic, belief in Jesus ’s resurrection, or a weeping statue, or any
+other alleged miracle, must be no less (and no more) justified than
+commonplace inductive beliefs such as that the Sun will rise tomor-row, or that my pen will fall if released in mid-air. Is he not then
+simply inconsistent in comparing miracle stories unfavourably with
+everyday and scientific inductions?
+If there is indeed an inconsistency here, however, this is more a dif-
+ficulty for Hume ’s philosophy of induction than for his position on
+miracles. Most of his work –from the Treatise , through the Essays
+andEnquiries , to the History and the later works on religion –is
+thoroughly infused with the empirical scientific spirit of an investi-
+gator attempting “to introduce the experimental method of reasoning
+into moral subjects ”(as declared by the subtitle of the Treatise ). In
+this respect, the inductive commitment of his essay on miracles is en-
+tirely typical. And in fact there is no inconsistency between Hume ’s
+philosophy of induction and his empirical method; quite the
+reverse. His inductive “scepticism ”–as presented in Sections 4 and
+5 of the Enquiry , is encapsulated in the claim “that, in all reasonings
+from experience, there is a step taken by the mind, which is not sup-
+ported by any argument or process of the understanding ”(E5.2).
+This unsupported step –the assumption of uniformity whereby we
+extrapolate from observed to unobserved and “expect similar effects
+from causes, which are, to appearance, similar ”(E4.23) –has
+instead a non-rational basis, in an animal instinct which Hume callscustom (E5.6). Later, in Section 9, he goes on to highlight the corol-
+lary, that human inference to facts about the unobserved is funda-
+mentally similar to that of the animals, based not on rationalinsight into how things behave, but instead on a crude natural instinct
+to expect more of the same. All this has a sceptical potential which
+Hume fully recognises ( E12.22), but he does not follow it through
+by claiming that all induction is equally worthless, and instead pro-
+ceeds to build positively on his crucial result, by emphasising our
+need for the assumption of uniformity rather than its non-rational
+basis. Any sceptic who urges us to discard it “must acknowledge, if
+he will acknowledge any thing, that all human life must perish,
+were his principles universally and steadily to prevail ”
+(E12.23).
+So we are stuck with the assumption of uniformity, because we
+cannot live without it and are anyway psychologically unable to
+152Peter Millicanabandon it; moreover the sceptic can provide no persuasive reason
+why we should not rest content with it. Though not itself rationallyfounded, therefore, it is worthy of our assent, and is even able to
+provide an appropriate criterion of rational empirical judgement.
+Thus the upshot of Hume ’s“mitigated scepticism ”(E12.24) is not
+to undermine human reason, but rather to bring us face to face
+with its nature and humble animal origins. Induction remains “that
+reasoning, which can alone assure us of any matter of fact or exist-ence”(E7.27), and hence it is on induction that we must rely if we
+are to have any well-founded belief concerning such matters of fact
+as the trustworthiness of reporters and the occurrence (or non-occurrence) of miracles. There is thus no inconsistency whatever
+between Hume ’s“scepticism ”concerning induction and his induc-
+tive assessment of the evidence for miracles.
+2. What Does Hume Mean by “Probability ”and “Proof ”?
+Even once the general principle of inductive extrapolation from
+observed to unobserved has been accepted, such inference is notalways straightforward, because our experience does not always
+follow consistent patterns. Section 6 of the Enquiry ,“Of
+Probability ”, considers how psychological associative processes, ana-
+logous to custom, operate to generate proportionate degrees of belief
+in such cases. But it is at the beginning of his discussion of miracles
+that Hume casts this issue most clearly into a normative light,
+showing how a commitment to induction can point the way
+towards appropriately rational judgements. Observation teaches us
+that some patterns in our experience have been uniform, whereasothers have varied; hence induction itself should lead us to expect a
+similar mix of uniformity and variety in the future. Hume accord-
+ingly draws a distinction between induction from phenomenawhich have been “found, in all countries and all ages, to have been
+constantly conjoined together ”, and induction from those which
+“have been more variable ”(E10.3). In the next paragraph, he uses
+some technical terminology to capture this distinction, a refinement
+of a standard dichotomy inherited from John Locke.
+Locke ’sEssay concerning Human Understanding of 1690 had influ-
+entially drawn the distinction between demonstrative andprobable
+reasoning ( Essay IV xv 1), roughly equivalent to the modern distinc-
+tion between deductive andinductive arguments. In Treatise Book 1
+Hume follows this Lockean usage, but at T1.3.11.2 he remarks
+that it is infelicitous, in a passage largely repeated in the Enquiry :
+153Twenty Questions about Hume ’s“Of Miracles ”Mr. L OCKE divides all arguments into demonstrative and prob-
+able. In this view, we must say, that it is only probable all menmust die, or that the sun will rise to-morrow. But to conform
+our language more to common use, we ought to divide arguments
+intodemonstrations ,proofs , and probabilities . By proofs meaning
+such arguments from experience as leave no room for doubt or
+opposition. ( E6.0 n. 10 –footnote to the heading of Section 6
+“Of Probability ”)
+In the Enquiry , Hume accordingly reserves the term “probable ”for
+inferences specifically from inconstant experience.
+3And so he
+speaks instead of “moral reasoning ”or“reasoning concerning
+matter of fact ”when he wishes to refer to the broader Lockean cat-
+egory of non-demonstrative reasoning, which encompasses both
+probabilities andproofs . A proof, thus understood, is an inference
+from constantly repeated and exceptionless experience, such as my in-
+ference that the sun will rise tomorrow, based on my uniform experi-
+ence of its having risen every day in the past. It is this technical senseof“proof ”which Hume intends throughout his discussion of mira-
+cles, for example in the famous passage that immediately follows
+theE10.3 paragraph quoted above:
+4
+A wise man, therefore, proportions his belief to the evidence. In
+such conclusions as are founded on an infallible experience, he…regards his past experience as a full proof of the future exist-
+ence of that event. In other cases, he proceeds with more
+caution: …He considers which side is supported by the
+greater number of experiments: To that side he inclines, with
+doubt and hesitation; and when at last he fixes his judgment,
+the evidence exceeds not what we properly call probability .A l l
+probability, then, supposes an opposition of experiments and
+observations, where the one side is found to overbalance the
+other, and to produce a degree of evidence, proportioned tothe superiority. ( E10.4)
+The remainder of Section 10 is devoted to spelling out the impli-
+cations of this prescription of wisdom, as applied to the specificcase of testimony for supposed miracles.
+3With the exception of E4.19, which refers to “probable arguments ”in
+the broader Lockean sense.
+4TheEnquiry does sometimes use the term in a more everyday sense,
+for example at E7.14, 8.14, 8.22 n. 18, 11.30.
+154Peter Millican3. Is “Of Miracles ”Philosophically Serious, or a Scurrilous
+Addition?
+Sir Amherst Selby-Bigge, in the Introduction to his edition (1894, §5
+and §12), influentially alleged that Hume included the discussion ofmiracles in the first Enquiry merely to spice up the work and
+provoke public notoriety, rather than for any serious philosophical
+purpose. But this dismissive judgement is quite wrong. First, theessay is of significant philosophical interest in its own right, and pro-
+vides the most developed application of Hume ’s theory of induction
+to a case of conflicting evidence, showing how in practice he combineshis general epistemology of mitigated scepticism with normative
+critical standards.
+5Secondly, his choice of topic for this role is by
+no means gratuitous, because testimony was central to the early-modern discussion of non-demonstrative evidence, as one of the
+twogrounds of probability identified by Locke:
+…Thegrounds of [Probability] , are, in short, these twofollow-
+ing: First, The conformity of any thing with our own
+Knowledge, Observation, and Experience. Secondly ,T h e
+Testimony of others, vouching their Observation andExperience. ( Essay IV xv 4)
+So it is quite natural that Hume –having devoted Sections 4 –6 of the
+Enquiry to the first of these grounds (i.e. conformity with our own
+observation and experience) –should go on to discuss testimony.
+And it is also entirely typical of the time that such a discussionshould culminate with a consideration of miracles, just as it had
+with Locke:
+Though the common Experience, and the ordinary Course of
+Things have justly a mighty Influence on the Minds of Men, …
+yet there is one Case, wherein the strangeness of the Fact
+lessens not the Assent to a fair Testimony given of it. Forwhere such supernatural Events are suitable to ends aim ’da t
+by him, who has the Power to change the course of Nature,
+there, under such Circumstances, they may be the fitter to
+5This illustrates the point made in §1 above, that Humean “inductive
+scepticism ”is entirely compatible with drawing distinctions between
+strong and weak inductive evidence (according to how well each inference
+conforms to the basic assumption of underlying uniformity). His “scepti-
+cism ”is not indiscriminate, because he insists that the Pyrrhonian ’s“undis-
+tinguished doubts ”should be “corrected by common sense and reflection ”
+(E12.24)
+155Twenty Questions about Hume ’s“Of Miracles ”procure Belief, by how much the more they are beyond, or con-
+trary to ordinary Observation. This is the proper Case ofMiracles …(Essay IV xvi 13)
+Hume wholeheartedly agrees with Locke that, in general, claims con-
+trary to “the ordinary Course of Things ”are to that extent less cred-
+ible. Where he most conspicuously differs from Locke is in denying
+that miracles should constitute any exception to this general rule.
+4. Is Hume Right to Treat Testimonial Evidence as Inductive?
+Hume ’s treatment of testimony starts by applying his previously-
+stated principles of probability:
+To apply these principles to a particular instance; we may
+observe, that there is no species of reasoning more common,
+more useful, and even necessary to human life, than that which
+is derived from the testimony of men …our assurance in any ar-
+gument of this kind is derived from no other principle than our
+observation of the veracity of human testimony, and of the
+usual conformity of facts to the reports of witnesses. ( E10.5)
+He then follows through his argument of Enquiry Section 4 by insist-
+ing that the “general maxim ”(E10.5) established there –that all in-
+ference to unobserved matters of fact depends on extrapolation from
+experience –applies just as much to testimonial evidence as to any
+other. So while Locke treated testimony as a second, and apparentlyindependent, “ground of probability ”, Hume effectively reduces it to
+a form of inductive evidence.
+6He goes on to refine this approach, by
+taking into account the specific nature of the testimony:
+And as the evidence, derived from witnesses and human testi-
+mony, is founded on past experience, so it varies with the experi-
+ence, and is regarded either as a proof or aprobability , according as
+the conjunction between any particular kind of report and any
+kind of object has been found to be constant or variable. …
+Where …experience is not entirely uniform on any side, it is at-
+tended with an unavoidable contrariety in our judgments, and
+with the same opposition and mutual destruction of argument
+as in every other kind of evidence. …
+6The same treatment is sketched in the Treatise atT1.3.9.12, which
+briefly anticipates its application to miracles.
+156Peter MillicanThis contrariety of evidence …may be derived from several
+different causes; from the opposition of contrary testimony;from the character or number of the witnesses; from the
+manner of their delivering their testimony; or from the union
+of all these circumstances. …There are many other particulars
+of the same kind, which may diminish or destroy the force of
+any argument, derived from human testimony. ( E10.6–7)
+Again we see echoes of Locke, who had mentioned the “Number ”,
+“Integrity ”, and “Skill ”of the witnesses, and the “Consistency ”
+and“Circumstances ”of the testimony ( Essay IV xv 4), but gave no
+indication of how these are to be weighed against each other. Humefills this gap by explaining –consistently with his inductive method-
+ology –that any such judgement should depend on how reliable the
+testimony of each kind has actually turned out to be in practicalexperience.
+It is sometimes objected that testimony cannot be “reduced ”to
+induction in this way, because it serves as a fundamental source ofinformation which must be accepted as reliable from the start if we
+are ever to learn anything significant.
+7Hume ’s own discussion, more-
+over, seems to take for granted that we know from personal experiencevarious things –such as that all men must die ( E6.0 n.10) –which in
+practice are known almost entirelyon the basis of others ’testimonyand
+hence their experience. So unless we start by accepting that their testi-
+mony can be relied on, it seems that we cannot acquire this broader
+experience on which our inductions are supposed to be based.
+Fortunately we know Hume ’s response to this objection, which was
+pressed by George Campbell (1762, I §2, pp. 37 –8). In a 1761 letter
+to Hugh Blair (who had sent him Campbell ’s manuscript), Hume
+implicitly acknowledges that his use of “experience ”is ambiguous:
+Sect. II. No man can have any other experience but his own. The
+experience of others becomes his only by the credit which hegives to their testimony; which proceeds from his own experience
+of human nature. ( HLi 349; Hume 1748, p. 165)
+Here he appears to be saying that although strictly , all experience is
+personal, nevertheless facts attested by those one trusts (such trust
+being based on personal experience) can appropriately be accorded
+the same honorific status. He also makes similar remarks in the
+7See in particular Coady (1973; 1992, ch. 4). Traiger (1993) mounts a
+defence, arguing that Hume does not presuppose an epistemically individu-alist and reductionist conception of testimony.
+157Twenty Questions about Hume ’s“Of Miracles ”Enquiry itself and in his essay “Of the Study of History ”(para. 6),
+saying how reading and conversation can “enlarge …the sphere ”of
+our experience ( E9.5 n. 20) and even “extends our experience to all
+past ages ”(Essays , p. 566). In “Of Miracles ”, at least, the ambiguity
+indeed seems harmless. After all, Hume is not here taking issue withordinary facts founded on widespread and concurrent reports: these
+are not in dispute, and so can be accepted as though they were person-
+ally experienced. The debate concerns only claims that are generallyrecognised to be extraordinary, outside the common course of nature,
+and moreover widely disputed. Someone might reasonably decide to
+investigate these kinds of claims more critically than others, but thereis no reason why suspension of belief in them should imply any
+general rejection of testimony. Indeed one reasonable way of proceed-
+ing might be to develop the inductive measures that Hume rec-ommends, by assessing –both on the basis of our own personal
+experience andthe accepted testimony of others (including, possibly,
+academic literature on cognitive biases) –what kinds of testimony are
+most to be trusted. In short, Hume has no need to dispute the claim
+that we must start by taking testimony for granted to build our
+knowledge of the world.
+8But this in no way impugns his proposed
+targeted investigation of testimony for alleged miracles, nor his
+pursuing that investigation on inductive principles.
+5. How Does Hume Apply these Principles to the Case of
+Miracles?
+It is only after having set out his general approach to the assessment of
+testimony, and having drawn attention to a range of relevant factors
+(as quoted from E10.6–7 above), that Hume turns his attention –
+in the very next sentence –towards the topic of the miraculous:
+Suppose, for instance, that the fact, which the testimony endea-
+vours to establish, partakes of the extraordinary and the marvel-
+lous; in that case, the evidence, resulting from the testimony,
+admits of a diminution, greater or less, in proportion as the factis more less unusual. ( E10.8)
+Here the unusualness of the reported event is identified as one
+additional factor that bears on the credibility of testimonial reports.
+8Moreover the first sentence of E10.5, quoted at the beginning of §4
+above, suggests that he agrees. Note also his comment at E10.28 that
+“some human testimony has the utmost force and authority in some cases ”.
+158Peter MillicanBut Hume then immediately isolates this particular factor, and views
+it as balanced on the other side of the scale against the characteristics of
+the testimony that incline us to believe it. He soon goes on to present
+the most extreme possible case of such “counterpoize ”(E10.8),
+where the reported fact
+instead of being only marvellous, is really miraculous; and …the
+testimony, considered apart and in itself , amounts to an entire
+proof; in that case, there is proof against proof, of which thestrongest must prevail, but still with a diminution of its force,
+in proportion to that of its antagonist. ( E10.11; my emphasis).
+Two very important points should be noted here. First, Hume ’s ar-
+gument so far has treated a miracle as just an extreme case of an extra-
+ordinary event, and the general principles involved in this treatmentare no different from those that he applies to any other extraordinary
+event. Secondly, in sketching out how the counterpoise takes place,
+Hume has understood the strength of the testimony –“considered
+apart and in itself ”–as yielding a single overall measure of proof
+which can then appropriately be weighed against the strength of the
+counter-proof that arises from the unusualness of the alleged event.The stronger of these two proofs “must prevail, but still with a dim-
+inution of its force, in proportion to that of its antagonist ”. So the
+confidence we place in the testimony (or –depending on which way
+the scales point –in the inductive evidence against the supposed
+event) will depend on the extent to which the testimonial proof (or
+alternatively the proof from experience) over-balances its antagonist.The picture that results is something like this:
+159Twenty Questions about Hume ’s“Of Miracles ”Thus the overall credibility depends on this contest between the
+proof constituted by the inductive evidence in favour of the testimony“considered apart and in itself ”(weighing down on the left-hand
+tray) and the proof constituted by the uniform evidence of nature
+against the reported event (weighing down on the right-hand tray).
+We have “proof against proof ”, with the overall credibility given
+not by either “proof ”individually, but by the result of weighing
+them against each other.
+9In the setup illustrated above, this will be
+indicated by the direction of the pointer at the top of the scales
+once they have settled.
+6. Does it Make Sense to Weigh “Entire Proofs ”Against
+Each Other?
+All this should seem fairly commonsensical, as long as we are careful
+to remember that Hume is using the term “proof ”in the technical
+sense explained in §2 above. In this sense, even an “entire proof ”
+can–without contradiction –be outweighed by another proof that
+is stronger, a point that he explains further in the 1761 letter to Blair:
+The proof against a miracle, as it is founded on invariable experi-
+ence, is of that species orkind of proof, which is full and certain
+when taken alone, because it implies no doubt, as is the casewith all probabilities; but there are degrees of this species, and
+when a weaker proof is opposed to a stronger, it is overcome.
+(HLi 350; Hume 1748, p. 165)
+Hume does not spell out in detail how the strength of a “proof ”is to
+be assessed, but much of what he says –both in the Enquiry (e.g.
+E6.4, 10.4) and in the Treatise (e.g.T1.3.11.5, 1.3.12.15) –suggests
+a model based rather crudely on numbers of instances. Suppose I
+experience an Awhich is B, then another, then yet another, and so
+on.“The first instance has little or no force: The second makes
+some addition to it: The third becomes still more sensible
+9This point is very clear from Hume ’s text, and refutes outright the
+interpretation of John Earman (2000, p. 41; 2002, p. 97), which would
+instead involve a calculation, prior to the weighing operation, of two
+overall judgements –namely the conditional probability (given the testi-
+mony) of the event, and of its absence –which are then put in the balance
+against each other. For more on Earman, see Millican (2003) and cf. alsoMillican (2007a, pp. 170 –1 n. 9).
+160Peter Millican[i.e. noticeable]; and ’tis by these slow steps, that our judgment
+arrives at a full assurance ”(T1.3.12.2). If this pattern continues,
+and every Athat I encounter is a B, then eventually my consistent
+experience will constitute an “entire proof ”, enabling me to go on in-
+ferring with complete confidence that each subsequent Awill be a B
+also. But the “gradation from probabilities to proofs is in many cases
+insensible ”, and there seems to be no clear line where the one changes
+into the other.10
+Perhaps this absence of a clear line between “probability ”and
+“proof ”is unimportant, given that Hume ’s notion of proof itself in-
+volves –as we have seen –a flexible rather than absolute standard. In
+line with his letter to Blair, it seems appropriate to interpret a “proof ”
+as involving experiential evidence so strong that, were it standing
+alone without any countervailing evidence on the other side, itwould suffice to give a reasonable person “full assurance ”without
+any element of doubt. There are plenty of everyday cases where we
+feel such assurance (e.g. my confidence that the Hertford College“Bridge of Sighs ”did not rotate in the air last night), but this need
+not involve a denial of any possibility of error.
+11I can recognise that
+Descartes ’evil demon, a mischievous wizard, or divine action are
+allepistemological possibilities , but that alone will not lead me to
+harbour any doubts about the Bridge of Sighs ’nocturnal movements.
+However I could perhaps imagine testimonial evidence so strong as
+to dent this complete confidence, and if such were to come my
+way, I would be faced with the sort of contest of “proofs ”that
+Hume envisages. So far, therefore, his position seems to make reason-able sense.
+10Hume ’s wording suggests that the line will be crossed at the point
+when “our judgment arrives at a full assurance ”, a psychological rather
+than normative criterion. But it seems quite plausible that “full assurance ”
+should eventually become normatively appropriate given sufficient accumu-lation of evidence, especially given our practical incapacity for reliably asses-sing, or reasoning in terms of, tiny probabilities (e.g. it does not seemfeasible to maintain a psychological doubt corresponding accurately to aprobability of one in a thousand, let alone one in a million).
+11Nor does Hume treat it as effectively conferring an error probability
+of“flatly zero ”, as claimed by Earman (2000, p. 23; cf. 2002, p. 95), which
+would beg the question against any miracle report by ruling out from thestart any possibility of testimony outweighing such a proof. Fogelin(2003, pp. 43 –53) rightly attacks Earman ’s claim.
+161Twenty Questions about Hume ’s“Of Miracles ”7. How Should Hume ’s Maxim be Interpreted in Probabilistic
+Terms?
+Just two paragraphs after explaining his balancing of proofs, Hume
+reaches the famous Maxim which is the culmination of Section 10Part 1:
+Hume ’s Maxim
+The plain consequence is (and it is a general maxim worthy of ourattention), “That no testimony is sufficient to establish a miracle,
+unless the testimony be of such a kind, that its falsehood would
+be more miraculous, than the fact, which it endeavours to estab-lish; …”(E 10.13)
+12
+One might think that evidence “sufficient to establish ”some event
+would need to prove it beyond reasonable doubt, but it seems clear
+from the context that Hume is requiring only that it should render
+the event more probable than not :
+When any one tells me, that he saw a dead man restored to life, I
+immediately consider with myself, whether it be more probable ,
+that this person should either deceive or be deceived, or thatthe fact, which he relates, should really have happened. I weigh
+the one miracle against the other , and according to the superiority,
+which I discover, I pronounce my decision, and always reject the
+12Here, for simplicity, I am considering “Hume ’s Maxim ”as being
+only the first part of the relevant sentence, which continues: “…And even
+in that case, there is a mutual destruction of arguments, and the superioronly gives us an assurance suitable to that degree of force, which remains,after deducting the inferior. ”For a discussion of this second part, see
+Millican (2003, §7). In brief, Hume ’s talk of the “mutual destruction of ar-
+guments ”(in a situation where the testimony ’s falsehood is even less likely
+than the miraculous event) can be given a clear and coherent mathematicalinterpretation, in terms of an inductive “credibility ”measure which varies
+between 1 and −1, and whose value is typically assessed (in line with the in-
+ductive “straight rule ”) by the balance of positive over negative instances
+divided by the total number of instances, i.e. ( p−n)/(p+n). Such an
+interpretation is suggested by T1.3.11.9 –13, and this same measure can
+be applied in the case of convincing testimony for miracles by treating p
+as the initial probability of the miraculous event (e.g. 3 in a billion) and n
+as the initial probability of the testimony ’s falsehood (e.g. 1 in a billion).
+This then gives a very good approximation to the probability suggested bythe mathematics of §8 (and note 16) below, translating from credibility(0.5 in this case) to conventional probability (0.75) using the formulaP=(C+1)/2.
+162Peter Millicangreater miracle . If the falsehood of his testimony would be more
+miraculous, than the event which he relates; then, and not till
+then, can he pretend to command my belief or opinion .(E10.13,
+my emphasis)
+The first two sentences here assume an unsurprising inverse relation-
+ship between degrees of probability and of miraculousness. And only
+in the case of an exact tie, it seems, will Hume fail to “pronounce his
+decision ”in favour of the more probable event (thus rejecting the
+greater miracle). Hence if the testimony ’s falsehood is more improb-
+able than the supposedly miraculous event –even by a tiny fraction –
+“then …can [the testifier] pretend to command my belief or opinion ”.13
+Bearing these points in mind, Hume ’s Maxim can be translated
+into probabilistic terms as follows:
+It is a general maxim …“That no testimony is sufficient to
+render a miracle more probable than not, unless the testimony
+be of such a kind, that its falsehood would be even less probable,than the fact, which it endeavours to establish …”(adapted from
+E10.13)
+Its intended basis is clear, because Hume ’s discussion sets up a trial of
+strength between the human testimony and the inductive “testimony
+of experience ”(concerning what happens in nature, independently of
+the testimony). The testimony we are considering in the crucial caseis exceptionally strong, of a type whose typical probability of false-
+hood fis tiny. But here this exceptional kind of testimony has been
+presented in favour of an event of a type Mwhose expected prob-
+ability of occurrence mis also tiny. Nevertheless the testimony for
+Mhas been presented, so we have “proof against proof ”, and one of
+these tiny probabilities must be actualised. Either Mgenuinely oc-
+curred, in which case the human testimony is true and the inductive
+testimony of experience is “false ”, or alternatively Mdid not occur, in
+which case the human testimony is false and the inductive testimonyof experience is “true”. Understood in this way, the overall credibility
+of the miracle report indeed seems to reduce to a straightforward
+comparison of strength between the human testimony and the testi-mony of experience. Hume ’s derivation of his Maxim accordingly
+seems very straightforward, concluding that we should believe a
+miracle-report only if f(the probability of such testimony ’s being
+13This suggests that Hume intends his Maxim as both a necessary and
+sufficient condition for credibility of miracle stories, though his initialwording implies only a necessary condition. In what follows, I ignore thiscomplication.
+163Twenty Questions about Hume ’s“Of Miracles ”false) is even less than m(the probability of such an event ’s
+occurring).
+8. Can Hume ’s Maxim be Derived Mathematically?
+All this might seem to justify Hume ’s Maxim, but there is a key as-
+sumption underlying his argument, to which I have already drawn
+attention in §5 above (and which is clearly presupposed by his talkof the testimony “considered apart and in itself ”, and “testimony
+…of such a kind …”):
+Hume ’s Independence Assumption
+Different “kinds ”of testimony (specified in terms of the charac-
+ter and number of the witnesses, their consistency and manner ofdelivery etc.) carry a different typical probability of truth and fal-
+sehood independently of the event reported .
+To see the importance of this assumption, suppose instead that it
+were not possible to identify “kinds ”of testimony with their own
+typical probability of truth and falsehood. In that case, when speak-
+ing of “the probability of the testimony ”we could only be referring
+properly to the probability of a particular item of testimony (i.e. a
+“token ”rather than a “type”),
+14which asserts the occurrence of one
+particular event , and since that item of testimony would be true if,
+and only if, the event truly occurred, this would make it impossible
+to separate coherently the probability of the testimony from the prob-
+ability of the event . Hume ’s Maxim would then at best be trivial.15
+If, on the other hand, we adopt the Independence Assumption,
+then the Maxim can be derived very plausibly. To see this, let us as
+before focus on a particular kind of testimony –whose typical prob-
+ability of falsehood is f–which on some occasion either asserts, or
+denies, the occurrence of a particular type of event M–whose
+14Those who have tried to understand Hume ’s Maxim in probabilistic
+terms have generally overlooked this crucial distinction between a “type”
+and a “token ”interpretation as introduced in Millican (1993, pp. 490, 495
+n. 8). In Millican (2003) I argue in detail against the interpretations ofEarman (2000, 2002), Gillies (1991), Holder (1998), Howson (2000), andSobel (1991), though it now seems to me that anysuch “token ”interpret-
+ation is ultimately bound to be inadequate for the simple reason given
+here, so detailed discussion of the mathematics is superfluous.
+15As critics from George Campbell (1762, I §6, pp. 99 –103) to John
+Earman (2000, p. 41; 2002, p. 97) have alleged. But this is certainly a mis-interpretation, as pointed out in §5 above (cf. especially note 9).
+164Peter Millicanprobability of occurrence is m. If the reliability of that kind of testi-
+mony is probabilistically independent of what is being reported,then we can apparently calculate the probability of a “true positive ”
+and a “false positive ”report as follows:
+True positive (miracle occurs, and is truly reported)
+Pr(M&t(M))=Pr(M)×Pr(true report )=m.(1−f)
+False positive (miracle does not occur, but is falsely reported as
+having occurred)
+Pr(¬M&t(M))=Pr(¬M)×Pr(false report )=(1−m).f
+If positive testimony has been given, therefore, this testimony will be
+probably true only if a “false positive ”is less likely than a “true posi-
+tive”, and hence in accordance with the formula:
+Pr(M/t(M))>0.5→(1−m).f<m.(1−
+f)
+which simplifies to:
+Pr(M/t(M))>0.5→f<m.
+This result neatly corresponds to Hume ’s Maxim, since its right-
+hand side is exactly equivalent to saying that the falsehood of the testi-
+mony, considered apart and in itself is more miraculous (i.e. less
+probable) than the event reported, considered independently of the
+testimony .16
+9. Is Hume ’s Maxim of Practical Value?
+If his Independence Assumption legitimately applies to testimony for
+miracles in this way (for doubts, see §19 below), then Hume ’s Maxim
+does indeed provide an appropriate “check ”(E10.2) on human
+credulity. To illustrate how such a restraining mechanism can work
+16Moreover the mathematical argument here can be seen as a more precise
+version of the informal reasoning in the final paragraph of §7 above, whichspells out what seems likely to have been Hume ’so w nr o u t et oh i sM a x i m .
+The value for Pr( M/t(M)) implied by this reasoning is given by the formula
+m(1−f)/(m(1−f)+f(1−m)) as explained in Millican (2003, §4).
+165Twenty Questions about Hume ’s“Of Miracles ”in practice, let us consider a non-miraculous example. Suppose, then,
+that I want to know whether I suffer from some genetic condition G
+which afflicts one person in a million. I have no evidence either way,
+but a test is available which seems very reliable, in that whoever is
+tested, and whether they actually have the condition or not , the
+chance that the test will give a correct diagnosis is 99 ·9%, and an in-
+correct diagnosis only 0 ·1% (so Hume ’s Independence Assumption
+applies). When I later leave the clinic in distress at having tested posi-tive for G, how convinced should I be that I do indeed have that
+condition?
+Repeated experience with audiences of undergraduates and others
+indicates that most people would judge my likelihood of having Gin
+this situation to be very high, but in fact the reverse is the case, as
+Hume would recognise. As I stumble out despondently throughthe clinic door, he might greet me with a consoling comment some-
+thing like this:
+Consider whether it be more probable, that this kind of test
+should be mistaken, or that you should really have condition G .
+17
+(cf.E10.13)
+Given that the test is wrong one time in a thousand, while Gafflicts
+only one person in a million, there is clearly a far greater likelihood of
+a mistaken test than of my actually suffering from G. And so a positive
+test does relatively little to indicate that I actually have the disease: in
+fact, it changes the probability from a negligible one in a million to
+the only slightly more worrying one in 1,002.18Hume ’s Maxim,
+therefore, is entirely correct in this case, and it also gives the correct
+answer for other relevantly similar cases: if, for example, we change
+the“initial probability ”of the disease to more than one in a thousand,
+then the test indeed becomes credible. The practical value of the
+Maxim is thus evident in these individual scenarios, and perhaps
+even more so when assessing proposals for mass medical screening.
+17Note that this is quite different from asking: “Which is more prob-
+able, in the light of this result: that this specific test is mistaken in sayingthat you have condition G, or that you really have condition G?”, which
+would be trivially equivalent to asking whether the test result makes itmore probable than not that I have the condition. Earman ’s interpretation
+(cf. note 9 above) would imply that Hume ’s Maxim expresses just this
+useless equivalence.
+18Consider a population of a billion, of whom one thousand have the
+disease while 999,999,000 do not. If all were tested, we would expect 999true positives against 999,999 false positives.
+166Peter Millican10. Does Hume Consider a Miracle to be a Contradiction
+in Terms?
+Thediscussionabove hasmade littlementionof miracles assuch, buthas
+focused quite generally on the assessment of testimony for events thatseem improbable based on past experience. In §7 we saw how Hume ’s
+famous Maxim could be derived entirelyon this basis, by closely follow-
+ing his own text and taking advantage of an equivalence between“more miraculous ”and “less probable ”which he himself implicitly
+endorses. So far, then, it seems that miracles play a role in his main
+argument only as extreme instances of initially improbable events.
+19
+If we confine our attention to the main argument of Enquiry 10 Part
+1, this impression is indeed entirely correct. Miracles feature signifi-
+cantly only in the famous paragraph 12, which I deliberately ignoredat the beginning of §7 above, precisely in order to make this point:
+A miracle is a violation of the laws of nature; and as a firm and un-
+alterable experience has established these laws, the proof against amiracle, from the very nature of the fact, is as entire as any argu-
+ment from experience can possibly be imagined. …Nothing is es-
+teemed a miracle, if it ever happen in the common course of nature.It is no miracle that a man, seemingly in good health, should die on
+a sudden: because such a kind of death …has…been frequently
+observed to happen. But it is a miracle, that a dead man shouldcome to life; because that has never been observed, in any age or
+country. There must, therefore, be a uniform experience against
+every miraculous event, otherwise the event would not merit that
+19In a long footnote ( E10.10 n. 22) discussing his Indian prince
+example, Hume sketches a distinction between extraordinary andmiraculous
+events, on the basis that the latter are contrary to past experience while the
+former are merely not conformable to it. It is debatable how far he manages
+to make good this distinction –for example Campbell (1762, I §2,
+pp. 47 –59), Burns (1981, pp. 166 –9, 224 –30), and Coady (1992, ch. 10) for-
+cefully attack it, while Coleman (2001, pp. 208 –9) and Garrett (2002,
+pp. 321 –3) attempt a defence. If Hume were concerned to treat miracles
+quite differently from extraordinary events, by ruling them out in principleeither logically (cf. Norton below) or epistemologically (cf. §12 below), thenthis distinction would be crucial in defending him from the accusation of un-justified dogmatism against unfamiliar events. But if I am correct in main-
+taining that Hume ’s principles are the same as applied to both categories,
+then very little hangs on it. (And it does seem to have been an afterthought:the Indian prince paragraph was added in the 1750 second edition, and thefootnote only while that edition was going through the press. For discussionof some of the intellectual context, see Wootton 1990, pp. 194 –7.)
+167Twenty Questions about Hume ’s“Of Miracles ”appellation. And as an uniform experience amounts to a proof,
+there is here a direct and full proof, from the nature of the fact,
+against the existence of any miracle; nor can such a proof be
+destroyed, or the miracle rendered credible, but by an opposite
+proof, which is superior. ( E10.12)
+The entire thrust of this paragraph is to urge, on the basis of what a
+miracle is understood to be, that any miracle must ipso facto be an
+extreme case of an extraordinary event: an event against whichthere is a strong proof from experience. Hence Hume ’s argument con-
+cerning reports of extraordinary events –already virtually completed
+before this paragraph starts, and culminating in his Maxim immedi-ately after it –will automatically apply to any reported miracle story.
+Some interpreters, however, have been misled by this paragraph to
+see Hume as proposing an entirely different kind of argument, basedon the concept of a miracle:
+A miracle is a violation of the laws of nature; a law of nature is es-
+tablished by a firm and unalterable experience. The champion of
+miracles is arguing, however, that this experience is not firm and
+unalterable; at least one exception is, he claims, known. From thisexception it follows, Hume reminds us, that there is no violation
+of a law of nature because there is no law of nature, and hence,
+there is no miracle. (Norton 1982, p. 299; cf. Wilson 1989, p. 260)
+However this sort of reading –which interprets Hume ’s argument as
+demonstrative in force –cannot possibly be right, for at least two
+reasons. First, it would imply that his aim is not so much to under-mine the evidence for the very occurrence of a given reported extraordi-
+nary event, but rather to deny that the event, if it occurred, was a
+genuine miracle . Hume, however, says nothing on the latter point,
+and the argumentative move that Norton describes in the quotation
+above, whereby Hume is supposed to countenance the possibility
+thatMdid occur after all, albeit non-miraculously, simply doesn ’t
+appear in the text here. The second and even more decisive objection
+to this sort of reading is that it makes a nonsense of Hume ’s situating
+his argument so firmly within the context of his treatment of prob-ability. No account of his essay that pays significant attention to the
+earlier paragraphs can with any plausibility present it as turning on
+a contradiction in terms.
+20Indeed paragraph 12 itself makes clear
+20In Part 2 Hume does sometimes describe miracles as impossible, but
+then he means physical or causal rather than conceptual or logical impossi-bility –see §15 below.
+168Peter Millicanthat Hume takes “the proof against a miracle ”to be an “argument
+from experience ”rather than a priori, and potentially defeasible by
+“an opposite proof ”rather than demonstrative.
+11. What Does Hume Mean by a “Law of Nature ”?
+Hume famously characterises a miracle as an event that violates or
+transgresses a “law of nature ”(by the agency of the Deity or some
+invisible agent).21But if –as is commonly assumed –he conceived
+of a “law of nature ”as being a trueuniversal generalisation about
+how things behave, then a miracle so characterised would be, afterall, a contradiction in terms, notwithstanding §10 above. In fact,
+most of his uses of the term refer to moral “laws of nature ”, following
+in the tradition of Grotius, Pufendorf, and Locke. The Enquiry is
+Hume ’s earliest work to refer to physical “laws of nature ”, with
+most such references in Section 10 itself,
+22but nowhere does he
+spell out exactly what he takes such a law of nature to be. I suspectthat the common assumption described above –that he can only
+have in mind a de facto exceptionless generalisation –is largely
+based on confusions about his theory of causation, which is supposedby many to imply that there is no such thing as a causal law beyond “a
+summation of a wholly uniform past experience ”(Norton 1982,
+p. 298; cf. Wilson 1989, p. 259). This common view is mistaken,and Hume is entirely comfortable with causal science (including
+the notions of hidden causes and functional relationships between
+forces etc.),
+23so there is no obvious reason why he should have sig-
+nificantly more difficulty making sense of the concept of a miracle
+21I call Hume ’s statement that “A miracle is a violation of the laws of
+nature ”(E20.12) a characterisation rather than a definition , because his
+full definition follows in a footnote attached to the very end of the paragraph:“A miracle may be accurately defined, a transgression of a law of nature by a
+particular volition of the Deity, or by the interposition of some invisible agent .
+A miracle may either be discoverable by men or not. …The raising of a
+house or ship into the air is a visible miracle. The raising of a feather, whenthe wind wants ever so little of a force requisite for that purpose, is as real amiracle, though not so sensible with regard to us. ”(E10.12 n. 23).
+22The full catalogue of relevant paragraphs is E4.9, 8.4, 8.14, 10.12,
+10.12 n. 23, 10.31, 35, 37, and 38.
+23This is not to imply that relevant philosophical difficulties cannot be
+raised for his position. For the interpretation of Hume on causal science, seeMillican (2007b, pp. 232 –3; 2009, §1). For the view that he is limited to an
+inadequate conception of a law of nature, see for example Flew (1961,pp. 204 –6) and Gaskin (1988, pp. 160 –2).
+169Twenty Questions about Hume ’s“Of Miracles ”than other thinkers who have tried to explicate this delicate notion.
+The general idea, familiar at least since Aquinas (e.g. Summa
+Contra Gentiles , 3.101.1 –2), is that of an intrusion into the natural
+order, whereby supernatural agency brings about some event that
+would not –and typically could not–have occurred in the ordinary
+course of things.24This presupposes that there is some set of
+default “laws”that determine how things behave in the absence of
+special supernatural intervention. And although filling this out indetail could be problematic, such problems belong more to the
+theist who appeals to miracles “to be the foundation of a system of re-
+ligion ”(E10.36) than to his sceptical critic. Hume himself never
+suggests that the concept of miracle is incoherent, but if it turned
+out to be so, that would merely provide additional ammunition in
+his overall attack on the case for theism.
+Hume ’s argument requires no more than a relatively vague
+interpretation of a “law of nature ”, as a description of behaviour
+that has virtually always –but maybe not universally –been observed
+in nature. Sometimes he uses the term in just this way, as for example
+its one occurrence in The Natural History of Religion , where he
+remarks on a “uniform law of nature ”to which “few exceptions are
+found ”(NHR 15.3). There are also plenty of other places where he
+seems to use “uniform ”to signify something less than strict univers-
+ality.
+25This casts a softer light on his frequently attacked assertion
+that “There must …be a uniform experience against every miracu-
+lous event ”(E10.12). Many of Hume ’s critics (e.g. Lewis 1947,
+pp. 105 –6; Purtill 1978, pp. 191 –2; Johnson 1999, pp. 18 –19) have
+seen this as crudely begging the question by taking for granted that
+no miraculous event has ever actually taken place. Others (e.g.
+Broad 1917, pp. 85 –6; Gaskin 1988, pp. 159 –60) have understood
+him to be assuming that an event can count as miraculous only if it
+reaches the absolute limit of improbability, as an entirely one-off vio-
+lation of an otherwise strictly universal “law”. In response to such cri-
+ticisms, Garrett (2002, p. 320) rightly points out that the
+epistemological focus of Hume ’s discussion implies a subjective
+notion of a law of nature (i.e. relative to the experience of the obser-ver) rather than absolute (i.e. descriptive of what actually occurs,
+whether observed or not). As remarked in §10, Hume ’s interest is
+24Mackie (1982, pp. 19 –23) gives a lucid defence and discussion of this
+general idea of a miracle.
+25See for example T2.3.1.4, M5.45, “Of National Characters ”paras 6,
+18, 19, 20 n. 10 ( Essays , pp. 199, 206, 207, 208), “Of the Standard of Taste ”
+para. 17 ( Essays , p. 237), NHR 6.2.
+170Peter Millicanconsistently in whether a particular event actually happened , not
+whether the event would have been contrary to (unknown) natural
+laws. And although a subjective understanding of a “law of nature ”
+may run counter to most modern usage, it was certainly available in
+Hume ’s day (e.g. Sherlock 1729, p. 61). In this sense, someone yet
+to be convinced that anyone has ever been resurrected from the
+dead has (subjective) “uniform experience ”for the “law of nature ”
+that such events do not occur, but this does not logically rule outthat a resurrection has (objectively) occurred beyond their experience.
+Nor does it imply that resurrections would cease to count as miracu-
+lous if they were repeated, as, for example, in the Gospel accounts ofLazarus and Jesus. Hume ’so w n “accurate ”definition of a miracle is
+clearly compatible with repeated violations of a natural law, as con-
+firmed by this passage which immediately precedes it:
+…if a person, claiming a divine authority, …should order many
+natural events, which immediately follow upon his command;
+these might justly be esteemed miracles, because …nothing
+can be more contrary to nature than that the voice or command
+of a man should have such an influence. ( E10.12 n. 23, my
+emphasis).
+There is also an indication, near the end of the essay, that Hume
+intends his argument to apply not only to overtly religious claims,but also to “every thing new, rare, and extraordinary in nature …
+that is to be found in the writers of natural magic or alchemy, or
+such authors, who seem, all of them, to have an unconquerable appe-tite for falsehood and fable ”(E10.39, quoting Francis Bacon). Were
+Hume alive today, he would no doubt include within this category
+many modern “New Age ”claims, for example those associated
+with alternative therapies such as homeopathy whose alleged mode
+of operation seems to run wildly at odds with our established scienti-
+fic understanding of the world. Such therapies characteristicallyclaim to involve reliably repeatable phenomena, and yet Hume ’s ar-
+gument can apply to them just as effectively as to the more typically
+one-off miraculous claims of religion (cf. n. 39 in §18 below).
+12. Is Part 2 of the Essay Redundant?
+Hume ’s main argument in Part 1 of the essay is commonly called his
+“a priori ”argument concerning miracles, because it is based on
+general principles rather than the specific characteristics of actual his-
+torical testimony. Part 2 starts from four “a posteriori ”arguments,
+171Twenty Questions about Hume ’s“Of Miracles ”drawing attention to the weakness, remoteness, and inconsistency of
+such testimony, and our tendency to be too easily seduced by it.Overtly, the Maxim with which Part 1 concludes appears to set a
+genuine threshold for credibility which is then addressed by the
+Part 2 arguments. But some scholars have instead read Part 1 as in-tended by itself to establish the incredibility of miracles, either by
+ruling out their very possibility (a reading rejected in §10 above), or
+more plausibly, by ruling out the possibility of testimony sufficientto establish a miracle.
+This reading, which Burns calls the “classical ”interpretation
+(1981, p. 143), seems to have been widely taken for granted until chal-lenged by Antony Flew.
+26It is suggested by the statement in para-
+graph 12 that “the proof against a miracle, from the very nature of
+the fact, is as entire as any argument from experience can possiblybe imagined ”. For if the proof against a miracle is as strong as “any
+argument from experience [that] can possibly be imagined ”, then
+presumably no argument from experience could possibly outweighit. And such impossibility would then neatly explain Hume ’s appar-
+ently rather dogmatic denials of miraculous testimony in Part 2
+(which we shall come to in §14, §15 and §17 below).
+27
+On the other side, however, there are plenty of indications in the
+final text of the essay that Hume did not intend this extreme position.
+In Part 1, he supposes “that the testimony, considered apart and in
+itself, amounts to an entire proof [so] there is proof against proof ”
+(E10.11), and he goes on to consider what would follow were “the
+proof against a miracle ”to“be destroyed …by an opposite proof,
+which is superior ”(E10.12).28Likewise the second part of his
+26See Flew (1959, pp. 2 –5, 12 –14; 1961, p. 176), and cf. Gaskin (1988,
+pp. 153 –4). Broad (1917, p. 94) exemplifies the earlier orthodoxy, while
+Burns (1981, pp. 142 –58) gives the most sustained opposition to Flew ’s
+reading.
+27According to Burns, “scattered throughout the exposition of the four
+a posteriori arguments are a number of asides which can reasonably be inter-preted only as out-of-context references to the a priori argument understoodaccording to the classical interpretation ”, and he goes on to cite E10.16, 22,
+25, 26 and 27 (1981, p. 152).
+28This last passage occurs within the very same paragraph in which
+Hume has just stated that “the proof against a miracle …is as entire as
+any argument from experience can possibly be imagined ”. So that statement
+has to be understood as less absolute that it initially appears, perhaps alongthe lines of his reference to a “species orkind of proof, which is full and
+certain when taken alone ”but which yet admits of degrees (cf. §6 above).
+172Peter MillicanMaxim ( “And even in that case …”) is entirely focused on this even-
+tuality ( E10.13). Part 2 starts by saying:
+In the foregoing reasoning we have supposed, that the testimony
+upon which a miracle is founded, may possibly amount to an
+entire proof …But it is easy to shew …that there never was a mir-
+aculous event established on so full an evidence. ( E10.14)
+This does not give the impression that Part 1 has already settled the
+question. Later in Part 2, Hume states explicitly that, outside a reli-
+gious context, “there may possibly be miracles, or violations of the
+usual course of nature, of such a kind as to admit of proof fromhuman testimony ”(E10.36), and he gives an example of eight days
+of darkness across the world, witnessed worldwide and reported by
+travellers. Campbell –who presumed that Part 1 was intended to
+be decisive by itself –evidently thought this example quite contrary
+to that aim, devoting Section I § 3 of his Dissertation , entitled “Mr
+Hume himself gives up his favourite argument ”, to highlighting the in-
+consistency. But in his 1761 letter to Hugh Blair, Hume responded:
+Sect. III. There is no contradiction in saying, that all the testi-
+mony which ever was really given for any miracle, or ever willbe given, is a subject of derision; and yet forming a fiction or sup-
+position of a testimony for a particular miracle, which might not
+only merit attention, but amount to a full proof of it. For in-stance, the absence of the sun during 48 hours; but reasonable
+men would only conclude from this fact, that the machine of
+the globe was disordered during the time. ( HLi 349 –50; Hume
+1748, p. 165)
+Hume denies any contradiction, and implies that he is deliberately
+leaving open the possibility of “testimony for a particularly miracle,
+which might …amount to a full proof of it ”.
+29
+I conclude, therefore, that we should understand Hume ’s“a
+priori ”argument as intended to do exactly what the text says:
+namely, to erect a theoretical hurdle that testimony for a miracle
+could in principle overcome, exactly in line with his general probabil-
+istic framework (which, as we saw in §§5 –7 above, leads very naturally
+to his Maxim). This then leaves a clear role for his subsequent “a pos-
+teriori ”arguments –namely, to emphasise the extreme unlikelihood
+of any such testimony ever achieving this hurdle in practice –and thus
+29Here I disagree with Burns, who says that “no repudiation of the clas-
+sical interpretation is attempted in any of the points raised againstCampbell ”(1981, p. 153), and fails to mention this passage.
+173Twenty Questions about Hume ’s“Of Miracles ”avoids the unpalatable assessment of them as philosophically gratui-
+tous. But a nagging question might remain, given Hume ’s apparent
+shift of perspective from that of the “wise man ”of the beginning of
+Part 1, who carefully weighs the relevant evidence ( E10.4), to that
+of the “wise”,“judicious ”and “learned ”of Part 2, who treat any
+miracle story with scorn ( E10.21) and who “are contented …to
+deride its absurdity ”without serious consideration ( E10.22). We
+shall return to this question in §17 below.
+13. How Does Hume Explain the Propagation of Miracle
+Stories?
+Having erected an appropriate threshold of credibility by means of
+his Maxim, Hume moves on in Part 2 to argue that no actual testi-
+mony for a miracle has ever got close to reaching that threshold.
+While doing so, he also indirectly suggests his own explanation ofhow such false testimony could have propagated. His first “a poster-
+iori”argument economically packs a wide range of points into a single
+sentence:
+Forfirst, there is not to be found, in all history, any miracle at-
+tested by a sufficient number of men, of such unquestioned
+good-sense, education, and learning, as to secure us against alldelusion in themselves; of such undoubted integrity, as to place
+them beyond all suspicion of any design to deceive others; of
+such credit and reputation in the eyes of mankind, as to have agreat deal to lose in case of their being detected in any falsehood;
+and at the same time, attesting facts, performed in such a public
+manner, and in so celebrated a part of the world, as to render thedetection unavoidable ( E10.15)
+These points are later augmented by Hume ’s third argument, which
+follows a few paragraphs later:
+Thirdly . It forms a strong presumption against all supernatural
+and miraculous relations, that they are observed chiefly toabound among ignorant and barbarous nations; or if a civilized
+people has ever given admission to any of them, that people
+will be found to have received them from ignorant and barbarousancestors …When we peruse the first histories of all nations, we
+are apt to imagine ourselves transported into some new world; …
+Prodigies, omens, oracles, judgments, quite obscure the fewnatural events …(E10.20)
+174Peter MillicanHume ’s explanation of this phenomenon –whereby miraculous
+stories “grow thinner every page, in proportion as we advance
+nearer the enlightened ages ”(E10.20) –is not that human nature
+has changed: “it is nothing strange …that men should lie in all
+ages”or that “marvellous relations ”should be started by those with
+vivid imagination ( E10.21). But in educated societies, such stories
+are“treated with scorn by all the wise and judicious ”and“at last …
+abandoned even by the vulgar ”, whereas those “sown in a more
+proper soil ”–that is, in a culture of superstition and ignorance –
+are allowed to grow unchecked ( E10.20). It follows that the stories
+that become prominent tend to originate from ancient, remote anduneducated parts of the world.
+Hume ’s second argument complements these others, by providing
+an explanation of why miracle stories are so popular in the absence ofcritical scrutiny:
+Secondly .…The passion of surprize andwonder , arising from
+miracles, being an agreeable emotion, gives a sensible tendencytowards the belief of those events …But if the spirit of religion
+join itself to the love of wonder, there is an end of common
+sense; and human testimony, in these circumstances, loses allpretensions to authority. A religionist may be an enthusiast,
+and imagine he sees what has no reality: He may know his narra-
+tive to be false, and yet persevere in it, with the best intentions inthe world, for the sake of promoting so holy a cause …The many
+instances of forged miracles …which, in all ages, have either been
+detected by contrary evidence, or which detect themselves bytheir absurdity, prove sufficiently the strong propensity of
+mankind to the extraordinary and the marvellous …(E10.16 –19)
+Hume might also usefully have added here some discussion from his
+Natural History of Religion , concerning humans ’tendency to ascribe
+events to gods and spirits, which also helps to explain both whysupernatural miracle stories seem so plausible to uneducated cultures,
+and why by contrast the progress of science tends to undermine them:
+…We hang in perpetual suspence between life and death, health
+and sickness, plenty and want; which are distributed amongst the
+human species by secret and unknown causes …These unknown
+causes , then, become the constant object of our hope and fear …
+Could men anatomize nature,
+…they would find, that these
+causes are nothing but the particular fabric and structure of the
+minute parts of their own bodies and of external objects; andthat, by a regular and constant machinery, all the events are
+175Twenty Questions about Hume ’s“Of Miracles ”produced, about which they are so much concerned. But …the
+ignorant multitudes …can only conceive the unknown causes in
+a general and confused manner …
+There is an universal tendency among mankind to conceive all
+beings like themselves …We find human faces in the moon,
+armies in the clouds; and by a natural propensity, if not corrected
+by experience and reflection, ascribe malice or good-will to every
+thing, that hurts or pleases us. …No wonder, then, that
+mankind, being placed in such an absolute ignorance of causes,
+and …at the same time so anxious concerning their future
+fortune, should immediately acknowledge a dependence oninvisible powers, possessed of sentiment and intelligence. …
+In proportion as any man ’s course of life is governed by acci-
+dent, we always find, that he encreases in superstition …All
+human life, especially before the institution of order and good
+government, being subject to fortuitous accidents; it is natural,
+that superstition should prevail every where in barbarous ages…(NHR 2.5–3.3)
+Obviously any such explanation of the origins of religion is to some
+extent speculative, but Hume ’s account seems generally plausible.
+30
+And that humanity has a love of “surprize and wonder ”is evident
+enough: the propagation of “urban myths ”, conspiracy theories,
+paranormal and miracle cures, monster and alien sightings etc. overthe Web and the more sensational media demonstrates sufficiently
+that this passion is still widespread today.
+14. What is Going on in Hume ’s“Contrary Miracles ”
+Discussion?
+Hume ’s fourth “a posteriori ”argument is less straightforward and
+convincing than the other three, though it provides him with apretext for introducing material which is highly effective in his
+debate with Christian believers:
+I may add as a fourth reason …that, in matters of religion, what-
+ever is different is contrary; and that it is impossible the religions
+of ancient R
+OME,o fT URKEY ,o fS IAM, and of C HINA should, all of
+them, be established on any solid foundation. Every miracle,
+30For an example of recent research confirming the tendency of both
+children and adults towards “promiscuous teleology ”, see Lombrozo et al.
+(2007), whose introduction also mentions a number of other relevantstudies.
+176Peter Millicantherefore, pretended to have been wrought in any of these reli-
+gions (and all of them abound in miracles), as its direct scope isto establish the particular system to which it is attributed; so
+has it the same force, though more indirectly, to overthrow
+every other system. In destroying a rival system, it likewise de-stroys the credit of those miracles, on which that system was es-
+tablished; so that all the prodigies of different religions are to
+be regarded as contrary facts, and the evidences of these prodi-gies, whether weak or strong, as opposite to each other. ( E10.24)
+This argument, unlike the others, depends crucially on the idea that
+each miracle claim is being used to support a specific religious belief,from which Hume takes it to follow that where those beliefs conflict,
+the miracle claims are in turn rendered indirectly contrary to each
+other. Unfortunately, however, this argument works only if the evi-dential relationships between each miracle story and its correspond-
+ing religion are demonstrative: Hume, uncharacteristically, is here
+failing to notice how differently things fall out if they are merelyprobabilistic. Starting from a default position of naturalism, for
+example, we might well consider that the genuine occurrence of a re-
+ported “Christian ”miracle –by greatly raising the probability of
+supernatural agency (even more than it raises the probability of
+Christianity itself) –would thereby raise the probability alsoof a re-
+ported “Islamic ”miracle, notwithstanding the conflict between the
+two religious systems. So Hume goes too far when arguing that mira-
+cles“pretended to have been wrought ”in contrary religions are cor-
+respondingly “to be regarded as contrary facts ”.
+Despite its logical flaws, Hume ’s“contrary miracles ”argument
+retains significant indirect persuasive force, by challenging the be-
+liever to distinguish the credentials of her own preferred miraclestories from those she rejects. And this could explain why Hume
+goes on to cite several miraculous accounts that are relatively well at-
+tested, and which might therefore superficially seem to weaken, ratherthan strengthen, his overall case.
+31The point here may be not so much
+that his Christian readers are logically compelled to deny the miracles of
+rival religions (as the contrary miracles argument would suggest), butrather, that such believers will in fact want to deny them. This denial
+might be motivated simply by scepticism towards rival religious
+beliefs, but it might also reflect an awareness that insufficiently
+31Indeed Hume exaggerates the strength of the evidence for these cited
+miracles, as noticed by several of his early critics. See for example Campbell(1762, II §§4 –5, pp. 181 –248) and Flew (1959, pp. 8 –9).
+177Twenty Questions about Hume ’s“Of Miracles ”discriminating acceptance of the miraculous, by putting the Gospel
+miracles on a par with others, both undermines any special claimsfor Christianity and also casts doubt on the entire collection
+(especially when contemporary forged miracles are “detected by con-
+trary evidence ”,E10.19). Thus the would-be discriminating believer
+is put in a bind: keen to explain away the host of alien miracle stories as
+fraudulent or delusive (perhaps by appeal to the sorts of tendencies we
+saw Hume emphasising in §13 above), while denying that the storiesshe herself endorses (e.g. from the Gospels) can be undermined in the
+same way. Seen in this light, Hume ’s abrupt dismissal of the alleged
+miracles of Vespasian ( “so gross and so palpable a falsehood ”,E
+10.25) and Saragossa ( “carried falsehood upon the very face of it ”,
+E10.26) becomes much easier to understand. Rather than attempting
+toargue for such rejection, he may simply be reporting a view that he
+expects others to share, and tacitly inviting his discerning reader to
+notice the difficulties this implies.
+15. How Can Hume Describe Miracles as “Absolutely
+Impossible ”?
+Hume ’s dismissal of the Abbé Pâris miracles might seem less easy to
+condone:
+32
+Where shall we find such a number of circumstances, agreeing to
+the corroboration of one fact? And what have we to oppose to
+such a cloud of witnesses, but the absolute impossibility or mir-aculous nature of the events, which they relate? And this surely,
+in the eyes of all reasonable people, will alone be regarded as a
+sufficient refutation. ( E10.27)
+He has often been criticised for this apparent dogmatism (e.g.
+Swinburne 1968, p. 323; Earman 2000, pp. 31-2), and accused of in-consistency in his talk of “the absolute impossibility …of the events ”
+(e.g. Gaskin 1988, pp. 161 –4). Certainly he cannot consistently claim
+that these reported events are conceptually ora priori impossible (cf.
+E12.29). But it is entirely consistent for him to claim that the sup-
+posed miracles are causally impossible, given the laws of nature that
+we have all learned from experience (and which, at this point in thediscussion, he is taking to be generally agreed –hence there need be
+32Note that the supposed miracles of Abbé Pâris, a Jansenist, would be
+rejected by the vast majority of Roman Catholic readers as well asProtestants.
+178Peter Millicanno dogmatism here). Some commentators (including Gaskin op. cit. )
+have seen even this as problematic, apparently owing to the commonassumption that Hume denies any genuine causal modality. But as we
+noted in §11 above, he is very committed to causal explanation and
+causal science; moreover he repeatedly and explicitly insists that ne-cessity is essential to causation (e.g. T1.3.2.11, 1.3.6.3, 2.3.1.18, E
+8.25, 8.27). It follows that he must acknowledge such causal neces-
+sity, and this automatically brings with it a cognate notion of possi-bility (applying to anything whose contrary is not causally
+necessary in that sense).
+33Hence we should not be at all surprised
+to find Hume describing would-be miracles as “impossible ”or
+even “absolutely impossible ”, precisely because they would violate
+established causal laws.34
+16. Why Does Hume Strengthen his Maxim Against ReligiousMiracles?
+Having rejected the supposedly well-attested stories that he expects
+his readers also to reject, Hume builds on his contrary miracles argu-
+ment by itemising several other reasons for particularly doubtingreligious miracle stories. Some of these are strongly reminiscent of
+points made in his second “a posteriori ”argument:
+what greater temptation than to appear a missionary, a prophet,
+an ambassador from heaven? …Or if, by the help of vanity and
+a heated imagination, a man has first made a convert ofhimself, …who ever scruples to make use of pious frauds, in
+support of so holy and meritorious a cause? …the gazing popu-
+lace, receive greedily, without examination, whatever soothssuperstition, and promotes wonder. …How many stories of
+33Hume denies causal necessity as other philosophers attempt to conceive
+of it(indeed he denies that they achieve any such conception). But to treat
+this as an unequivocal denial of causal necessity is rather like supposingthat if I reject the vital force theory of life and hence deny having any such
+force within me, then I am implicitly claiming to be dead.
+34Hume also uses “absolutely impossible ”in a causal sense at T
+1.1.1.10, 2.1.5.3, E2.8. Note that this impossibility is notepistemological:
+Hume is not suggesting that the miracles are impossible in that “their exist-
+ence is ruled out by a proof ”(Garrett 2002, p. 326), but rather, that they are
+impossible causally given the way nature works. This is a claim about what
+the laws of nature are, with which he thinks his readers will agree and forwhich he has strong evidence (in the form of inductive proof), but he isnot claiming infallibility –there is no epistemological impossibility of error.
+179Twenty Questions about Hume ’s“Of Miracles ”this nature have, in all ages, been detected and exploded …?
+Where such reports, therefore, fly about, the solution of thephaenomenon is obvious; and we judge in conformity to
+regular experience and observation, when we account for it by
+the known and natural principles of credulity and delusion. ( E
+10.29 –31)
+Here we see again hints of the line of thought implicit in the contrary
+miracles discussion, whereby all the countless religious miracle storiesare lumped together as equally deserving of a common dismissive
+explanation. And Hume goes on to suggest that this particular human
+weakness with respect to religious miracle stories, and their appalling
+track record,
+35give reason for strengthening his Maxim in their case:
+It is experience only, which gives authority to human testimony;
+and it is the same experience, which assures us of the laws of
+nature. When, therefore, these two kinds of experience are con-
+trary, we have nothing to do but substract the one from theother, and embrace an opinion, either on one side or the other,
+with that assurance which arises from the remainder. But accord-
+ing to the principle here explained, this substraction, with regardto all popular religions, amounts to an entire annihilation;
+36and
+therefore we may establish it as a maxim, that no human testimony
+can have such force as to prove a miracle, and make it a just foun-dation for any such system of religion .(E10.35, my emphasis)
+Here Hume approaches an attitude of immediate dismissal towards
+such stories, an attitude which he clearly takes to be justifiedinductively.
+17. Is Hume ’s Dismissal of Miracle Stories Overly Dogmatic?
+At several points in Part 2 of the essay, Hume suggests that any
+miracle report will be taken seriously only by “fools ”and the
+35Again, notice that even the Christian reader can be expected to ac-
+knowledge that there have been plenty of bogus miracle stories associatedwith contrary religions.
+36Garrett (2002, p. 324 n. 25) interprets this as implying that “proofs
+entirely obviate, or ‘annihilate ’, considerations of probability ”, so that a
+probability weighed against a proof will count as nothing. But when one
+army annihilates another, this does not imply that it sustains no lossesitself, and likewise Hume ’s words here can perfectly well be understood as
+meaning simply that the proof will always win easily, leaving no net
+balance on the other side.
+180Peter Millican“weak ”, and will be “treated with scorn by all the wise and judicious ”,
+who “are contented, in general, to deride its absurdity, without in-
+forming themselves of the particular facts, by which it may be dis-
+tinctly refuted ”(E10.21 –2). Later he says that the profusion of
+bogus religious miracle stories should be “sufficient, with all men
+of sense, not only to make them reject ”any such story, “but even
+reject it without farther examination ”; he accordingly expresses a
+“general resolution, never to lend any attention ”to such testimony
+(E10.38). Is this just hyperbolic dogmatism, perhaps provoked by
+the ridiculous stories he has been considering, or can it be justified?
+Hume makes some relevant points at E10.32 –34, when discussing
+religious miracles, which are anticipated in his (largely invented) de-
+scription of the attitude of Cardinal de Retz:
+He considered justly, that it was not requisite, in order to reject a
+fact of this nature, to be able accurately to disprove the testimony,
+and to trace its falsehood, through all the circumstances of
+knavery and credulity which produced it. He knew, that, as thiswas commonly altogether impossible at any small distance of
+time and place; so was it extremely difficult, even where one
+was immediately present, by reason of the bigotry, ignorance,cunning, and roguery of a great part of mankind. He therefore
+concluded, like a just reasoner, that such an evidence carried fal-
+sehood upon the very face of it, and that a miracle, supported byany human testimony, was more properly a subject of derision
+than of argument. ( E10.26)
+This attitude might well seem reasonable when the origins of a story
+are shrouded in mystery, but can we justify dismissing a story without
+bothering to investigate it even when we have a genuine opportunityto do so? Challenged by George Campbell in Section I §4 of his
+Dissertation , Hume responded with a more interesting and general
+consideration:
+Sect. IV. Does a man of sense run after every silly tale of witches
+or hobgoblins or fairies, and canvass particularly the evidence? I
+never knew any one, that examined and deliberated about non-sense who did not believe it before the end of his inquiries.
+(HLi 350; Hume 1748, p. 165)
+Interpreted as an answer to Campbell ’s complaint (rather than just a
+bald reassertion that no man of sense would give any time to such
+stories), Hume seems to be suggesting that all of us are prone tolose sound critical judgement if we get drawn too much into the par-
+ticularities of specific tales. That being so, experience can teach us
+181Twenty Questions about Hume ’s“Of Miracles ”that sometimes it is rational notto rely on careful and detailed critical
+assessment, but instead to prefer the verdict of a general rule withoutgiving the matter too much thought. A modern example might be the
+persuasive and polished advertising (for investments, prize draws,
+novel therapies, conspiracy theories etc.) that regularly bombardsus, where reading the advertiser ’s seductive arguments is typically
+not only a waste of time, but worse, carries the danger of being per-
+suaded. Hume is suggesting that this same attitude is appropriateto miracle stories: that this is a case where, counter-intuitively, it
+can often be more rational to give lessdetailed consideration!
+18. Can Divine Teleology Provide a Response?
+After expressing his strengthened maxim (quoted in §16 above),
+Hume gives three examples to illustrate his preference for secular
+over religious miracle stories. The first of these ( E10.36) is the ima-
+gined eight days of darkness in January 1600, as mentioned in §12above; the second ( E10.37) involves a reported resurrection of
+Queen Elizabeth I, also dated to 1600, and the third ( E10.38) is
+similar except that the resurrection is “ascribed to [a] new system of
+religion ”. However Hume ’s discussion of these examples is rather
+confusing, first because he suggests that the credibility of the univer-
+sal darkness is due to its analogy with natural events (rather than tothe absence of religious distortions), and secondly because his
+emphatic dismissal of the resurrection examples seems to be almost
+unaffected by the potential religious association –“the knavery and
+folly of men ”provide an equally obvious explanation in both cases.
+The real contrast between the universal darkness and the resurrec-
+tions, therefore, seems to lie not in anything to do with religion,but in the quality of the evidence (widespread and independent, as
+opposed to local and potentially colluding). So it is interesting to con-
+sider a modified example in which the relevant global celestialphenomenon is not eight days of darkness, but instead something
+transparently religious. Imagine, for example, a month-long appear-
+ance in 1600 of a new set of purple stars, spelling out across the sky thewords “eγωeιμι ηoδoς και η αληθεια και η ζωη ”, New Testament Greek
+for“I am the way and the truth and the life ”(John 14:6). The logic of
+Hume ’s discussion suggests that he would dismiss such testimony as
+more likely to derive from a powerful religious conspiracy than to be
+genuine. But Christians might well respond (cf. Locke, Essay IV xvi
+13, quoted in §3 above) that the evident religious content of the celes-tial message makes it more likely to be explicable by supernatural
+182Peter Millicanmeans than some non-religious alternatives (for example a compar-
+able set of stars tracing out line diagrams of the Platonic solids). Ifthe testimony were to be as widespread and consistent as that for
+the eight days of darkness, why should it not be credible?
+Perhaps Hume himself had an inkling of this sort of objection,
+because he provides an argument that seems calculated to address it:
+Though the Being to whom the miracle is ascribed, be …
+Almighty, it does not, upon that account, become a whit moreprobable; since it is impossible for us to know the attributes or
+actions of such a Being, otherwise than from the experience
+which we have of his productions, in the usual course ofnature. ( E10.38)
+Though ingenious, this is too quick to be convincing. If correct, it
+would imply that the belief in an omnipotent Deity can make no
+difference to the credibility of anyinference to the unobserved, on
+the grounds that any such inference has to rely on induction, andinduction will apply in exactly the same way whether the experience
+to which we appeal is taken to be expressive of brute laws of nature, or
+expressive of the will of the Deity. But there is a crucial asymmetrybetween these, because theistic explanation potentially has the
+power to explain not only conformity to causal laws (which account
+for the future in terms of the past), but also teleology (which accountsfor the past in terms of the anticipated future, appealing to goals as
+well as to existing structures). And it is not difficult to imagine a
+world in which explanation of natural events in terms of divine pur-poses would prove to be of special value (e.g. where wicked people
+tend to get struck by meteorites).
+37Despite Hume ’s ingenious
+argument, therefore, a Deity who intervened miraculously to fulfilintelligible purposes (rather than working exclusively through
+uniform causal laws that reveal no teleological pattern) could
+indeed provide the theist with explanatory resources unavailable tothe atheist. And there seems to be no reason in principle why
+sufficiently persuasive reports of miracles, displaying consistency
+of apparent purpose, should not provide supporting evidence for
+37Even if, as Hume will stress in Enquiry 11, our world does not seem to
+be like that. Perhaps he has here been carried away by the force of his later
+argument, to the effect that if we cannot discern any moral tendency in
+this world, then it is illegitimate to infer any such tendency in the worldto come. That seems correct, but it does not imply in general that teleologi-cal considerations could never properly ground an inference beyond what is
+observed.
+183Twenty Questions about Hume ’s“Of Miracles ”“a system of religion ”.38Overall, we can conclude that although
+Hume is right to suggest that religious miracle stories deserve to betreated with extreme caution (because of their dubious track
+record), it remains true that the teleological aspect of religious expla-
+nation could in principle support such stories, if only the world weresuch as to make that teleological story plausible.
+39
+19. Is Hume ’s Maxim Correct?
+Having just seen the principal objection to Hume ’s arguments of Part
+2, it is now time to return to Part 1 and consider again his centralargument for his Maxim. Unfortunately, the Independence
+Assumption on which it depends is not universally valid, and as a
+result the Maxim itself fails. First, many forms of evidence will notyield a consistent general probability of error. Thus to take the
+example of §9 above, there is no particular reason why a test for
+some gene within a biological sample should have the same prob-ability of giving a false-negative result when the gene is present, as
+it has of giving a false-positive result when the gene is absent.
+Indeed an exact equality here seems highly unlikely, given that anychange in the test ’s sensitivity to the gene is likely to have opposite
+effects on the two probabilities. Likewise for the witnessing of
+marvels: there is no reason why someone, gazing over a foggyScottish loch at twilight, should mistake a floating log for a sea
+monster with exactly the same probability as he would mistake a
+sea monster for a floating log. Moreover Hume himself is surelyaware of this, because in Part 2 he repeatedly makes the point that
+38See Swinburne (1996, ch. 7) and Houston (1994, ch. 11). Houston
+particularly emphasises (pp. 133 –5) that it is question-begging against the
+theist to presume that everyday uniformity is ipso facto evidence against
+the miracle believer, because that the dead always stay dead in our experi-
+ence, for example, is something she herself believes: for her, the resurrectionof Jesus is precisely exceptional. The debate, therefore, cannot be decided byappeal to induction alone, but will depend on the relative general plausibilityof the overall theistic account as compared with its rivals.
+39These considerations suggest –rather ironically –that Hume ’s argu-
+ment may be stronger against non-religious “miracles ”. For pseudo-sciences
+such as homeopathy, which run wildly contrary to our scientific under-
+standing, aspire to capture repeatable, causal aspects of the world, whichare not dependent on supernatural teleology and are therefore more straight-forwardly testable by the inductive methods that Hume ’s argument
+presupposes.
+184Peter Millicanhuman testimony is subject to various distortions depending on the
+subject-matter (marvellous, religious, favouring the vanity of the re-porter, etc.). This might suggest that his Maxim is not intended as a
+final position so much as a stage on the way, showing that miracles are
+hard to credit even if we start from the Independence Assumption, asa prelude to arguing in Part 2 that the Assumption is if anything too
+generous to the believer.
+Although such a strategy would have force against some of Hume ’s
+contemporary opponents, who themselves based their support for
+miracles on something like the Independence Assumption,
+40it does
+not suffice to vindicate his argument. As Campbell and Pricepointed out,
+41his Maxim runs into major problems making sense
+of ordinary cases in which events (or combinations of events) that
+would antecedently seem hugely improbable are easily “established ”
+by everyday testimony. Suppose, for example, that my son were to
+run indoors, shouting “A red lorry just bashed the wing-mirror off
+a yellow Mercedes at the corner ”. Collisions do occasionally happen
+there, but if I were invited to bet in advance on such a precisely speci-
+fied event I would demand odds of thousands (if not millions) to one.
+My son ’s testimony, though generally reliable, is nothing like thatun-
+likely to be false, and yet I would unhesitatingly believe such a report
+if told with apparent sincerity. His testimony is credible, even though
+it isnot“of such a kind, that its falsehood would be even less probable,
+than the fact, which it endeavours to establish ”.42
+Where, then, does Hume ’s argument go wrong? Much could be
+said here, but in brief, it is generally fallacious to calculate the prob-ability of a “false positive ”(where the event Mdoes not occur, but is
+falsely reported as having occurred) by the formula used in §8 above:
+Pr(¬M&t(M))=Pr(¬M)×Pr(false report ).
+Even if we allow the assumption that my son has witnessed some col-
+lision, the probability that he will falsely report it as involving
+40For example Price (1768, §2, pp. 413 –6).
+41See Campbell (1762, I §1, pp. 30 –2) and Price (1768, §2, pp. 407 –9),
+both of whom acknowledge Butler (1736, II ii 3, [§11]) as having anticipatedthis idea.
+42It is tempting to suggest (as does Coleman 1988, p. 334) that such
+examples are irrelevant to Hume ’s argument because the events reported
+are not miraculous. But this response looks ad hoc and question-begging:the burden would be on Hume to show that miracles are a special case, and
+his argument claims to be based on generally applicable principles.
+185Twenty Questions about Hume ’s“Of Miracles ”precisely a red lorry and the wing-mirror of a yellow Mercedes is
+hugely overestimated by this formula. His report could be false in amyriad ways, of which this is just one. Hence a “false positive ”of pre-
+cisely this type is extremely unlikely, even less likely than a “true
+positive ”(which is why his report is indeed credible).
+Hume seems to have ignored this crucial objection, though he must
+have read of it. Perhaps he failed to appreciate the danger because the
+informality of his own text led him to misremember his Maxim as re-sisting refutation. Possibly, like so many later critics, he sometimes
+took himself to be proposing only the inoffensive triviality that “we
+cannot accept a miracle on the basis of testimony unless we regardthe miracle, given the testimony, as more probable than its non-
+occurrence ”.
+43But there is also a more interesting possibility,
+which is close enough to his original Maxim to be expressible invery similar terms, resistant to refutation, yet also non-trivial:
+Revised Humean Maxim
+No testimony is sufficient to render a miracle Mmore probable
+than not, unless the testimony is of such a kind, that the occur-
+rence of a false Mreport of that kind ( given that M does not in
+fact occur ) would be even less probable than Mitself.
+In the terms used above, this is roughly equivalent to saying that a
+report of Mis credible only if a “true positive ”would be more
+likely to occur than a “false positive ”,
+44which seems obviously
+right (and without having to depend on any Independence
+Assumption, as only Mreports are being considered). But note that
+it involves a crucial shift in perspective from what Hume ’s argument
+for the Maxim led us to expect, because it compares the probability of
+Mnot with the general epistemic probability of a given type of testi-
+mony ’s falsehood, but instead with the probability of such false tes-
+timony, specifically for M,being delivered .45This Revised Maxim
+43Quoted from Noonan (2007, p. 187), who adds “This is where Part 1
+ends, and it does so on an incontrovertible, indeed, near tautological, point ”.
+For other references, see note 9 in §5 and note 15 in §8 above.
+44It is not quite the same, but is implied as long as M’s being unre-
+ported if true is at least as probable as Mitself (which is almost certain to
+be the case if Mis a miracle). The details of all this must wait for another
+occasion.
+45Technically, this replaces inverse probability by direct probability:
+calculating forward from the envisaged events and propensity to report
+them, instead of attempting to calculate backwards from the delivery of a
+given report to the epistemic probability of the event reported.
+186Peter Millicanthus moves from the abstract inductive epistemology of Part 1 of the
+essay to the more down-to-earth psychology of Part 2. With so muchmaterial in these later arguments stressing the human tendency to
+report miracles even in their absence, it would hardly be surprising
+if Hume sometimes mistook his original, faulty Maxim for this lessvulnerable alternative.
+20. What is the Enduring Significance of Hume ’s Essay?
+“Of Miracles ”is a rich, fascinating and insightful essay, though the
+lessons to be learned from it are not always quite those that Hume in-tended. Presented as a direct application of his theory of induction, its
+main weaknesses derive precisely from the inadequacies of that
+theory, which emphasises crude extrapolation from experience tothe neglect of other considerations that are now often expressed in
+terms of “inference to the best explanation ”.
+46We saw this clearly
+in §18, where he overlooks the possibility of an integrated theistic fra-mework in which miracles fit into a purposive account of the world.
+And a somewhat similar problem lies behind the main objection to
+his Maxim in §19, where his focus on the inductive evidence forand against a miracle claim apparently leads him to overlook that a
+report can be mistaken in many different ways. When a specific
+report has been presented, our assessment cannot just rely on ageneral abstract probability of error which is independent of the
+subject-matter; it has to look at the specifics, and compare the com-
+peting accounts of how that particular report is to be explained.
+It is therefore somewhat ironic that the most enduring value of
+Hume ’s essay lies precisely in this explanatory direction, with his
+clear identification and investigation of ways in which our humancognitive failings can usefully be considered in the assessment of
+miracle reports. For Hume recognised the potential role of systematic
+“heuristics and biases ”(as they are now called) within our cognitive
+functioning, nearly two and a half centuries before such research
+became fashionable through the well-known work of Amos
+Tversky and Daniel Kahneman.
+47This theme is obvious in Part 2,
+46I am not meaning to suggest that Hume is totally wedded to a crude
+inductivism. But his broader insights in philosophy of science (e.g. on
+analogy and hidden causes) are rather unsystematic and in any case play
+little role within “Of Miracles ”. For further discussion, see the references
+in footnotes 19 and 23 above.
+47Their best-known article is Tversky and Kahneman (1974), while
+Gilovich et al. (2002) is a major recent collection in honour of the research
+187Twenty Questions about Hume ’s“Of Miracles ”with its numerous references to flighty imagination, credulity, love of
+wonder, vanity, and motivated deceit, all of these magnified in thecontext of religion.
+48Less obvious is the extent to which Part 1 in-
+volves a similar theme, here directed not on those whose beliefs we
+investigate, but on ourselves as investigators. Indeed Hume ’s
+Maxim can be seen as intended precisely to correct for a powerful
+bias in our assessment of evidence, commonly called the base rate
+fallacy . This is clear in the diagnostic test example of §9 above,
+where we naturally find it all-too-easy to ignore the background
+“base rate ”of the disease when assessing the significance of the test
+result. Such error is perhaps unsurprising, because the specific im-mediacy of the test itself –and its apparently impressive reliability
+of 99.9% –strike us with far more force and vivacity (as Hume
+would say) than the memory of the general “prior probability ”of
+one in a million. But it turns out that people very commonly go
+wrong in this way with far less excuse.
+49Hume ’s Maxim –
+notwithstanding its weaknesses –is thus of considerable value as a
+vivid reminder of the need to take base rates into account. And
+although the Independence Assumption on which it relies is not
+always appropriate, where it is, the Maxim stands.
+I ended §19 above by suggesting that Hume might have had in
+mind an alternative –and far more defensible –version of his
+Maxim, which is not the explicit goal of his main argument, but isreadily suggested once the broader considerations of his essay come
+into play. This Revised Maxim nicely pulls together his initial em-
+phasis on the inductive unlikelihood of miracles with his later stresson psychological explaining away of miracle reports. And it provides
+a potentially powerful response to the objection of §18, by focusing
+less on the improbability of miracles (which the theist can legiti-mately contest by appeal to divine teleology) and more on the relative
+programme they began. Note that the original version of Hume ’s discussion
+of miracles seems to have been intended for the Treatise (Hume 1748,
+pp. 161 –2;NHL 2), probably in Book 1 Part 3 together with his pioneering
+discussions of other human cognitive weaknesses (e.g. T1.3.9.6 –19,
+1.3.10.4 –9, 1.3.13.1 –10).
+48See §13 and §16 above, and note our natural teleological bias as made
+explicit in the Natural History of Religion .
+49See for instance the striking example given by Tversky and
+Kahneman (1974, pp. 1124 –5). Note that this same weakness seems to
+underlie Hume ’s observation in §17 above, that “I never knew any one,
+that examined and deliberated about nonsense who did not believe itbefore the end of his inquiries. ”
+188Peter Millicanprobability that false miracle stories will arise through natural pro-
+cesses. Thus equipped, Hume need not insist –with apparent induc-
+tive dogmatism –that the theist ’s stories are so intrinsically incredible
+as to be unworthy of consideration. Instead, he can wait for our em-
+pirical science of the mind to explain such beliefs away by appeal tocognitive dispositions that are manifest more generally, and thus
+render the hypothesis of divine action gratuitous.
+50Understood in
+this way, Hume ’s attack on miracles turns increasingly towards the
+psychology of Treatise 1.3 and the anthropology of the Natural
+History of Religion . But the spirit of his famous essay remains.
+Hertford College, Oxford
+References
+Aquinas, Thomas (1258 –64),Summa Contra Gentiles , translated by
+Vernon J. Bourke as On the Truth of the Catholic Faith ,
+Doubleday and Co., 1956. Excerpt reprinted in
+Richard Swinburne (ed.), Miracles (Macmillan, 1989), pp. 19 –22.
+Broad, C. D. (1917), “Hume ’s Theory of the Credibility of
+Miracles ”,Proceedings of the Aristotelian Society 17, pp. 77 –94.
+Burns, R. M. (1981), The Great Debate on Miracles , Associated
+University Presses.
+Butler, Joseph (1736), The Analogy of Religion, Natural and
+Revealed, to the Constitution and Course of Nature , ed. W.
+E. Gladstone, Clarendon Press, 1896 [bracketed § numbers areGladstone ’s].
+Campbell, George (1762), A Dissertation on Miracles , Edinburgh: A.
+Kincaid & J. Bell.
+Coady, C. A. J. (1973), “Testimony and Observation ”,American
+Philosophical Quarterly 10, pp. 149 –55.
+Coady, C. A. J. (1992), Testimony , Clarendon Press.
+Coleman, Dorothy (1988), “Hume, Miracles and Lotteries ”,Hume
+Studies 14, pp. 328 –46.
+50For some relevant recent work, see French and Wilson (2007). The
+point here is that if empirical work were to show that the propagation offalse miracle stories is absolutely to be expected within relevant contexts
+(e.g. first century Palestine), then the atheist can easily contest such stories
+without having to insist that they are in themselves vanishingly improbable.
+The hypothesis of supernatural action simply becomes one for which there isno need, no compelling evidence, and which runs counter to all modern rig-orous investigation.
+189Twenty Questions about Hume ’s“Of Miracles ”Coleman, Dorothy (2001), “Baconian Probability and Hume ’s
+Theory of Testimony ”,Hume Studies 27, pp. 195 –226.
+Earman, John (2000), Hume ’s Abject Failure: The Argument Against
+Miracles , Oxford University Press.
+Earman, John (2002), “Bayes, Hume, Price, and Miracles ”,
+Proceedings of the British Academy 113, pp. 91 –109.
+Flew, Antony (1959), “Hume ’s Check ”,Philosophical Quarterly 9,
+pp. 1 –18.
+Flew, Antony (1961), Hume ’s Philosophy of Belief , Routledge &
+Kegan Paul.
+Fogelin, Robert J. (2003), A Defense of Hume on Miracles , Princeton
+University Press.
+French, Christopher C. and Krissy Wilson (2007), “Cognitive
+Factors Underlying Paranormal Beliefs and Experiences ”,I n
+Sergio Della Sala (ed.), Tall Tales about the Mind and Brain:
+Separating Fact from Fiction , Oxford University Press, pp. 3 –22.
+Garrett, Don (2002), “Hume on Testimony concerning Miracles ”,i n
+Peter Millican (ed.), Reading Hume on Human Understanding ,
+Clarendon Press, pp. 301 –32. Adapted from Garrett, Cognition
+and Commitment in Hume ’s Philosophy , Oxford University Press
+(1997), chapter 7: pp. 137 –62.
+Gaskin, J. C. A. (1988), Hume ’s Philosophy of Religion , Macmillan,
+second edition.
+Gillies, Donald (1991), “A Bayesian Proof of a Humean Principle ”,
+British Journal for the Philosophy of Science 42, pp. 255 –6.
+Gilovich, Thomas, Dale Griffin, and Daniel Kahneman, eds (2002),
+Heuristics and Biases: The Psychology of Intuitive Judgment ,
+Cambridge University Press.
+Holder, Rodney D. (1998), “Hume on Miracles: Bayesian
+Interpretation, Multiple Testimony, and the Existence of God ”,
+British Journal for the Philosophy of Science 49, pp. 49 –65.
+Houston, Joseph (1994), Reported Miracles: A Critique of Hume ,
+Cambridge University Press.
+Howson, Colin (2000), Hume ’s Problem: Induction and the
+Justification of Belief , Clarendon Press.
+Hume, David (1739 /40),A Treatise of Human Nature: A Critical
+Edition , vol. 1, ed. David Fate Norton and Mary J. Norton,
+Clarendon Press, 2007 (references indicated by “T”and given to
+book, part, section and paragraph number).
+Hume, David (1741 –77),Essays, Moral, Political, and Literary , ed.
+Eugene F. Miller, Liberty Classics, second edition 1987(“Essays ”, references given to paragraph number and to page
+number).
+190Peter MillicanHume, David (1748), An Enquiry concerning Human Understanding ,
+ed. Peter Millican, Oxford University Press, 2007 (referencesindicated by “E”and given to section and paragraph number,
+except when giving page references for additional material such
+as Hume ’s letters).
+Hume, David (1751), An Enquiry concerning the Principles of Morals ,
+ed. Tom L. Beauchamp, Oxford University Press, 1998 (references
+indicated by “M”and given to section and paragraph number).
+Hume, David (1757), A Dissertation on the Passions and The Natural
+History of Religion , ed. Tom L. Beauchamp, Oxford University
+Press, 2007 (references to Natural History indicated by “NHR ”,
+and given to section and paragraph number).
+Hume, David (1932), The Letters of David Hume , ed. J. Y. T. Greig, 2
+vols, Clarendon Press (references indicated by “HL”).
+Hume, David (1954), New Letters of David Hume , ed. R. Klibansky
+and E. C. Mossner, Clarendon Press (references indicated by
+“NHL ”).
+Johnson, David (1999), Hume, Holism, and Miracles , Cornell
+University Press.
+Larmer, Robert (1996), “David Hume and the Miraculous ”in
+Larmer (ed.), Questions of Miracle , McGill-Queen ’s University
+Press, pp. 26 –39.
+Lewis, C. S. (1947), Miracles: A Preliminary Study , Macmillan.
+Locke, John (1690), An Essay Concerning Human Understanding , ed.
+P. H. Nidditch, Clarendon Press, 1975 ( “Essay ”, references given
+to book, chapter and section number).
+Lombrozo, Tania, Deborah Kelemen and Deborah Zaitchik (2007),
+“Inferring Design: Evidence of a preference for teleological
+explanations in patients with Alzheimer ’s disease ”,Psychological
+Science 18.11, pp. 999 –1006.
+Mackie, J. L. (1982), The Miracle of Theism , Clarendon Press.
+Millican, Peter (1993), “‘Hume ’s Theorem ’Concerning Miracles ”,
+Philosophical Quarterly 43, pp. 489 –95.
+Millican, Peter (2003), “Hume, Miracles, and Probabilities: Meeting
+Earman ’s Challenge ”, available online at http: //www.davidhume.
+org/documents /2003 Miracles and Probabilities.pdf (as presented
+at the Las Vegas Hume Conference, July 2003).
+Millican, Peter (2007a), “Humes Old and New: Four Fashionable
+Falsehoods, and One Unfashionable Truth ”,Proceedings of the
+Aristotelian Society , Supplementary Volume 81, pp. 163 –99.
+Millican, Peter (2007b), “Against the ‘New Hume ’”, in Rupert Read
+and Kenneth A. Richman (eds), The New Hume Debate: Revised
+Edition , Routledge, pp. 211 –52.
+191Twenty Questions about Hume ’s“Of Miracles ”Millican, Peter (2009), “Hume, Causal Realism, and Causal
+Science ”,Mind 118, pp. 647 –712.
+Noonan, Harold (2007), Hume , Oneworld Publications.
+Norton, David Fate (1982), David Hume: Common-Sense Moralist,
+Sceptical Metaphysician , Princeton University Press.
+Price, Richard (1768), On the Importance of Christianity and the
+Nature of Historical Evidence, and Miracles, Dissertation IV of
+Four Dissertations , second edition (first edition was 1767),
+London: A. Millar and T. Cadell.
+Purtill, Richard L. (1978), “Miracles: What if They Happen? ”in
+Richard Swinburne (ed.), Miracles Macmillan, 1989), pp.
+189–205. From Purtill, Thinking about Religion , Prentice Hall,
+pp. 65 –79.
+Selby-Bigge, L. A. (1894), “Editor ’s Introduction ”toEnquiries
+Concerning the Human Understanding and Concerning the
+Principles of Morals by David Hume , Clarendon Press, pp. vii –xxxi.
+Sherlock, Thomas (1729), The Tryal of the Witnesses of the
+Resurrection of Jesus , London: J. Roberts.
+Sobel, Jordan Howard (1991), “Hume ’s Theorem on Testimony
+Sufficient to Establish a Miracle ”,Philosophical Quarterly 41,
+pp. 229 –37.
+Stroud, Barry (1977), Hume , Routledge & Kegan Paul.
+Swinburne, Richard (1968), “Miracles ”,Philosophical Quarterly 18,
+pp. 320 –8.
+Swinburne, Richard (1996), Is There a God? , Oxford University
+Press.
+Traiger, Saul (1993), “Humean Testimony ”,Pacific Philosophical
+Quarterly 74, pp. 135 –49.
+Tversky, Amos and Daniel Kahneman (1974), “Judgment under
+Uncertainty: Heuristics and Biases ”,Science 185, pp. 1124 –31.
+Wilson, Fred (1989), “The Logic of Probabilities in Hume ’s
+Argument against Miracles ”,Hume Studies 15, pp. 255 –75.
+Wootton, David (1990), “Hume ’s‘Of Miracles ’: Probability and
+Irreligion ”, In M. A. Stewart (ed.), Studies in the Philosophy of
+the Scottish Enlightenment , Clarendon Press, pp. 191 –229.
+192Peter Millican

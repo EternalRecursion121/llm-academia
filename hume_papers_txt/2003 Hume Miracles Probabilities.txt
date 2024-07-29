@@ -1,0 +1,892 @@
+Hume, Miracles, and Probabilities:  Meeting Earman’s Challenge  
+Peter Millican, University of Leeds  
+ 
+Abstract  
+The centrepiece of Earman‟s provocatively titled book Hume’s Abject Failure: The Argument 
+against Miracles  (OUP, 2000) is a probabilistic interpret ation of Hume‟s famous „maxim‟ 
+concerning the credibility of miracle reports, followed by a n aggressive  critique of the maxim 
+when thus interpreted.  He argues that the first part of this maxim, once its obscurity is removed, is 
+simply trivial, while the s econd part is nonsensical.  His subsequent discussion culminates with a 
+forthright challenge to any would -be defender of Hume to „point to some thesis which is both 
+philosophically interesting and which Hume has made plausible‟.  My main aim here is to ans wer 
+this challenge, by demonstrating a preferable interpretation of Hume‟s maxim, according to which 
+its first half is both plausible and non -trivial, while its second half sketches a useful, albeit 
+approximate, corollary.  I conclude by contesting Earman‟ s negative views on the originality and 
+philosophical significance of Hume‟s justly famous essay.   Hume, Miracles, and Probabilities:  Meeting Earman’s Challenge  
+Peter Millican, University of Leeds  
+ 
+Hume‟s discussion concerning the credibility of miracle reports in Section  X of the first Enquiry  
+has always been controversial, with some commentators viewing it as a powerful contribution to 
+the philosophy of religion, while others have dismissed it as uncharacteristically weak.  The main 
+focus of this disagr eement has been the „a  priori‟ argument of Section  X Part  i,1 which culminates 
+in Hume‟s famous „maxim‟:  
+The plain consequence is (and it is a general maxim worthy of our attention), “That no 
+testimony is sufficient to establish a miracle, unless the testi mony be of such a kind, that its 
+falsehood would be more miraculous, than the fact, which it endeavours to establish: And 
+even in that case, there is a mutual destruction of arguments, and the superior only gives us 
+an assurance suitable to that degree of force, which remains, after deducting the inferior.”  
+(E 10.13, 115 -6)2 
+Hume‟s preceding argument is based very explicitly on  his theory of probability, so contemporary 
+interpreters, in attempting to assess the strength of that argument, have naturally bee n led to ask 
+how this maxim can most faithfully be expressed in formal probabilistic terms .  However their  
+investigations have resulted in a number of very differ ent formulations, which have therefore 
+provide d no firm and impartial basis from which the bro ader evaluative debate can be addressed.  
+ Among the various probabilistic interpretations of Hume‟s maxim, the most prominent 
+recently – owing to the writings of John Earman – has been the one that he and I proposed 
+independently in 1993, an interpretation  which renders the maxim (or at least its first half, prior to 
+                                                 
+I am very grateful to Lorne Falkenstein for his helpful comments on an early version of this paper.  <later 
+acknowledgements to be added>  
+1 The argument of Part  i of Section  X is often described as „a  priori‟ because it ap parently purports to set limits to the 
+evidence that even the best possible testimony could supply for a miracle.  The „a  posteriori‟ arguments of Part  ii, by 
+contrast, are based on the particul arities of human nature, history, and religions, such as our love of wonder, the 
+antiquity and poor evidential basis of the most religiously significant miracle stories, and the mutual conflicts between 
+different miraculously -founded religions.  
+2 Quotation s from the Enquiry Concerning Human Understanding („E‟) are taken from Beauchamp‟s student edition 
+(1999), and referenced both by paragraph number and by page number in the standard Selby -Bigge edition (1975).   
+However for brevity, lists of multiple refere nces are given only using the Selby -Bigge page numbers, as also in the 
+case of the Treatise of Human Nature , where  „T‟ refers to the 1978 Selby -Bigge edition .  2 the colon) true but apparently trivial.3  Both of us were reacting, at least in part, to an alternative 
+interpretation put forward by Jordan Howard Sobel two years earlier,4 and our criticisms were 
+broadly similar although the morals we drew were contrasting.  Earman has little sympathy for 
+Hume‟s argument, and has since gone on to attack it in  an extremely belligerent  tone both in his 
+provocatively titled book Hume’s Abject Failure  (2000), and in his recent British Academy paper 
+(2002).  His overall assessment of the argument rates it as „a confection of rhetoric and schein 
+Geld’  and „a shambles  from which little emerges intact ‟; more specifically, he alleges that it is 
+„tame and derivative [and ] something of a muddle‟, disguising the banal triviality of the key 
+maxim under a misleading „ posturing and pompous solemnity‟ (2000, p.  73; 2002, pp.  92-4, 108).  
+According to Earman, not only is the first half of Hume‟s maxim merely trivial and tautolog ical 
+(2000, p.  41; 2002, p.  97), but its second half is „nonsensical‟, involving „an illicit double 
+counting‟ of the inductive evidence against any miracle (2000, p.  43).  The subsequent discussion 
+in Earman‟s book culminates with a forthright challenge:  
+Commentators who wish to credit Hume with some deep insight must point to some thesis 
+which is both philosophically interesting and which Hume has made plausible.  I don‟t 
+think that they will succeed.  Hume has generated the illusion of deep insight by sli ding 
+back and forth between various theses, no one of which avoids both the Scylla of banality 
+and the Charybdis of implausibility or outright falsehood.  ( 2000, p. 48)  
+My own assessment of Hume‟s argument was (and remains) far less negative, partly on the  basis 
+that its historical significance could derive as much from its general advocacy of a probabilistic 
+framework as from the detail of the particular probabilistic maxim it proposes (1993, p.  494).  But 
+more fundamentally, I raised doubts about the gene ral interpretative framework that Sobel and I 
+(and Earman) were employing, and hinted that there might well be a more faithful way of 
+understanding Hume‟s maxim by taking a rather different approach (1993, pp.  490, 491, 495 n.  8).  
+My aim here is to pursue  this alternative approach, rejecting all of the interpretations that have 
+featured in this debate over the past decade or so, and thus to answer Earman‟s challenge by 
+demonstrating a preferable interpretation of Hume‟s maxim, according to which its first half is 
+both plausible and non -trivial, while its second half sketches a corollary which is as close an 
+approximation as could reasonably be expected given Hume‟s informal presentation and his 
+ignorance of formal probability theory.  I shall end with some further comments on Earman‟s 
+views, in particular contesting his negative opinions on the originality and overall significance of 
+Hume‟s justly famous essay.  
+                                                 
+3 Earman (1993), p.  294; Millican (1993), p.  490. 
+4 Sobel (1991), p.  232; the same interpretation  is favoured by Gillies (1991), p.  255 and by Howson (2000), p.  242.  3 1.  Five Rival Interpretations of Hume’s Maxim  
+Taking „M‟ to be the proposition that the miracle i n question occurs, and „t(M)‟ to be the 
+proposition that appropriate testimony is forthcoming, essentially the following five interpretations 
+of the first half of Hume‟s maxim have been discussed since 1991:5 
+ (1) Pr(M/t(M)) > 0.5  →  Pr(M) > Pr(¬M & t(M)).6 
+ (2) Pr(M/t(M)) > 0.5  →  Pr(M) > Pr(t(M)/¬M).7 
+ (3) Pr(M/t(M)) > 0.5  →  Pr(M) > Pr(¬M/t(M)).8 
+ (4) Pr(M/t(M)) > 0.5  →  Pr(M & t(M)) > Pr(¬M & t(M)).9 
+ (5) Pr(M/t(M)) > 0.5  →  Pr(M/t(M)) > Pr(¬M/t(M)).10 
+All of these agree that the antecedent of (the first half of) Hume‟s maxim:  
+no testimony is sufficient to establish a miracle, unless …  
+is to be read as introducing a necessary condition for the „posterior‟ probability of the miracle M , 
+given the testimony  t(M), to be greater than 0.5 – hence all of (1) to (5) given an identical formal 
+interpretation of that antecedent.11  They also agree that in the consequent, „more miraculous‟ is to 
+                                                 
+5 „Essentially‟ because I simplify in various ways to keep the formulae as straightforward as possible, notably by 
+silently removing all references to background knowledge and experience.   The objections in this section concern only 
+the first half of Hume‟s maxim, but it is worth noting that Earman‟s „double counting‟ accusation against the second 
+half of the maxim (discussed in §6 below) provides an objection to all five interpretations, since it is clearly desira ble 
+to interpret Hume in a way that does not leave the two halves of his maxim mutually incoherent or „nonsensical‟.  
+6 Sobel (1991), p.  232; Gilles (1991), p.  255; Howson (2000), p.242.  
+7 Holder (1998), p.  52.  This formula is als o considered by Earman (2000, p.  39) under the name „(P')‟, as being a 
+possible interpretation of what Price (1768, p.  163) took Hume to be saying.  
+8 Price (1768, p.  163) is best interpreted in terms of this formula „(P)‟, according to Earman (2000, p. 39) . 
+9 Sobel (1991, p.  234) calls this „(TM)‟ and seems to treat it as an improvement on Hume, though Earman (2000, 
+p. 41) mentions a 1996 work of Sobel‟s – apparently yet to be published – which adopts this formula as his favoured 
+interpretation of Hume hims elf. 
+10 Millican (1993), p.  490; Earman (1993), p.  294; Earman (2000), p.  41; Earman (2002), p.  97. 
+11 To understand the antecedent as ascribing certainty  to M given t(M) – i.e. „P(M/t(M))  = 1‟ – would not fit with 
+Hume‟s text, and would render his maxim ine ffective against his opponents in the eighteenth century debate whose 
+more modest aim was mere „moral assurance‟ of a miracle (cf. Earman 2002, pp.  98-9).  It would also make the 
+corresponding analogues of formulae (1) to (5) trivial as necessary condition s for certainty, and false as sufficient 
+conditions (cf.  the discussion later in this section).   4 be understood as „less probable‟.  But in the light of this agreement, it  might well seem 
+bewildering that they can differ so much over the interpretation of the remaining 22 words:  
+… the testimony be of such a kind, that its falsehood would be more miraculous, than the 
+fact, which it endeavours to establish.  
+However they achie ve this variety only at great cost in plausibility: (1) and (2), for example, 
+misrepresent Hume as being concerned with the probability of the testimony‟s being presented, 
+when it clear, at least in Part  i of Enquiry  Section  X, that his interest is only in  what can be inferred 
+from  the testimony.  (4) is not perhaps objectionable in quite  the same way, because its consequent 
+is equivalent to that of (5) and so can be read as implicitly treating the testimony as a precondition 
+rather than as something whose probability is being assessed, but it suffers from a corresponding 
+syntactic implausibility, in that „M  & t(M)‟ clearly cannot faithfully represent what is intended by 
+Hume‟s words „the fact, which [the testimony] endeavours to establish‟.  
+ Another powerfu l range of criticisms concerns the logic of the formulae, especially if we 
+seek an interpretation that can legitimate Hume‟s apparent belief that his maxim provides not only 
+a necessary condition, but also a plausibly sufficient condition for the credibili ty of testimony:  
+… even in that case … the superior  only gives us an assurance  … I weigh the one miracle 
+against the other … and  always reject the greater miracle .  If the falsehood of his 
+testimony would be more miraculous, than the event which he relates ; then, and not till 
+then, can he pretend to command my belief or opinion .  (E 10.13, 116, my emphasis)  
+Here Hume seems clearly to be saying that if some testimony does indeed meet his condition – i.e. 
+is such that its falsehood would be more miraculous th an the event reported – then that testimony 
+does give assurance, the „greater miracle‟ (i.e. the falsehood of the testimony) is to be rejected, and 
+the testifier can aspire to „command [his] belief‟.  
+ Which of our various formulae provide a plausible neces sary and sufficient condition for 
+credibility?  The simplest way to appreciate their implications is to represent them in terms of the 
+„probability space‟ divided according to the truth and falsehood of M and t(M):  
+ 
+ Testimony is given  
+t(M)  Testimony is no t given  
+¬t(M)  
+Event occurs  
+M A =  Pr(M & t(M))  C =  Pr(M & ¬t(M))  
+Event does not occur  
+¬M B =  Pr( ¬M & t(M))  D =  Pr( ¬M & ¬t(M))   5  
+We can now represent the consequent of each of (1) to (5) in terms of the corresponding 
+inequalities involving A, B, C and D (which sum to 1, since these four exhaust the possibilities):  
+ (1) Pr(M/t(M)) > 0.5  →  A + C > B. 
+ (2) Pr(M/t(M)) > 0.5  →  A + C > 
+) ( DBB
+ . 
+ (3) Pr(M/t(M)) > 0.5  →  A + C > 
+) ( BAB
+ . 
+ (4) Pr(M/t(M)) > 0.5  →  A > B. 
+ (5) Pr(M/t(M)) > 0.5  →  A > B.12 
+The mathematically correct necessary and sufficient condition is simply „ A > B‟, and it follows 
+therefore that formulae (1) to (3) are deficient in various ways.  The consequent of (1) provides a 
+genuine necessary condition bu t one that is too lax to be sufficient – if C is non -zero (i.e. if M can 
+occur without being reported), then „ A + C > B‟ can be satisfied without in any way implying that 
+M is „established‟ by t(M).  The consequent of (2) likewise fails to provide a suffic ient condition, 
+but it also just fails to be necessary – if A is only marginally greater than B (by a proportion which 
+is small relative to B itself), and C is zero  or negligible  (i.e. M is certain to be reported if true), 
+then (2) will turn out false, hav ing a true antecedent but a false consequent.13  Finally (3) can 
+perhaps be seen as virtually sufficient, since its consequent can fail to guarantee its antecedent 
+only if Pr(M)  > 0.5, in which case M can hardly be called „miraculous‟,14 but it very obviousl y 
+fails to be necessary.  Because what (3) demands, for M is to be judged credible in the light of 
+testimony, is that M‟s prior  probability, even before  the testimony is forthcoming, should already  
+be sufficiently high to outweigh the conditional probabili ty of its falsehood in the light of the 
+testimony.  This criterion also has the consequence that no possible testimony can make M, say, 
+80% credible (i.e. such that the criterion is satisfied and also Pr(M/t(M))  = 0.8 which implies that 
+Pr(¬M/t(M))  = 0.2), unless M was already at least 20% probable before the testimony was given; 
+                                                 
+12 This is trivially simplified from 
+) ( BAA
+ > 
+) ( BAB
+ . 
+13 If C = 0 and A = (1+
+ )B where 
+  is small but positive, then the conditio n for (2) to be false is that B > 
+2) 1(
+ ;  
+this will be the case if, for example, A = 0.09, B = 0.085, C = 0, and D = 0.825.  However the nature of this condition 
+is such that if M is genuinely miraculous (so both A and B must be tiny), th en 
+ must itself be negligibly small, and 
+hence the violation of (2) is arguably too minimal to be of serious concern.  
+14 Nevertheless it seems very implausible that Hume‟s criterion should be considered satisfied  in a case where A = 0.2, 
+B = 0.3, C = 0.5, and D = 0 – so that the prior probability of M is 0.7, while its posterior probability after the testimony 
+has been given falls to 0.4.  Here Pr(M) > Pr(¬M/t(M)), but the testimony counts against  the event.   6 but the corresponding threshold for 90% posterior credibility is only 10% initial probability – 
+ludicrously, the posterior figure rises while the prior diminishes!  
+ Such mathematic al analysis can be made more vivid with clear counterexamples, so here 
+first is one from my 1993 paper (p.  492) which is equally effective against both (1) and (2), and 
+proves that neither of them even gets close to providing a sufficient condition for cre dibility:  
+Consider … the entirely bogus but wealthy „Psychic Sam‟, who in order to further his 
+reputation adopts a policy of regularly taking out advertisements in a wide range of weekly 
+newspapers, each of which purports to predict the result of a local w eekly lottery (the idea 
+being that Sam‟s many failures will be overlooked as long as the advertisements are 
+suitably discreet, whereas a single success could be publicized to make his name).  Suppose 
+now that I am the last person to buy a ticket before the  Little Puddleton lottery, and receive 
+number 3247, although 9999 tickets were originally available.  In this case it may well be 
+more likely that I will win the lottery (1 in 3247) than it is that Sam will have predicted my 
+success (say, 1 in 9999), but t his clearly does nothing whatever to add credibility to his 
+testimony.  
+In this sort of case, where t(M) is antecedently even more improbable than M but is utterly 
+worthless as testimony, both (1) and (2) will incorrectly judge that M is established.15 
+ Agai nst (3), imagine that I am conducting an experiment on some type of sub -atomic 
+particle – let‟s call them „aleph‟ ( ) particles – created by nuclear collisions.  Whenever a relevant 
+collision takes place, various particles result, and let us suppose that 1% of these collisions will 
+yield an  particle.  My detector is highly reliable, but not infallible: if an  partic le is present, it 
+will be registered with 99.9% probability, but 0.1% of those collisions that do not create an  
+particle will also register on the detector (hence both „false negatives‟ and „false positives‟ have an 
+identical probability of 0.1%).  Now s uppose that on the next collision, my detector gives a 
+positive result – should I believe it?  The table of probabilities comes out like this:  
+ 
+  particle reported  
+t(M)   particle not reported  
+¬t(M)  
+ particle created  
+M A =  0.999%  C =  0.001%  
+No  particle created  
+¬M B =  0.099%  D =  98.901%  
+                                                 
+15 Where, as here, the testimony is entirely indep endent of M‟s truth or falsity, (1) is violated also where M and t(M) 
+have an equal antecedent improbability.   7  
+In these circumstances, the posterior probability that an  particle was indeed created is very nearly 
+91% – the formula being 
+) ( BAA
+  – so the report is in fact eminently credible (with odds of 
+„10:1 on‟), but condition (3) – which requires that A + C > 
+) ( BAB
+  – is nowhere near being 
+satisfied, because A + C is only 1% while 
+) ( BAB
+  is over 9%.  The right -hand side of the 
+inequality, Pr(¬M/t(M)) or 
+) ( BAB
+ , gives an appropriate threshold  for credibility, since this 
+represents the probability that the report, once given, will be false.  But what should be compared 
+against this threshold is obviously Pr(M/t(M)) or 
+) ( BAA
+ : the probabilit y that the report, once 
+given, will be true (thus leading to (5), the interpretation discussed in the following section ).  For 
+as the particle detector example illustrates, it is simply absurd to insist that a report is incapable of 
+establishing M unless M  starts off with an initial  probability – P(M) or A + C – which already  
+exceeds this threshold even before the report has been given.  
+2.  The ‘Trivial’ Interpretation of Hume’s Maxim  
+All this might seem to leave the 1993 Earman/Millican interpretation (5) in possession of the field, 
+at least if Hume‟s maxim is to retain any degree of plausibility:  
+ (5) Pr(M/t(M)) > 0.5  →  Pr(M/t(M)) > Pr(¬M/t(M)).  
+But this too is subject to various objections, sufficient at least to justify a search for some further 
+option  beyond the five already examined.  The most decisive objection will become apparent in 
+the next section, but a first, relatively minor, objection is that „Pr(M/t(M))‟ seems a slightly 
+strained reading of „the fact, which [the testimony] endeavours to esta blish‟ – read most naturally, 
+Hume‟s phrase would seem to indicate just the overall probability Pr(M) rather than any 
+conditional probability.16  A rather more significant objection is to (5)‟s logical triviality, since it 
+can be seen to follow immediately from the relevant instance of the negation principle, which 
+states that Pr(M/t(M)) and Pr(¬M/t(M)) must sum to 1.  Indeed the formula‟s triviality is easy to 
+see even without invoking this principle explicitly, simply by noting that its left -hand side and 
+right -hand side respectively express the two most straightforward probabilistic translations of the 
+proposition that, given the testimony, the miracle is more probable than not.  But if Hume‟s maxim 
+really does reduce to the simple tautology that a miracle  is more probable than not only if it is 
+                                                 
+16 A related point is that the phrase „more miraculous‟, which seems to indicate a comparison between very small 
+probabilities, is at least infelic itous if the values being compared are the conditional probabilities Pr(M/t(M)) and 
+Pr(¬M/t(M)), at least one of which must be greater than or equal to 0.5.   8 more probable than not, then Earman‟s complaint that it is banal and unilluminating  (2000,  p. 41; 
+2002, p.  97) would appear to be well founded; likewise his accusation that Hume‟s essay is 
+slippery and misleading, in presenting a mere tautology as though it were a significant contribution 
+to the philosophy of religion (2000, p.  43-8; 2002, p.  94).  For corresponding reasons, those who 
+do ascribe such significance to Hume‟s discussion might well find grounds here for  rejecting 
+interpretation (5).  
+ My paper of 1993, which was largely devoted to advancing (5) in preference to Sobel‟s (1), 
+attempted to defend Hume against the anticipated charge of triviality as follows  (p. 494) :17 
+I see no overwhelming objection to attrib uting to Hume a maxim which, when expressed in 
+probabilistic terms, is a „near tautology‟.  And this is because I believe that Hume can 
+plausibly here be seen, not as putting forward a new theorem to an audience already 
+familiar with a probabilistic framew ork, but rather, and more fundamentally, as presenting 
+an argument for interpreting the evidence for miracles within some such framework in the 
+first place . . .  
+However this response is not entirely convincing, and the example I gave to substantiate it, w hen 
+viewed clearly, sits very uncomfortably with (5) as an interpretation of Hume‟s maxim:  
+Suppose that I develop a test to diagnose a debilitating genetic condition which suddenly 
+manifests itself in middle age, but which fortunately afflicts only one per son in a million.  
+The test is fairly reliable, in that no matter who is tested, and whether they actually have the 
+disease or not, the chance that the test will give a correct diagnosis is 99·9%, and an 
+incorrect diagnosis only 0·1% (it is never inconclus ive).  A hypochondriac, Fred, who is 
+anxious because of his approaching fortieth birthday, comes to my clinic for a test, which 
+much to his horror (if not surprise!) proves positive.  What, on the basis of this information, 
+is the probability that Fred has  the disease?  
+… imagine the effect of performing my test on the entire population of Britain (say 55 
+million).  Of these 55 million, roughly 55 could be expected to have the disease (since it 
+afflicts only one in a million), and it is likely that every one  of these 55 will receive a 
+positive result when tested (since the test is 99·9% probable to give a positive result for 
+each of them individually).  But now consider the 54,999,945 who do not have the disease 
+– the vast majority of these will, of course, r eceive a negative result, but nevertheless 0·1% 
+of them, or roughly 55,000, can be expected to receive an incorrect positive result.  So out 
+of 55,055 positive results overall, only 55 will be correct.  Clearly a positive test does 
+relatively little to ind icate that one actually has the disease: it merely changes the relevant 
+probability from a negligible one in a million to the only slightly more worrying one in 
+1001 (55 in 55,055).  
+…  On leaving my clinic, Fred should simply ask himself whether  
+                                                 
+17 In this context it is worth noting (cf. Millican (1993), p.  493-4) that Sobel‟s formula (1) is eq ually trivial; indeed it is 
+obvious that (5) implies (1) given that if A > B (and C ≥ 0), it follows immediately that A + C > B.  9 the test i s of such a kind, that its falsehood would be more surprising, than the 
+disease, which it endeavours to establish.  
+Given that the test is wrong one time in a thousand, while the disease afflicts only one in a 
+million, Hume‟s test should at least be suffici ent to mitigate Fred‟s hypochondriac concern!  
+Trivial it may be, but … it can … protect us … from our natural human tendency to 
+overlook completely the importance of initial probabilities when assessing the impact of 
+evidence, testimony or otherwise, for allegedly extraordinary events.  
+(Millican 1993, pp. 494-5) 
+This last paragraph slides misleadingly over a crucial ambiguity, for as I pointed out in a footnote 
+at the time, the probability of a positive  test‟s falsehood – in the sense „Pr(¬M/t(M))‟ as impl ied by 
+formula (5) – is not one in a thousand but rather 1000/1001, a figure that comes from calculation in 
+the light of everything  known about the present case and its background circumstances (including 
+the rarity of the disease) rather than just from the statistical characteristics  of the test itself.  So the 
+question that potentially brings Fred consolation, when he compares one in a thousand to one in a 
+million and reflects that he is probably safe after all, is not in fact the question that correspond s to 
+interpretation (5), which would have Fred instead uselessly asking whether  
+in the light of the test‟s result, that result‟s falsehood [i.e. the absence of the disease] would 
+be more surprising than its truth [i.e. the disease‟s presence].  
+Clearly this question is merely a rephrasing of Fred‟s anxious concern; and there is no real comfort 
+to be had from reflecting on a mere tautology.18  The upshot is that interpretation (5) cannot after 
+all be defended against Earman‟s change of triviality, and so we ha ve yet to find a reading of 
+Hume‟s maxim which is logically, textually, and epistemologically plausible.  
+3.  Testimony ‘Of Such a Kind …’  
+Despair of finding a satisfactory interpretation of Hume‟s maxim would, however, be premature, 
+because despite the app arent variety displayed by (1) to (5), they all share a characteristic which 
+can be seen to be highly questionable when set alongside Hume‟s actual words:  
+no testimony is sufficient to establish a miracle, unless the testimony be of such a kind , that 
+its falsehood would be more miraculous, than the fact, which it endeavours to establish.  
+(my emphasis)  
+                                                 
+18 I take it that those who derive comfort from „What will be, will be‟ are understanding this as some kind of statement 
+of the role of destiny, and hence as more than a tautology.   10 All of (1) to (5) are „token‟ interpretations of the maxim,19 in that they aim to assess the likelihood 
+of a miracle in the light of the specific item of test imony concerned, and the impact that that 
+particular testimony has on the miracle‟s overall probability.  By contrast, I shall now advance a 
+„type‟ interpretation, which aims to take more seriously Hume‟s phrase „testimony … of such a 
+kind’ , thus drawing a  relatively clear logical distinction between the left -hand side of Hume‟s 
+maxim (concerning this particular miracle‟s probability in the light of the specific token  evidence 
+given) and the right -hand side (concerning the relative probability of the differ ent types  of 
+outcome – miracle and falsehood of this kind of testimony respectively).  Whatever else its virtues 
+or faults, at least such an interpretation cannot be merely trivial; hence if one can be found that is 
+textually plausible and logically cohere nt, it is unlikely to fall foul of Earman‟s main complaint in 
+being devoid of epistemological significance.  
+ What does Hume mean by „a kind‟ of testimony?  Those who have interpret ed his essay in 
+Bayesian terms have perhaps naturally tended to read this as  involving all of the circumstances, 
+character, manner, and content of the particular report (an avenue which leads straight back to a 
+„token ‟ interpretation), but the structure of Hume‟s discussion suggests something rather different, 
+namely the general c ircumstances, character, and manner of the report, but not its content .20  He 
+starts from the fundamental claim that testimonial evidence is essentially inductive: „our assurance 
+in any argument of this kind is derived from no other principle than our obser vation of the veracity 
+of human testimony, and of the usual conformity of facts to the reports of witnesses‟ (E  10.5, 111).  
+He then goes on to refine this claim, to take into account how the experienced conformity of facts 
+to testimony has been found to v ary according to the nature of the testimony:  
+There are a number of circumstances to be taken into consideration in all judgments of this 
+kind …  The contrariety of evidence … may be derived … from the opposition of contrary 
+testimony; from the character o r number of the witnesses; from the manner of their 
+delivering their testimony; or from the union of all these circumstances.  … There are many 
+other particulars of the same kind, which may diminish or destroy the force of any 
+argument, derived from human testimony.  (E  10.6-7, 112-3) 
+                                                 
+19 This terminology was introdu ced in Millican (1993), pp.  490-1, which had the relatively limited aim of showing 
+that, among the various „token‟ interpretations, (5) is preferable to (1), and which explicitly left the development of a 
+satisfactory „type‟ interpretation as unfinished bu siness (p.  495 n.  8).  The current paper is my attempt to fill the gap.  
+20 However the content of the report can impact on the report‟s character (as Hume understands this), for example 
+where the claim reported tends to support a religious belief and thus p rovides a self -interested motive for the 
+testimony.  The distinction here between „nature of the testimony‟ and „nature of the testified claim‟ is not easy to 
+make precise, but fortunately Hume‟s discussion and the general thrust of his conclusion do not s eem to require that 
+the distinction be a sharp one.   11 It is within this context that Hume begins to turn his attention, in the very next sentence, towards 
+the topic of the miraculous:  
+Suppose, for instance, that the fact, which the testimony endeavours to establish, partakes 
+of the extraordinary and the marvellous; in that case, the evidence, resulting from the 
+testimony, admits of a diminution, greater or less, in proportion as the fact is more less 
+unusual.  (E  10.8, 113) 
+Here the unusualness of the reported event is identified as one additional factor that bears on the 
+credibility of testimonial reports.  But Hume then immediately goes on to isolate this particular 
+factor, and to view it as balanced on the other side of the scale  against the characteristics of the 
+testimony that  incline us to believe it, resulting in „a counterpoise, and mutual destruction of belief 
+and authority‟ (E  10.8, 113).  The extreme case of this counterpoise, which leads on almost 
+immediately to Hume‟s maxim, is where the reported fact  
+is really miraculo us; and … the testimony, considered apart and in itself , amounts to an 
+entire proof; in that case, there is proof against proof, of which the strongest must prevail, 
+but still with a diminution of its force, in proport ion to that of its antagonist.  
+(E 10.11, 114; my emphasis)  
+So it is indeed clear from the context of Hume‟s maxim that when it refers to „testimony … of 
+such a kind …‟, the kind in question here is to be understood as characterising the testimony, 
+considered apart and in itself ,  involving suc h things as „the character or number of the witnesses‟ 
+and „the manner of their delivering their testimony‟, but not the unusualness of the reported event.  
+Since, however, the whole point of Hume‟s discussion is to emphasise the huge impact that such 
+unus ualness can have on the testimony‟s overall credibility, it follows that within any formal 
+representation of his maxim, the miraculousness of the testimony’s falsehood considered apart and 
+in itself  (i.e. what is to be balanced against the miraculousness o f the fact which it endeavours to 
+establish ) cannot be correctly represented as the overall conditional probability Pr(¬M/t(M)) .  So 
+even leaving aside the question of its objectionable triviality, formula (5) as canvassed by Earman 
+and myself in 1993 cann ot possibly provide a faithful interpretation of Hume‟s intentions.21 
+4.  A ‘Type’ Interpretation of Hume’s Maxim  
+If the preceding discussion is correct, then Hume‟s maxim must be understood in such a way that 
+the probability of the testimony „considered ap art and in itself‟ is distinguished from, and weighed 
+                                                 
+21 This is the really decisive objection alluded to in the first paragraph of §2 above.  Formula (5) – like formulae (1) to 
+(4) also – is simply inconsistent with the way in which Hume‟s text identifies an d distinguishes the factors that are to 
+be weighed against each other.   12 against, the improbability of the reported event considered independently of that testimony.  
+Hume‟s idea seems to be that different „kinds‟ of testimony (specified in terms of the character and 
+number of the witnesses, the manner of delivery etc.) carry a different typical probability of truth 
+and falsehood independently of the event reported .  Suppose, then, that we focus on a particular 
+kind of testimony – whose probability of falsehood is f – which e ither asserts, or denies, the 
+occurrence of a particular kind of event – whose probability of occurrence is m.  If event and truth 
+of testimony are probabilistically independent, we have the following situation:  
+ 
+ Testimony is true  
+(probability 1 -f) Testim ony is false  
+(probability f) 
+Event occurs  
+(probability m) witness asserts E occurred  
+probability m(1-f) witness denies E occurred  
+probability mf 
+Event does not occur  
+(probability 1 -m) witness denies E occurred  
+probability (1 -m)(1-f) witness asserts E occ urred  
+probability f(1-m) 
+ 
+Of the four possibilities, two (those shown unshaded) yield positive testimony to the event, 
+namely, when the event occurs and is truly reported [with initial probability m(1-f)] or when it 
+does not occur but is falsely reported as having done so [with initial probability f(1-m)].  Hence if 
+positive testimony is known to have been given, we must revise these initial probabilities by 
+increasing both of them proportionately so that they sum to 1, which therefore involves 
+multiplying  each of them by 
+) 1( ) 1(1
+m f f m
+ .  The upshot is that the conditional probability 
+that the testimony is true, given that positive testimony has been given , is:22 
+ Pr(M/t(M)) =  
+) 1( ) 1() 1(
+m f f mf m
+ , 
+and this testimony will turn out to be more lik ely than not in accordance with the formula:  
+ Pr(M/t(M)) > 0.5  →  
+)1( ) 1( f m m f
+  
+which simplifies to:  
+                                                 
+22 Though differently expressed, the formula given here is equivalent to the one suggested by Condorcet for the 
+assessment of testimony in his Mémoire sur le calcul des Probabilités  of 1784 (cf.  Pearson (1978), pp.  459-60).  I am 
+grateful to David Owen (1987, p.  339) for alerting me to this parallel.   13  Pr(M/t(M)) > 0.5  →  
+mf
+ . 
+This result neatly corresponds to the words of Hume‟s maxim, since its right hand side is exactly  
+equivalent to saying that the falsehood of the testimony, considered apart and in itself  is more 
+miraculous (i.e.  less probable) than the event reported, considered independently of the testimony . 
+ It is very striking that the mathematical development of a „type‟ interpretation, following 
+so directly from Hume‟s text and his apparent assumption of independence, should yield such a 
+simple formula that corresponds so precisely to the words of his maxim.  But this in itself might 
+engender some suspicion, beca use it is obviously implausible to suggest that Hume himself would 
+have followed any such mathematical route.  Fortunately, however, there is a far simpler 
+alternative route to the same destination, which is sufficiently Humean in spirit to provide an 
+entirely plausible account of how he might have come to his maxim.  This alternative starts from 
+his own fundamental idea of opposing evidences whose force is derived from their inductive 
+consistency.  In the situation of a miracle report we have a conflict be tween the evidence of 
+testimony, presumed to have a consistent correlation with truth, and the evidence of nature, whose 
+consistency tells in the opposite direction, against the occurrence of the miraculous event:  
+ 
+ Testimony is true  Testimony is false  
+Nature is ‘false’  E occurred   
+Nature is ‘true’   E did not occur  
+ 
+The layout here corresponds exactly to that of the previous table, but, by omitting the mathematics 
+and the irrelevant cells, this version highlights how Hume‟s treatment of the credibility o f 
+testimony reduces the issue to a simple trial of strength, between the inductive evidence for the 
+testimony and the inductive evidence for the relevant „law of nature‟.  One of these must be „true‟ 
+and the other „false‟, and all we can do to adjudicate b etween them is to compare their relative 
+force.  It seems entirely plausible that Hume saw the issue in just this way, in which case the „type‟ 
+interpretation presented above can indeed claim to be a faithful mathematical elaboration of his 
+view rather tha n an anachronistic distortion.   14 5.  Establishing the Coherence and Significance of Hume’s Maxim  
+The interpretation proposed in the previous section is not without philosophical difficulties, 
+because its model for the assessment of testimony is clearly rathe r simplistic, and in particular the 
+apparent universal presumption of probabilistic independence is highly implausible.  One notable 
+situation in which such independence looks likely to fail is with something like a lottery result, 
+where the initial probab ility that a sincere witness will „get it wrong‟ on a positive claim:  
+ The winning number was 297  
+seems much higher than in the case of a negative claim:  
+ The winning number was not 374  
+since a misremembering of the winning number will inevitably lead to f alsehood in the former 
+case, but is unlikely to do so in the latter.  Hume‟s discussion cannot therefore claim to give a fully 
+adequate treatment of lottery examples, and it is not surprising that these have proved to be a 
+popular source of ammunition for his critics, from Richard Price to the present day.23  It is vital to 
+recognize, however, that these sorts of difficulty cut both ways, because the eighteenth century 
+philosophers who argued for the truth of miracle reports themselves appealed to the idea o f 
+independence: Price for example argues strongly, in opposition to Hume, that testimony of 
+particular kinds can be assigned a characteristic probability independently of the event reported, 
+and should therefore be taken equally seriously in miraculous as in other cases (1768, pp.  163-6).  
+Moreover Part  ii of Hume‟s essay reveals that he himself is not after all a believer in such 
+independence, and it is illuminating to read his „a  posteriori‟ arguments in this light, as 
+strengthening the case against mirac les precisely by rejecting the assumption of independence on 
+the ground that the probability of false testimony (e.g. resulting from wishful thinking or 
+motivated deceit) is vastly increased when the reported event is a religious miracle.  
+ There is, then, much more to be said on the question of whether Hume‟s argument has a 
+sound basis, either as a positive contribution to the philosophy of testimony or as a refutation of 
+the views of others.  But now is not the time to explore these issues, and for present  purposes it 
+will suffice to demonstrate that the interpretation presented in §4 above avoids the various 
+                                                 
+23 For a discussion of lottery examples with appropriate references, see pp.  454-5 of Millican (2002c).  However the 
+scholarly debate outline d there has, I believe, been somewhat off -target in failing to recognize the point just made, 
+regarding the role of the independence assumption and why lottery cases inevitably violate it.  If this point is correct, 
+then it can plausibly be claimed that lo ttery examples are irrelevant to the general strategy of Hume‟s case against 
+miracles, as sketched in the remainder of the current paragraph.   15 objections that beset our five rival „token‟ interpretations, and in particular, that unlike (5) – the 
+strongest of the five – it can confer Hume‟s ma xim with some real significance.  To start with the 
+syntactic objections, these are easily sidestepped because my „type‟ interpretation matches Hume‟s 
+words almost perfectly:  when he compares the „miraculousness‟ of the event with that of the 
+falsehood of  the given kind of testimony, I interpret him as comparing precisely the two 
+corresponding independent probabilities.  No violence is done to his text, and the only 
+extrapolations beyond his literal words – reading „more miraculous‟ as „less probable‟, and  taking 
+the relevant probabilities to be independent – have a solid foundation in the immediate textual 
+context of the maxim.24 
+ In cases where the assumption of independence is justified, moreover, this „type‟ 
+interpretation is both non-trivial and logical ly sound, as can be illustrated by the two examples 
+given earlier, of the medical test and the aleph particle detector.  Both are easily accommodated – 
+in the medical case the probabilities for f and m are 1/1000 and 1/1000000 respectively, while in 
+the pa rticle detector case they are 1/1000 and 1/100.  For such cases, moreover, Hume‟s maxim 
+thus interpreted delivers exactly the right answer, giving both a necessary and a sufficient 
+condition:  in the absence of any other relevant evidence, a positive repor t is to be believed if and 
+only if the falsehood of the report w ould be „more miraculous‟ (i.e.  less likely) than the occurrence 
+of the phenomenon reported.  Though a logical truth, this result is certainly not a trivial tautology  
+like interpretation (5) o f Hume‟s maxim; indeed it is sufficiently informative to provide valuable 
+practical guidance on the significance of such things as diagnostic tests.25 
+6.  The Accusation of Double Counting  
+Having vindicated the first half of Hume‟s maxim, let us now move on to its second half,  and start 
+by consider ing Earman‟s accusation of „double counting‟ which h e presents as follows (2000, 
+p. 43): 
+                                                 
+24   Moreover in substituting „more miraculous‟ by „less probable‟, the infelicity mentioned in footnote 16 above is 
+avoided, because this substitution seems far more comfortable when the probabilities concerned are genuinely tiny.  
+25 It is also potentially controversial, at least in its practical application, and Hume would no doubt have be en aware 
+that he was directly taking issue with John Locke‟s influential Essay :  „Though the common Experience, and the 
+ordinary Course of Things have justly a mighty Influence on the Minds of Men, to make them give or refuse Credit to 
+any thing proposed t o their Belief; yet there is one Case, wherein the strangeness of the Fact, lessens not the Assent to 
+a fair Testimony given of it.  … This is the proper Case of Miracles ‟ (IV  xvi 13).  For more general doubts about the 
+applicability of the principle that testimonial assurance should take account of prior probabilities in a Humean or 
+Bayesian fashion, see Price ( 1768), pp.  162-9 and Cohen (1981), both usefully discussed in Owen (1987) §§IV -VI.  16 the second half of the Maxim appears to be nonsensical.  Recall that it says that „ even in 
+that case  there is a mutual destru ction of arguments, and the superior only gives an 
+assurance suitable to the degree of force, which remains, after deducting the inferior‟.  The 
+italicised phrase suggests that even when the testimony is of such a kind that its falsehood 
+would be more mira culous than the fact which it endeavours to establish there is still a 
+further  destruction of arguments.  Such talk appears to involve an illicit double counting: 
+the weighing up of the countervailing factors … has already been done, and if the result is 
+that Pr(M/t(M)) > 0.5,26 then that‟s the way it is, and no further subtraction is called for.  
+This accusation clearly misfires  if the maxim is interpreted in the way I have proposed , because 
+thus interpreted it does not involve any explicit calculation of th e overall conditional probability 
+Pr(M/t(M)), but only a comparison between f and m.  And in the circumstances envisaged, where 
+the event reported is in itself highly improbable, Hume is obviously right to imply that this overall 
+conditional probability wi ll work out to be less than (1 -f), which is the probability of the testimony, 
+considered apart and in itself .  A possible objection remains, however, for it is far from clear that 
+this diminution of probability can be correctly described as a simple „deduc tion‟ or arithmetical 
+subtraction.27 
+7.  Subtracting Humean Probabilities  
+Here it must be remembered that even in his writings on „probability‟, Hume was not developing a 
+mathematical theory of chance, but was primarily concerned (especially in the Treatise ) to explain 
+the psychological mechanism whereby in relevant circumstances we acquire expectations or 
+tentative beliefs of various imperfect degrees of certainty.  Moreover he never explores with any 
+rigour the arithmetic of the „force and vivacity‟ that c onstitutes these degrees of belief – the 
+working out of a Humean theory of mathematical degrees of probability must therefore involve 
+some extrapolation beyond what he literally stated.  Nevertheless it is possible to fill out a coherent 
+theory, and we sha ll see that when this is done, his talk of „subtracting‟ probabilities can be seen to 
+make reasonable sense, both in his general discussions of probability and also ( contra  Earman) in 
+his maxim concerning miracles.  
+ Within the Treatise  and Enquiry , Hume sp eaks most explicitly of subtracting or deducting 
+probabilities at T138, E111, E116, and E127 (the last three all being in „Of Miracles‟).  Gower 
+                                                 
+26 Here the quoted formula has been simplified in accordance with  the policy of footnote 5 above.  
+27 Earman states (2000, p. 43) that „commentators from Campbell (1762) onward have complained about the crudity‟ 
+of Hume‟s „subtraction‟ approach, though Earman acknowledges that in contexts othe r than the maxim, „the idea is 
+appropriately but crudely applied‟.  The potential objection to be discussed in the next section is not explicitly raised  17 (1991, pp.  12-13) suggests that Hume has in mind a non -standard theory of probability, according 
+to which evide ntial force is to be assessed by subtracting the number of negative instances from 
+the number of positive instances, so for example a balance of 3:1 in favour gives twice the 
+evidential force of a 2:1 balance.  Such a theory is however incoherent, since it  implies that a 4:2 
+balance has the same force as a 3:1 balance, and hence double the force of a 2:1 balance, even 
+though examples can easily be devised which can count as either 2:1 or 4:2 depending on how the 
+component possibilities are divided up.28  Fortunately, as Gower himself recognizes  (1991, p.  15), 
+there is no need to interpret Hume in this simplistic manner:  
+Without too much violence to the spirit of Hume‟s proposal we can easily modify it so as to 
+yield probabilities between zero and one; we can simply divide the difference between 
+superior and inferior numbers of ob servation by their sum.  
+Indeed such a modification is definitely required if we are to be faithful to Hume, since in the same 
+sections where he discusses this kind of subtraction of in stances (and in other sections besides), he 
+also uses terms implying proportionality.29  He is most explicit on this in the Treatise  section on 
+„the probability of chances‟ (I  iii 11), where he elaborates a theory of probability involving a 
+strictly proport ionate division of the inductive impulse (induction being the foundation of all belief 
+in matter of fact) which very clearly implies that a 4:2 balance of instances must be exactly 
+equivalent to a 2:1 balance in terms of the resulting strength of belief:  
+we shall suppose a person to take a dye, [such that] four of its sides are mark‟d with one 
+figure … and two with another; and to put this dye into the box with an intention of 
+throwing it …  When [the mind] considers the dye as no longer suspended by the bo x, it 
+cannot without violence regard it as suspended in the air; but naturally places it on the 
+table, and views it as turning up one of its sides.  …  yet there is nothing to fix the 
+particular side, but that this is determin‟d entirely by chance … The ve ry nature and 
+                                                                                                                                                                
+by Earman, because on his reading (as indeed on all five of the „token‟ interpretations), the second ha lf of Hume‟s 
+maxim is „nonsensical‟ in requiring any diminution at all.  
+28 Consider, for instance, the probability that a randomly spun (non -magnetic) spinner will stop with its pointer facing 
+within 120º of due north.  If we treat the circle as divided int o three sectors of 120º each, then the balance in favour is 
+2:1, but if we treat it as divided into six sectors of 60º each, then the balance is 4:2.  It might be suggested that the 
+principles of Book  I Part  ii of Hume‟s Treatise  imply the existence of som e „correct‟ answer as to how the circle 
+should be divided up – i.e. into absolute minima – but unfortunately this way of dividing up the space of possibilities 
+just makes things worse, for on Gower‟s subtraction model a balance of, say, 2  million:1  million  implies a „surplus‟ of 
+a million, yielding far too high a probability by comparison with other examples (e.g. the 51:1 balance applying to the 
+prediction that a randomly chosen card from a pack will not be the ace of spades, which gives a surplus of only 50, 
+though the real probability here is very obviously significantly greater than in the spinner example).  
+29 See for example T134, T136, T139 -40, E56 -8, and E110 -11.  It may be significant that loose talk of subtraction is 
+entirely absent from Section  VI of the Enquiry  (E56 -9), which is the mature Hume‟s „official‟ account of probability.   18 essence of chance … [leaves] the mind in a perfect indifference among those events … this 
+principle … directs us to the whole six sides after such a manner as to divide its force 
+equally among them.  …  The determination of the thought is com mon to all; but no more 
+of its force falls to the share of any one, than what is suitable to its proportion by the rest.  
+‟Tis after this manner the original impulse, and consequently the vivacity of thought, 
+arising from the causes, is divided and split i n pieces …  ‟Tis evident that where several 
+sides have the same figure inscrib‟d on them … the impulses belonging to all these sides 
+must re -unite in that one figure, and become stronger and more forcible by the union.  … 
+The vivacity of the idea is always  proportionate to the degrees of the impulse … and belief 
+is the same with the vivacity of the idea …  (T127 -30) 
+What results from this is still non -standard, because Hume‟s emphasis on subtraction of the 
+resulting proportionate impulses effectively genera tes „credibilities‟ ranging from −1 to 1 
+(−1 being wher e all instances are negative), mapping onto conventional probabilities as follows:  
+ 
+Though computationally complex, the resulting calculus can be developed equivalently to s tandard 
+probability theory, so it is certainly not incoherent.30  If we then apply this calculus to an induction 
+from inconsistent experience where the balance of observed positive to negative instances is 3:1, 
+we will derive a „credibility‟ value of (3−1)/ (3+1)  = 0.5, equivalent to a conventional probability 
+of 0.75, just as we would expect on the basis of the  traditional „straight rule‟, which indeed seems 
+the appropriate answer if the balance of past instances is all that we have to go on.  
+ Let us now tu rn to see how this interpretation of Humean „subtraction‟ might apply to 
+miracles, in respect of which the second half of Hume‟s maxim tells us that where the falsehood of 
+the testimony is even more miraculous than the event reported,  „there is a mutual de struction of 
+arguments, and the superior only gives us an assurance suitable to that degree of force, which 
+remains, after deducting the inferior‟ (E  10.13, 116).  In this hypothetical situation – which Hume 
+                                                 
+30 I coin the word „credibility‟ (symbol „ C‟) to avoid confusion with probability .  Then the coherence of the concept is 
+simply established by the equations C = 2(P−½) and P = ½(C+1), which provide linear mappings between credibilities 
+and the corresponding probabilities  (as illustrated by the diagram in the text) .  From substitution into the standard 
+formulae, the  resulting rule for disjunction of mutually exclusiv e events is:  C(A v B) = C(A) + C(B) + 1, and the rule 
+for conjunction of independent events is:  C(A & B) = ½ (C(A).C(B) + C(A) + C(B) − 1).  The main computational 
+complexity obviously comes in the latter.  Probability:    0  0.25  0.5  0.75   1 
+Credibility:   -1  -0.5    0  0.5   1 
+How Humean ‘credibilities’ correspond to probabilities   19 of course believes to be extremely  unlikely – the testimony is supposed to be sufficiently strong to 
+outweigh even the improbability of a miraculous event.  Consider, for example, what happens 
+where an event M is reported of a type that can be expected to occur only 3 times in 1000, while 
+the testimony is of a kind that can be expected to be false only 1 time in 1000 (or, to be more 
+„miraculous‟, respectively 3 and 1 in a trillion – the result will be similar, but the lower numbers 
+are easier to handle here).  Evidently we should be surprised, for this i mplies that something  
+improbable has come about.  But on the principle of Hume‟s maxim the two improbabilities have 
+to weighed against each other, using the same kind of „subtraction‟ as he advocates for standard 
+probabilities, so we must treat this case i n essentially the same way as our example of simple 
+induction based on 3:1 inconsistent experience.31  This will yield a „credibility‟ value of 
+(0.003  − 0.001)  / (0.003  + 0.001)  = 0.5, equivalent again to a probability of 0.75,32 but some 
+obvious questions a rise:  is Hume right to handle these two types of situation – straight rule 
+induction, and testimony for miracles – using the very same formula?  How can this be justified, 
+and how does it square with the first half of his maxim as interpreted in §4 above?  
+ The answers can be found by comparing our just -derived probability of 0.75 with a 
+Bayesian calculation using the relevant formula from §4, substituting 0.003 for m (the initial 
+probability of the miracle) and 0.001 for f (the initial probability of the t estimony‟s falsehood):  
+ Pr(M/t(M)) =  
+997.0 001.0 999.0 003.0999.0 003.0
+  = 
+003994.0002997.0 = 0.750375…  
+                                                 
+31 There is another way of applying the „subtract ion‟, by basing it on the comparison between the complements of 
+0.003 and 0.001, namely 0.997 and 0.999 respectively, and Hume‟s words could perhaps bear either interpretation.  
+However this alternative method would imply virtual indifference between the t wo „arguments‟, which is inconsistent 
+with his generally proportionate treatment of probability and would moreover (given the „balance of evidence‟ form of 
+his argument) imply virtual indifference also where the roles are reversed, in the commonplace – arguably universal – 
+situation where the miracle is „more miraculous‟ than the falsehood of the testimony ( where, of course,  Hume shows 
+no inclination whatever to suspend his judgement).  As I interpret him, Hume would  quite reasonably view the case of 
+a 3-in-1000 event versus a 1 -in-1000 falsehood as being rather like that of a lottery of 1000 tickets in which I buy 3 
+blue tickets and 1 white ticket, and later discover that I‟ve won – the probability that I‟ve won with a blue ticket  will 
+then clearly be 3 out  of 4 (and the total number of tickets in the lottery is here completely irrelevant).   Likewise, if I 
+know that either  a 3-in-1000 event or a 1-in-1000 falsehood has in fact occurred (in the situation envisaged by the 
+second half of Hume‟s maxim), it seem s obvious that the appropriate comparison is 3 to 1 rather than 997 to 999.  
+32 This might seem to contradict Hume‟s idea that the subtraction results in a mutual „annihilation‟ of evidence 
+(E 10.35, 127), but that is simply because my example, chosen here f or expository purposes, is far more extreme than 
+any that Hume would countenance in a miraculous context.  On his view no testimony can ever be so strong that its 
+falsehood would be three times as improbable as  a genuine miracle , and mutual annihilation is  the practical limit that 
+the best possible testimony can achieve.   20 The striking thing here is the closeness of the two results, and this is no coincidence.  For Hume‟s 
+simple „subtraction‟ rule, as described above, will alwa ys give a close approximation to the result 
+of the Bayesian calculation as long as m and f are sufficiently small .33  In the case of a miracle, of 
+course, m is certain to be extremely small, and Hume‟s maxim only sanctions the use of his 
+„subtraction‟ rule for the case of miracles where f is even smaller.  So though admittedly not exact, 
+the second half of his maxim, so far from being an incoherent nonsense, turns out to be a very 
+useful approximation for calculating the actual probability that underlies the  first half of his 
+maxim.  Where the first half gives the condition for testimony to be credible, the second half 
+provides an excellent numerical approximation of the resulting „credibility‟.  
+8.  Conclusion: The Significance and Originality of Hume’s Essay  
+If the response I have presented to Earman‟s challenge is successful, then Hume‟s famous maxim 
+concerning miracles is neither trivial nor incoherent: it can give genuinely practical, and broadly 
+correct, guidance on the interpretation of evidence for some  unlikely events, and it does not 
+involve any illicit „double counting‟.  Moreover although its scope should theoretically be limited 
+to those situations where a certain assumption of independence is justified – where the credibility 
+of some kind of testim ony can legitimately be assessed without regard to the specific content of 
+that testimony – nevertheless Hume‟s strategy of building his general case against miracles by 
+starting from this assumption is not unreasonable.34  First, because such independence was anyway 
+                                                 
+33 To see why this is so, note that the calculation above gives a result of exactly 0.75 if 0.999 and 0.997 are 
+approximated by a value of 1, and such an approximation is appropriate only if  m and f are very small.  
+34 Note that this kind of probabilistic independence is quite distinct from the issue of independent multiple witnesses , 
+of which Earman makes a great deal as a potential counterexample to Hume (2000, pp.  53-61; 2002, pp.  100-102).  
+Without contesting Earman‟s technical results, one can dispute the seriousness of this latter issue, since most of his 
+discussion seems to ignore entirely the epistemological dimension of how one could possibly know  that the multiple 
+witnesses in question  are genuinely independent.  What little he says on this seems extremely naïve, culminating in the 
+suggestion that „there seems to be no in -principle difficulty in arranging the circumstances so as to secure the 
+independence condition‟ (2002, p.  102, cf. 2 000, p.  60).  It is obscure what „in -principle‟ here amounts to (Earman 
+uses the term frequently in these discussions without explan ation), but his suggestion presumab ly need not be of any 
+concern to Hume if it requires freakish combinations of circumstanc es, or supernatural interventions, which would 
+themselves be „miraculously‟ improbable.  The idea of „arranging‟ circumstances is also somewhat  inappropriate in 
+the case of Humean miracles which are by definition contrary to natural law (and thus would not  include repeatable 
+lawlike faith -healing s, for exa mple, even if these  were to occur); the phrase seems moreover to gloss over the gap 
+between such circumstances‟ actually  obtaining, and their being known  (or reasonably believed) to obtain.  Hume had 
+an in timate acquaintance with man‟s fondness both for the miraculous and for fraudulent sensationalism (Bede, with 
+his miracle -filled stories of Germanus, Oswald, Aidan, Cuthbert etc., was one of the principal sources for the History  21 typically taken for granted by his opponents, and even in some cases explicitly advocated by them 
+as the basis for accepting miracle reports.  Secondly, because Hume goes on from this starting 
+point to develop his case further in Part  ii of his essay, in effect arguing that the assumption of 
+independence is, if anything, over -generous to the believer.  All this is not necessarily to endorse 
+Hume‟s negative conclusions, but it does indicate that his maxim against miracles retains 
+significant force , and is very far from being the empty tautology that Earman alleges.  
+ I shall end by briefly addressing the implications for a closely related further attack that 
+Earman mounts in his book, and which he advertises aggressively in its Preface:35 
+It is almos t universally assumed, by Hume‟s admirers and critics alike, that „Of Miracles‟ 
+offers a powerful and original argument against miracles.  On the contrary, I contend that 
+Hume‟s argument is largely derivative [and] almost wholly without merit where it is 
+original … ( 2000, p. vii)  
+Earman substantiates his accusation that Hume‟s argument is „largely derivative‟ by reference 
+(pp. 14-20) to various earlier philosophers‟ discussions of miracles, in particular by Locke, 
+Woolston, Sherlock, and Annet, and by defer ence to an influential article of David Wootton.36  
+Wootton‟s claim (1990, pp.  223, 226 -7), evidenced in part by the various works that Earman cites, 
+is that Hume‟s originality lay not in his use of examples or of the „a posteriori‟ arguments that 
+make up P art ii of his essay, but rather, precisely in the „maxim‟ with which he concludes Part  i 
+and of which (as we have seen) Earman is so critical.  Hence Earman‟s dismissal of Hume‟s 
+originality seems to go hand in hand with his „trivial‟ interpretation of tha t maxim.  
+ It follows that to defend Hume‟s maxim from Earman‟s charge of triviality is ipso facto  to 
+defend Hume‟s originality, but I would suggest that if we look also at the reasoning that Hume 
+                                                                                                                                                                
+of England ; and Hume played  a significant part in the Ossian controversy).  He also gave, in his Natural History of 
+Religion , a systematic account of how the impulse to religious credulity is an intrinsic element of human nature.  
+Given this background setting of the „prior probabil ities‟, it is not nearly as easy as Earman implies even to imagine a 
+plausible scenario in which it is more rational to believe the supposedly independent multiple witnesses to a n alleged  
+one-off miraculous occurrence, than it is to doubt their genuine ind ependence.  This sort of point is particularly 
+forceful when applied to the area of Hume‟s main c oncern: the miracle stories associated with an established religious 
+tradition, and where we have access only to the „testimony‟ preserved within the literature of that same tradition.  
+35 Earman also adds the criticism that Hume‟s argument „reveals the impo verishment of his treatment of inductive 
+reasoning‟.  To respond here would take us too far afield, but for evidence that Hume‟s treatment of inductive 
+reasoning is considerably more subtle and sophisticated than Earman presumes, see for example Garrett (1 997), 
+Millican (2002a) pp.  60-3, (2002b) pp.  162-6, and (2002c) pp.  437-40.  Hume‟s psychology  of probability may start 
+from the admittedly simplistic „straight rule‟, but his principles of probable inference do not by any means end there.   22 provides for his maxim, we can go yet further in at least tw o respects.  First, Hume – unlike the 
+various predecessors cited by Earman – puts great emphasis on his characteristic general principle 
+that the evidence of testimony is itself founded on experience, and is thus ultimately of the same 
+species  as the evide nce for the regularities that any miraculous testimony contradicts.  Not only 
+does Hume explicitly spell out this point in developing his argument (E  10.5, 111), but also, his 
+essay starts by alluding to an argument of Tillotson‟s which fits his descriptio n as being „of a like 
+nature‟ (E  10.2, 110) only on the assumption that Hume sees this very point as being central to his 
+own argument‟s structure (Tillotson had argued that the evidences for and against 
+transubstantiation are of the same species, as both being founded on the senses).37  This principle, 
+that the authority of testimony  must be derived from experience  (just as with any other evidence 
+concerning matter of fact), is so paradigmatically Humean that seeing it as Hume‟s most 
+distinctive contributio n to his argument on miracles fits perfectly with his own account of the 
+circumstances in which that argument first occurred to him:38 
+I was walking in the cloisters of the Jesuits‟ College of La Flèche … and engaged in a 
+conversation with a Jesuit … who wa s … urging some nonsensical miracle performed in 
+their convent, when I was tempted to dispute against him; and as my head was full of the 
+topics of my Treatise of Human Nature , which I was at that time composing, this argument 
+immediately occurred to me …  
+Unless the same principle can be found in earlier writers, this provides another instance of the 
+originality of Hume‟s contribution to the eighteenth century debate on miracles.  
+ Another respect in which Hume‟s essay may well represent an original contribu tion is more 
+debatable, but of greater potential significance.  We have seen that Earman is highly critical of 
+Hume‟s admittedly crude description of the adding and subtracting of inductive evidence 
+(discussed in §7 above), and he contends that an appropri ate account of induction requires the use 
+of Bayesian inference (e.g. 2000 pp. 22 -9, 70 -2).  The irony here is that, arguably, the most 
+original aspect of Hume‟s essay on miracles is precisely that it involves a clear application of a 
+fundamental principle  of Bayesianism, that factual inference should take account of prior 
+                                                                                                                                                                
+36 Extracts from the cited works by Lock e, Sherlock, and Annet are reprinted in Part  II of Earman‟s book, and relevant 
+references to Wootton are at pp. 19, 25, and 80 n. 32.  
+37 Tillotson‟s argument is discussed by Earman (p.  20, 80 -1 n. 33), Wootton (pp.  206-7) and Stewart (1994, pp.  84-5), 
+but none of these seems clearly to have grasped what I believe is the central point of Hume‟s reference to it, namely, 
+the similarity of species which serves to reduce the conflict of (superficially very different types of) evidence to a 
+relatively straightforward trial of strength  (cf. the final paragraph of §4 above) . 
+38 From Hume‟s letter to George Campbell of 7th June 1762, in Greig (1932), p. 361.   23 probabilities.39  Nor is this the only context in which Hume seems to argue in a Bayesian manner, 
+as witness the following passage from his Dialogues Concerning Natural Religion  (pp. 203 -5): 
+It must, I think, be allowed, that, if a very limited intelligence, whom we shall suppose 
+utterly unacquainted with the universe, were assured, that it were the production of a very 
+good, wise, and powerful Being, however finite, he would, from his conj ectures, form 
+beforehand  a different notion of it from what we find it to be by experience …  
+ In short, I repeat the question: Is the world considered in general, and as it appears 
+to us in this life, different from what a man, or such a limited being, wou ld, beforehand , 
+expect from a very powerful, wise, and benevolent Deity? It must be strange prejudice to 
+assert the contrary. And from thence I conclude, that, however consistent the world may be, 
+allowing certain suppositions and conjectures, with the ide a of such a Deity, it can never 
+afford us an inference concerning his existence.  
+Hume‟s doubly italicized „beforehand‟ suggests that he is here quite self -consciously arguing in a 
+broadly Bayesian manner based on the low relevant „likelihood‟ that a good d eity would create a 
+universe as unpleasant as the one we inhabit.  I am not aware of any other philosophical literature 
+from this date which demonstrates such a clear implicit grasp of Bayesian principles.40 
+ It is, admittedly, very hard to assess the origi nality of the Bayesian themes in Hume‟s 
+essay, because this will depend on the interpretation of many previous discussions of testimony 
+and miracles (e.g.  how far the Port-Royal Logic ‟s application of the distinction between „external‟ 
+and „internal‟ circu mstances should be seen as implying the same kind of weighing up of 
+probabilities for and against the reported event).41  What certainly does distinguish Hume‟s essay, 
+                                                 
+39 There is also a further irony in the fact that Richard Price, who brought Bayes‟s famou s essay to publication and 
+whom Earman praises highly for his criticisms of Hume, objects to precisely this aspect of Hume‟s argument.  Price 
+(1768, pp. 162 -9) strongly resists the idea that the prior improbability of a miracle -type event should have a dir ect 
+impact on the credibility of the testimony that  reports it (and in doing so, he effectively defends the assumption of 
+independence, as alluded to earlier in §5).  Owen (1987) discusses this debate, and makes the case for seeing Hume‟s 
+treatment of mira cles as broadly Bayesian (cf. footnote 25 above).  
+40 Salmon (1978) elegantly presents the case for seeing the overall argumentative structure of the Dialogues  as being 
+broadly Bayesian.  
+41 See Arnauld and Nicole (1662/83), p. 264 :  „I call those circumstances internal that belong to the fact itself, and 
+those external that concern the persons whose testimony leads us to believe in it.  … [I]f all the circumstances are such 
+that it never or only rarely happens that similar circumst ances are consistent with the falsity of the belief, the mind is 
+naturally led to think that it is true.  Moreover it is right to do so …  But if, on the contrary, these circumstances are 
+such that they are often consistent with the falsity of the belief, reason would require either that we remain in 
+suspense, or that we view as false whatever we are told when its truth does not look likely, even if it does not look 
+completely impossible.‟  For more on this distinction and on the subsequent development of p robability and the theory 
+of testimony, see Daston (1988), pp. 39 -47, 306 -42.  24 however, is its proximity to Bayes‟s ( via Price) seminal contribution to probability theo ry, and the 
+intriguing albeit circumstantial evidence that the latter may have been developed in direct response 
+to Hume‟s Enquiry , including in particular his discussions of induction and of miracles in 
+Sections  IV and  X respectively.42  If there is anythi ng at all in this, then it surely puts Earman‟s 
+extreme invective in a very ungenerous light.  For even if Hume‟s only original contribution in his 
+discussion of miracles had been to present the arguments in a sufficiently clear, striking, and 
+epistemologi cally principled manner to provoke Bayes to „open a new epoch in the history of 
+statistics‟,43 this would still rank as a major achievement, against which Earman‟s immoderate 
+insults seem inappropriate and churlish.  
+ 
+References  
+Arnauld, Antoine and Nicole, Pierre (1662/83), Logic or the Art of Thinking , translated and edited by Jill 
+Vance Buroker, Cambridge University Press, 1996  
+Bayes, Thomas (1763), „An Essay Towards Solving a Problem in the Doctrine of Chances‟, presented to the 
+Royal Society by Richard P rice, Philosophical Transactions of the Royal Society  53: 370 -418 and 
+reprinted in Proceedings of the British Academy  113: 122 -49 
+Cohen, L. J. (1981), „Can Human Irrationality be Experimentally Demonstrated?‟, Behavioral and Brain 
+Sciences  4: 317 -31. 
+Dasto n, Lorraine (1988), Classical Probability in the Enlightenment , Princeton University Press  
+Earman, John (1993), „Bayes, Hume, and Miracles‟, Faith and Philosophy  10: 293 -310 
+Earman, John (2000), Hume’s Abject Failure: The Argument Against Miracles , Oxford University Press  
+Earman, John (2002), „Bayes, Hume, Price, and Miracles‟, Proceedings of the British Academy  113: 91 -109 
+Garrett, Don (1997), Cognition and Commitment in Hume’s Philosophy , Oxford University Press, 
+chapter  7, pp.  137-62; revised version in Peter Millican (ed.), Reading Hume on Human 
+Understanding , Clarendon Press, pp.  301-32 
+Gillies, Donald A. (1987), „Was Bayes a Bayesian?‟, Historia Mathematica  14: 325 -46 
+Gillies, Donald (1991), „A Bayesian Proof of a Humean Principle‟, British Journal for  the Philosophy of 
+Science  42: 255-6 
+                                                 
+42 For the link between Hume, Bayes, and Price, see Gillies (1987), pp. 328 -31, 339-43 and Earman (2002), pp.  91-2. 
+43 Hald (1998), p.  160.  Here Hald refers to the first clear pre sentation of what we now know as Bayes‟s Theorem, by 
+Laplace in 1774.  Laplace seems to have been the first mathematician to consider very explicitly the choice between 
+hypotheses which have different  prior probabilities, since the experimental setup descr ibed in Bayes‟s paper is 
+carefully designed to deliver identical prior probabilities initially.  This stresses even more the magnitude of Hume‟s 
+achievement if it is possible to substantiate his priority in this respect.   25 Gower, Barry (1991), „Hume on Probability‟, British Journal for the Philosophy of Science  42: 1-19 
+Greig, J. Y. T. (1932), ed., The Letters of David Hume , volume 1, Clarendon Press  
+Hald, Anders (1998), A History of Math ematical Statistics from 1750 to 1930 , John Wiley  
+Holder, Rodney D. (1998), „Hume on Miracles: Bayesian Interpretation, Multiple Testimony, and the 
+Existence of God‟, British Journal for the Philosophy of Science  49: 49 -65 
+Howson, Colin (2000), Hume’s Prob lem: Induction and the Justification of Belief , Clarendon Press  
+Hume, David (1739/40), A Treatise of Human Nature , eds L. A. Selby -Bigge and P. H. Nidditch, Clarendon 
+Press, second edition, 1978  
+Hume, David (1748/72), Enquiry Concerning Human Understanding , ed. Tom Beauchamp, Oxford 
+University Press, 1999  
+Hume, David (1748/77), Enquiries Concerning Human Understanding and Concerning the Principles of 
+Morals , eds L. A. Selby -Bigge and P. H. Nidditch, Clarendon Press, third edition, 1975  
+Hume, David (1779), Dialogues Concerning Natural Religion , ed. Norman Kemp Smith, Nelson, second 
+edition 1947  
+Millican, Peter (1993), „“Hume‟s Theorem” Concerning Miracles‟, Philosophical Quarterly  43: 489 -95 
+Millican, Peter (2002a), „The Context, Aims, and Structure of Hume‟s  First Enquiry ‟, in Peter Millican 
+(ed.), Reading Hume on Human Understanding , Clarendon Press, pp.  27-65 
+Millican, Peter (2002b), „Hume‟s Sceptical Doubts concerning Induction‟, in Peter Millican (ed.), Reading 
+Hume on Human Understanding , Clarendon Press , pp. 107-73 
+Millican, Peter (2002c), „Critical Survey of the Literature on Hume and the First Enquiry ‟, in Peter Millican 
+(ed.), Reading Hume on Human Understanding , Clarendon Press, pp.  413-74 
+Owen, David (1987), „Hume versus Price on Miracles and Prior Probabilities:  Testimony and the Bayesian 
+Calculation‟, Philosophical Quarterly  37: 187 -202 and reprinted in Peter Millican (ed.), Reading 
+Hume on Human Understanding , Clarendon Press, pp.  335-48 
+Pearson, Karl (1978), The History of Statistics in the 17th and 18th Centuries , Charles Griffin & Company 
+Limited (London)  
+Price, Richard (1768), On the Importance of Christianity and the Nature of Historical Evidence, and 
+Miracles , Dissertation IV of Four Dissertations , second edition, reprinted in Earman (2000):  
+157-76 
+Salmon, Wesley C. (1978), „Religion and Science: A New Look at Hume‟s Dialogues ‟, Philosophical 
+Studies  33: 143 -76 
+Sobel, Jordan Howard (1991), „Hume‟s Theorem on Testimony Sufficient to Establish a Miracle‟, 
+Philosophical Quarterly  41: 229 -37 
+Stew art, M.A. (1994), „Hume‟s Historical View of Miracles‟, in M. A. Stewart and John P. Wright (eds), 
+Hume and Hume’s Connexions , Edinburgh University Press: 171 -200 
+Wootton, David (1990), „Hume‟s “Of Miracles”: Probability and Irreligion‟, in M. A. Stewart ( ed.), Studies 
+in the Philosophy of the Scottish Enlightenment , Clarendon Press, Oxford: 191 -229 
